@@ -25,10 +25,10 @@ application:
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
       - name: '乘风'
         path: 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt'
-      - name: 'easylist'
-        path: 'https://easylist.to/easylist/easylist.txt'
-      - name: 'easylistchina'
-        path: 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt'
+      - name: 'easylistchina+easylist'
+        path: 'https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt'
+      - name: 'anti-cv'
+        path: 'https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt'
       - name: 'ADgk'
         path: 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt'
 
