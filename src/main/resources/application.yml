@@ -23,6 +23,14 @@ application:
 #      - name: 'example rule' #规则名称
 #        path: 'https://example.org/rule.txt' #规则地址
 #      - 'https://example.org/rule2.txt' #旧版写法, 不推荐
+      - name: '乘风'
+        path: 'https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt'
+      - name: 'easylist'
+        path: 'https://easylist.to/easylist/easylist.txt'
+      - name: 'easylistchina'
+        path: 'https://raw.githubusercontent.com/easylist/easylistchina/master/easylistchina.txt'
+      - name: 'ADgk'
+        path: 'https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt'
 
     #本地规则请将文件放置到项目路径rule目录中
     local:
