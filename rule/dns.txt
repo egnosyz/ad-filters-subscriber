@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2023-08-25 08:26:03
+! Last Modified: 2023-08-25 16:07:32
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -23,6 +23,7 @@ ntfsformac.cn
 mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
+g.163.com
 tanx.com
 dlads.cn
 u-x.jd.com
@@ -91,6 +92,7 @@ logoshejishi.com
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||beacon.
 ||adpic.
 ||sax.sina.
@@ -184,7 +186,6 @@ logoshejishi.com
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
-||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -3191,7 +3192,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
