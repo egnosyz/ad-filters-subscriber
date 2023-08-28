@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2023-08-28 16:07:58
+! Last Modified: 2023-08-29 00:06:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -74,6 +74,7 @@ dd.yiche.com
 imindmap.cc
 mairuanwang.com
 taobao.qq.com
+||33.pcpop.com
 flstudiochina.com
 chemdraw.com.cn
 huishenghuiying.com.cn
@@ -2816,7 +2817,6 @@ iadctest.qwapi.com^
 ||fastclick.com^
 ||udiab2.jianshu.com^
 ||bobaidu8.com^
-||33.pcpop.com^
 ||70e.com^
 ||m1.hapi123.net^
 ||gayide.com^
