@@ -1,11 +1,10 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2023-09-07 00:07:07
+! Last Modified: 2023-09-07 08:26:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
 yihuifu.cn
-51.la
 u8.hujiang.com
 beyondcompare.cc
 bartender.cc
@@ -23,10 +22,7 @@ ntfsformac.cn
 mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
-g.163.com
 tanx.com
-dlads.cn
-wwads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -36,11 +32,9 @@ makeding.com
 taboola.com
 track.sohu.com
 100.pncdn.cn
-||googlesyndication.com
 erebor.douban.com
 ediuschina.com
 wrating.com
-cstm.baidu.com
 vegaschina.cn
 qpb.sohu.com
 udiab1.jianshu.com
@@ -50,12 +44,10 @@ iconworkshop.cn
 keyshot.cc
 4009997658.com
 swc.weather.com.cn
-37cs.com
 diwenganzaoji.com
 abbyychina.com
 js.kiwihk.net
 qcvf.ifeng.com
-||google-analytics.com
 ||img16.diyifanwen.com
 parallelsdesktop.cn
 easyrecoverychina.com
@@ -76,8 +68,6 @@ ntfsformac.cc
 dd.yiche.com
 imindmap.cc
 mairuanwang.com
-taobao.qq.com
-||33.pcpop.com
 flstudiochina.com
 chemdraw.com.cn
 huishenghuiying.com.cn
@@ -164,6 +154,7 @@ logoshejishi.com
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
+||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -967,6 +958,7 @@ logoshejishi.com
 ||xiaoyang.mobi^
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
+||wwads.cn^
 ||114so.cn^
 ||se967.com^
 ||newrelic.com^
@@ -1417,6 +1409,7 @@ wjyhao.com^
 ||dianyilm.com^
 ||mdevstat.qqlive.qq.com^
 ||fublue.com^
+||taobao.qq.com^
 ||pjogndc8ixoidna.360doc.cn^
 ||zhh8886.com^
 ||x6img.com^
@@ -1997,6 +1990,7 @@ push.qq.com^
 ||maihehd.com^
 ||o091i.com^
 ||jingwei.net^
+||37cs.com^
 ||pingtcss.qq.com^
 ||cad.youku.com^
 wxsnsdy.video.qq.com^
@@ -2056,6 +2050,7 @@ wxsnsdy.video.qq.com^
 ||x-playboy.com^
 ||wangzhan5.com^
 ||lejieti.com^
+||dlads.cn^
 ||772773a.com^
 ||msg-intl.qy.net^
 ||zp0573.cn^
@@ -2796,6 +2791,7 @@ iadctest.qwapi.com^
 ||fastclick.com^
 ||udiab2.jianshu.com^
 ||bobaidu8.com^
+||33.pcpop.com^
 ||70e.com^
 ||m1.hapi123.net^
 ||gayide.com^
@@ -2930,6 +2926,7 @@ iadctest.qwapi.com^
 ||adcome.cn^
 ||sljkj.com^
 ||wndj.net^
+||google-analytics.com^
 ||mzlit.com^
 ||6dad.com^
 ||soua.com^
@@ -3032,6 +3029,7 @@ iadctest.qwapi.com^
 ||pulsigame.com^
 ||www.3alian.net^
 ||937791.com^
+||51.la^
 ||bjycsb.com^
 ||un.xz6.com^
 ||onclickads.net^
@@ -3087,6 +3085,7 @@ iadctest.qwapi.com^
 ||revdepo.com^
 ||jebe.xnimg.cn^
 ||70950.com^
+||cstm.baidu.com^
 ||ncwckj.com^
 ||api.cupid.iqiyi.com^
 ||xinray.com^
@@ -3126,6 +3125,7 @@ iadctest.qwapi.com^
 ||mazarine-ap.com^
 ||madhouse.cn^
 ||lrswl.com^
+||googlesyndication.com^
 ||youa.net^
 ||static1.searchbox.baidu.com^
 ||yigemi.com^
