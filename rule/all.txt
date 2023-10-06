@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2023-10-06 16:07:57
+! Last Modified: 2023-10-07 00:06:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -26,6 +26,7 @@ pdfexpert.cc
 g.163.com
 tanx.com
 dlads.cn
+wwads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -2076,7 +2077,6 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 ||xiaoyang.mobi^
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
-||wwads.cn^
 ||114so.cn^
 ||se967.com^
 ||newrelic.com^
