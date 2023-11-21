@@ -1,30 +1,7 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2023-11-21 08:29:22
+! Last Modified: 2023-11-21 16:08:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
-||allyes.
-||icast.
-||gg.
-||union.
-||ad.
-||ads.
-||cnzz.
-||adsfile.
-||adserver.
-||adservice.
-||beacon.
-||adpic.
-||sax.sina.
-||biz5.
-||adsense.
-||xmindchina.
-||ggg.
-||admaster.
-||googleadservices.
-||irs01.
-||saxs.sina.
-||adsame.
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
 ||adx.
 ||adx-
@@ -32,6 +9,7 @@
 ||adsdk.
 MRelateFeedAd
 ||adsmind.
+||adsfile.
 ||bigdata.
 ||sell*.etlong.com^
 ||smartads.
@@ -43,11 +21,15 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
+||ggg.
 ||advert.
+||irs01.
 ||advert-
+||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -64,6 +46,7 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
+||adserver.
 ||sense-*.tapdb.net^
 ||ping.*.sogou.com^
 ||pc.min.js*
@@ -71,13 +54,16 @@ getAds|
 ||pagead2.
 ||p*-ad-sign.byteimg.com^
 ||guangyaoli.
+||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
+||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
+||ads.
 ||vali-g1.cp31.ott.cibntv.net*.mp4
 ||adxapi.
 ||gg*.miguvideo.com^
@@ -89,6 +75,20 @@ advertisers.js|
 ||advertise.
 ||ap*.pl520.com^
 ||tracker*.qcloud.com^
+! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
+||icast.
+||gg.
+||union.
+||cnzz.
+||beacon.
+||adpic.
+||sax.sina.
+||biz5.
+||xmindchina.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||zhizhizhizhi.oss-*.aliyuncs.com^
 ||adi*.cnool.net^
