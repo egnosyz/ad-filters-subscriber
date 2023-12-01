@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2023-12-01 16:08:08
+! Last Modified: 2023-12-02 00:07:15
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -162,7 +162,6 @@ ebusinessreview.cn##div.header,.adarticle,div.ad_s,[id^=ad_]
 */js/advert.js
 */popjs.$script
 @@||bikroy.com/neo/bikroy-contactUs*-ads-$script,1p
-coral.qq.com##div[id^="PL_ad_cmt_"],div.mod-ad
 */advimg/
 ||jwz.3conline.com/adpuba/
 *.91ivr.
@@ -698,7 +697,6 @@ pconline.com.cn##div.jcztl,div.box.best,div.ivy-330
 ||static.ws.126.net/*/js/sspAd.$script
 *.9wee.$third-party
 *_960.$image
-@@||eiv.baidu.com/fcimg
 */hqad.php?type=$subdocument
 ||www.dy2018.com/jsdd/$script
 *.9ecpm.
@@ -5735,6 +5733,7 @@ bf.spbo.com##td.fixad,[id^="adhtm"],td#tad3,td#ltad1,#tad2,#bad1,#bad,#d1ad
 www.qqzhibo.net##div#ad_head,div#ad_top,div#ad_bottom,div#ad_banner,div.head,div[id^="ad_float_"],div#ad_chatsbox
 ||dyncdn.me/static/20/js/expla
 www.yunlaige.com##div[id^="PAGE_baidu_"],div.guangg,div#hfgg
+coral.qq.com##div[id^="PL_ad_cmt_"],div.mod-ad
 ||baoshuu.com/img/shu.js
 ||44hd.cc/js/$script
 520730.com##div.bdtg
@@ -6532,6 +6531,7 @@ jump.bdimg.com,tieba.baidu.com##.profile_bottom
 ||i.gtimg.cn/ams-web/public/tangram-report/settings-android-qq-*-hotfix.json
 mtime.com##div[id^="M14_B_"][id*="TG"]
 pythontab.com##div[style="margin-bottom: 4px;"]
+@@||eiv.baidu.com/fcimg
 ^ads.swf|
 $$div[class="ad-card"]
 ||mapi.m.jd.com/ksdk/updlist.json^
