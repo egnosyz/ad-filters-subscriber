@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2023-12-15 08:29:41
+! Last Modified: 2023-12-15 16:08:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -24,6 +24,7 @@ mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
 tanx.com
+dlads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -46,6 +47,7 @@ iconworkshop.cn
 keyshot.cc
 4009997658.com
 swc.weather.com.cn
+37cs.com
 diwenganzaoji.com
 abbyychina.com
 js.kiwihk.net
@@ -71,6 +73,8 @@ ntfsformac.cc
 dd.yiche.com
 imindmap.cc
 mairuanwang.com
+taobao.qq.com
+||33.pcpop.com
 flstudiochina.com
 chemdraw.com.cn
 huishenghuiying.com.cn
@@ -1434,7 +1438,6 @@ wjyhao.com^
 ||dianyilm.com^
 ||mdevstat.qqlive.qq.com^
 ||fublue.com^
-||taobao.qq.com^
 ||pjogndc8ixoidna.360doc.cn^
 ||zhh8886.com^
 ||x6img.com^
@@ -2015,7 +2018,6 @@ push.qq.com^
 ||maihehd.com^
 ||o091i.com^
 ||jingwei.net^
-||37cs.com^
 ||pingtcss.qq.com^
 ||cad.youku.com^
 wxsnsdy.video.qq.com^
@@ -2075,7 +2077,6 @@ wxsnsdy.video.qq.com^
 ||x-playboy.com^
 ||wangzhan5.com^
 ||lejieti.com^
-||dlads.cn^
 ||772773a.com^
 ||msg-intl.qy.net^
 ||zp0573.cn^
@@ -2816,7 +2817,6 @@ iadctest.qwapi.com^
 ||fastclick.com^
 ||udiab2.jianshu.com^
 ||bobaidu8.com^
-||33.pcpop.com^
 ||70e.com^
 ||m1.hapi123.net^
 ||gayide.com^
