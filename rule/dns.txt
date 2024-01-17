@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2024-01-17 16:08:26
+! Last Modified: 2024-01-18 00:07:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -23,10 +23,8 @@ ntfsformac.cn
 mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
-g.163.com
 tanx.com
 dlads.cn
-wwads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -40,7 +38,6 @@ track.sohu.com
 erebor.douban.com
 ediuschina.com
 wrating.com
-cstm.baidu.com
 vegaschina.cn
 qpb.sohu.com
 udiab1.jianshu.com
@@ -93,7 +90,6 @@ logoshejishi.com
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -186,6 +182,7 @@ logoshejishi.com
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
+||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -989,6 +986,7 @@ logoshejishi.com
 ||xiaoyang.mobi^
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
+||wwads.cn^
 ||114so.cn^
 ||se967.com^
 ||newrelic.com^
@@ -3109,6 +3107,7 @@ iadctest.qwapi.com^
 ||revdepo.com^
 ||jebe.xnimg.cn^
 ||70950.com^
+||cstm.baidu.com^
 ||ncwckj.com^
 ||api.cupid.iqiyi.com^
 ||xinray.com^
@@ -3191,6 +3190,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
