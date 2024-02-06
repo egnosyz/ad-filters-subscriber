@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2024-02-06 00:06:25
+! Last Modified: 2024-02-06 08:27:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -12,6 +12,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -44,8 +45,10 @@ ntfsformac.cn
 mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
+g.163.com
 tanx.com
 dlads.cn
+wwads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -59,6 +62,7 @@ track.sohu.com
 erebor.douban.com
 ediuschina.com
 wrating.com
+cstm.baidu.com
 vegaschina.cn
 qpb.sohu.com
 udiab1.jianshu.com
@@ -68,6 +72,7 @@ iconworkshop.cn
 keyshot.cc
 4009997658.com
 swc.weather.com.cn
+37cs.com
 diwenganzaoji.com
 abbyychina.com
 js.kiwihk.net
@@ -94,6 +99,7 @@ dd.yiche.com
 imindmap.cc
 mairuanwang.com
 taobao.qq.com
+||33.pcpop.com
 flstudiochina.com
 chemdraw.com.cn
 huishenghuiying.com.cn
@@ -122,7 +128,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -245,7 +250,6 @@ advertisers.js|
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
-||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -1049,7 +1053,6 @@ advertisers.js|
 ||xiaoyang.mobi^
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
-||wwads.cn^
 ||114so.cn^
 ||se967.com^
 ||newrelic.com^
@@ -2080,7 +2083,6 @@ push.qq.com^
 ||maihehd.com^
 ||o091i.com^
 ||jingwei.net^
-||37cs.com^
 ||pingtcss.qq.com^
 ||cad.youku.com^
 wxsnsdy.video.qq.com^
@@ -2880,7 +2882,6 @@ iadctest.qwapi.com^
 ||fastclick.com^
 ||udiab2.jianshu.com^
 ||bobaidu8.com^
-||33.pcpop.com^
 ||70e.com^
 ||m1.hapi123.net^
 ||gayide.com^
@@ -3172,7 +3173,6 @@ iadctest.qwapi.com^
 ||revdepo.com^
 ||jebe.xnimg.cn^
 ||70950.com^
-||cstm.baidu.com^
 ||ncwckj.com^
 ||api.cupid.iqiyi.com^
 ||xinray.com^
