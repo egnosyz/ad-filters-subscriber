@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2024-04-02 16:08:11
+! Last Modified: 2024-04-03 00:06:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -722,6 +722,7 @@ bitauto.com##.ad-tag-box,ins,body>div.container[style^=margin-top]
 */teleplayvip/
 *_728x90_$image
 */goo.js|$script
+~crunchyroll.com,~cloud.189.cn##[class|=ad]
 *.na7.
 */ggao/
 */guangao/
@@ -1001,7 +1002,6 @@ yxdown.com##.bg_l,.bg_r,div.gg,div[id$=_ads]
 ||adgeo.163.com/
 *.egoodad.
 @@||learn.microsoft.com/video/media/*_960.jpg|$image,domain=learn.microsoft.com
-~crunchyroll.com##[class|=ad]
 ||cm.$image,script,xhr,3p
 @@||res.wx.qq.com/mmbizwap/$script
 */ad340-50.gif|
