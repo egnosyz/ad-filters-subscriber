@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2024-04-19 00:06:45
+! Last Modified: 2024-04-19 08:28:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -53,7 +53,6 @@ swc.weather.com.cn
 37cs.com
 diwenganzaoji.com
 abbyychina.com
-img-ads.csdn.net
 js.kiwihk.net
 qcvf.ifeng.com
 ||google-analytics.com
