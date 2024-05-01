@@ -1,11 +1,10 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2024-05-01 08:31:36
+! Last Modified: 2024-05-01 16:09:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
 yihuifu.cn
-51.la
 u8.hujiang.com
 beyondcompare.cc
 bartender.cc
@@ -23,10 +22,7 @@ ntfsformac.cn
 mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
-g.163.com
 tanx.com
-dlads.cn
-wwads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -49,12 +45,10 @@ iconworkshop.cn
 keyshot.cc
 4009997658.com
 swc.weather.com.cn
-37cs.com
 diwenganzaoji.com
 abbyychina.com
 js.kiwihk.net
 qcvf.ifeng.com
-||google-analytics.com
 ||img16.diyifanwen.com
 icws.jb51.net
 parallelsdesktop.cn
@@ -76,33 +70,24 @@ ntfsformac.cc
 dd.yiche.com
 imindmap.cc
 mairuanwang.com
-taobao.qq.com
-||33.pcpop.com
 flstudiochina.com
 chemdraw.com.cn
 huishenghuiying.com.cn
 cm.jd.com
 logoshejishi.com
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
-||allyes.
 ||icast.
 ||gg.
 ||union.
-||ad.
 ||ads.
 ||cnzz.
 ||adsfile.
-||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
-||adsense.
 ||xmindchina.
-||ggg.
 ||admaster.
 ||googleadservices.
-||irs01.
 ||saxs.sina.
 ||adsame.
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
@@ -186,6 +171,7 @@ logoshejishi.com
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
+||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -989,6 +975,7 @@ logoshejishi.com
 ||xiaoyang.mobi^
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
+||wwads.cn^
 ||114so.cn^
 ||se967.com^
 ||newrelic.com^
@@ -1439,6 +1426,7 @@ wjyhao.com^
 ||dianyilm.com^
 ||mdevstat.qqlive.qq.com^
 ||fublue.com^
+||taobao.qq.com^
 ||pjogndc8ixoidna.360doc.cn^
 ||zhh8886.com^
 ||x6img.com^
@@ -2019,6 +2007,7 @@ push.qq.com^
 ||maihehd.com^
 ||o091i.com^
 ||jingwei.net^
+||37cs.com^
 ||pingtcss.qq.com^
 ||cad.youku.com^
 wxsnsdy.video.qq.com^
@@ -2078,6 +2067,7 @@ wxsnsdy.video.qq.com^
 ||x-playboy.com^
 ||wangzhan5.com^
 ||lejieti.com^
+||dlads.cn^
 ||772773a.com^
 ||msg-intl.qy.net^
 ||zp0573.cn^
@@ -2818,6 +2808,7 @@ iadctest.qwapi.com^
 ||fastclick.com^
 ||udiab2.jianshu.com^
 ||bobaidu8.com^
+||33.pcpop.com^
 ||70e.com^
 ||m1.hapi123.net^
 ||gayide.com^
@@ -2952,6 +2943,7 @@ iadctest.qwapi.com^
 ||adcome.cn^
 ||sljkj.com^
 ||wndj.net^
+||google-analytics.com^
 ||mzlit.com^
 ||6dad.com^
 ||soua.com^
@@ -3054,6 +3046,7 @@ iadctest.qwapi.com^
 ||pulsigame.com^
 ||www.3alian.net^
 ||937791.com^
+||51.la^
 ||bjycsb.com^
 ||un.xz6.com^
 ||onclickads.net^
@@ -3187,11 +3180,15 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
+||ggg.
 ||advert.
+||irs01.
 ||advert-
+||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -3208,6 +3205,7 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
+||adserver.
 ||sense-*.tapdb.net^
 ||ping.*.sogou.com^
 ||pc.min.js*
@@ -3215,10 +3213,12 @@ getAds|
 ||pagead2.
 ||p*-ad-sign.byteimg.com^
 ||guangyaoli.
+||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
+||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
