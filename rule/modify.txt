@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2024-05-16 08:29:30
+! Last Modified: 2024-05-16 16:07:13
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -91,6 +91,7 @@ iciba.com##div.newpc-entry
 ||www.dmhy.org/*.gif^$image
 *.cnnetallyads.
 *.wan789.
+||baike.baidu.com/*/directad?$xhr
 ||pacd.3conline.com/$script
 *_950x90.gif$image
 ||ifengimg.com/feather/images/$image
@@ -112,7 +113,6 @@ admin5.com##.float_both,div.sherry_ad1,div.specialBox,.content_right_ad
 ||wan.$~image
 *.xi666.
 */adadmin
-||baike.baidu.com/api/wikiui/directad?$xhr
 ||com/c?z=$domain=~ifeng.com
 */html/ads
 ||d3.sina.com.cn/
@@ -273,7 +273,6 @@ www.rjno1.com##body > *:nth-child(-n+5)
 */ads/
 */adpolestar
 */ads.
-||als.baidu.com/dalog/log
 ||vamaker.com/$third-party
 */messagetip.
 ||coin-hive.com/
@@ -481,6 +480,7 @@ news.163.com###js-cnxh-content~:not(#js-epTabRank)
 ||www.skycn.com/show/d2.gif
 */gg.html|$subdocument
 */tan1/
+||baike.baidu.com/lemma/api/guesslike?$xhr
 */ads1.
 */bqzn000
 *.nuffnang.
@@ -686,7 +686,6 @@ pconline.com.cn##div.jcztl,div.box.best,div.ivy-330
 ||static.ws.126.net/*/js/sspAd.$script
 *.9wee.$third-party
 *_960.$image
-@@||eiv.baidu.com/fcimg
 */hqad.php?type=$subdocument
 ||www.dy2018.com/jsdd/$script
 *.9ecpm.
@@ -807,7 +806,6 @@ zhihu.com##.Banner-link
 ||ifeng.com/ssi-incs/$subdocument
 */js/yzz/
 *-ads-$script
-||f11.baidu.com/
 ||com/bbsadv$script
 gushiwen.cn###threeWeixin2
 downxia.com##.download-ad,#gaosu_div0,ul.list-down>h3,a[href^="http://url.tduou.com/down/"]
@@ -875,7 +873,6 @@ juejin.im##.banner,.wechat-banner
 *.dingge.
 */adscpv/
 ||www.xdowns.com/js/$script
-||eiv.baidu.com/
 ||ifeng.com/a_if/taobao/
 */sf5ovny2
 */tan.$script
@@ -6510,6 +6507,7 @@ jump.bdimg.com,tieba.baidu.com##.profile_bottom
 ||i.gtimg.cn/ams-web/public/tangram-report/settings-android-qq-*-hotfix.json
 mtime.com##div[id^="M14_B_"][id*="TG"]
 pythontab.com##div[style="margin-bottom: 4px;"]
+@@||eiv.baidu.com/fcimg
 ^ads.swf|
 $$div[class="ad-card"]
 ||mapi.m.jd.com/ksdk/updlist.json^
