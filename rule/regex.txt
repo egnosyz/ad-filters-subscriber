@@ -1,27 +1,20 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-08 00:07:19
+! Last Modified: 2024-09-08 08:38:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
-||allyes.
 ||icast.
 ||gg.
 ||union.
-||ad.
 ||ads.
 ||cnzz.
 ||adsfile.
-||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
-||adsense.
 ||xmindchina.
-||ggg.
 ||admaster.
 ||googleadservices.
-||irs01.
 ||saxs.sina.
 ||adsame.
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
@@ -42,11 +35,15 @@ MRelateFeedAd
 ||adstats.
 ||toujing*.top^
 ||popup.*.js*
+||ggg.
 ||advert.
+||irs01.
 ||advert-
+||allyes.
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -63,6 +60,7 @@ getAds|
 ||appjiagu.
 ||img.piaosugo.com*.jpg
 ||adsmis.
+||adserver.
 ||sense-*.tapdb.net^
 ||ping.*.sogou.com^
 ||pc.min.js*
@@ -70,10 +68,12 @@ getAds|
 ||pagead2.
 ||p*-ad-sign.byteimg.com^
 ||guangyaoli.
+||adsense.
 ||ading.
 ||googleads.
 ||umengacs.
 ||ads-
+||ad.
 piao.js|
 oHead6205.appendChild( oScript6205);
 ||ad-
