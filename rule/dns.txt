@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2024-11-02 00:09:10
+! Last Modified: 2024-11-02 08:37:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -8,6 +8,7 @@ yihuifu.cn
 51.la
 u8.hujiang.com
 beyondcompare.cc
+irs01.com
 bartender.cc
 bingdianhuanyuan.cn
 shankejingling.com
@@ -102,7 +103,6 @@ logoshejishi.com
 ||ggg.
 ||admaster.
 ||googleadservices.
-||irs01.
 ||saxs.sina.
 ||adsame.
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
@@ -3188,6 +3188,7 @@ MRelateFeedAd
 ||toujing*.top^
 ||popup.*.js*
 ||advert.
+||irs01.
 ||advert-
 ||adcolony.
 ||advertising.
