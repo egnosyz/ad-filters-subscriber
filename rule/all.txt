@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2024-12-31 08:37:46
+! Last Modified: 2024-12-31 16:10:41
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -24,10 +24,8 @@ ntfsformac.cn
 mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
-g.163.com
 tanx.com
 dlads.cn
-wwads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -95,7 +93,6 @@ logoshejishi.com
 ||cnzz.
 ||adsfile.
 ||adserver.
-||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -261,7 +258,6 @@ ebusinessreview.cn##div.header,.adarticle,div.ad_s,[id^=ad_]
 */js/advert.js
 */popjs.$script
 @@||bikroy.com/neo/bikroy-contactUs*-ads-$script,1p
-coral.qq.com##div[id^="PL_ad_cmt_"],div.mod-ad
 */advimg/
 */jbk.gif^$image,object
 ||jwz.3conline.com/adpuba/
@@ -1248,6 +1244,7 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
+||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -2051,6 +2048,7 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 ||xiaoyang.mobi^
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
+||wwads.cn^
 ||114so.cn^
 ||se967.com^
 ||newrelic.com^
@@ -4255,6 +4253,7 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
+||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -8943,6 +8942,7 @@ bf.spbo.com##td.fixad,[id^="adhtm"],td#tad3,td#ltad1,#tad2,#bad1,#bad,#d1ad
 www.qqzhibo.net##div#ad_head,div#ad_top,div#ad_bottom,div#ad_banner,div.head,div[id^="ad_float_"],div#ad_chatsbox
 ||dyncdn.me/static/20/js/expla
 www.yunlaige.com##div[id^="PAGE_baidu_"],div.guangg,div#hfgg
+coral.qq.com##div[id^="PL_ad_cmt_"],div.mod-ad
 ||baoshuu.com/img/shu.js
 ||44hd.cc/js/$script
 520730.com##div.bdtg
