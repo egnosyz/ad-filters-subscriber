@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2025-03-19 16:11:19
+! Last Modified: 2025-03-20 00:10:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -645,6 +645,7 @@ zol.com.cn##.down-h4,span.down-alink,div[class^=ad_],div[class*=-ad],div[id^=AD_
 */www/deliver/
 ||a.lz13.cn/
 *_350_330.$image
+*$doc,removeparam=/^(sp|ut|fro?)m(_|\b)/
 mail.163.com,mail.126.com##.emailSuggest,#theme,.gWel-bottom
 ||pan.baidu.com/rest/*/adx?$image
 */js/indexgg
@@ -851,7 +852,6 @@ bbs.hupu.com###game-center-entrance-container
 */adpuba/$script
 *.dyunion.
 ||qzs.qq.com/qzone/biz/
-*$doc,removeparam=/^utm_/
 ||isdspeed.qq.com/
 */468_70.$subdocument
 */news_ad$subdocument
@@ -52078,9 +52078,9 @@ tei-c.org#@##msad
 ||crevicedepressingpumpkin.com^
 ||burnybdl.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||lonerdrawn.com/watch.1008407049393.js
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||get-me-wow.
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||lonerdrawn.com/watch.1008407049393.js
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||gannett.gcion.com^
 ||feetdonsub.live^
