@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-04-30 08:43:19
+! Last Modified: 2025-04-30 16:12:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
 2gomovies.to#$#abort-on-property-write _0x287f; abort-on-property-write _0x2f53; abort-on-property-write _0x16f4

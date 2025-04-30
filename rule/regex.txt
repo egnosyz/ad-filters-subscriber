@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-30 08:43:19
+! Last Modified: 2025-04-30 16:12:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||sax*.sina.
