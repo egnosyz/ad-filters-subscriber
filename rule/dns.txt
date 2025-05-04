@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-05-04 16:10:41
+! Last Modified: 2025-05-05 00:01:00
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -36557,6 +36557,10 @@ ubmcmm.baidustatic.com
 ||allsportsflix.
 ||23.109.87.
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||util-*.simply-hentai.com^
+||centent.streamp1ay.
+||cintent.streanplay.
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||b8ms7gkwq7g.crocotube.com^
 ||dl.love4porn.com^
 ||slit.lewd.rip^
@@ -36655,7 +36659,3 @@ ubmcmm.baidustatic.com
 ||rtb-1.jizzberry.com^
 ||marine.xhamster2.com^
 ||alaska.xhamster.com^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||util-*.simply-hentai.com^
-||centent.streamp1ay.
-||cintent.streanplay.
