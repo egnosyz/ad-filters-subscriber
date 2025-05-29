@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-05-29 16:00:58
+! Last Modified: 2025-05-30 00:01:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -3297,6 +3297,7 @@ iadctest.qwapi.com^
 ||hidlinsboart.com^
 ||hexingteeting.com^
 ||softenpiscine.com^
+||tubingacater.com^
 ||hoodlumbragget.com^
 ||kaksafoopee.com^
 ||yamanaisleepry.com^
@@ -5039,7 +5040,6 @@ iadctest.qwapi.com^
 ||xfxvpt.icu^
 ||enwuamw.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -9933,6 +9933,7 @@ ubmcmm.baidustatic.com
 ||bronzeinside.com^
 ||9e3810a418.com^
 ||25obpfr.de^
+||delightfulsladys-meetup.com^
 ||bearscutte.com^
 ||calcpol.com^
 ||ckgroundan.org^
@@ -17673,7 +17674,6 @@ ubmcmm.baidustatic.com
 ||futsonseeke.net^
 ||dzkdyqyvadyqq.online^
 ||drydwezfas.com^
-||delightfulsladys-meetup.com^
 ||ondbazxakr.com^
 ||freefromads.com^
 ||kixfuvmhibuk.com^

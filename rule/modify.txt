@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-05-29 16:00:58
+! Last Modified: 2025-05-30 00:01:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -14448,6 +14448,7 @@ th7.cn###PcPoPmarket
 ##.chat-ad
 ||n2.hk/promo/
 ||87mao.com/52
+eeyy.com###beitou_box
 ||jsdelivr.net/gh/*/1200-60.gif
 ##.cui-pt-item[data-qhb]
 ##a[href*=".taobao.com"] > .top1
@@ -15725,6 +15726,7 @@ duba.com###searchRight
 @@-social-bar.$domain=mobi.yahoo.com
 ###ad-shop
 ###ad_after_header_1
+###ad_stck
 chemicalbook.com,foodmate.net,nmgnews.com.cn,sportscn.com##.ad3
 muchong.com##a[target="_blank"][style="display: inherit!important;"]
 @@||piccool.com/2home/phpAdsNew/
@@ -23240,7 +23242,6 @@ ccav1.com##a[href*="meidebi."]
 baidu.com##.banner-cover
 benxiang.com##.w-hot-link-txt
 fxedu.com.cn#@#.ad_r
-eeyy.com###beitou_box
 @@||ad4.on.cc/web/www/delivery/fl.js
 bdimg.com,tieba.baidu.com,tieba.com,wapp.baidu.com###pblist > li[class]:not(.j_post_list_item)
 houdao.com###header-ban
@@ -24977,7 +24978,6 @@ maoken.com###siderAd01
 ##.adBox1
 ##.ad_to_list
 ##.adproxy
-###ad_stck
 ###hp-header-ad
 ##.full_ad_box
 ##.adItem
@@ -28302,6 +28302,7 @@ maoken.com###siderAd01
 ##.c-adv3__inner
 ##.ads_place_top
 ##.footer-ad-full-wrapper
+##.m_ad
 ##.ad-atf-top
 ##.ads_spacer
 ##.jg-ad-970
@@ -37021,7 +37022,6 @@ alliedwindow.com,isewanferry.co.jp,jreu-h.jp,junkmail.co.za,nexco-hoken.co.jp,ve
 elnuevoherald.com,sacbee.com#@#.wps-player-wrap
 ##.nativeAd
 ##.ac-lre-wrapper
-##.m_ad
 ##a[href^="https://financeads.net/tc.php?"]
 ##.main-column-ad
 ##.slideshow-ad
@@ -37882,6 +37882,7 @@ tei-c.org#@##msad
 ##.popup-box-ads
 ##.xmlad
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||overfixhater.top/cuid/
 ||healthyouwell.com/^
 ||demand.supply^$script
 ||lonerdrawn.com/watch.1008407049393.js
@@ -38955,6 +38956,7 @@ tei-c.org#@##msad
 ||opengalaxyapps.monster^$document
 ||adnium.com^$third-party
 ||innity.com^$third-party
+||instantbannercreator.com^$third-party
 ||domainadvertising.com^$third-party
 ||nwwrtbbit.com^$document
 ||assoc-amazon.it^$third-party
@@ -39062,7 +39064,6 @@ tei-c.org#@##msad
 ||shauladubhe.top^$document
 ||adinplay.workers.dev^$third-party
 ||fireworkadservices1.com^$third-party
-||overfixhater.top/cuid/
 ||coinzilla.io^$third-party
 ||maxconvtrk.com^$document
 ||commissionfactory.com.au^$third-party
@@ -40308,6 +40309,7 @@ lasvegassun.com###ad-colB-
 ||blogger.googleusercontent.com/img/b/$domain=javdesu.tv
 ||sexuhot.com^$third-party
 topsporter.net###fl-ai-widget-placement
+ebar.com###skin-right
 ||35.227.234.222^$popup
 ||justthegays.com/agent.php
 ||vfgte.com^$popup
@@ -42047,7 +42049,6 @@ filedropper.com,lifenews.com###sidebar
 friv.com###lbaTop
 ||ukcampsite.co.uk/banners/
 dailymail.co.uk###promo-unit
-||instantbannercreator.com^$third-party
 ||teksishe.net^$popup
 ||interracial-girls.com/i/$image
 ||aspencore.com/syndication/v3/partnered-content/
@@ -48414,7 +48415,6 @@ linuxlookup.com##[href="/advertising"]
 bleedingcool.com,jamaicaobserver.com,pastemagazine.com###top_leaderboard
 hdporn92.com,koreanstreamer.xyz##.happy-header
 @@||sportsnet.ca/wp-content/plugins/bwp-minify/$domain=sportsnet.ca
-ebar.com###skin-right
 latimes.com,sandiegouniontribune.com##.revcontent
 dustinabbott.net,turbobits.cc##center > a > img
 @@||nebula.tv^$generichide
