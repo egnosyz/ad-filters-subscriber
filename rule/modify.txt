@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-06-06 16:00:48
+! Last Modified: 2025-06-07 00:00:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -13968,7 +13968,6 @@ aiyingshi.tv###ADmask
 qq.com###AdRight-Article-QQ
 ||aliyuncs.com/ad/jd-smoofit-ad.jpg
 ||sina.com/ads/
-hdshare.cn,it168.com###adv
 ||gtpso.com/Home/TopSdk/getFavCoupItems
 .z.dkt-ib.com
 /js/ads/dui.js
@@ -18577,7 +18576,6 @@ uc123.com##.bg-wrapper
 .com/*=bT1zdXY1JnI9
 zhihu.com##.RelatedReadings-adItem
 @@||ad.vivo.com.cn^$~third-party
-###ad_medium
 21uscity.com##.R300x70
 anquan.org##.aside_profile_activity > div:first-child
 ruten.com.tw###search_u_970x90
@@ -22600,6 +22598,7 @@ sogou.com##A[data-log*="PicAd"]
 shaoxing.com.cn##.top2
 szhk.com##.banner_dt
 qinbing.cn##div[class*="gg"]
+hdshare.cn,it168.com###adv
 baidu.com##.wgt-bottom-ask
 cnfol.com##.EtGA
 e0838.com##.ad-txt + a
@@ -28077,6 +28076,7 @@ maoken.com###siderAd01
 ##.ad-inline
 ###slider-ad
 ##.heading-ad-space
+###ad_medium
 ##.advertBar
 ##.Billboard-ad
 ##.js-dfp-ad-bottom
@@ -28269,7 +28269,6 @@ maoken.com###siderAd01
 ##.ad-unit-mpu
 ###right_Ads2
 ###sponsor-flyout-wrap
-##.left_adsense
 ###advertising_320
 ##.adshome
 ##.AdBar
@@ -37022,6 +37021,7 @@ news.artnet.com,powernationtv.com,worldsurfleague.com#@#div[data-ad-targeting]
 ##.region-dfp-ad-footer
 ##.print-adslot
 ##.outbrain-recommended
+##.left_adsense
 ##.sponsored-buttons
 thelincolnite.co.uk#@#.inline-ad
 ##a[href^="https://1winpb.com/"]
@@ -38150,7 +38150,6 @@ tei-c.org#@##msad
 ||lust-burning.rest^$document
 ||lxkzcss.xyz^$document
 ||adx1.com^$document
-||stake.com/*&clickId=$document
 ||izeeto.com^$document
 ||awecrptjmp.com^$document
 ||freshpops.net^$document
@@ -39208,6 +39207,7 @@ newstarget.com###Index06 > .Widget
 ||between-legs.com/banners2/
 ||adshuffle.com^$third-party
 ||pinkmonkey.com/includes/right-ad-columns.html
+||stake.com/*&clickId=$document
 ||hottest-girls-online.com^$popup
 ||imperiohentai.com/delivery/
 ||vectips.com/wp-content/themes/vectips-theme/js/adzones.js
@@ -44507,7 +44507,6 @@ dvdsreleasedates.com###ad-movie
 ||relevefr.top^$popup
 ||lcwfab2.com^$third-party
 ||indiatimes.com/itads_
-myevreview.com###ad_main_middle
 ||racebets.com/media.php?
 ||straitchangeless.com^$popup
 ||irrigatenotwithstandingcommit.com^$popup
@@ -53773,6 +53772,7 @@ pocketgamer.com##.item-unit
 theblock.co##.fixedUnit
 anysex.com##.desc.type2
 avclub.com,splinter.com##.htlad-bottom_rectangle
+myevreview.com###ad_main_middle
 run247.com##.run24-content
 phonearena.com##.pa-sticky-container
 benzinga.com##.video-player-wrapper
