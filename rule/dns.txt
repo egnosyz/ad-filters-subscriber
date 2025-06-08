@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-06-08 16:00:56
+! Last Modified: 2025-06-09 00:01:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -3294,6 +3294,7 @@ iadctest.qwapi.com^
 ||ungreeninwrit.com^
 ||booksylatron.com^
 ||hexingteeting.com^
+||tubingacater.com^
 ||bututpoopsie.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5074,7 +5075,6 @@ iadctest.qwapi.com^
 ||xfxvpt.icu^
 ||enwuamw.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -11213,6 +11213,7 @@ ubmcmm.baidustatic.com
 ||bluetackclasp.com^
 ||chipmanksmochus.com^
 ||abpancvun.com^
+||datepleasure.com^
 ||betimbur.com^
 ||alskillseery.org^
 ||aslnk.link^
@@ -19425,7 +19426,6 @@ ubmcmm.baidustatic.com
 ||diagnosisheadsetrekindle.com^
 ||nowlooking.net^
 ||escribedas.com^
-||datepleasure.com^
 ||golden-gateway.com^
 ||liglomsoltuwhax.net^
 ||hecathedralinth.org^
@@ -22382,6 +22382,7 @@ ubmcmm.baidustatic.com
 ||gorillatrking.com^
 ||kastafor.com^
 ||oamoameevee.net^
+||okjkidtajoh.com^
 ||negotiaterealm.com^
 ||nygwcwsvnu.com^
 ||freesoftwarelive.com^
@@ -31890,7 +31891,6 @@ ubmcmm.baidustatic.com
 ||raspberryamusingbroker.com^
 ||uplickoreman.shop^
 ||ztulcrynw.online^
-||okjkidtajoh.com^
 ||online-1.co.in^
 ||petrifacius.com^
 ||oqdfzututg.com^
