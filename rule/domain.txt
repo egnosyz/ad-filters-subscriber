@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-06-12 16:00:48
+! Last Modified: 2025-06-13 00:01:01
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3208,6 +3208,7 @@ iadctest.qwapi.com^
 ||ungreeninwrit.com^
 ||booksylatron.com^
 ||hexingteeting.com^
+||tubingacater.com^
 ||bututpoopsie.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -4915,7 +4916,6 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -9938,6 +9938,7 @@ ubmcmm.baidustatic.com
 ||3fa3d4c288.com^
 ||aqjbfed.com^
 ||betrayalmakeoverinstruct.com^
+||dating-honey-girls.com^
 ||ahqpqagt.gay^
 ||contagionsocketwilliam.com^
 ||bulyiel.com^
@@ -17671,7 +17672,6 @@ ubmcmm.baidustatic.com
 ||m-rtb.com^
 ||fastcdn.info^
 ||ilkindweandthe.info^
-||dating-honey-girls.com^
 ||javtype.fun^
 ||gumlahdeprint.com^
 ||hrogrpee.de^
@@ -19372,6 +19372,7 @@ ubmcmm.baidustatic.com
 ||datingprudethimble.com^
 ||filetarget.com^
 ||obsoletepaddlevehicular.com^
+||ocmwmysizm.com^
 ||fkkicdtg.com^
 ||ledrapti.net^
 ||dodgyresources.com^
@@ -29385,7 +29386,6 @@ ubmcmm.baidustatic.com
 ||svrgcqgtpe.com^
 ||trkerupper.com^
 ||trustgrape.com^
-||ocmwmysizm.com^
 ||sinspiringtga.org^
 ||veritrol.com^
 ||okitattler.top^
