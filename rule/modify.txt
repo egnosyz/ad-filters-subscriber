@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-06-12 08:02:26
+! Last Modified: 2025-06-12 16:00:48
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -9138,7 +9138,6 @@ eol.cn###adfloat_r
 ||keydot.net^$third-party
 ||alicdn.com/kf/Hd62261f1a7964c50824ac5982b1aa1bfk.gif
 ||wa.kuwo.cn/lyrics/img/kwgg/
-mcdulll.com,mcdulll.pixnet.net###box1989082
 ||111cn.net/js/downc*.js
 ##.aab-post
 /tigtag_custom/*_banner
@@ -15698,6 +15697,7 @@ sgcn.com##.oyad2.cl
 maxthon.cn###festival-rain-wrapper
 2345.com##.chc-dzoem
 ###ad_txt
+mcdulll.com,mcdulll.pixnet.net###box1989082
 dasai8.com##.L > font[color="#0000FF"]
 /ab_fl.js$script
 /prebid6.$script
@@ -21680,7 +21680,6 @@ zuimeia.com##.activity-poster:not([href*="zuimeia."])
 i.qq.com##.linwei-txt
 gamefy.cn##.tonglan
 ###AdBottomLeader
-###ad_video_abovePlayer
 2c2.website,2p8.space,adultgao.com,caopop.com,caoporn.com,caouoo.com,caox.cc,gao1.cc,h3e.pw,h3y.pw,k88.club,me88.pw,p5p.space,se88.space,t2p.space,tb001.xyz,te88.pw,vwan.xyz,xhao1.com##div[style="margin-top:5px;margin-bottom:5px;"]:first-child
 /svr/*.aspx?placeid=$third-party
 molure.cn##.adplan
@@ -29658,7 +29657,6 @@ maoken.com###siderAd01
 ##.ad300x250box2
 ##.desktop_only_ad
 ##.advert_box
-##.main_ad
 ##.adWebBoard
 ##.floatads
 ###advertisement1
@@ -31376,6 +31374,7 @@ maoken.com###siderAd01
 ##.block-ad-leaderboard
 ##.ad_mod
 ##.content-ad-wrapper
+###ad_video_abovePlayer
 ##.box-ad-middle
 ###right-ad-block
 ##.ads-leaderbord
@@ -37878,6 +37877,7 @@ zdnet.com#@#.sponsoredItem
 ##.sticky_ads
 ##.middle_ad_responsive
 ##.mv_atf_ad_holder
+##.main_ad
 ##.subscribox-ad
 ##.sponsorshipContainer
 ##div[id^="vuukle-ad-"]
@@ -37983,7 +37983,6 @@ tei-c.org#@##msad
 ||ads4trk.com^$document
 ||ad-addon.com^$document
 ||aistekso.net^$document
-||conestreshow.com^$document
 ||cntrealize.com^$document
 ||appslime.com^$document
 ||aiphotomania.com^$document
@@ -44028,6 +44027,7 @@ $third-party,xmlhttprequest,domain=kinos.to|kinox.am|kinox.click|kinox.cloud|kin
 ||lacquerreddeform.com^$popup
 ||maltunfaithfulpredominant.com^$popup
 ||vfgtb.com^$popup
+||conestreshow.com^$document
 ||ukoffzeh.com^$popup
 ||amplayeranydwou.info^$popup
 ||buikolered.com^$popup
@@ -45839,7 +45839,6 @@ asgg.php$domain=ghostbin.me|paste.fo
 ||graitsie.com^$document
 ||grobuveexeb.net^$popup
 ||camsoda.com/promos/
-||manga18fx.com/tkmo2023/
 ||ovardu.com^$document
 ||contentexchange.me/widget/$third-party
 ||asgclickpp.com^$popup
@@ -52317,7 +52316,6 @@ muslimobserver.com##.add2
 www.google.*##.OcdnDb
 theyarehuge.com##div[data-nosnippet]
 wichspornos.com##.tf-sp
-@@||destinationamerica.com^$generichide
 eweek.com,itbusinessedge.com,linuxtoday.com,serverwatch.com,techrepublic.com###bottom-footer-fixed-slot
 cars.com###branded-canvas-click-wrapper:has(> #native-ad-html)
 scrolller.com###object_container
@@ -55716,6 +55714,7 @@ oneindia.com##.oi-add-block
 buzzfeed.com##.js-bfa-impression
 xgroovy.com##.headP
 hancinema.net##[class^="wmls_"]
+||manga18fx.com/tkmo2023/
 cryptoslate.com##.top-sticky
 soapcalc.net###SidebarLeft
 mope.io##.Home__home-ad-wrapper
@@ -56095,6 +56094,7 @@ hdtube.porn,pornid.xxx,rat.xxx##.cs-under-player
 @@||ads-twitter.com/oct.js$domain=ncsoft.jp
 @@||ads-i.org/images/ads3.jpg$~third-party
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
+@@||destinationamerica.com^$generichide
 @@||xhofficial.com^$script,~third-party
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp|gyutoro.com
