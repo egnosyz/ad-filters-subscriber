@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-06-20 00:00:58
+! Last Modified: 2025-06-20 08:02:32
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10332,7 +10332,6 @@ shiyrj.top##.ad
 :99/js/ads/
 ||bmp1.ali213.net/js/
 ||neets.cc/assets/js/dup.js
-hao123.com###append
 .com/Runtime/js/psCreat.js
 ||8en.net^$third-party
 ||16sucai.com/ads/
@@ -17359,6 +17358,7 @@ cnfol.com##.AdvDL
 plus28.com##a[href*="/?Extend="]
 /prebid9.$script
 xiuren.org###menur
+hao123.com###append
 aguitar.cn##.headerbanner2
 ithome.com##.rds
 jjwxc.net##[id^="adp_"]
@@ -21683,7 +21683,6 @@ icourse163.org#@#.sns-link
 chineseinla.com##.deal_discount
 /cms_ads.js$script
 liaoxuefeng.com##div[style="width:336px;height:280px;float:left;"]
-###ad_placeholder
 dingdong.ganji.com#@#.banner
 hcbbs.com##table[width="100%"][bordercolor="#CCCCCC"]
 /adfx.loader.bind.js$script
@@ -31373,6 +31372,7 @@ maoken.com###siderAd01
 ###header-ad-container
 ##.adLat
 ##.article_mpu
+###ad_placeholder
 ##.ad-top-featured
 ##.ad-slot-placeholder
 ##.columnRightAdvert
@@ -33929,7 +33929,6 @@ maoken.com###siderAd01
 ##.adwert
 ##.ads-sign
 ###rh-ad
-##.lg-ads-311x500
 ###sticky-custom-ads
 ###btfAdNew
 ##.ads-center
@@ -37542,6 +37541,7 @@ apkmirror.com,tuxpi.com#@#.adslot
 ##hl-adsense
 ##.shadvertisment
 ##a[href^="https://go.dmzjmp.com"]
+##.lg-ads-311x500
 ##.mid-ad-wrapper
 ##.nationalad
 ##.sponsored-links
@@ -46435,7 +46435,6 @@ mylocation.org##.info a[href^="https://go.expressvpn.com/c/"]
 barrons.com,wsj.com##.uds-ad-container
 sat24.com###headercontent-onder
 flashx.tv,xrares.com###nuevoa
-aniporn.com##.btn-close
 coolors.co##[style*="position:absolute;top:20px;"]
 livecamrips.com###live-cam
 khmertimeskh.com##.panel-grid-cell
@@ -55741,6 +55740,7 @@ pornx.to##.elementor-element-e8dcf4f
 boyfriendtv.com##.live-cam-popunder
 @@||api.adinplay.com/libs/aiptag/$script,domain=bigescapegames.com|brofist.io|cuberealm.io|findcat.io|geotastic.net|lordz.io
 rabbitsreviews.com##[class^="_notificationConsent_"]
+aniporn.com##.btn-close
 povaddict.com##a[title^="FREE "]
 adultgamesworld.com##.masonry-layout__panel:has(a[href^="https://access-the-website.com/"])
 sankakucomplex.com##[href^="https://s.zlink3.com/d.php"]
