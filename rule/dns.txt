@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-06-22 16:00:57
+! Last Modified: 2025-06-23 00:01:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3307,7 +3307,6 @@ advertisers.js|
 ||booksylatron.com^
 ||hexingteeting.com^
 ||pelitecontg.top^
-||tubingacater.com^
 ||bututpoopsie.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5071,6 +5070,7 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -11766,7 +11766,6 @@ ubmcmm.baidustatic.com
 ||adfgetlink.net^
 ||chshcms.net^
 ||cemeteryloinrespirator.com^
-||crumbtypewriterhome.com^
 ||bepawrepave.com^
 ||b116785e75.com^
 ||blubberspoiled.com^
@@ -18024,7 +18023,6 @@ ubmcmm.baidustatic.com
 ||hrtye.com^
 ||ftd.agency^
 ||lefeljupoh.com^
-||nanismtarlike.shop^
 ||go2oh.net^
 ||kedasensiblem.info^
 ||m3i0v745b.com^
@@ -20302,6 +20300,7 @@ ubmcmm.baidustatic.com
 ||flossedkails.com^
 ||elentmatch.com^
 ||deximedia.com^
+||crumbtypewriterhome.com^
 ||jizzensirrah.com^
 ||discourseoxidizingtransfer.com^
 ||fortorterrar.com^
@@ -25152,7 +25151,6 @@ ubmcmm.baidustatic.com
 ||whitenoisenews.com^
 ||unsuccessfultesttubepeerless.com^
 ||viiczfvm.com^
-||wmccd.com^
 ||poisegel.com^
 ||pregainskilly.shop^
 ||srvqck11.com^
@@ -28096,6 +28094,7 @@ ubmcmm.baidustatic.com
 ||pmc1201.com^
 ||syndromeentered.com^
 ||uqqmj868.xyz^
+||nanismtarlike.shop^
 ||tenkninghoder.com^
 ||plirkep.com^
 ||nmyfedath.com^
@@ -35204,6 +35203,7 @@ ubmcmm.baidustatic.com
 ||d3uj0uhi43axgb.cloudfront.net^
 ||xerasiasoled.top^
 ||drulilqe8wg66.cloudfront.net^
+||wmccd.com^
 ||yourcdnjs.com^
 ||d3d9gb3ic8fsgg.cloudfront.net^
 ||53469662.xyz^
@@ -36521,7 +36521,6 @@ ubmcmm.baidustatic.com
 ||youpeacockambitious.com^
 ||woujoakoob.net^
 ||zmytkaoh.com^
-||ad.imp.joins.com^
 ||d3nj94pigtgs7y.cloudfront.net^
 ||googleads.github.io^
 ||workback.net^
@@ -37496,6 +37495,7 @@ ubmcmm.baidustatic.com
 ||ar.thepornstar.com^
 ||outlookads.live.com^
 ||alaska.xhamster3.com^
+||ad.imp.joins.com^
 ||marine.xhamster.desi^
 ||brick.xhamster3.com^
 ||port7.xhamster.desi^
