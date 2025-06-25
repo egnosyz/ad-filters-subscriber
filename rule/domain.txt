@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-06-25 08:02:35
+! Last Modified: 2025-06-25 16:01:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3185,6 +3185,7 @@ iadctest.qwapi.com^
 ||booksylatron.com^
 ||hexingteeting.com^
 ||pelitecontg.top^
+||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5048,7 +5049,6 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -11795,6 +11795,7 @@ ubmcmm.baidustatic.com
 ||atjogdfzivre.com^
 ||compensationpropulsion.com^
 ||cbbd18d467.com^
+||cowtpvi.com^
 ||albraixentor.com^
 ||adaptconveyperformed.com^
 ||amhpbhyxfgvd.com^
@@ -15652,6 +15653,7 @@ ubmcmm.baidustatic.com
 ||eggplantgapmatter.com^
 ||foosaijutese.com^
 ||iwtdbhvgvk.com^
+||mockagemaestra.top^
 ||impactradius-go.com^
 ||kudqcuxadw.com^
 ||lcydaqakhdm.com^
@@ -20388,7 +20390,6 @@ ubmcmm.baidustatic.com
 ||goodadvert.ru^
 ||koapsout.com^
 ||mediocrerope.pro^
-||cowtpvi.com^
 ||inspikon.com^
 ||hfkncj-qalcg.top^
 ||jumbln.com^
@@ -25678,7 +25679,6 @@ ubmcmm.baidustatic.com
 ||remisstracesexplain.com^
 ||riqhisfus.com^
 ||ractors291wicklay.com^
-||mockagemaestra.top^
 ||nwsrugpdispilk.com^
 ||thnqemehtyfe.com^
 ||onshowit.com^
@@ -26427,6 +26427,7 @@ ubmcmm.baidustatic.com
 ||qbljkbmhpybdl.space^
 ||revotedriders.shop^
 ||skilyake.net^
+||videosworks.com^
 ||rppszzplxz.com^
 ||plyfoni.ru^
 ||t84c3srgclc9.com^
@@ -34630,6 +34631,7 @@ ubmcmm.baidustatic.com
 ||woudaufe.net^
 ||64786087.xyz^
 ||d2nz8k4xyoudsx.cloudfront.net^
+||d32kwu6pkckni5.cloudfront.net^
 ||ad.intl.xiaomi.com^
 ||wbspvfabxpuear.com^
 ||wiggledeteriorate.com^
@@ -35727,7 +35729,6 @@ ubmcmm.baidustatic.com
 ||pics.firstload.de^
 ||wedgierbirsit.com^
 ||d1i1d9hx0883rq.cloudfront.net^
-||videosworks.com^
 ||yrhnw7h63.com^
 ||yorkvillemarketing.net^
 ||d2uyi99y1mkn17.cloudfront.net^
@@ -37938,7 +37939,6 @@ ubmcmm.baidustatic.com
 ||d3t3z4teexdk2r.cloudfront.net^
 ||dmxleo.dailymotion.com^
 ||d3sdfpysdncs72.cloudfront.net^
-||d32kwu6pkckni5.cloudfront.net^
 ||centent.stemplay.cc^
 ||a.hymin.xyz^
 ||d6sav80kktzcx.cloudfront.net^
