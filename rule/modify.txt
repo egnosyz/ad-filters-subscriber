@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-06-25 00:01:01
+! Last Modified: 2025-06-25 08:02:35
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -14529,7 +14529,6 @@ diyifanwen.com###ArtTl
 ||eduuu.com/website/public_js/pc_aso.js
 ||lvse.cn/output/block/html/
 ||ithome.com.tw/media/serve?
-price.com.hk###ad0
 ||jcrb.com/ZYW$subdocument
 ||qhimgs4.com/t01d8315ddb1a5adcce.gif
 ||linkvans.com^$third-party
@@ -23391,6 +23390,7 @@ ipcfun.com##div[style="height:280px;width:336px;margin:-10px auto 20px auto"]
 ###ad-banner-top
 wealwomen.com##div[data-cptid]
 @@||mnighthk.net/template/*/ad
+price.com.hk###ad0
 baidu.com##div[data-ad]
 www.sina.com.cn##.part-l
 fuliba2021.net,ypojie.com##.orbui-post-footer
@@ -23836,7 +23836,6 @@ maxthon.cn###festival-skin-link
 3dmgame.com##.addvide300
 tbtdg.com##.s11text
 sm.cn##div[id^="ad_ele_"]
-###ad_div_top
 douyu.com###sign_p_1
 jianbiaoku.com##div[style="width:960px;height:130px;margin:0 auto;margin-top:35px;padding:0;cursor:pointer;"]
 ###ad728Box
@@ -27732,7 +27731,6 @@ maoken.com###siderAd01
 ##.ad-trck
 ##.adspop
 ##.adsanity-alignnone
-##.ld-ad-inner
 ###footerAdsPlacement
 ###toprightad
 ##.adspot
@@ -33775,6 +33773,7 @@ maoken.com###siderAd01
 ##.ad284x134
 ##.ad_column_box
 ##.ad_div_box2
+###ad_div_top
 ##.footer-leaderboard-ad
 ##.ad-box-300x250
 ##.ad_response
@@ -36714,6 +36713,7 @@ atea.com,ateadirect.com,knowyourmobile.com,nlk.org.np#@#.logo-ad
 ##.mpuContainer
 ##.par-ad
 ##.top_big_ads
+##.ld-ad-inner
 ##.midpost-ad
 ##.relatedAds
 ##.strawberry-ads__pretty-container
@@ -51949,7 +51949,6 @@ bws.com.au##.card-list-item:has(.productTile.is-Sponsored)
 time.is##.rad
 ||rule34.xxx/images/r34_doll.png
 cheese.com,datpiff.com,gtainside.com##.skyscraper
-##.ad-fallback
 revolutionsoccer.net##.mls-o-adv-container
 queerty.com##.adb-top-lb
 getmyuni.com##.horizontalRectangle
@@ -54357,6 +54356,7 @@ xhamster.com##.yld-mdsp-b
 @@||mjhobbymassan.se/r/annonser/$image,~third-party
 yahoo.com###sda-LDRB-iframe
 hdtube.porn##.footer__banners
+##.ad-fallback
 euronews.com###o-site-hr__leaderboard-wallpaper.u-show-for-xlarge {remove:true;}
 beeg.com##.GreyFox
 jav321.com##.row > .col-md-12 > h2
