@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-07-01 16:00:57
+! Last Modified: 2025-07-02 00:00:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3190,7 +3190,6 @@ iadctest.qwapi.com^
 ||booksylatron.com^
 ||hexingteeting.com^
 ||pelitecontg.top^
-||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5106,6 +5105,7 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -10623,7 +10623,6 @@ ubmcmm.baidustatic.com
 ||bxpwfdmmhlgccon.com^
 ||azenka.one^
 ||alfasense.com^
-||czaraptitude.com^
 ||abruptlydummy.com^
 ||ad-stir.com^
 ||alifeupbrast.com^
@@ -17956,7 +17955,6 @@ ubmcmm.baidustatic.com
 ||hrhuvkhcir.com^
 ||haputsaucurgaih.com^
 ||hdoditwa.xyz^
-||notesbook.in^
 ||judebelii.com^
 ||fnrmxmfphbdjy.online^
 ||flapsoonerpester.com^
@@ -18444,6 +18442,7 @@ ubmcmm.baidustatic.com
 ||extractionatticpillowcase.com^
 ||mp3vizor.com^
 ||innocencestrungdocumentation.com^
+||czaraptitude.com^
 ||hetadinh.com^
 ||dinecogitateaffections.com^
 ||izitrckr.com^
@@ -27957,6 +27956,7 @@ ubmcmm.baidustatic.com
 ||revampcdn.com^
 ||positeasysembl.org^
 ||rougloujouwoate.com^
+||notesbook.in^
 ||vague-key.com^
 ||spyluhqarm.com^
 ||numb-case.pro^
@@ -33411,7 +33411,6 @@ ubmcmm.baidustatic.com
 ||qdwblduprvsxsl.com^
 ||shipenzyms.top^
 ||qppq166n.de^
-||yallarec.com^
 ||obligationdrummersculpture.com^
 ||ragapa.com^
 ||vip-vip-vup.com^
@@ -35817,6 +35816,7 @@ ubmcmm.baidustatic.com
 ||d2khpmub947xov.cloudfront.net^
 ||ytru4.pro^
 ||75114620.xyz^
+||yallarec.com^
 ||yungluteal.top^
 ||dzv1ekshu2vbs.cloudfront.net^
 ||d3jzhqnvnvdy34.cloudfront.net^

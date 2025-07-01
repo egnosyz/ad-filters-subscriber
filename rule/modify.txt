@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-07-01 16:00:57
+! Last Modified: 2025-07-02 00:00:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -9085,7 +9085,6 @@ yiche.com##.h-gd-box
 ||mydrivers.com/images/*_1100_90.
 /floatcaopron.js
 ||wwwcdn.kimiss.net/btn/
-2345.com###J_acts11_footerfixed
 ||xiaoweixiaoshuo.com/ad/
 /js/yzgg.js
 ##.adlistcss
@@ -15344,6 +15343,7 @@ duba.com,iduba.com,newduba.cn,uu114.cn##.fav_box
 -728x90/
 taobao.com##.recomand-item
 ||xstt5.com/skin/v3/js/dibu.js
+2345.com###J_acts11_footerfixed
 /jquery.lazyload-ad-$script
 3dmgame.com##.listlab > .img[href*="/yx."]
 zhihu.com##.Card.Banner
@@ -20874,7 +20874,6 @@ bookrb.com##a[href="/rmtj.html"]
 ###adSlot4
 wenxuecity.com##.rightbannerw
 /special/specialCtrl.js$script
-###ad_Middle
 animewld.club##.header-img
 freejavbt.com##div[data-selector*="ai-insert-"]
 reaff.com,yangmaodang.org##.entry-content > p[style="text-indent:0"]
@@ -28883,7 +28882,6 @@ maoken.com###siderAd01
 ###google_ads_1
 ##.ad-below-player
 ##.article-ad-main
-##.js-adzone
 ###rec_spot_ad_1
 ###sticky-ad-container
 ##.ad-ratio
@@ -30581,6 +30579,7 @@ maoken.com###siderAd01
 ##.c-adbutler-ad__wrapper
 ###midAD
 ##.ad-external
+###ad_Middle
 ##.adbox728
 ##.adsright
 ##.advertise-top
@@ -37601,6 +37600,7 @@ yuik.net#@#.advads-widget
 ##.player-ad
 ##.linead
 ##a[href^="https://syndication.optimizesrv.com/"]
+##.js-adzone
 ##.pf_top_ad
 ##.pt-ad--scroll
 ##.widget_advertisement
@@ -41151,7 +41151,6 @@ $script,third-party,domain=imgbox.com
 ||embarkvision.top^$popup
 ||activedancer.com^$third-party
 ||staticmisc.blob.core.windows.net^$domain=onecompiler.com
-||429men.com/zdoink/
 ||hoglinsu.com^$document
 ||btpnav.com^$popup
 ||zmescience.com/1u8t4y8jk6rm.js
@@ -49757,6 +49756,7 @@ www.google.*##.commercial-unit-mobile-top > div[data-pla="1"]
 ||hypnohub.net/assets/hub.js
 babylonbee.com##.sticky-footer-image
 openguessr.com##.bottomFooterAds
+||429men.com/zdoink/
 xing.com##div[data-qa="jobs-inline-ad"]
 flipkart.com##div[data-id][style]:has([width][height][fill])
 bing.com##.ad_sc
@@ -52787,7 +52787,6 @@ bridestoday.in##.add_container
 ||imagetwist.com/img/1001505_banner.png
 mmegi.bw##.vertical-banner
 newsday.com##.midPg
-@@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 genshin-impact-map.appsample.com###pc-br-300x250-gim
 gifcompressor.com,heic2jpg.com,jpg2png.com,png2jpg.com,webptojpeg.com,wordtojpeg.com##.header__right
 androidpolice.com,babygaga.com,backyardboss.net,carbuzz.com,cbr.com,collider.com,dualshockers.com,footballfancast.com,footballleagueworld.co.uk,gamerant.com,givemesport.com,hardcoregamer.com,hotcars.com,howtogeek.com,makeuseof.com,moms.com,movieweb.com,pocket-lint.com,pocketnow.com,screenrant.com,simpleflying.com,thegamer.com,therichest.com,thesportster.com,thethings.com,thetravel.com,topspeed.com,xda-developers.com##.adsninja-ad-zone-container-with-set-height
@@ -56008,6 +56007,7 @@ hdtube.porn,pornid.xxx,rat.xxx##.cs-under-player
 @@||googleoptimize.com/optimize.js$script,domain=wallapop.com
 @@||microapp.bytedance.com/docs/page-data/$~third-party
 @@||mistore.jp/content/dam/isetan_mitsukoshi/advertise/$~third-party
+@@||4cdn.org/adv/$image,xmlhttprequest,domain=4channel.org
 @@||api.adinplay.com/v4/live/aip/ad-manager.js$script,domain=cuberealm.io
 @@||betterads.org/hubfs/$image,~third-party
 @@||ad.smartmediarep.com/NetInsight/video/smr$domain=programs.sbs.co.kr
