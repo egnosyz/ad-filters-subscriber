@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-07-09 00:00:48
+! Last Modified: 2025-07-09 08:02:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -15031,7 +15031,6 @@ yalishi.com##.ad
 mydrivers.com##.jdong1div_double
 ||linkwan.com/gb/javascript/b4.js
 ||twrank.com^$third-party
-131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
 /videoJS/video-conrtib-ads.js
 ##.archive > a[ontouchstart="this.click();"]
 ||maolihui.com/wp-content/themes/miaonew/images/adb
@@ -22460,7 +22459,6 @@ hao.rising.cn##.baidu-banner
 ||xwbxsw.com/js/app_wap.
 toolfk.com##wavy + div[style]
 ###ad-site-header
-###adRight
 tongxiang.net##.x15sdv.display_3_3
 /_xa/ads?$popup
 baidu.com###search_bottomad
@@ -24269,6 +24267,7 @@ ganji.com##div[id^="GcnADId"]
 3dmgame.com##.tonglona_4
 99syy1.com##div[class^="ps_"]
 _728x90.
+131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
 _728x90-
 read.qidian.com##.operation-wrap
 _728x90/
@@ -27424,7 +27423,6 @@ maoken.com###siderAd01
 ##.ad-dog
 ##.front_ad
 ##.home-ad-bigbox
-##.inr_top_ads
 ##.ad-banner-2
 ##.addarea
 ###grdAds
@@ -32232,6 +32230,7 @@ maoken.com###siderAd01
 ###reklam_buton
 ###global_header_ad_area
 ##.banner_ads1
+###adRight
 ##.ad.maxisky
 ##.div_advertisement
 ##.adsverting
@@ -36587,6 +36586,7 @@ dr.dk,smartadserver.de#@#a[href*=".smartadserver.com"]
 ##.top_advert
 ##.ntv-ad
 ##.widget_alaya_ad
+##.inr_top_ads
 copart.com#@#.adscontainer
 about.com#@##adcontainer1
 ##.tmiads
@@ -51724,7 +51724,6 @@ wepc.com##.infin-wepc-channels
 privacywall.org###topse
 bestvpnserver.com,thewashingtonstandard.com###text-9
 americafirstreport.com##.ameri-before-content
-tripadvisor.com#?#.tkvEM:-abp-contains(Sponsored)
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com,kpopping.com,zimbabwesituation.com##.advertise
 mensxp.com##.hometop-ads
 datedatego.com##.ddg0
@@ -54193,6 +54192,7 @@ lewdspot.com###rightSidebarAdContainerPause
 hotmovs.com#?#.block_label--last:-abp-contains(Advertisement)
 @@||pntrac.com/b/$image,domain=extrarebates.com
 highporn.net##.banner-a
+tripadvisor.com#?#.tkvEM:-abp-contains(Sponsored)
 yourlust.com##.visit_cs
 boyfriendtv.com##a[href*="&creativeId="]
 teenmushi.org##.su-box

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2025-07-09 00:00:48
+! Last Modified: 2025-07-09 08:02:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -12219,7 +12219,6 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,mojezdravi.cz,
 ||hexingteeting.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -18497,7 +18496,6 @@ yalishi.com##.ad
 mydrivers.com##.jdong1div_double
 ||linkwan.com/gb/javascript/b4.js
 ||twrank.com^$third-party
-131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
 /videoJS/video-conrtib-ads.js
 ##.archive > a[ontouchstart="this.click();"]
 ||maolihui.com/wp-content/themes/miaonew/images/adb
@@ -20313,6 +20311,7 @@ mydrivers.com##.jdong1div_double
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -29821,7 +29820,6 @@ hao.rising.cn##.baidu-banner
 ||xwbxsw.com/js/app_wap.
 toolfk.com##wavy + div[style]
 ###ad-site-header
-###adRight
 tongxiang.net##.x15sdv.display_3_3
 /_xa/ads?$popup
 baidu.com###search_bottomad
@@ -31630,6 +31628,7 @@ ganji.com##div[id^="GcnADId"]
 3dmgame.com##.tonglona_4
 99syy1.com##div[class^="ps_"]
 _728x90.
+131400.best,vikacg.com,vikacg.xyz##.post-card-list > a
 _728x90-
 read.qidian.com##.operation-wrap
 _728x90/
@@ -35546,7 +35545,6 @@ maoken.com###siderAd01
 ##.ad-dog
 ##.front_ad
 ##.home-ad-bigbox
-##.inr_top_ads
 ##.ad-banner-2
 ##.addarea
 ###grdAds
@@ -40354,6 +40352,7 @@ maoken.com###siderAd01
 ###reklam_buton
 ###global_header_ad_area
 ##.banner_ads1
+###adRight
 ##.ad.maxisky
 ##.div_advertisement
 ##.adsverting
@@ -44709,6 +44708,7 @@ dr.dk,smartadserver.de#@#a[href*=".smartadserver.com"]
 ##.top_advert
 ##.ntv-ad
 ##.widget_alaya_ad
+##.inr_top_ads
 copart.com#@#.adscontainer
 about.com#@##adcontainer1
 ##.tmiads
@@ -46827,7 +46827,6 @@ tei-c.org#@##msad
 ||anyinadeditiont.com^
 ||aj1090.online^
 ||atgluskifaz.com^
-||creative.nangilive.com^
 ||concealmentmimic.com^
 ||cauyuksehink.info^
 ||bouchaloffal.top^
@@ -53622,6 +53621,7 @@ tei-c.org#@##msad
 ||dffa09cade.com^
 ||gesturekang.top^
 ||gqalqi656.com^
+||creative.nangilive.com^
 ||expertnifg.com^
 ||ftblltrck.com^
 ||generationparchmentqueen.com^
@@ -58657,7 +58657,6 @@ tei-c.org#@##msad
 ||depictdeservedtwins.com^
 ||dgglooigbvpksp.com^
 ||gauntletslacken.com^
-||moviead55.ru^
 ||hlhguzuidislw.site^
 ||distortededucation.pro^
 ||firdoagh.net^
@@ -65059,7 +65058,6 @@ tei-c.org#@##msad
 ||mysweet-flirts-hubs.com^
 ||pallorsdomini.top^
 ||uncopedekkos.top^
-||visitedquarrelsomemeant.com^
 ||verygoodminigames.com^
 ||top-performance.club^
 ||ttusrifbdjqay.online^
@@ -68688,6 +68686,7 @@ tei-c.org#@##msad
 ||reluctancefleck.com^
 ||sportpardon.com^
 ||rvvmynjd.love^
+||moviead55.ru^
 ||pathletbugloss.top^
 ||swwpush.com^
 ||ohooftaux.net^
@@ -80700,6 +80699,7 @@ tei-c.org#@##msad
 ||d1ks8roequxbwa.cloudfront.net^
 ||yqnqhhed.com^
 ||wghaqpnupaxmj.space^
+||visitedquarrelsomemeant.com^
 ||yumenetworks.com^
 ||96679950.xyz^
 ||d1f7vr2umogk27.cloudfront.net^
@@ -82238,7 +82238,6 @@ tei-c.org#@##msad
 ||trendads.reactivebetting.com^
 ||wzeofdkmyo.com^
 ||zaokko.com^
-||asg.irontube.net^
 ||zuclcijzua.com^
 ||yjrrwchaz.com^
 ||d2ksh1ccat0a7e.cloudfront.net^
@@ -89831,7 +89830,6 @@ wepc.com##.infin-wepc-channels
 privacywall.org###topse
 bestvpnserver.com,thewashingtonstandard.com###text-9
 americafirstreport.com##.ameri-before-content
-tripadvisor.com#?#.tkvEM:-abp-contains(Sponsored)
 freeaddresscheck.com,freecallerlookup.com,freecarrierlookup.com,freeemailvalidator.com,freegenderlookup.com,freeiplookup.com,freephonevalidator.com,kpopping.com,zimbabwesituation.com##.advertise
 mensxp.com##.hometop-ads
 datedatego.com##.ddg0
@@ -92186,6 +92184,7 @@ pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
 ||ads.twdcgrid.com^
 ||creative.myavlive.com^
 ||qovua60gue.tubewolf.com^
+||asg.irontube.net^
 ||wecvhi.ekftei2weudt.info^
 ||bettingads.365scores.com^
 ||123.manga1001.top^
@@ -92619,6 +92618,7 @@ lewdspot.com###rightSidebarAdContainerPause
 hotmovs.com#?#.block_label--last:-abp-contains(Advertisement)
 @@||pntrac.com/b/$image,domain=extrarebates.com
 highporn.net##.banner-a
+tripadvisor.com#?#.tkvEM:-abp-contains(Sponsored)
 yourlust.com##.visit_cs
 boyfriendtv.com##a[href*="&creativeId="]
 teenmushi.org##.su-box

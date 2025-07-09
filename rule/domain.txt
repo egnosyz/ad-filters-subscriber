@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-07-09 00:00:48
+! Last Modified: 2025-07-09 08:02:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3192,7 +3192,6 @@ iadctest.qwapi.com^
 ||hexingteeting.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5156,6 +5155,7 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -8737,7 +8737,6 @@ ubmcmm.baidustatic.com
 ||anyinadeditiont.com^
 ||aj1090.online^
 ||atgluskifaz.com^
-||creative.nangilive.com^
 ||concealmentmimic.com^
 ||cauyuksehink.info^
 ||bouchaloffal.top^
@@ -15528,6 +15527,7 @@ ubmcmm.baidustatic.com
 ||dffa09cade.com^
 ||gesturekang.top^
 ||gqalqi656.com^
+||creative.nangilive.com^
 ||expertnifg.com^
 ||ftblltrck.com^
 ||generationparchmentqueen.com^
@@ -20563,7 +20563,6 @@ ubmcmm.baidustatic.com
 ||depictdeservedtwins.com^
 ||dgglooigbvpksp.com^
 ||gauntletslacken.com^
-||moviead55.ru^
 ||hlhguzuidislw.site^
 ||distortededucation.pro^
 ||firdoagh.net^
@@ -26963,7 +26962,6 @@ ubmcmm.baidustatic.com
 ||mysweet-flirts-hubs.com^
 ||pallorsdomini.top^
 ||uncopedekkos.top^
-||visitedquarrelsomemeant.com^
 ||verygoodminigames.com^
 ||top-performance.club^
 ||ttusrifbdjqay.online^
@@ -30592,6 +30590,7 @@ ubmcmm.baidustatic.com
 ||reluctancefleck.com^
 ||sportpardon.com^
 ||rvvmynjd.love^
+||moviead55.ru^
 ||pathletbugloss.top^
 ||swwpush.com^
 ||ohooftaux.net^
@@ -36234,6 +36233,7 @@ ubmcmm.baidustatic.com
 ||d1ks8roequxbwa.cloudfront.net^
 ||yqnqhhed.com^
 ||wghaqpnupaxmj.space^
+||visitedquarrelsomemeant.com^
 ||yumenetworks.com^
 ||96679950.xyz^
 ||d1f7vr2umogk27.cloudfront.net^
@@ -37772,7 +37772,6 @@ ubmcmm.baidustatic.com
 ||trendads.reactivebetting.com^
 ||wzeofdkmyo.com^
 ||zaokko.com^
-||asg.irontube.net^
 ||zuclcijzua.com^
 ||yjrrwchaz.com^
 ||d2ksh1ccat0a7e.cloudfront.net^
@@ -38031,6 +38030,7 @@ ubmcmm.baidustatic.com
 ||ads.twdcgrid.com^
 ||creative.myavlive.com^
 ||qovua60gue.tubewolf.com^
+||asg.irontube.net^
 ||wecvhi.ekftei2weudt.info^
 ||bettingads.365scores.com^
 ||123.manga1001.top^
