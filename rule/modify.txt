@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-07-20 16:00:48
+! Last Modified: 2025-07-21 00:00:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10183,7 +10183,6 @@ _float_fuo.js
 ||mql5.com/rq?
 ||bytravel.cn/images/t/usa_250_120.gif
 ||51wangdai.com/Images/bad_*0
-||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 ||sportscn.com/js/commerical
 ##.banner-ad-section
 ||90oo.com/tp/90280.gif
@@ -16166,7 +16165,6 @@ woego.cn#@##topAds
 ||v2ex.com/pro/emitter
 /api/users?token=$popup
 ###ad-rotator
-###adDivContainer
 07073.com###rightDiv > div[style="height:250px"]
 ruanyifeng.com#?#.asset-content > p:-abp-contains(/二维|助教|0 元|报名费|原价/) + p + p > img
 @@||smsonline.cloud^$generichide
@@ -20573,6 +20571,7 @@ autohome.com.cn,jdzj.com,loveshang.com##.advbox
 ruanjianxia.com###gaosu_downloads
 zhihu.com##.LinkCard-ecommerceLoadingCard
 @@||share.baidu.com^$script,stylesheet,domain=k73.com
+||xmcdn.com/storages/f651-customerservice/E3/40/GAqhntALzRUHAAJ3LgOTtToZ.
 /in/show/?tag_ab=$third-party
 @@||googletagservices.com^$script,domain=creaders.net
 mbd.baidu.com###content_wrapper + div + .default-container
@@ -25490,6 +25489,7 @@ maoken.com###siderAd01
 ###bottomLeftAd
 ###adbox_content
 ##.ad-sponsored-feed-top
+###adDivContainer
 ##.ad_iframe2
 ##.goads
 ##.adcolumn
@@ -29506,7 +29506,6 @@ maoken.com###siderAd01
 ##.MPUad
 ##.ad970
 ##.ad-90x600
-##.in-text-ad
 ##.advert-panel
 ###commentAdWrapper
 ##.adsninja-rail-zone
@@ -34436,6 +34435,7 @@ codedevstuff.blogspot.com,hassiweb-programming.blogspot.com#@#.vertical-ads
 ##a[href^="https://ak.psaltauw.net/"]
 ##.pencil-ad
 ##.slidead
+##.in-text-ad
 ##.ob_container .item-container-obpd
 ##.gnt_tb.gnt_tbb
 ##div[id^="adngin-"]
@@ -38866,7 +38866,6 @@ tei-c.org#@##msad
 ||extensionworthwhile.com^$popup
 ||appslime.com^$popup
 ||leesaushoah.net^$popup
-||zrlqm.com^$popup
 ||track4ref.com^$popup
 ||viidccdn.com^$document
 ||blcdog.com^$popup
@@ -48027,6 +48026,7 @@ anews.com.tr##.adControl
 tapatalk.com###relatedblogbar
 gadgets360.com##.__wdgt_rhs_kpc
 distractify.com,inquisitr.com##.sc-fTZrbU
+||zrlqm.com^$popup
 kathmandupost.com##.pt-0
 calculat.io##.calc67-container
 as.com,gokunming.com##.prom
@@ -48929,7 +48929,6 @@ desmoinesregister.com###gpt-poster
 unixmen.com##.banners_home
 romper.com##.adWrapper
 webextension.org##.adb
-cinemaexpress.com##.widget-container-133
 manabadi.co.in##.googleAdsdiv
 ||picrew.me/vol/ads/
 mybib.com###footer > div
@@ -53226,6 +53225,7 @@ amazon.*##.dp-widget-card-deck:has([data-ad-placement-metadata])
 disasterscans.com##a[href^="https://martialscanssoulland.onelink.me/"]
 cheaptickets.com,ebookers.com,expedia.*,hotels.com,orbitz.com,travelocity.ca,travelocity.com,wotif.com##div[class="uitk-spacing uitk-spacing-margin-blockstart-three"]:has(a[href*="&trackingData"])
 youporn.com,youporngay.com##.footer-element-container
+cinemaexpress.com##.widget-container-133
 laredoute.*##li[class*="sponsored-"]
 nordstrom.com#?#article:has(.Yw5es:-abp-contains(Sponsored))
 sexu.site##.player-block__line
