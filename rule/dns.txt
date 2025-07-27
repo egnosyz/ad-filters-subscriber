@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-07-27 08:02:38
+! Last Modified: 2025-07-27 16:00:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3287,6 +3287,7 @@ advertisers.js|
 ||hexingteeting.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
+||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5366,7 +5367,6 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -11163,6 +11163,7 @@ ubmcmm.baidustatic.com
 ||b23010ff32.com^
 ||adpmbexo.com^
 ||barokobutyryl.shop^
+||cplhpdxbdeyvy.com^
 ||cowweedthane.shop^
 ||awejmp.com^
 ||bonyspecialist.pro^
@@ -19077,7 +19078,6 @@ ubmcmm.baidustatic.com
 ||loobaiptegip.net^
 ||creamssicsite.com^
 ||deicedchooky.shop^
-||cplhpdxbdeyvy.com^
 ||jcdbrgpufx.com^
 ||lucidmedia.com^
 ||dz4ad.com^
@@ -19611,6 +19611,7 @@ ubmcmm.baidustatic.com
 ||efabdnegbwiu.xyz^
 ||handbagwishesliver.com^
 ||duringherenurew.com^
+||mussilytalwar.top^
 ||highperformancedisplayformat.com^
 ||inamiaaglow.life^
 ||eatasesetitoefany.com^
@@ -29611,7 +29612,6 @@ ubmcmm.baidustatic.com
 ||odalrevaursartu.net^
 ||parasolcurvity.top^
 ||otvadvpas.com^
-||mussilytalwar.top^
 ||ocbshoxma.com^
 ||synchroparomologyauditable.monster^
 ||spacecatholicpalmful.com^
@@ -31427,6 +31427,7 @@ ubmcmm.baidustatic.com
 ||owagawjgamgog.top^
 ||valjatmticksl.com^
 ||nkyzsgitgjdam.space^
+||vvajkvnynnbmz.top^
 ||responservbzh.icu^
 ||politicallyartisticsocks.com^
 ||oqrzuvarwgm.com^
@@ -35958,7 +35959,6 @@ ubmcmm.baidustatic.com
 ||ycmpwhfvgynyp.store^
 ||weqbzrzjpzkds.online^
 ||xwreckontur.com^
-||vvajkvnynnbmz.top^
 ||edpl9v.pro^
 ||weedauwecu.net^
 ||doubleclick-cn.net^
