@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-07-27 00:00:47
+! Last Modified: 2025-07-27 08:02:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10539,7 +10539,6 @@ _billboard_320x100.iframe.
 ||vip.luanren.com/data/*.gif
 ##a[href*=".labsda.com"]
 ||lbx777.*/css/lbxgg02
-||zjxc.com/source/plugin/e6_xc_ad/
 ||qk6.org/file/script/
 ##a[href*="/?aff="][target="_blank"]
 ||china.com.cn*/ads_js/
@@ -16158,7 +16157,6 @@ jlpcn.net##.vodAd
 kuai8.com###right_Ad
 /prebid1.$script
 ksbbs.com,kshot.com##[id^="ads_"]
-###ad6
 ###ad-north
 .hgo0*uyi.com/$script,xmlhttprequest,third-party
 firefoxchina.cn###tab-mod-tehui
@@ -20824,6 +20822,7 @@ megatime.com.tw,pchome.com.tw##div[id^="ad_div_"]
 lxapk.com,lzacg.one##.custom-html-widget
 ithome.com##.lapin
 /300x250.$image
+||zjxc.com/source/plugin/e6_xc_ad/
 cq.qq.com##div.clearfix[style*="1000"]
 ###AdvertiseFrame
 ###aboveAd
@@ -25491,6 +25490,7 @@ maoken.com###siderAd01
 ##.bgcolor_ad
 ##.display-ads-block
 ##.adSepDiv
+###ad6
 ##.ad-adsense-block-250
 ##.ads-300x250
 ###ad_sec
@@ -29936,7 +29936,6 @@ maoken.com###siderAd01
 ##.ad_188_inner
 ##.ads-feed
 ##.freestar-ad-wide-container
-##.house-ad
 ##.ad_728_90
 ###bnr-300x250
 ##.ad-bug-300w
@@ -34754,6 +34753,7 @@ davidsilverspares.co.uk#@#.greyAd
 ##.standalonead
 ##.pizza-y.pizza
 ##.single-ad-anchor
+##.house-ad
 ##div[data-dfp-id]
 ##.mf-adsense-leaderboard
 newegg.com#@#.ad-click
@@ -43318,7 +43318,6 @@ tei-c.org#@##msad
 ||easyads28.mobi^$popup
 ||142.91.159.146^$popup
 ||oxbbzxqfnv.com^$popup
-||cdn.optmd.com^$popup
 ||urtyert.com^$popup
 ||noolt.com^$popup
 ||dreamteamaffiliates.com^$document
@@ -51974,7 +51973,6 @@ digitaltrends.com,themanual.com##.dt-primis
 newsner.com##div[id^="ad-"]
 amazon.*##div[cel_widget_id="typ-ads"]
 ||pwinsider.com/advertisement/
-infographicjournal.com#?#.et_pb_module:-abp-contains(Partners) + .et_pb_module
 wgnsradio.com##.bw-special-image
 ||hentaiworldtv.b-cdn.net/wp-content/uploads/2023/11/ark1.avif
 snowbrains.com##.fuse-slot-dynamic
@@ -52449,6 +52447,7 @@ techpp.com###brxe-ninhwq
 dailykos.com##.story-banner-ad-placeholder
 ||hentaianimezone.com/kbgl/
 goal.com##.component-ad
+||cdn.optmd.com^$popup
 plainenglish.io##.blog-banner-container
 egmnow.com##.outbrain-wrapper
 asmag.com##.banner_box
@@ -54387,6 +54386,7 @@ socialmediagirls.com##a[href^="https://undressai.tools/"]
 @@||franklymedia.com/*/300x150_WBNQ_TEXT.png$image,domain=wbnq.com
 cheemsporn.com,trannyvideosxxx.com###text-2
 @@||2mdn.net/instream/html5/ima3.js$script,domain=earthtv.com|zdnet.com
+infographicjournal.com#?#.et_pb_module:-abp-contains(Partners) + .et_pb_module
 new.lewd.ninja##.navbar-start a[target="_blank"]
 deepfake-porn.com,deepfucks.com,hdpornflix.com,sexkbj.com,vpornhd.com,x-picture.com##.happy-sidebar
 @@||g.doubleclick.net/gampad/ads?*.crunchyroll.com$xmlhttprequest,domain=imasdk.googleapis.com
