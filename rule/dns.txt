@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-07-28 16:00:49
+! Last Modified: 2025-07-29 00:01:04
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3292,7 +3292,6 @@ advertisers.js|
 ||hexingteeting.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5414,6 +5413,7 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -12809,7 +12809,6 @@ ubmcmm.baidustatic.com
 ||bkqykixrzrgwr.space^
 ||absinthvernon.top^
 ||amongdirt.world^
-||coaxwrote.com^
 ||cjvdfw.com^
 ||aiflxsntchukk.space^
 ||2f44166f35.com^
@@ -18076,6 +18075,7 @@ ubmcmm.baidustatic.com
 ||keepinfit.net^
 ||electricalsedate.com^
 ||lipsfitfulhurricane.com^
+||coaxwrote.com^
 ||gaupsootoagrauk.net^
 ||localsnaughty.com^
 ||goodgamesmanship.com^
@@ -19578,7 +19578,6 @@ ubmcmm.baidustatic.com
 ||eelensaimteth.com^
 ||embogsoarers.com^
 ||futureus.com^
-||lysidinsonants.cyou^
 ||enifonlook.top^
 ||gambirspackle.qpon^
 ||defnbvzwdlurt.online^
@@ -29564,6 +29563,7 @@ ubmcmm.baidustatic.com
 ||scmiwmxoolipl.store^
 ||qfdxlcfdjwm.com^
 ||ohejbszpvhswi.online^
+||lysidinsonants.cyou^
 ||necessary-strip.pro^
 ||ofclaydolr.com^
 ||pftufoszjdneq.online^
@@ -31939,7 +31939,6 @@ ubmcmm.baidustatic.com
 ||pushinpage.com^
 ||serestkaraite.world^
 ||southedtottie.shop^
-||timsef.com^
 ||pqybiuubsheqv.online^
 ||seveelumus.com^
 ||substantialequilibrium.com^
@@ -36891,6 +36890,7 @@ ubmcmm.baidustatic.com
 ||77886044.xyz^
 ||zercenius.com^
 ||yerescanner.cyou^
+||timsef.com^
 ||twinrdsyte.com^
 ||wedeffront.top^
 ||ygmkcuj3v.com^
