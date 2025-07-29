@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-07-29 08:02:47
+! Last Modified: 2025-07-29 16:00:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -13467,6 +13467,7 @@ _yad_jsonp_
 ||sooopu.com/js/*950.js
 /images//ads/*
 ||15hn.net/data/content
+||yxdd.com^$subdocument
 .info/js/ads/
 ~125.la,~52pojie.cn,~chysg.com,~hawkaoe.net,~yswc1.xyz##.a_mu
 ||avividone.likr.tw$third-party
@@ -15590,6 +15591,7 @@ _468x90_
 tech.qq.com##.kjad2
 china.com.cn###baidu
 i.qq.com##.linwei-logo
+###ad-slot1
 ksbbs.com,kshot.com##.slideAdvert
 @@||mmff30.com^$generichide
 huya.com##.end-ab-banner
@@ -22973,7 +22975,6 @@ my0511.com##div[id^="topad"]
 @@||beanfun.com/ADClient/
 @@||dizhi99.com^$generichide
 weishangshijie.cn##.w_bzb_1
-||yxdd.com^$subdocument
 so.com##.windisplayCell
 ###ad-side-text
 cps.com.cn##.couplet-le
@@ -24865,7 +24866,6 @@ maoken.com###siderAd01
 ###bottom_ads
 ##.ad3001
 ##.ad_text_links
-###ad-slot1
 ###ad-slot2
 ##.ad-mobile-300x250
 ##.adNotice90
@@ -28349,6 +28349,7 @@ maoken.com###siderAd01
 ##.advertisement-right
 ###post-page-ad
 ##.ad-summary
+##.home-body-ads
 ##.AdBox
 ##.adstrip
 ##.adboxid
@@ -37398,7 +37399,6 @@ si.com#@##mplayer-embed
 ##a[href^="https://pb-imc.com/"]
 ##.xpot-horizontal
 ###rightrail_pos1_ddb_0
-##.home-body-ads
 ##.jw-ad-block
 ##.lowerAds
 ##.slide_ad
@@ -40848,6 +40848,7 @@ tei-c.org#@##msad
 ||updatecompletelyfreetheproduct.vip^$popup
 ||bet365affiliates.com^$third-party
 ||berapt-medii.com^$popup
+||wifescamara.click^$popup
 ||digitaldsp.com^$popup
 ||audiblereflectionsenterprising.com^$popup
 ||rum39bxk.fun^$popup
@@ -49388,6 +49389,7 @@ newthinking.com##.ad-container-mpu
 seattletimes.com##.tall-rect
 ||ntrfr.leovegas.com^$popup
 engadget.com##.caas-da
+telegraphindia.com##.uk-background-muted
 myanimelist.net##.border_top
 spotifydown.com##.semi-transparent
 leiterreports.typepad.com###paid_advertisements_
@@ -49559,7 +49561,6 @@ kijiji.ca##.jOwRwk
 indianexpress.com##.ie-int-campign-ad
 ||lewdspot.com/img/aff_
 thekitchn.com##.DesktopStickyFooter
-||wifescamara.click^$popup
 rent.ie###sresult_banner
 lineageos18.com###contentLocker
 benzinga.com##.lazyload-wrapper[style="min-height:170px;width:100%"]
@@ -53817,7 +53818,6 @@ pcgamestorrents.com##a[href*="/gameadult/"]
 justthegays.tv###ad-banner
 manhwabtt.com,tennismajors.com##[style$="min-height: 250px;"]
 bestoftelegram.com##a[href^="/ads/banner_ads?"]
-telegraphindia.com##.uk-background-muted
 kemono.su##a[href*="tsyndicate.com/"]
 qz.com#?#div[class^="sc-"]:-abp-has(> div[class="ad-unit"])
 mirror.co.uk##.vf3-conversations-list__promo
