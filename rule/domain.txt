@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-08-08 00:00:58
+! Last Modified: 2025-08-08 08:02:35
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3206,7 +3206,6 @@ iadctest.qwapi.com^
 ||hexingteeting.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5378,6 +5377,7 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||baijs010.xyz^
 ||u4ccj.icu^
@@ -11467,7 +11467,6 @@ ubmcmm.baidustatic.com
 ||avjbjbekaaaev.top^
 ||chiltebesnuff.cyou^
 ||aweyqaqkryzv.top^
-||chisledtomjohn.shop^
 ||amelatrina.com^
 ||206ads.com^
 ||bvyptevtmkdul.store^
@@ -16929,6 +16928,7 @@ ubmcmm.baidustatic.com
 ||giirlforyou.com^
 ||frequentday.com^
 ||hostave.net^
+||chisledtomjohn.shop^
 ||fretishvelary.com^
 ||isyimywasmedru.com^
 ||kaupsomauphe.com^
@@ -18368,7 +18368,6 @@ ubmcmm.baidustatic.com
 ||kzwygwjshlbk.com^
 ||kpaagnosdzih.com^
 ||doasoajeegat.net^
-||lafastnews.com^
 ||incubistirs.life^
 ||kutqiznf.com^
 ||forarchenchan.com^
@@ -25984,7 +25983,6 @@ ubmcmm.baidustatic.com
 ||perceivedspokeorient.com^
 ||reajyu.net^
 ||senditfast.cloud^
-||smartadsflow.top^
 ||popdemission.com^
 ||mhojhjsgzcwmft.com^
 ||opclauncheran.com^
@@ -28419,6 +28417,7 @@ ubmcmm.baidustatic.com
 ||racingorchestra.com^
 ||lnkrdr.com^
 ||popadscdn.net^
+||lafastnews.com^
 ||skillcharging.com^
 ||musalsalting.com^
 ||ripplebuiltinpinching.com^
@@ -35490,6 +35489,7 @@ ubmcmm.baidustatic.com
 ||spindlyrebegin.top^
 ||xgsanpyn.xyz^
 ||98643801.xyz^
+||smartadsflow.top^
 ||whirteetchi.net^
 ||thoroughlyripepedigree.com^
 ||yungluteal.top^
