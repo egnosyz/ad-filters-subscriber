@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-08-09 08:02:26
+! Last Modified: 2025-08-09 16:00:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -9772,7 +9772,6 @@ $third-party,websocket,xmlhttprequest,domain=qiyoudy2.com|qiyoudy4.com
 ||xonlines.com/upload/gg/
 ###wp > .V-videoFloat
 ##.ad300left
-||yecaoyun.com/AD/
 ||skads.gxsky.com^$script
 ###kfpopupDiv
 ||nulltm.com/adv.js
@@ -20061,6 +20060,7 @@ qq.com#@#.adside
 ###LeftAd
 3d66.com##.down-adver
 hl.cn###xf_left
+||yecaoyun.com/AD/
 hao.360.cn###festival_baijian
 boylov.xyz,boylove.cc,boyloves.fun##.div_sticky2
 /wp-content/plugins/bookingcom-banner-creator/*
@@ -22876,7 +22876,6 @@ nlc.gov.cn###lovexin12xx
 howbuy.com##.topBigAd
 ##.float-left12 > .div-list
 chinaz.com##.kwLink
-###ad-module
 cztv.com##.drop_down_ad
 /bottom-ads.png$image
 1kkk.com##.kk2.cc
@@ -32714,6 +32713,7 @@ maoken.com###siderAd01
 ##.article-ad-legend
 ###center-ad
 ##.adshowcase
+###ad-module
 ##.adMPUHome
 ##.ad-14
 ##.ads3
@@ -33875,7 +33875,6 @@ maoken.com###siderAd01
 ##.dfp_frame
 ##.galleryads
 ###adhome
-##.header-article-ads
 ###adsense_image
 ##.ad-LREC
 ##.block-bg-advertisement
@@ -37924,6 +37923,7 @@ gqjapan.jp#@#.ad-stickyhero
 ##.wp125ad_2
 ##.top-adv-container
 ##.sidebar-advertisement
+##.header-article-ads
 ##.p-ad-dfp-middle-rec
 ##.legion_primiswrapper
 ###gpt-high_impact
@@ -38647,7 +38647,6 @@ tei-c.org#@##msad
 ||adsring.com^$third-party
 ||digitalthrottle.com^$third-party
 ||gotrackier.com^$document
-||download-performance.com^$popup
 ||broadstreetads.com^$third-party
 ||14202444.xyz^$document,popup
 ||codedexchange.com^$popup
@@ -41353,6 +41352,7 @@ mainichi.jp###PC-english-rec1
 videogamer.com###block-aside-ad-unit
 ||viensvoircesite.com^$third-party
 ||promo.pixelsee.app^$popup
+||download-performance.com^$popup
 ||camhub.cc/static/js/bgscript.js
 timesofindia.indiatimes.com##.ATF_wrapper
 ||hotdivines.com^$popup
@@ -48783,7 +48783,6 @@ cyprusshippingnews.com##.csn-target
 scrabble-solver.com###Upper
 ||gloytrkb.com^$popup
 ||loverevenue.com^$popup
-chess-results.com##.fedAdv
 ||hookupbucks.com^$third-party
 ||lesmeilleurs-jeux.net/images/ban/
 accuradio.com##.MobileSquareAd__Container-sc-1p4cjdt-0
@@ -55758,6 +55757,7 @@ darwintube.com##.spots
 ascii-code.com##.text-center.mb-3
 blockchair.com##.native-sentence
 business2community.com##div[id^="busin-"]
+chess-results.com##.fedAdv
 yahoo.com##.mx-\[-50vw\]
 nationalmemo.com,spectrum.ieee.org,theodysseyonline.com##div[class^="rblad-"]
 jagranjosh.com##.homeSlider
