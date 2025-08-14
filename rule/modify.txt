@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-08-14 08:02:43
+! Last Modified: 2025-08-14 16:00:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -11922,6 +11922,7 @@ _popAds.
 ||0722fc.com/index/index.php?/ajax/get_adv/
 ###lovexin1
 ||tuwan.com/events/courseiframe?
+||xuehi.cn/reward/reward
 ||louimg.com/u/20191214/17512133.jpg
 ||d2.sina.com.cn^$object,script
 ||gtimg.com/adb/$domain=okooo.com
@@ -17092,7 +17093,6 @@ lqz.cn###ad_index
 redocn.com###yc_adv_1_2
 freedidi.com##a[href*="/bittly.cc"]
 /livejasmin.$~xmlhttprequest,domain=~livejasmin.com
-||xuehi.cn/reward/reward
 114la.com,ylmf.com###HDtopBar
 readmoo.com#@#.navbar-social
 @@||mediav.com/js/feed_ts.js$domain=china.com|mini.yyrtv.com
@@ -17256,6 +17256,7 @@ coderutil.com##.search-module + a
 /468-60-
 greenxf.com###speed-downloader
 iqiyi.com##.dove_ad
+###ad-leadboard1
 jable.tv###jimds-slider
 playno1.com###m12
 ||cdncg.com^*/kangmey
@@ -26706,7 +26707,6 @@ maoken.com###siderAd01
 ##.ads-container-250
 ###footer_add
 ##.ad_incontent
-###ad-leadboard1
 ###ad-leadboard2
 ##.AdsRectangleWrapper
 ##.adslot970
@@ -29318,6 +29318,7 @@ maoken.com###siderAd01
 ##.ad_indicator
 ##.adv_250_250
 ###dv-gpt-ad-bigbox-wrap
+##.header-ad-area
 ###overlayad
 ###background-ad-cover
 ##.ad-block-holder
@@ -34254,7 +34255,6 @@ codedevstuff.blogspot.com,hassiweb-programming.blogspot.com#@#.vertical-ads
 ##.ob_container .item-container-obpd
 ##.gnt_tb.gnt_tbb
 ##div[id^="adngin-"]
-##.header-ad-area
 ###component-taboola-below-article-feed-2
 jabank-tokushima.or.jp#@#.ad_middle
 ##.inline-ad-wrap
@@ -38475,6 +38475,7 @@ tei-c.org#@##msad
 ||horonstogly.com^$document
 ||northauthority.xyz^$document
 ||ddbhm.pro^$document
+||a-static.com^$third-party
 ||mnaspm.com^$document
 ||xadsmart.com^$document
 ||pnouting.com^$document
@@ -44013,7 +44014,6 @@ datagenetics.com###dgsidebar
 ||quantumws.net^$third-party
 ||oneclickpic.net^$popup
 ||riowrite.com^$popup
-||a-static.com^$third-party
 ||teenfinder.com/landing/$popup,third-party
 ||mobday.com^$third-party
 ||jepsauveel.net^$popup
@@ -44843,6 +44843,7 @@ gearspace.com###container__DesktopFDAdBanner
 ||adfinity.pro^$third-party
 ||ad-free.info^$popup
 fanlesstech.com###HTML5 > .widget-content
+gameguardfaq.nprotect.com###gall_bg
 ||ylih6ftygq7.com^$popup
 ||23.109.150.101^$popup
 ||google.com/adsense/search/async-ads.js
@@ -53880,7 +53881,6 @@ yahoo.com##.darla_ad
 fap-nation.com,fyptt.to,gamegill.com,isekaitube.com,japaneseasmr.com##.code-block
 forums.golfwrx.com###pb-slot-top
 missav.*,missav123.com,missav888.com##[style^="width: 300px; height: 250px;"]
-gameguardfaq.nprotect.com###gall_bg
 appleinsider.com##div.main-art:has-text(Sponsored Content)
 walmart.*##div[class="mb1 ph1 pa0-xl bb b--near-white w-25"]:has(div[data-ad-component-type="wpa-tile"])
 85po.com,babepump.com,fapnfuck.com,fuqster.com,povxl.com,sexpester.com,w1mp.com,w4nkr.com,xmateur.com##.link-offer

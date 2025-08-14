@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-08-14 08:02:43
+! Last Modified: 2025-08-14 16:00:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3297,6 +3297,7 @@ advertisers.js|
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
+||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5499,7 +5500,6 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||baijs010.xyz^
@@ -13013,6 +13013,7 @@ ubmcmm.baidustatic.com
 ||61e564cc00.com^
 ||a91e9c75f8.com^
 ||bolpjziaxakkg.store^
+||cdn-adtrue.com^
 ||aimpoordisto.net^
 ||awepsljan.com^
 ||5pi13h3q.de^
@@ -18170,7 +18171,6 @@ ubmcmm.baidustatic.com
 ||ementrandings.org^
 ||ezyenrwcmo.com^
 ||happinessunderneathmotion.com^
-||cdn-adtrue.com^
 ||defraudfallace.shop^
 ||expectationtragicpreview.com^
 ||htplaodmknel.one^
@@ -21071,6 +21071,7 @@ ubmcmm.baidustatic.com
 ||comerhurlentertain.com^
 ||hentaigold.net^
 ||jeoawamqybkeb.top^
+||joglomsexurgod.net^
 ||cossidsinuous.com^
 ||doekvivek.qpon^
 ||idoismtaxable.life^
@@ -25407,6 +25408,7 @@ ubmcmm.baidustatic.com
 ||opposecurves.life^
 ||mummershaha.help^
 ||kwxegvirgslwh.site^
+||rickedsambaed.top^
 ||lkzsvaaigmuez.website^
 ||lrkfuheobm.one^
 ||ortwaukthwaeals.com^
@@ -31072,7 +31074,6 @@ ubmcmm.baidustatic.com
 ||mudacban.com^
 ||ozectynptd.com^
 ||lmyvafkazblue.site^
-||joglomsexurgod.net^
 ||psaughoung.net^
 ||rapaidrily.com^
 ||qyhgmzmuvwk.com^
@@ -35316,7 +35317,6 @@ ubmcmm.baidustatic.com
 ||uidpklgzchjnf.website^
 ||waisheph.com^
 ||yapzoa.xyz^
-||rickedsambaed.top^
 ||vacuomedogeys.com^
 ||toothcauldron.com^
 ||wuporg.com^
