@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2025-08-24 16:00:45
+! Last Modified: 2025-08-25 00:00:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -12281,6 +12281,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,mojezdravi.cz,
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
+||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -15429,6 +15430,7 @@ _popAds.
 ||bosw.net/js/bos/*960
 ||huanqiu.com/resource/js/base
 ||sunofbeaches.com/shop/recommend/
+||wx.sina.com.cn/iframe/pdps/
 ||sogou.com/wap_ask_service?
 ||cdncg.com^*/Aepku
 .nyaa.fun/static/img/*_refesh.
@@ -20276,7 +20278,6 @@ _fioiwhfo_
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||baijs010.xyz^
@@ -25476,6 +25477,7 @@ qq.com##.cps_inner
 159i.com###top > div[class]:first-child
 /advanced-ads-$script,stylesheet,domain=~transinfo.pl|~wordpress.org
 ###ad-box-1
+###ad-box-2
 /api/users?token=$subdocument,third-party
 mydown.com##.aqDownload
 carrotchou.blog##.item > a[href^="http"]:not([href*=".carrotchou."])
@@ -29480,7 +29482,6 @@ xz7.com##div[class^="AD_"]
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com###pagelet_frs-aside\/pagelet\/fengchao_ad
 drvsky.com###bz_position
 /sc-tagmanager/*$script
-||wx.sina.com.cn/iframe/pdps/
 2345.com##.comp-logo-wall
 mydown.com##.doubleDownload_bottom
 stockstar.com##.much_ad
@@ -35688,7 +35689,6 @@ maoken.com###siderAd01
 ##.ads_tr
 ##.ad652
 ##.dfp-wrapper
-###ad-box-2
 ###wide_right_ad
 ##.ads_unit
 ##.advertorial_728x90
@@ -39826,6 +39826,7 @@ maoken.com###siderAd01
 ###adHolder4
 ###adHolder3
 ###adHolder2
+##.gptSlot-outerContainer
 ##.ad-permalink
 ###ad_footer1
 ##.ads-rectangle
@@ -44451,7 +44452,6 @@ miuithemers.com#@##ads-left
 ##.story__top__ad
 ##.pages__ad
 ##.sidebox_ad
-##.gptSlot-outerContainer
 suntory.co.jp#@##page_ad
 ##.header-adbanner
 ##.ympb_target
@@ -47788,6 +47788,7 @@ tei-c.org#@##msad
 ||beleapsavidity.top^
 ||afgr6.com^
 ||2linkpath.com^
+||claim-reward.vidox.net^
 ||azzxoefggcsuo.website^
 ||bakaevzrmcqdo.global^
 ||bigbolz.com^
@@ -58490,7 +58491,6 @@ tei-c.org#@##msad
 ||kbbypzmkjpulx.online^
 ||crjpgate.com^
 ||forworksyconus.com^
-||claim-reward.vidox.net^
 ||connecttoday.eu^
 ||gukmodukuleqasfors.org^
 ||efortiessdate.net^
@@ -60024,6 +60024,7 @@ tei-c.org#@##msad
 ||fineest-accession.life^
 ||entrecard.s3.amazonaws.com^
 ||hennishamphore.cyou^
+||lovableteas.qpon^
 ||greerogloo.net^
 ||folkswrymyrtle.com^
 ||dammywealth.com^
@@ -68671,6 +68672,7 @@ tei-c.org#@##msad
 ||qswqmdejpptbp.space^
 ||perfectmarket.com^
 ||ruohmghwpzzp.com^
+||televisiongrownupcrowd.com^
 ||pigsneytooter.qpon^
 ||pwrfqrxqx.com^
 ||myolnyr5bsk18.com^
@@ -70075,7 +70077,6 @@ tei-c.org#@##msad
 ||mallettraumatize.com^
 ||megohmcopout.digital^
 ||sshalwsbcoidgj.com^
-||lovableteas.qpon^
 ||qpwvok0l.xyz^
 ||mootssirvent.qpon^
 ||pliing.com^
@@ -73876,6 +73877,7 @@ tei-c.org#@##msad
 ||ptupsewo.net^$popup
 ||bukusukses.com^$popup
 ||havegrosho.com^$popup
+||swinity.com^$popup
 ||24052107.live^$document,popup
 ||onclicksuper.com^$popup
 ||jwalkin.com^$document
@@ -78463,7 +78465,6 @@ tei-c.org#@##msad
 ||viewedspurtdysfunctional.com^
 ||villanforrit.shop^
 ||wuci1.xyz^
-||televisiongrownupcrowd.com^
 ||xmodrhtqvbinumv.com^
 ||westycrined.help^
 ||ybhlsbfxpgt.com^
@@ -85754,6 +85755,7 @@ gelbooru.com##.headerAd
 flightglobal.com,thriftyfun.com##.adp
 ||tilttrk.com^$popup
 ||pokazuwka.com/popu/
+food.com##.smart-rail-inner
 news.net##.right-banner-wr > .right
 versus.com##.lead_top
 needsomefun.net###text-42
@@ -87880,7 +87882,6 @@ collegedunia.com##.headerslot
 ||trackstracker.com^$popup
 pd3.gg##.app-ad-placeholder
 ||goldmoney.com/~/media/Images/Banners/
-||swinity.com^$popup
 cnn.com##.ad-feedback__modal
 thegearpage.net##.VSPostbit
 robtex.com##.endl
@@ -96508,7 +96509,6 @@ hentaistream.com##div[style$="width:100%;height:768px;overflow:hidden;visibility
 porngames.tv##.one-top-link
 morrisons.com##.featured-items:has(.js-productCarouselFops)
 petco.com##[class^="citrus-carousel-"]:has([class^="carousel__Sponsored"])
-food.com##.smart-rail-inner
 bamsmackpow.com,fansided.com,mentalfloss.com##.player-wrapper
 adultgamesworld.com##.rel:has(a[href^="https://access-the-website.com/"])
 fastfoodnutrition.org##.sticky_footer
