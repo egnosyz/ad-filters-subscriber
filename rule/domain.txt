@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-08-24 08:02:47
+! Last Modified: 2025-08-24 16:00:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3215,7 +3215,6 @@ iadctest.qwapi.com^
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||primarypoot.com^
 ||yourefoxchop.com^
 ||hoodlumbragget.com^
@@ -5467,6 +5466,7 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||baijs010.xyz^
@@ -9640,7 +9640,6 @@ ubmcmm.baidustatic.com
 ||beleapsavidity.top^
 ||afgr6.com^
 ||2linkpath.com^
-||claim-reward.vidox.net^
 ||azzxoefggcsuo.website^
 ||bakaevzrmcqdo.global^
 ||bigbolz.com^
@@ -20339,6 +20338,7 @@ ubmcmm.baidustatic.com
 ||kbbypzmkjpulx.online^
 ||crjpgate.com^
 ||forworksyconus.com^
+||claim-reward.vidox.net^
 ||connecttoday.eu^
 ||gukmodukuleqasfors.org^
 ||efortiessdate.net^
@@ -21872,7 +21872,6 @@ ubmcmm.baidustatic.com
 ||fineest-accession.life^
 ||entrecard.s3.amazonaws.com^
 ||hennishamphore.cyou^
-||lovableteas.qpon^
 ||greerogloo.net^
 ||folkswrymyrtle.com^
 ||dammywealth.com^
@@ -30518,7 +30517,6 @@ ubmcmm.baidustatic.com
 ||qswqmdejpptbp.space^
 ||perfectmarket.com^
 ||ruohmghwpzzp.com^
-||televisiongrownupcrowd.com^
 ||pigsneytooter.qpon^
 ||pwrfqrxqx.com^
 ||myolnyr5bsk18.com^
@@ -31923,6 +31921,7 @@ ubmcmm.baidustatic.com
 ||mallettraumatize.com^
 ||megohmcopout.digital^
 ||sshalwsbcoidgj.com^
+||lovableteas.qpon^
 ||qpwvok0l.xyz^
 ||mootssirvent.qpon^
 ||pliing.com^
@@ -35648,6 +35647,7 @@ ubmcmm.baidustatic.com
 ||viewedspurtdysfunctional.com^
 ||villanforrit.shop^
 ||wuci1.xyz^
+||televisiongrownupcrowd.com^
 ||xmodrhtqvbinumv.com^
 ||westycrined.help^
 ||ybhlsbfxpgt.com^
