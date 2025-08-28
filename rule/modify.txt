@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-08-28 08:02:08
+! Last Modified: 2025-08-28 16:00:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -13342,6 +13342,7 @@ _fioiwhfo_
 ||33img.com^$domain=18board.com|18p2p.com
 ##.wordurl[style="   width: 42%; float:left; text-align: center;"]
 /shehuik618cn/images/c.js
+||vipdage.com/wp-content/uploads/ad/
 ||5888.tv/User_Ad/
 ||acgbenzi.com^$image
 ||olelive.com/v1/pub/index/anchor/check/pc/e?
@@ -18190,7 +18191,6 @@ chinavoa.com###Content_VOA
 @@||i3.sinaimg.cn/video/deco/2013/0325/js/
 baidu.com###sning1
 eyuyao.com##div[id^="x_ad_"]
-||vipdage.com/wp-content/uploads/ad/
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game_list_and_rank
 cpnn.com.cn##.adverd-top
 ###MPUAdSpace
@@ -21659,6 +21659,7 @@ mtrend.cn##.hdlist
 ###RightAdBlock
 wx.sina.com.cn###artibody > .article-video
 ggcj.com##.dbxf
+###above-fold-ad
 @@||simba.taobao.com/?name=mcad$script
 ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###ecl-temai-general
 huya.com##.end-ab-wrap
@@ -31361,7 +31362,6 @@ maoken.com###siderAd01
 ##.ad__sticky
 ##.ad160x600GrayBorder
 ##.base-ad-slot
-###above-fold-ad
 ##.ad-page-medium
 ##.ad_side_rectangle_banner
 ###ad-right
@@ -31824,6 +31824,7 @@ maoken.com###siderAd01
 ##.ad_130x90
 ##.dfp-panel
 ###ad_publicidad
+##.google-ad-widget
 ###sidebar-top-ad
 ###mpu-content
 ##.ad-rotator
@@ -36360,7 +36361,6 @@ mypillow.com#@#[href^="http://mypillow.com/"] > img
 ##.jg-ad-5
 ##.plainAd
 ##.sponsorArea
-##.google-ad-widget
 ##a[href^="https://go.admjmp.com"]
 ##.taboola-ad
 ##.new_ads_unit
@@ -38914,6 +38914,7 @@ tei-c.org#@##msad
 ||inskinmedia.com^$~stylesheet,third-party
 ||skinected.com^$third-party
 ||fixionmedia.com^$third-party
+||awptjmp.com^$popup
 ||adzblockersentinel.net^$popup
 ||04424170.xyz^$document,popup
 ||w00tmedia.net^$third-party
@@ -41519,6 +41520,7 @@ airfactsjournal.com##.avia_image
 ||titsintops.com/phpBB2/nb/
 all-nettools.com,filesharingtalk.com,kiwibiker.co.nz,printroot.com###ad_global_below_navbar
 releasestv.com##.ast-above-header-wrap
+cheezburger.com##.chz-ad-wrap
 ||thoroughlypantry.com^$popup
 ||stopadblocker.com^$popup
 ||203.195.121.229^$popup
@@ -47475,7 +47477,6 @@ xdaforums.com###xdaforums_right_1
 @@||cloudflare.com^$script,domain=rule34hentai.net
 ||sumbreta.com^$popup
 d4builds.gg##.app__ad__leaderboard
-||awptjmp.com^$popup
 thestreamable.com###promo-signup-bottom-sheet
 ||yield.app^*utm_source=$popup
 ||isready2.online^$popup
@@ -49721,7 +49722,6 @@ briskoda.net##.ipsData__item--advertisement
 essentiallysports.com###player_stn-player__Dybik
 textcompare.org##.mui-19wbou7
 producthunt.com#?#.text-12:-abp-contains(Promoted)
-cheezburger.com##.chz-ad-wrap
 slickdeals.net##.frontpageGrid__bannerAd
 sainsburys.co.uk##.gridItem:has(.citrusAdproduct)
 wethegeek.com##.popup-dialog
