@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-09-01 00:00:47
+! Last Modified: 2025-09-01 08:03:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3288,6 +3288,7 @@ advertisers.js|
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
+||tubingacater.com^
 ||hoodlumbragget.com^
 ||indriwhats.com^
 ||parazoamirks.com^
@@ -5535,7 +5536,6 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||baijs010.xyz^
@@ -12533,6 +12533,7 @@ ubmcmm.baidustatic.com
 ||bajoansams.net^
 ||9e3810a418.com^
 ||anymind360.com^
+||cfxregwlbqstj.store^
 ||25obpfr.de^
 ||apotypepauline.world^
 ||bearscutte.com^
@@ -17493,6 +17494,7 @@ ubmcmm.baidustatic.com
 ||fukpgbwf.com^
 ||knoyoopj.xyz^
 ||constableleapedrecruit.com^
+||kodbafryxemdz.website^
 ||exaltedsleep.com^
 ||infonewsz.care^
 ||cjewz.com^
@@ -22778,7 +22780,6 @@ ubmcmm.baidustatic.com
 ||igwatrsthg.site^
 ||iyksjfeqfrpka.site^
 ||grownwrecking.com^
-||cfxregwlbqstj.store^
 ||ecvnsycct.xyz^
 ||heybarnacle.com^
 ||hiringsethynes.help^
@@ -27561,7 +27562,6 @@ ubmcmm.baidustatic.com
 ||rjwwqkrmyvzyw.top^
 ||ocmhood.com^
 ||ovljwbyqjmnvg.top^
-||kodbafryxemdz.website^
 ||letdownlyricallyquarry.com^
 ||lzxdx24yib.com^
 ||scrupulousyet.com^
@@ -33064,6 +33064,7 @@ ubmcmm.baidustatic.com
 ||qrpwafdsliun.com^
 ||shusacem.net^
 ||shipwreckclassmate.com^
+||simple-isl.com^
 ||newspaperpolite.com^
 ||mediative.ca^
 ||picturefasola.digital^
@@ -40993,7 +40994,6 @@ ubmcmm.baidustatic.com
 ||stewishaspic.cfd^
 ||zaxzijfoybgzs.online^
 ||trustworthyturnstileboyfriend.com^
-||simple-isl.com^
 ||ueomdedzyvpdn.online^
 ||unionsdominos.help^
 ||vbdmzqnrwrfug.online^
