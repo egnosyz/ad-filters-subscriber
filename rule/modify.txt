@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-09-02 00:00:58
+! Last Modified: 2025-09-02 08:02:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -11735,7 +11735,6 @@ _popAds.
 /ajjsjfsk/*
 ||933m.com/1.js
 ###MsnDialog.ad
-||xinmin.cn/framepage/left1.htm
 ||poco.cn/v1_1/rank/get_floating_layer_ad
 ||1708t.com/js/jquery.js
 =loginExtAD.
@@ -16944,6 +16943,7 @@ cpnn.com.cn##.rightgg
 javhd.com##.benefits-list-holder
 kzs1w.com,sehuatang.org##div[class^="show-text"]
 .lol/js/pub.min.js$third-party
+||xinmin.cn/framepage/left1.htm
 gmgard.com,hggard.com###blog > div[style="overflow:hidden"]
 pcsoft.com.cn##a[onclick*="_ad"]
 ip138.com###banana
@@ -23878,7 +23878,6 @@ jiaodong.net###rightBanner
 /imageads/*$image
 360doc.com###arttopbdad
 foodmate.net,ksbbs.com,kshot.com,oschina.net##.banner_box
-###ad-container-top-placeholder
 iask.sina.com.cn##.sj_300x250
 mp4ba.la##.hd + table
 so.com##.commercialCell
@@ -24406,7 +24405,6 @@ maoken.com###siderAd01
 ###leaderboard-bottom-ad
 ##.con_ads
 ##.aoa_overlay
-##.holder-ad
 ##.adBox2
 ##.adBox5
 ##.ads-label
@@ -33864,6 +33862,7 @@ maoken.com###siderAd01
 ###iframe-ad
 ###rh_tower_ad
 ##.ad-lb
+###ad-container-top-placeholder
 ###adSlider
 ##.ad-text-centered
 ###leaderboardAdvert
@@ -34322,6 +34321,7 @@ cookinglight.com#@#div[data-native_ad]
 ##.taboola_blk
 job.inshokuten.com,sexgr.net,webbtelescope.org,websaver.ca#@#.ad-box:not(#ad-banner):not(:empty)
 ##.sponsor-block
+##.holder-ad
 ##.widget_adswidget1-quick-adsense
 ##.insert_advertisement
 ##.item-ad
@@ -38249,7 +38249,6 @@ tei-c.org#@##msad
 ||applixir.com^$third-party
 ||blogads.com^$third-party
 ||buysellads.net^$third-party
-||cpm.media^$third-party
 ||podbex.com^$document
 ||escortlist.pro^$document
 ||adperfect.com^$third-party
@@ -41347,6 +41346,7 @@ demap.info###pcad
 ||1av.to/assets/ad/
 ||adcell.de^$third-party
 ||trip.com/partners/ad/
+||cpm.media^$third-party
 ||imediaaudiences.com^$third-party
 ||pushub.net^$popup
 ||welfarefit.com^$popup
@@ -46429,7 +46429,6 @@ teamfortress.tv###aw
 ||jwalf.com^$popup
 ||adsplex.com^$popup
 ||unblockedapi.com^$popup
-rawstory.com###story-top-ad
 usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
 ||deltabravo.net/admax/
 ||xhamstercams.com^$third-party
@@ -55396,6 +55395,7 @@ bevmalta.org,conandaily.com,gamersocialclub.ca,hawaiireporter.com,michaelsavage.
 hellomagazine.com##.adContainerClass_acvudum
 hentai-cosplays.com,hentai-img.com###display_image_detail > span
 actionnetwork.com##.promotion-table
+rawstory.com###story-top-ad
 washingtonpost.com##[data-qa="article-body-ad"]
 infographicjournal.com#?#.et_pb_module:-abp-contains(Partners)
 dot.la##.job-wrapper
