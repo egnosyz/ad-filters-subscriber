@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-09-02 08:02:18
+! Last Modified: 2025-09-02 16:00:54
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3289,6 +3289,7 @@ advertisers.js|
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
+||tubingacater.com^
 ||hoodlumbragget.com^
 ||indriwhats.com^
 ||parazoamirks.com^
@@ -3320,6 +3321,7 @@ advertisers.js|
 ||humbugsmillite.com^
 ||mudejartitoism.com^
 ||zygousgauby.com^
+||afgodscarpe.com^
 ||hottedholster.com^
 ||verninchange.com^
 ||erodiumvodums.com^
@@ -5484,7 +5486,6 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||u4ccj.icu^
@@ -6806,7 +6807,6 @@ advertisers.js|
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||hur05130kns.com^
 ||orutvnck.top^
 ||qkitery.top^
@@ -10735,6 +10735,7 @@ ubmcmm.baidustatic.com
 ||adexchangetracker.com^
 ||advancinginfinitely.com^
 ||aycompleted.com^
+||chereawoken.rest^
 ||alibamustanzo.shop^
 ||amolesramsons.cfd^
 ||awkwardemergency.com^
@@ -13989,6 +13990,7 @@ ubmcmm.baidustatic.com
 ||camliveshow.xyz^
 ||alpheratzscheat.top^
 ||23hssicm9.de^
+||chererykes.help^
 ||baggedyaffler.click^
 ||arminius.io^
 ||0d22ca5caa.com^
@@ -18164,7 +18166,6 @@ ubmcmm.baidustatic.com
 ||jbocfcxztlpry.store^
 ||fillingcater.com^
 ||jesseanritzes.shop^
-||chereawoken.rest^
 ||deliverytrafficnews.com^
 ||jhuriarepile.world^
 ||formicatartare.top^
@@ -22738,6 +22739,7 @@ ubmcmm.baidustatic.com
 ||fivemoreish.help^
 ||grogschester.digital^
 ||cutescale.online^
+||kastafor.com^
 ||e548899712.com^
 ||fvvyndmujhviq.store^
 ||freesoftwarelive.com^
@@ -23464,7 +23466,6 @@ ubmcmm.baidustatic.com
 ||fbmedia-dhs.com^
 ||hpfchmjsfkhjt.site^
 ||ewheegloakob.com^
-||chererykes.help^
 ||hotdatehaven.com^
 ||illinformed-camp.pro^
 ||hiespekbk.com^
@@ -24506,6 +24507,7 @@ ubmcmm.baidustatic.com
 ||fyzoqppdyllsr.store^
 ||hlinit.com^
 ||daintyinternetcable.com^
+||kasteehoordopee.net^
 ||concisedistend.help^
 ||cherriesprospectsfaith.com^
 ||grasshusk.com^
@@ -31223,6 +31225,7 @@ ubmcmm.baidustatic.com
 ||oogsxtlyxxwxc.com^
 ||poweradblocker.com^
 ||reldoven.help^
+||ryifzfdxgoatd.online^
 ||longinghospitalsurveyed.com^
 ||minotaur107.com^
 ||ktkjmp.com^
@@ -32766,7 +32769,6 @@ ubmcmm.baidustatic.com
 ||livvbkx-vejj.xyz^
 ||nirmhxlrrjvpp.xyz^
 ||propertyofnews.com^
-||kastafor.com^
 ||oamoameevee.net^
 ||pidginshotmelt.help^
 ||online-1.co.in^
@@ -33179,6 +33181,7 @@ ubmcmm.baidustatic.com
 ||pushprofit.net^
 ||koolahsqueege.com^
 ||ofgogoatan.com^
+||ryiciyxfnjaof.store^
 ||leucinsgeleem.world^
 ||rmxads.com^
 ||marshcooperative.com^
@@ -34506,7 +34509,6 @@ ubmcmm.baidustatic.com
 ||mpnrs.com^
 ||rausoavahejasug.net^
 ||ladsims.com^
-||kasteehoordopee.net^
 ||pacesconcise.com^
 ||kqemajjoxqps.com^
 ||larasub.conxxx.pro^
@@ -40471,7 +40473,6 @@ ubmcmm.baidustatic.com
 ||vetnatl.cfd^
 ||shoaltissooxe.com^
 ||trufflelekane.life^
-||ryifzfdxgoatd.online^
 ||tdmnbijnrlyu.xyz^
 ||tuckbrows.com^
 ||yashi.com^
@@ -42097,7 +42098,6 @@ ubmcmm.baidustatic.com
 ||vz.7vid.net^
 ||tildenshrip.com^
 ||zjrppcmivtpd.com^
-||ryiciyxfnjaof.store^
 ||turncdn.com^
 ||vomitsuite.com^
 ||scavelbuntine.life^
