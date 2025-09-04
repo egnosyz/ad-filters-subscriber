@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2025-09-04 00:00:48
+! Last Modified: 2025-09-04 08:02:06
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -12294,7 +12294,6 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,mojezdravi.cz,
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||hoodlumbragget.com^
 ||indriwhats.com^
 ||parazoamirks.com^
@@ -12326,7 +12325,6 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,mojezdravi.cz,
 ||humbugsmillite.com^
 ||mudejartitoism.com^
 ||zygousgauby.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||verninchange.com^
 ||erodiumvodums.com^
@@ -15274,7 +15272,6 @@ _popAds.
 /ajjsjfsk/*
 ||933m.com/1.js
 ###MsnDialog.ad
-||xinmin.cn/framepage/left1.htm
 ||poco.cn/v1_1/rank/get_floating_layer_ad
 ||1708t.com/js/jquery.js
 =loginExtAD.
@@ -17190,7 +17187,6 @@ _fioiwhfo_
 .com/uploads/*-860x250.gif
 ||ituba.cc/uploads/allimg/201610/603/
 ||tiexue.net/zgg/
-||xinmin.cn/framepage/top
 .info/topjs/
 ||baidu.com/ndcore/interface/searchTop?
 ##.corner-gg
@@ -20275,6 +20271,7 @@ _fioiwhfo_
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||u4ccj.icu^
@@ -21596,6 +21593,7 @@ _fioiwhfo_
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||hur05130kns.com^
 ||orutvnck.top^
 ||qkitery.top^
@@ -24704,6 +24702,7 @@ cpnn.com.cn##.rightgg
 javhd.com##.benefits-list-holder
 kzs1w.com,sehuatang.org##div[class^="show-text"]
 .lol/js/pub.min.js$third-party
+||xinmin.cn/framepage/left1.htm
 gmgard.com,hggard.com###blog > div[style="overflow:hidden"]
 pcsoft.com.cn##a[onclick*="_ad"]
 ip138.com###banana
@@ -26222,6 +26221,7 @@ zhihu.com##.WeiboAd-wrap
 eastday.com##.ssy_right
 /468x150-
 vjmedia.com.hk###text-33
+||xinmin.cn/framepage/top
 aiqicha.baidu.com,xinmin.cn#@#.share-title
 ###ad-728x90
 barryblogs.com##div[style="margin-bottom: 10px; width: 300px; height: 300px;"]
@@ -31204,7 +31204,6 @@ tigtag.com##.couplet_l
 @@||seyise8.com^$generichide
 mtrend.cn###morecontent > .morecontent_next[style]
 windowszj.net##.g_slide_title > .feedback
-###ad-container1
 vidhub.me,vidhub.tv##.promonk
 baidu.com,bdimg.com,tieba.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
 jurong.cn,ld0766.com##.totalad
@@ -31638,7 +31637,6 @@ jiaodong.net###rightBanner
 /imageads/*$image
 360doc.com###arttopbdad
 foodmate.net,ksbbs.com,kshot.com,oschina.net##.banner_box
-###ad-container-top-placeholder
 iask.sina.com.cn##.sj_300x250
 mp4ba.la##.hd + table
 so.com##.commercialCell
@@ -32897,7 +32895,6 @@ maoken.com###siderAd01
 ##.ads_4
 ###advertisement_container
 ##.advertise-leaderboard
-##.holder-ads
 ##.AdHeader
 ##.ad_Left
 ###home_ad
@@ -32941,7 +32938,6 @@ maoken.com###siderAd01
 ###leaderboard-bottom-ad
 ##.con_ads
 ##.aoa_overlay
-##.holder-ad
 ##.adBox2
 ##.adBox5
 ##.ads-label
@@ -41905,6 +41901,7 @@ maoken.com###siderAd01
 ###squareAdSpace
 ###sponsored-listings
 ##.ad-unit-sponsored-bar
+###ad-container1
 ##.ad-E
 ##.ads_medium
 ##.advertorialview
@@ -42398,6 +42395,7 @@ maoken.com###siderAd01
 ###iframe-ad
 ###rh_tower_ad
 ##.ad-lb
+###ad-container-top-placeholder
 ###adSlider
 ##.ad-text-centered
 ###leaderboardAdvert
@@ -42824,6 +42822,7 @@ interior-hirade.co.jp#@#.ad_bg
 ##.trc_spotlight_item
 ##.zerg-widgets
 gigazine.net#@#.adtag
+##.holder-ads
 ##.rectangleAd
 ##.top-adbox
 ##a[href^="https://lone-pack.com/"]
@@ -42855,6 +42854,7 @@ cookinglight.com#@#div[data-native_ad]
 ##.taboola_blk
 job.inshokuten.com,sexgr.net,webbtelescope.org,websaver.ca#@#.ad-box:not(#ad-banner):not(:empty)
 ##.sponsor-block
+##.holder-ad
 ##.widget_adswidget1-quick-adsense
 ##.insert_advertisement
 ##.item-ad
@@ -48516,7 +48516,6 @@ tei-c.org#@##msad
 ||adexchangetracker.com^
 ||advancinginfinitely.com^
 ||aycompleted.com^
-||chereawoken.rest^
 ||alibamustanzo.shop^
 ||amolesramsons.cfd^
 ||awkwardemergency.com^
@@ -51771,7 +51770,6 @@ tei-c.org#@##msad
 ||camliveshow.xyz^
 ||alpheratzscheat.top^
 ||23hssicm9.de^
-||chererykes.help^
 ||baggedyaffler.click^
 ||arminius.io^
 ||0d22ca5caa.com^
@@ -55949,6 +55947,7 @@ tei-c.org#@##msad
 ||jbocfcxztlpry.store^
 ||fillingcater.com^
 ||jesseanritzes.shop^
+||chereawoken.rest^
 ||deliverytrafficnews.com^
 ||jhuriarepile.world^
 ||formicatartare.top^
@@ -60522,7 +60521,6 @@ tei-c.org#@##msad
 ||fivemoreish.help^
 ||grogschester.digital^
 ||cutescale.online^
-||kastafor.com^
 ||e548899712.com^
 ||fvvyndmujhviq.store^
 ||freesoftwarelive.com^
@@ -61249,6 +61247,7 @@ tei-c.org#@##msad
 ||fbmedia-dhs.com^
 ||hpfchmjsfkhjt.site^
 ||ewheegloakob.com^
+||chererykes.help^
 ||hotdatehaven.com^
 ||illinformed-camp.pro^
 ||hiespekbk.com^
@@ -62290,7 +62289,6 @@ tei-c.org#@##msad
 ||fyzoqppdyllsr.store^
 ||hlinit.com^
 ||daintyinternetcable.com^
-||kasteehoordopee.net^
 ||concisedistend.help^
 ||cherriesprospectsfaith.com^
 ||grasshusk.com^
@@ -69008,7 +69006,6 @@ tei-c.org#@##msad
 ||oogsxtlyxxwxc.com^
 ||poweradblocker.com^
 ||reldoven.help^
-||ryifzfdxgoatd.online^
 ||longinghospitalsurveyed.com^
 ||minotaur107.com^
 ||ktkjmp.com^
@@ -70552,6 +70549,7 @@ tei-c.org#@##msad
 ||livvbkx-vejj.xyz^
 ||nirmhxlrrjvpp.xyz^
 ||propertyofnews.com^
+||kastafor.com^
 ||oamoameevee.net^
 ||pidginshotmelt.help^
 ||online-1.co.in^
@@ -70964,7 +70962,6 @@ tei-c.org#@##msad
 ||pushprofit.net^
 ||koolahsqueege.com^
 ||ofgogoatan.com^
-||ryiciyxfnjaof.store^
 ||leucinsgeleem.world^
 ||rmxads.com^
 ||marshcooperative.com^
@@ -72292,6 +72289,7 @@ tei-c.org#@##msad
 ||mpnrs.com^
 ||rausoavahejasug.net^
 ||ladsims.com^
+||kasteehoordopee.net^
 ||pacesconcise.com^
 ||kqemajjoxqps.com^
 ||larasub.conxxx.pro^
@@ -73030,7 +73028,6 @@ tei-c.org#@##msad
 ||applixir.com^$third-party
 ||blogads.com^$third-party
 ||buysellads.net^$third-party
-||cpm.media^$third-party
 ||podbex.com^$document
 ||escortlist.pro^$document
 ||adperfect.com^$third-party
@@ -73061,7 +73058,6 @@ tei-c.org#@##msad
 ||bmmads.com^$document
 ||shulugoo.net^$document
 ||advertnative.com^$third-party
-||cpmleader.com^$third-party
 ||noolt.com^$document
 ||adtonos.com^$third-party
 ||staysafeonlinetoday.com^$document
@@ -79509,6 +79505,7 @@ tei-c.org#@##msad
 ||vetnatl.cfd^
 ||shoaltissooxe.com^
 ||trufflelekane.life^
+||ryifzfdxgoatd.online^
 ||tdmnbijnrlyu.xyz^
 ||tuckbrows.com^
 ||yashi.com^
@@ -81134,6 +81131,7 @@ tei-c.org#@##msad
 ||vz.7vid.net^
 ||tildenshrip.com^
 ||zjrppcmivtpd.com^
+||ryiciyxfnjaof.store^
 ||turncdn.com^
 ||vomitsuite.com^
 ||scavelbuntine.life^
@@ -84879,6 +84877,7 @@ demap.info###pcad
 ||1av.to/assets/ad/
 ||adcell.de^$third-party
 ||trip.com/partners/ad/
+||cpm.media^$third-party
 ||imediaaudiences.com^$third-party
 ||pushub.net^$popup
 ||welfarefit.com^$popup
@@ -84934,7 +84933,6 @@ ytmp3.cc###a-320-50
 ||porn300.com^$third-party
 ||dailymirror.lk/youmaylike
 ||oppai.stream/assets/rekl/
-healthshots.com###storyBlockOne
 ||bongacams.com^$popup,third-party
 /^https?:\/\/(35|104)\.(\d){1,3}\.(\d){1,3}\.(\d){1,3}\//$popup,third-party
 ||jsdelivr.net/npm/as-essential
@@ -87917,6 +87915,7 @@ allmyfaves.com,allthetests.com,dailynews.lk,dealsonwheels.co.nz,eth-converter.co
 ||andcomemunicateth.info^$popup
 ||40451343.xyz^$document,popup
 ||passeura.com^$popup
+||cpmleader.com^$third-party
 ||secthatlead.com^$popup
 ||ebaystatic.com^*/ScandalJS-
 ||princesinistervirus.com^$popup
@@ -89961,7 +89960,6 @@ teamfortress.tv###aw
 ||jwalf.com^$popup
 ||adsplex.com^$popup
 ||unblockedapi.com^$popup
-rawstory.com###story-top-ad
 usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
 ||deltabravo.net/admax/
 ||xhamstercams.com^$third-party
@@ -95295,6 +95293,7 @@ imagetopdf.com,pdfkit.com,pdftoimage.com,topdf.com,webpconverter.com##div[class^
 executivegov.com##.execu-target
 lifehacker.com,mashable.com###related-video
 @@||bauersecure.com/dist/js/prebid/$domain=carmagazine.co.uk
+healthshots.com###storyBlockOne
 china.ahk.de##.b-header__banner
 hosty.uprwssp.org##.e10
 indiatimes.com##.rmfp
@@ -100955,6 +100954,7 @@ bevmalta.org,conandaily.com,gamersocialclub.ca,hawaiireporter.com,michaelsavage.
 hellomagazine.com##.adContainerClass_acvudum
 hentai-cosplays.com,hentai-img.com###display_image_detail > span
 actionnetwork.com##.promotion-table
+rawstory.com###story-top-ad
 washingtonpost.com##[data-qa="article-body-ad"]
 infographicjournal.com#?#.et_pb_module:-abp-contains(Partners)
 dot.la##.job-wrapper
