@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-09-06 16:00:54
+! Last Modified: 2025-09-07 00:00:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -11735,7 +11735,6 @@ _popAds.
 /ajjsjfsk/*
 ||933m.com/1.js
 ###MsnDialog.ad
-||xinmin.cn/framepage/left1.htm
 ||poco.cn/v1_1/rank/get_floating_layer_ad
 ||1708t.com/js/jquery.js
 =loginExtAD.
@@ -13651,7 +13650,6 @@ _fioiwhfo_
 .com/uploads/*-860x250.gif
 ||ituba.cc/uploads/allimg/201610/603/
 ||tiexue.net/zgg/
-||xinmin.cn/framepage/top
 .info/topjs/
 ||baidu.com/ndcore/interface/searchTop?
 ##.corner-gg
@@ -16945,6 +16943,7 @@ cpnn.com.cn##.rightgg
 javhd.com##.benefits-list-holder
 kzs1w.com,sehuatang.org##div[class^="show-text"]
 .lol/js/pub.min.js$third-party
+||xinmin.cn/framepage/left1.htm
 gmgard.com,hggard.com###blog > div[style="overflow:hidden"]
 pcsoft.com.cn##a[onclick*="_ad"]
 ip138.com###banana
@@ -18463,6 +18462,7 @@ zhihu.com##.WeiboAd-wrap
 eastday.com##.ssy_right
 /468x150-
 vjmedia.com.hk###text-33
+||xinmin.cn/framepage/top
 aiqicha.baidu.com,xinmin.cn#@#.share-title
 ###ad-728x90
 barryblogs.com##div[style="margin-bottom: 10px; width: 300px; height: 300px;"]
@@ -23445,7 +23445,6 @@ tigtag.com##.couplet_l
 @@||seyise8.com^$generichide
 mtrend.cn###morecontent > .morecontent_next[style]
 windowszj.net##.g_slide_title > .feedback
-###ad-container1
 vidhub.me,vidhub.tv##.promonk
 baidu.com,bdimg.com,tieba.com#?#.thread_item_box:-abp-has(div[class*=" fc-"])
 jurong.cn,ld0766.com##.totalad
@@ -23879,7 +23878,6 @@ jiaodong.net###rightBanner
 /imageads/*$image
 360doc.com###arttopbdad
 foodmate.net,ksbbs.com,kshot.com,oschina.net##.banner_box
-###ad-container-top-placeholder
 iask.sina.com.cn##.sj_300x250
 mp4ba.la##.hd + table
 so.com##.commercialCell
@@ -24364,7 +24362,6 @@ maoken.com###siderAd01
 ##.ads_4
 ###advertisement_container
 ##.advertise-leaderboard
-##.holder-ads
 ##.AdHeader
 ##.ad_Left
 ###home_ad
@@ -24408,7 +24405,6 @@ maoken.com###siderAd01
 ###leaderboard-bottom-ad
 ##.con_ads
 ##.aoa_overlay
-##.holder-ad
 ##.adBox2
 ##.adBox5
 ##.ads-label
@@ -33372,6 +33368,7 @@ maoken.com###siderAd01
 ###squareAdSpace
 ###sponsored-listings
 ##.ad-unit-sponsored-bar
+###ad-container1
 ##.ad-E
 ##.ads_medium
 ##.advertorialview
@@ -33865,6 +33862,7 @@ maoken.com###siderAd01
 ###iframe-ad
 ###rh_tower_ad
 ##.ad-lb
+###ad-container-top-placeholder
 ###adSlider
 ##.ad-text-centered
 ###leaderboardAdvert
@@ -34291,6 +34289,7 @@ interior-hirade.co.jp#@#.ad_bg
 ##.trc_spotlight_item
 ##.zerg-widgets
 gigazine.net#@#.adtag
+##.holder-ads
 ##.rectangleAd
 ##.top-adbox
 ##a[href^="https://lone-pack.com/"]
@@ -34322,6 +34321,7 @@ cookinglight.com#@#div[data-native_ad]
 ##.taboola_blk
 job.inshokuten.com,sexgr.net,webbtelescope.org,websaver.ca#@#.ad-box:not(#ad-banner):not(:empty)
 ##.sponsor-block
+##.holder-ad
 ##.widget_adswidget1-quick-adsense
 ##.insert_advertisement
 ##.item-ad
@@ -38249,7 +38249,6 @@ tei-c.org#@##msad
 ||applixir.com^$third-party
 ||blogads.com^$third-party
 ||buysellads.net^$third-party
-||cpm.media^$third-party
 ||podbex.com^$document
 ||escortlist.pro^$document
 ||adperfect.com^$third-party
@@ -38280,7 +38279,6 @@ tei-c.org#@##msad
 ||bmmads.com^$document
 ||shulugoo.net^$document
 ||advertnative.com^$third-party
-||cpmleader.com^$third-party
 ||noolt.com^$document
 ||adtonos.com^$third-party
 ||staysafeonlinetoday.com^$document
@@ -41348,6 +41346,7 @@ demap.info###pcad
 ||1av.to/assets/ad/
 ||adcell.de^$third-party
 ||trip.com/partners/ad/
+||cpm.media^$third-party
 ||imediaaudiences.com^$third-party
 ||pushub.net^$popup
 ||welfarefit.com^$popup
@@ -41403,7 +41402,6 @@ ytmp3.cc###a-320-50
 ||porn300.com^$third-party
 ||dailymirror.lk/youmaylike
 ||oppai.stream/assets/rekl/
-healthshots.com###storyBlockOne
 ||bongacams.com^$popup,third-party
 /^https?:\/\/(35|104)\.(\d){1,3}\.(\d){1,3}\.(\d){1,3}\//$popup,third-party
 ||jsdelivr.net/npm/as-essential
@@ -44386,6 +44384,7 @@ allmyfaves.com,allthetests.com,dailynews.lk,dealsonwheels.co.nz,eth-converter.co
 ||andcomemunicateth.info^$popup
 ||40451343.xyz^$document,popup
 ||passeura.com^$popup
+||cpmleader.com^$third-party
 ||secthatlead.com^$popup
 ||ebaystatic.com^*/ScandalJS-
 ||princesinistervirus.com^$popup
@@ -46430,7 +46429,6 @@ teamfortress.tv###aw
 ||jwalf.com^$popup
 ||adsplex.com^$popup
 ||unblockedapi.com^$popup
-rawstory.com###story-top-ad
 usatoday.com###acm-ad-tag-lawrence_dfp_desktop_arkadium_after_share
 ||deltabravo.net/admax/
 ||xhamstercams.com^$third-party
@@ -49736,6 +49734,7 @@ imagetopdf.com,pdfkit.com,pdftoimage.com,topdf.com,webpconverter.com##div[class^
 executivegov.com##.execu-target
 lifehacker.com,mashable.com###related-video
 @@||bauersecure.com/dist/js/prebid/$domain=carmagazine.co.uk
+healthshots.com###storyBlockOne
 china.ahk.de##.b-header__banner
 hosty.uprwssp.org##.e10
 indiatimes.com##.rmfp
@@ -55396,6 +55395,7 @@ bevmalta.org,conandaily.com,gamersocialclub.ca,hawaiireporter.com,michaelsavage.
 hellomagazine.com##.adContainerClass_acvudum
 hentai-cosplays.com,hentai-img.com###display_image_detail > span
 actionnetwork.com##.promotion-table
+rawstory.com###story-top-ad
 washingtonpost.com##[data-qa="article-body-ad"]
 infographicjournal.com#?#.et_pb_module:-abp-contains(Partners)
 dot.la##.job-wrapper
