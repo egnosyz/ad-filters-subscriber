@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-09-15 00:00:55
+! Last Modified: 2025-09-15 08:02:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3292,7 +3292,6 @@ advertisers.js|
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||hoodlumbragget.com^
 ||indriwhats.com^
 ||parazoamirks.com^
@@ -3326,7 +3325,6 @@ advertisers.js|
 ||ablockoverfix.com^
 ||enwombssighing.com^
 ||zygousgauby.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||lawzyscapoid.com^
 ||verninchange.com^
@@ -5263,6 +5261,7 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||4kxczstxil.com^
@@ -6466,6 +6465,7 @@ advertisers.js|
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||hur05130kns.com^
 ||qkitery.top^
 ||hodynx.top^
@@ -9730,7 +9730,6 @@ ubmcmm.baidustatic.com
 ||9xeqynu3gt7c.com^
 ||2lqcd8s9.de^
 ||bossedumbrine.rest^
-||citizenagreementacting.com^
 ||agl002.org^
 ||choakseekrepol.net^
 ||cameoutofthecatey.com^
@@ -13255,7 +13254,6 @@ ubmcmm.baidustatic.com
 ||boxofficehelping.com^
 ||believemefly.com^
 ||akdrclfipxvkj.store^
-||citizenhid.com^
 ||2443march2024.com^
 ||ada9d543ce.com^
 ||assertwinter.com^
@@ -16531,7 +16529,6 @@ ubmcmm.baidustatic.com
 ||etymonsibycter.com^
 ||inliketankert.rest^
 ||invol.co^
-||juiceadv.net^
 ||connextra.com^
 ||diwhuteshu.com^
 ||fearinvulnerablediagnosis.com^
@@ -17207,6 +17204,7 @@ ubmcmm.baidustatic.com
 ||hotnews1.me^
 ||dashbida.com^
 ||crepgate.com^
+||citizenagreementacting.com^
 ||hetnu.com^
 ||d980ffe9b6.com^
 ||daybookslims.rest^
@@ -22416,6 +22414,7 @@ ubmcmm.baidustatic.com
 ||coronerpunny.cyou^
 ||housejomadkc.com^
 ||hfsecdrzfdsry.club^
+||citizenhid.com^
 ||contentclick.co.uk^
 ||gandrad.org^
 ||gubjsmpqnakpv.com^
@@ -23966,7 +23965,6 @@ ubmcmm.baidustatic.com
 ||dnavexch.com^
 ||hlgqlnwxccqovkd.com^
 ||ibmfunk.com^
-||juicedcarton.world^
 ||departurealtar.com^
 ||ghtry.amateurswild.com^
 ||emopqyqdoepnf.buzz^
@@ -26559,6 +26557,7 @@ ubmcmm.baidustatic.com
 ||psoultaulrain.com^
 ||poauxffweyhtk.store^
 ||pilafcres.qpon^
+||juiceadv.net^
 ||pitmirkwaag.shop^
 ||rigill.com^
 ||myhuhbcoinavmtn.com^
@@ -26833,7 +26832,6 @@ ubmcmm.baidustatic.com
 ||lightstretch.com^
 ||nxyiurrfj.xyz^
 ||qxadedhoewqwc.store^
-||rihmdaadjawxy.online^
 ||pilchkariti.cfd^
 ||psbksjnkacikm.space^
 ||rackersthrain.rest^
@@ -30318,7 +30316,6 @@ ubmcmm.baidustatic.com
 ||loopythat.world^
 ||leifwhizzed.help^
 ||melongatesdexterity.com^
-||rihrvgnuexlk.net^
 ||pocovena.cyou^
 ||revrtb.com^
 ||ptp22.com^
@@ -33978,6 +33975,7 @@ ubmcmm.baidustatic.com
 ||quanta-wave.com^
 ||ljbwzlmlzvmvj.top^
 ||omphalichattah.cfd^
+||juicedcarton.world^
 ||mng-ads.com^
 ||prksism.com^
 ||kjsvvnzcto.com^
@@ -36825,6 +36823,7 @@ ubmcmm.baidustatic.com
 ||vvbawlolmlwbl.top^
 ||studyunharmedupscale.com^
 ||trinityhootch.shop^
+||rihmdaadjawxy.online^
 ||rjmagdairzath.website^
 ||rouwhapt.com^
 ||tackiesweftage.click^
@@ -40290,6 +40289,7 @@ ubmcmm.baidustatic.com
 ||snozzletzar.cyou^
 ||soodleenami.cfd^
 ||wychesmeeter.digital^
+||rihrvgnuexlk.net^
 ||vbeeeleyevmqm.top^
 ||wheyeychalcid.shop^
 ||wariesttiponi.shop^

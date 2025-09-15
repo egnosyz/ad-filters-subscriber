@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-09-15 00:00:55
+! Last Modified: 2025-09-15 08:02:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10303,7 +10303,6 @@ $script,third-party,websocket,domain=52codes.net
 ||g.163.com/*&affiliate=
 ||ifengimg.com/a/*_w300_h250.
 /msow.aspx?AID=
-airav.cc###Right_Panel > div[style^="margin-"]
 ##.pggf > .ng-star-inserted
 ||jsdelivr.net/gh/cloud-files/imgs/adamkoo-
 ||pkvs.com/public/as.js
@@ -13239,7 +13238,6 @@ duba.com,newduba.cn###J_FloorWave
 ||jsdelivr.net/gh/*/960-80.gif
 ||126.net/2022/0315/c82ed9e0g00r8seoy015pd00104003cp.gif
 .com/?aff=$popup,third-party
-sina.com.cn###SI_Comment_DA
 ||lolshipin.com/zt/sxx/
 ###banner_links.banner-container
 ||9ye.com/Files/Editor/ad/
@@ -17213,6 +17211,7 @@ nick20.com###body_page_sharer ~ table[width="100%"]
 easyicon.net##.page_big_adv
 @@||notafree.host^$generichide
 bodu365.co##.beside
+airav.cc###Right_Panel > div[style^="margin-"]
 ebiotrade.com###pop_banner1
 ||kayege.org/js/
 pchome.net###pchome_970_90_a
@@ -18609,7 +18608,6 @@ baidu.com#@#.share-line
 ###adBillboard
 ||kuku99.com^$third-party
 ||t*.baidu.com/it/u=*,*&fm=76$third-party
-###ad_ad
 .cn/by389.js$script,third-party
 gywb.cn##.bill-vertical
 duba.com,newduba.cn##.search_promotion
@@ -21649,6 +21647,7 @@ centoschina.cn##a[href="https://www.linuxprobe.com/"]
 /160x400_
 pcdown.net##.sort_list > .clearfix:first-child
 baidu.com###knowledge-answer
+sina.com.cn###SI_Comment_DA
 douban.com##.rec_topics_name[href^="https://erebor.douban."]
 /plugins/cpx-advert/*$script
 lz13.cn##.left_box5
@@ -22658,7 +22657,6 @@ baidu.com##.spread-wrap
 ###ad-drawer
 csdn.net##.box.hot
 zt5.com##.gg_bt
-###ad__billboard
 @@||totheglory.im/pic/ttg_logo
 pixabay.com##div[class*="sponsoredWithResults"]
 @@||acgdraw.com/ad$xmlhttprequest
@@ -24532,7 +24530,6 @@ maoken.com###siderAd01
 ##.ad-homepage
 ##.adhesive_holder
 ##.box_layout_ad
-##.lowerAd
 ##.adsky
 ###pop_ad
 ##.adSpotIsland
@@ -28118,6 +28115,7 @@ maoken.com###siderAd01
 ##.banner160
 ##.adsizewrapper
 ##.adBox_3
+###ad_ad
 ##.adBox_1
 ##.dfp_txt
 ###side-ad-container
@@ -32455,6 +32453,7 @@ maoken.com###siderAd01
 ###upper-ads
 ###advertorial-box
 ##.homeAdSection
+###ad__billboard
 ##.after-post-ads
 ##.ad_sponsoredsection
 ##.ad_1000_125
@@ -33680,7 +33679,6 @@ maoken.com###siderAd01
 ###ads_banner
 ##.adace-slot-wrapper
 ##.jw-ad-block
-##.lowerAds
 ##.fsAdContainer
 ###floatAd
 ##.adSquare
@@ -34531,6 +34529,7 @@ noqreport.com#@#[href^="https://noqreport.com/"] > img
 letroso.com#@#.ad-padding
 ##a[href^="https://syndicate.contentsserved.com/"]
 ##.right-rail-box-ad-container
+##.lowerAd
 ##.index-module_adBeforeContent__AMXn
 ##.taboola-skip-wrapper
 ##.amp-adv-container
@@ -37248,6 +37247,7 @@ si.com#@##mplayer-embed
 ##a[href^="https://pb-imc.com/"]
 ##.xpot-horizontal
 ###rightrail_pos1_ddb_0
+##.lowerAds
 ##.slide_ad
 ##.views-field-field-ad
 ##.nw-ad-label
@@ -37889,7 +37889,6 @@ tei-c.org#@##msad
 ||antiadblocksystems.com^$document
 ||camptrck.com^$document
 ||brainberries.co^$document
-||date4sex.pro^$document
 ||adscdn.net^$document
 ||animeloundry.com^$document
 ||1asb.com^$document
@@ -37919,7 +37918,6 @@ tei-c.org#@##msad
 ||approved.website^$document
 ||cybkit.com^$document
 ||65spy7rgcu.com^$document
-||date2024.com^$document
 ||beamobserver.com^$document
 ||atp.revistamuchomas.com^$document
 ||agat-tech.com^$document
@@ -38900,6 +38898,7 @@ $script,third-party,domain=rule34hentai.net
 ||messenger-notify.xyz^$popup
 ||mb38.com^$popup
 ||benumelan.com^$popup
+||date2024.com^$document
 ||bullz-eye.com/blog_ads/
 ||adinterax.com^$third-party
 ||amobee.com^$third-party
@@ -39267,7 +39266,6 @@ $script,third-party,domain=rule34hentai.net
 ||rdrsec.com^$popup
 ||adskeeper.co.uk^$popup
 ||jsdelivr.net/gh/$domain=chrome-stats.com|edge-stats.com|firefox-stats.com
-@@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.js|$domain=thegay.com
 ||adsbookie.com^$third-party
 ||cuntlick.net/banner/
 ||tracot.com^$popup
@@ -40210,7 +40208,6 @@ $image,script,stylesheet,subdocument,third-party,xmlhttprequest,domain=piratepro
 ||pntra.com^$image,script
 ||x-hd.video/vcrtlrvw/
 ||wsj.net/pb/pb.js
-@@||thegay.com/assets//jwplayer-*/jwplayer.js|$domain=thegay.com
 ||23.109.87.192^$popup
 ||hltv.org/partnerimage/$image
 ||comscore.com^$third-party
@@ -41920,6 +41917,7 @@ testpages.eyeo.com*js/test-script-regex
 ||daleelerah.info^$popup
 ||tffkroute.com^$popup
 ||pelisfree.site/js/script_
+||date4sex.pro^$document
 ||bliink.io^$third-party
 ||easyconverts.com^$popup
 ||paulastroid.com^$popup
@@ -47580,6 +47578,7 @@ medscape.com##.desktop-ad-position
 ggjav.com,ggjav.tv###pc_instant
 debenhams.com##div[data-test-id^="sponsored-product-card"]
 badjojo.com###rightcol
+@@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.js|$domain=thegay.com
 gamemodding.com##.right_banner
 hd-easyporn.com###special_column
 forbes.com,nasdaq.com##.video-placeholder
@@ -48789,6 +48788,7 @@ perfectdailygrind.com##.gengpdg
 @@||survey.g.doubleclick.net^$script,domain=sporcle.com
 theurbanlist.com##.LeaderboardAd
 songbpm.com##div.mb-6:has-text(Advertisement)
+@@||thegay.com/assets//jwplayer-*/jwplayer.js|$domain=thegay.com
 truckinginfo.com##.incontent02Ad
 heatmap.news,theweek.com##.infinite-container
 futbol24.com##.rek
@@ -52250,7 +52250,6 @@ businessinsider.com##.l-ad
 photographyreview.com##.bottom-leaderboard
 porkbun.com###protonPromote
 edarabia.com##.sky-600
-@@||twitch.tv^$generichide
 tarladalal.com###ftr_adspace
 gamescensor.com###HTML6
 aeroexpo.online,agriexpo.online,directindustry.com,droidgamers.com,fonearena.com,frontlinesoffreedom.com,stakingrewards.com,winemag.com###header-banner
@@ -55763,7 +55762,6 @@ nodejs.org##.\!block[href^="https://www.herodevs.com/support/node-nes?"]
 stockingfetishvideo.com##.item:has(> [href*="/?action=trace&"])
 scrabble-solver.com###skywideupper
 autosport.com##.ms-apb
-@@||tv.youtube.com^$generichide
 xxxdan.com,xxxdan3.com###bottom-line
 aniporn.com###in_v
 steveharveyfm.com##.region-recommendation-right
@@ -56070,6 +56068,7 @@ hdtube.porn,pornid.xxx,rat.xxx##.cs-under-player
 @@/banner/ad/*$image,domain=achaloto.com
 @@||userload.co/adpopup.js$script
 @@||milfzr.com^$generichide
+@@||twitch.tv^$generichide
 @@||cdnqq.net/ad/api/popunder.js$script
 @@||h1g.jp/img/ad/ad_heigu.html$~third-party
 @@||sanyonews.jp/files/image/ad/okachoku.jpg$~third-party
@@ -56083,6 +56082,7 @@ hdtube.porn,pornid.xxx,rat.xxx##.cs-under-player
 @@$generichide,domain=androidpolice.com|babygaga.com|backyardboss.net|carbuzz.com|cbr.com|collider.com|dualshockers.com|footballfancast.com|footballleagueworld.co.uk|gamerant.com|givemesport.com|hardcoregamer.com|hotcars.com|howtogeek.com|makeuseof.com|moms.com|movieweb.com|pocket-lint.com|pocketnow.com|screenrant.com|simpleflying.com|thegamer.com|therichest.com|thesportster.com|thethings.com|thetravel.com|topspeed.com|xda-developers.com
 @@||cdn.jsdelivr.net/npm/*/videojs-contrib-ads.min.js$domain=24ur.com
 @@||ads.finance^$popup
+@@||tv.youtube.com^$generichide
 @@||yellowbridge.com^$generichide
 @@||kabumap.com/servlets/kabumap/html/common/img/ad/$~third-party
 @@||akinator.mobi.cdn.ezoic.net^$domain=akinator.mobi
