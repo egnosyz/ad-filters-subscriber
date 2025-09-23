@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-09-23 16:00:50
+! Last Modified: 2025-09-24 00:00:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3212,7 +3212,6 @@ iadctest.qwapi.com^
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||fuhrerstanking.com^
 ||hoodlumbragget.com^
 ||indriwhats.com^
@@ -3250,7 +3249,6 @@ iadctest.qwapi.com^
 ||ablockoverfix.com^
 ||enwombssighing.com^
 ||zygousgauby.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||lawzyscapoid.com^
 ||verninchange.com^
@@ -5305,6 +5303,7 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||4kxczstxil.com^
@@ -6564,6 +6563,7 @@ iadctest.qwapi.com^
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||qkitery.top^
@@ -8595,7 +8595,6 @@ ubmcmm.baidustatic.com
 ||ashasvsucoce.com^
 ||apglinks.net^
 ||56bfc388bf12.com^
-||click4.pro^
 ||biyjqmadbjdyx.xyz^
 ||afnkhlcpleyog.space^
 ||buildnaq91.site^
@@ -9136,7 +9135,6 @@ ubmcmm.baidustatic.com
 ||adhoc4.net^
 ||1f63b94163.com^
 ||atmewtwochan.com^
-||clickadin.com^
 ||admidainsight.com^
 ||borrowpreviewcardinal.com^
 ||admicro.vn^
@@ -15386,6 +15384,7 @@ ubmcmm.baidustatic.com
 ||crozerhurr.click^
 ||gaimoupy.net^
 ||haymishafter.world^
+||click4.pro^
 ||fff3cd7d36.com^
 ||grikenullary.world^
 ||hopefulbiologicaloverreact.com^
@@ -16183,6 +16182,7 @@ ubmcmm.baidustatic.com
 ||fvssmssxn.net^
 ||cn846.com^
 ||few-river.com^
+||clickadin.com^
 ||dourahsroodle.click^
 ||gobbledunmolds.rest^
 ||coutaizoace.net^
@@ -18288,7 +18288,6 @@ ubmcmm.baidustatic.com
 ||endoverphageda.cfd^
 ||infeoffbigeyes.digital^
 ||fangedwashes.qpon^
-||ixodesfoisons.shop^
 ||contempthumanitycalamity.com^
 ||edconsideundence.org^
 ||insculprace.rest^
@@ -24623,7 +24622,6 @@ ubmcmm.baidustatic.com
 ||iteslawow.com^
 ||glogoowo.net^
 ||endysischlorin.cyou^
-||ixpupuwpv.com^
 ||frightened-let.pro^
 ||fulbe-whs.com^
 ||hvert.site^
@@ -26216,7 +26214,6 @@ ubmcmm.baidustatic.com
 ||parbateiv.world^
 ||munqb.xyz^
 ||nhdukjcn.com^
-||pyebouezyhhxd.online^
 ||poarichivoawie.net^
 ||ninase.sbs^
 ||janitorprecisiontrio.com^
@@ -28340,6 +28337,7 @@ ubmcmm.baidustatic.com
 ||modistpuddy.click^
 ||netund.com^
 ||meshsensorcuriosity.com^
+||ixodesfoisons.shop^
 ||kukrwwls.xyz^
 ||love-romancejunction.com^
 ||pptnuhffs.love^
@@ -30873,7 +30871,6 @@ ubmcmm.baidustatic.com
 ||mvfmdfsvoq.com^
 ||lwzygjmawqnjg.top^
 ||lpyyzoetztnmv.one^
-||pyecyiqatdboi.site^
 ||plouklutein.cfd^
 ||maistryprairie.cyou^
 ||lawnerwoons.shop^
@@ -34613,6 +34610,7 @@ ubmcmm.baidustatic.com
 ||jyozavobzrzkq.top^
 ||ptaucaipsie.net^
 ||ookresit.net^
+||ixpupuwpv.com^
 ||nonairlookee.cyou^
 ||nwvulrmtxesqh.space^
 ||notonthebedsheets.com^
@@ -36277,6 +36275,7 @@ ubmcmm.baidustatic.com
 ||racmptser.com^
 ||xlzbuxsriqejb.space^
 ||radishrarity.com^
+||pyebouezyhhxd.online^
 ||quillaiseats.shop^
 ||surmounttemperbooklet.com^
 ||rickywhence.com^
@@ -40961,6 +40960,7 @@ ubmcmm.baidustatic.com
 ||susannefine.cyou^
 ||qazrvoyayvejb.top^
 ||traktrafficflow.com^
+||pyecyiqatdboi.site^
 ||rhasonbugs.com^
 ||snipersex.com^
 ||vengeancewaterproof.com^
