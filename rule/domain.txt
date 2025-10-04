@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-10-04 00:00:56
+! Last Modified: 2025-10-04 08:02:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3215,7 +3215,6 @@ iadctest.qwapi.com^
 ||cuseccharm.com^
 ||cebidschelura.top^
 ||pelitecontg.top^
-||tubingacater.com^
 ||fuhrerstanking.com^
 ||hoodlumbragget.com^
 ||indriwhats.com^
@@ -3255,7 +3254,6 @@ iadctest.qwapi.com^
 ||enwombssighing.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||lawzyscapoid.com^
 ||verninchange.com^
@@ -5364,6 +5362,7 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||4kxczstxil.com^
@@ -6646,6 +6645,7 @@ iadctest.qwapi.com^
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||qkitery.top^
@@ -11657,7 +11657,6 @@ ubmcmm.baidustatic.com
 ||braverycavalryoats.com^
 ||atmetagrossan.com^
 ||aokxcojgnjjkv.online^
-||clunchzunian.click^
 ||bandelcot.com^
 ||1af24010cb.com^
 ||advmaker.ru^
@@ -14455,7 +14454,6 @@ ubmcmm.baidustatic.com
 ||c11a6baa3f.com^
 ||7lyonline.com^
 ||acnemiatitians.cfd^
-||clumperrucksey.life^
 ||bluelymisrun.qpon^
 ||camptwined.com^
 ||ahouta.qpon^
@@ -19910,6 +19908,7 @@ ubmcmm.baidustatic.com
 ||frierpiles.click^
 ||cpm20.com^
 ||inborndisplayed.com^
+||clunchzunian.click^
 ||hatzhq.net^
 ||go2jump.org^
 ||kanjioverrim.world^
@@ -21903,7 +21902,6 @@ ubmcmm.baidustatic.com
 ||kgxaiyasvrtdf.website^
 ||dtmjpefzybt.fun^
 ||faithful-yard.pro^
-||kingsgateau.qpon^
 ||degeneratesevere.com^
 ||declarepainfullyswat.com^
 ||jyzzwozoamqwz.top^
@@ -22075,7 +22073,6 @@ ubmcmm.baidustatic.com
 ||glymanicale.com^
 ||coronafly.ru^
 ||jinnylevis.digital^
-||kingrowantilog.cfd^
 ||defeature.xyz^
 ||conditioneavesdroppingbarter.com^
 ||hikinghourcataract.com^
@@ -24284,6 +24281,7 @@ ubmcmm.baidustatic.com
 ||compromisegraintickets.com^
 ||gloytrkb.com^
 ||gmsizwxqspypi.space^
+||clumperrucksey.life^
 ||jwskgkxnwdivg.online^
 ||jfwttxqghcpzl.store^
 ||htthnossikyqb.net^
@@ -28347,7 +28345,6 @@ ubmcmm.baidustatic.com
 ||manuscriptfelt.com^
 ||previous-recognition.pro^
 ||mormyregrackle.help^
-||raucousgimbals.shop^
 ||lopjegpxfmue.com^
 ||pjjpp.com^
 ||meaticawiwi.cfd^
@@ -31905,6 +31902,7 @@ ubmcmm.baidustatic.com
 ||lxqjy-obtr.love^
 ||lyeholprrdndkk.xyz^
 ||leevesheeham.net^
+||kingsgateau.qpon^
 ||phudsumipakr.net^
 ||qazrvoyayvemw.top^
 ||otoadom.com^
@@ -32069,6 +32067,7 @@ ubmcmm.baidustatic.com
 ||mellatemyrica.qpon^
 ||ostilllookinga.cc^
 ||lklrcysmzvscks.com^
+||kingrowantilog.cfd^
 ||mostcolumbo.cfd^
 ||odvazhfsnswns.online^
 ||newstemptation.com^
@@ -34169,7 +34168,6 @@ ubmcmm.baidustatic.com
 ||kvbbwzqzozjq.top^
 ||lhuvxiezozkjg.online^
 ||michealmoyite.com^
-||raucousregale.click^
 ||oileddipper.cyou^
 ||octonewjs.com^
 ||pissedakene.digital^
@@ -38249,6 +38247,7 @@ ubmcmm.baidustatic.com
 ||ymmobi.com^
 ||titanads2.com^
 ||undoubtedlyovercoat.com^
+||raucousgimbals.shop^
 ||rlgybjefafbjp.online^
 ||rfzugmgrmbzqq.space^
 ||strandedidiommembership.com^
@@ -43911,6 +43910,7 @@ ubmcmm.baidustatic.com
 ||watchingthat.com^
 ||recipientmuseumdismissed.com^
 ||tracktilldeath.club^
+||raucousregale.click^
 ||reifepikeia.cyou^
 ||vvbxyvqcwsl.net^
 ||xxzccpsbdybmx.website^
