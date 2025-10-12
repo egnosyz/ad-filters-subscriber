@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-10-12 16:00:49
+! Last Modified: 2025-10-13 00:00:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -9178,6 +9178,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,mojezdravi.cz,
 =BAIDU_SSP_define&
 ||doko.moe^$domain=pantsu.cat
 ||juxia.com/jxtp/indexbg.jpg
+||yorkbbs.ca/crm/section/v1/get/list/open
 ||allyes.$third-party
 ||962.net/show/all.js
 ||ps886.us/js/*.js
@@ -19662,7 +19663,6 @@ fuyang.net###portal_block_474
 /700_200.
 @@||oiihk.com^$generichide
 @@||bdimg.com/static/wapwenku/static/common/widget/share/share_
-||yorkbbs.ca/crm/section/v1/get/list/open
 life.tw###fbFixedAd
 toolfk.com###layui-layer100001
 @@||wenxuecity.com^$generichide
@@ -21853,6 +21853,7 @@ netbian.com##a[href^="https://ibaotu.com/guanggao/"]
 ###ad-Rectangle_2
 ###ad-Rectangle_1
 erji.com,erji.net##.black.y-style
+###ad-pencil
 @@||520call.me/jspopunder.
 lanyes.org##div[style="margin:0 auto 10px;height:76px;overflow:hidden"]
 @@||zxmee.com^$generichide
@@ -23037,6 +23038,7 @@ itavcn.com##.dlggw-g
 polyapt.com#@#.ad-one
 knowlet3389.blogspot.com,knowlet3389.blogspot.hk,knowlet3389.blogspot.jp,knowlet3389.blogspot.tw#@##gAds
 cnki.net#@#.ad_right
+###ad-panel
 0597kk.com###cool_fixed
 szjjzs.com##a[href^="/pic/tiao/"]
 susongbbs.com#@#.ad_banner
@@ -25511,6 +25513,7 @@ maoken.com###siderAd01
 ###right_column_ad_container
 ##.adblock_noborder
 ###resultsAdsTop
+##.in-article-adx
 ##.advert728_90
 ###ad_banner
 ##.adsense-header
@@ -25827,6 +25830,7 @@ maoken.com###siderAd01
 ###videoAd
 ##.adswidget
 ##.adlinkdiv
+##.in-between-ad
 ##.adMrginBottom
 ##.hortad
 ##.adspan
@@ -31610,7 +31614,6 @@ maoken.com###siderAd01
 ###bodyAd3
 ##.gAdsBlock
 ##.boxads
-###ad-pencil
 ##.adPanel
 ##.ad-table
 ##.boxadv
@@ -32907,7 +32910,6 @@ maoken.com###siderAd01
 ##.header_ad_center
 ##.adsense_728x90_container
 ##.gpt-ad-wrapper
-###ad-panel
 ###article-island-ad
 ##.admediumred
 ##.advert--fallback
@@ -35093,7 +35095,6 @@ wsj.com#@##footer-ads
 ##.widget_advert_content
 ##.sponsorPanel
 bilinovel.com#@#.ads_ad_box
-##.in-article-adx
 ##.sidebarads
 stuff.tv#@#.c-ad
 ##.top-left-ad
@@ -35339,7 +35340,6 @@ canstar.com.au,mail.yahoo.com#@#a[href^="https://ad.doubleclick.net/"]
 ##.side-ad
 ##.js-header-ad
 ##.m-dfp-ad-text
-##.in-between-ad
 ##.taboolaDiv
 ##.taboola-like-block
 ##.position-ads
@@ -38781,6 +38781,7 @@ tei-c.org#@##msad
 ||movemeforward.co^$popup
 ||tr-rollers.xyz^$popup
 ||srvtrck.com^$popup
+||taadd.com/files/js/site_skin.js
 ||pussl3.com^$popup
 ||evolvenation.com^$third-party
 ||adblockstrtape.link^$popup
@@ -46040,6 +46041,7 @@ browardpalmbeach.com,dallasobserver.com,miaminewtimes.com,phoenixnewtimes.com,we
 buzzfeed.com,buzzfeednews.com##.desktop-sticky-ad_desktopStickyAdWrapper__a_tyF
 ||haes.tech/js/script_
 ndtv.com,ndtv.in##[id^="firework"]
+pornoreino.com##.right-side
 dna-launcher.apkrabi.com##.ads12
 elephanttube.world##.bottom-block
 sashares.co.za##.elementor-48612
@@ -46445,7 +46447,6 @@ kollelbudget.com##a[href^="https://www.oorahauction.org/"][target="_blank"] > im
 nhl.com##.nhl-c-editorial-list__mrec
 indy100.com##.ad_300x250
 gadgets360.com##.pagepusheradATF
-||taadd.com/files/js/site_skin.js
 weraveyou.com##div[id^="werav-"]
 offidocs.com###adbottomoffidocs
 cleantechnica.com###zox-top-head-wrap
@@ -50630,6 +50631,7 @@ hometheaterreview.com###div_block-382-13
 ||x1hub.com/alexia_anders_jm.gif
 euobserver.com,medicinehatnews.com##.top
 thehits.co.nz##.header__main
+infospiral.com##.right-content
 washingtontimes.com##.sponsored-heading
 cults3d.com##a.tbox-thumb[href^="https://www.sunlu.com/"]
 tripadvisor.*##div:has(> div[class="ui_columns is-multiline "])
@@ -55669,7 +55671,6 @@ drtuber.com##.title-sponsored
 3movs.com,ggjav.com,tnaflix.com##iframe[width="300"]
 @@||g.doubleclick.net/gampad/ads*%20Web%20Player$domain=imasdk.googleapis.com
 @@||rakuten-bank.co.jp/rb/ams/img/ad/$~third-party
-infospiral.com##.right-content
 porngem.com,uiporn.com##.top-sponsor
 @@||hcaptcha.com/captcha/$script,subdocument
 @@||jwpcdn.com/player/plugins/googima/$script,domain=iheart.com|video.vice.com
@@ -55998,7 +55999,6 @@ xjav.tube##.wrapper > article
 @@||imasdk.googleapis.com/js/sdkloader/ima3_dai.js$domain=247sports.com|4029tv.com|bet.com|bloomberg.co.jp|bloomberg.com|cbc.ca|cbssports.com|cc.com|clickorlando.com|digi24.ro|gbnews.com|history.com|kcci.com|kcra.com|ketv.com|kmbc.com|koat.com|koco.com|ksbw.com|mynbc5.com|paramountplus.com|s.yimg.jp|sbs.com.au|tv.rakuten.co.jp|vk.sportsbull.jp|wapt.com|watchcharge.com|wbaltv.com|wcvb.com|wdsu.com|wesh.com|wgal.com|wisn.com|wjcl.com|wlky.com|wlwt.com|wmtw.com|wmur.com|worldsurfleague.com|wpbf.com|wtae.com|wvtm13.com|wxii12.com|wyff4.com
 zbporn.com,zbporn.tv##.view-aside-block
 69games.xxx##[id^="center"] .I:has(> [class=""][href])
-pornoreino.com##.right-side
 @@||dashboard.mgid.com^$popup
 faponic.com##.zkido_div
 @@||poastcdn.org/ad/$image,domain=poa.st

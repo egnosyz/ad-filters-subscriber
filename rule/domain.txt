@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-10-12 16:00:49
+! Last Modified: 2025-10-13 00:00:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3205,6 +3205,7 @@ iadctest.qwapi.com^
 ||cutoffclerks.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
+||afgodscarpe.com^
 ||hottedholster.com^
 ||lawzyscapoid.com^
 ||erodiumvodums.com^
@@ -3378,6 +3379,7 @@ iadctest.qwapi.com^
 ||suffarilbf.com^
 ||hexingteeting.com^
 ||cuseccharm.com^
+||tubingacater.com^
 ||indriwhats.com^
 ||parazoamirks.com^
 ||doftighaiwuh.net^
@@ -5431,7 +5433,6 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||4kxczstxil.com^
@@ -6483,6 +6484,7 @@ iadctest.qwapi.com^
 ||gsgxnauqu8.com^
 ||sfesdef6.fun^
 ||wcwkcus.top^
+||yktj.yzz.cn^
 ||goi08130kh.com^
 ||zno9qw80o.com^
 ||lkiterl.top^
@@ -6738,7 +6740,6 @@ iadctest.qwapi.com^
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||qkitery.top^
@@ -8135,7 +8136,6 @@ ubmcmm.baidustatic.com
 ||wuliao.chzsport.cn^
 ||udd1i5.zhihu.com^
 ||w3.ting55.com^
-||yktj.yzz.cn^
 ||jiaoben.eastday.com^
 ||ad.szhsx.net^
 ||d.win10com.com^
@@ -11083,6 +11083,7 @@ ubmcmm.baidustatic.com
 ||acktrsznzeubr.one^
 ||carcflma.de^
 ||alnormaticalacyc.org^
+||choogeet.net^
 ||boxingsgets.com^
 ||chipspasteprowl.com^
 ||affforce.com^
@@ -11750,6 +11751,7 @@ ubmcmm.baidustatic.com
 ||anabolyjarveys.digital^
 ||6a7e08c01b.com^
 ||adbro.me^
+||chookoolted.net^
 ||apidata.info^
 ||9japride.com^
 ||4wnetwork.com^
@@ -17904,6 +17906,7 @@ ubmcmm.baidustatic.com
 ||ewdxisdrc.com^
 ||gyxkbiekaghco.website^
 ||hruch.site^
+||joinpropeller.com^
 ||edible-seat.pro^
 ||guessmeso.shop^
 ||gwallet.com^
@@ -18894,7 +18897,6 @@ ubmcmm.baidustatic.com
 ||jocairnfkukta.online^
 ||jaigoaphamu.net^
 ||hptjkhqpriiaby.xyz^
-||choogeet.net^
 ||emetinrangle.help^
 ||jaavnacsdw.com^
 ||gipsiesthyrsi.com^
@@ -19930,7 +19932,6 @@ ubmcmm.baidustatic.com
 ||ghdwowvotygjw.website^
 ||dieingpeyotes.life^
 ||jittervouli.cyou^
-||chookoolted.net^
 ||grvayuaccatti.space^
 ||dependablerecord.pro^
 ||dnemkhkbsdbl.com^
@@ -23092,6 +23093,7 @@ ubmcmm.baidustatic.com
 ||iociley.com^
 ||embarrassedsound.pro^
 ||grphfzutw.xyz^
+||jolecyclist.com^
 ||feasibledecisiveasserted.com^
 ||earringprecaution.com^
 ||jhlxmodmknxce.online^
@@ -25260,6 +25262,7 @@ ubmcmm.baidustatic.com
 ||mammothshot.com^
 ||jybaekaqbwerb.top^
 ||nuamhmoviliol.online^
+||qqqdsrjovklsr.today^
 ||liberaldoubtedadulatory.com^
 ||mediaforge.com^
 ||naevushavers.life^
@@ -27958,7 +27961,6 @@ ubmcmm.baidustatic.com
 ||nvyhlkbvtoifv.site^
 ||nuttiersqueeze.rest^
 ||pterispoetly.cyou^
-||joinpropeller.com^
 ||npetropicalnorma.com^
 ||pdoth.icu^
 ||pjwwbeekagwkpi.com^
@@ -31414,6 +31416,7 @@ ubmcmm.baidustatic.com
 ||ljseecmh.com^
 ||nvpylxkdptacm.today^
 ||perloirerer.cfd^
+||qqqtgzdrsjyqj.site^
 ||lenpnkeahydle.site^
 ||qiaoxz.xyz^
 ||jtopudllmvejj.website^
@@ -33080,7 +33083,6 @@ ubmcmm.baidustatic.com
 ||ojokavacpkcjv.space^
 ||knobwarriors.com^
 ||lvvbqeaqvrmvy.top^
-||jolecyclist.com^
 ||meitheijackets.click^
 ||mydateromancerealm.com^
 ||optnx.com^
@@ -35288,7 +35290,6 @@ ubmcmm.baidustatic.com
 ||tfla.xyz^
 ||tolasblellum.life^
 ||ui02.com^
-||qqqdsrjovklsr.today^
 ||saloopfoveate.rest^
 ||vealyupstamp.cfd^
 ||regularseatradio.com^
@@ -40122,6 +40123,7 @@ ubmcmm.baidustatic.com
 ||venomouslife.com^
 ||rezrboarmmqmv.top^
 ||safelistextreme.com^
+||yjrohhkqfddlx.store^
 ||sqgvbkabphxzi.website^
 ||sukbeingajoytow.org^
 ||trafficfactory.biz^
@@ -41572,7 +41574,6 @@ ubmcmm.baidustatic.com
 ||rigbanesoot.rest^
 ||tkfkiodsdgnea.online^
 ||shaneliepot.life^
-||qqqtgzdrsjyqj.site^
 ||uiikqirdiessi.love^
 ||situratite.com^
 ||shaglurdoa.net^
@@ -44554,6 +44555,7 @@ ubmcmm.baidustatic.com
 ||spongesofateacher.com^
 ||smarf.icu^
 ||r66net.com^
+||yjrrwchaz.com^
 ||tjtsctymepnds.space^
 ||tinnilybagdi.cfd^
 ||wpvayxesdkpuq.space^
@@ -45022,7 +45024,6 @@ ubmcmm.baidustatic.com
 ||app.phimvu.app^
 ||d3mqyj199tigh.cloudfront.net^
 ||d2gc6r1h15ux9j.cloudfront.net^
-||yjrohhkqfddlx.store^
 ||otieu.com^
 ||d2cq71i60vld65.cloudfront.net^
 ||d8dkar87wogoy.cloudfront.net^
@@ -45080,6 +45081,7 @@ ubmcmm.baidustatic.com
 ||dtv5ske218f44.cloudfront.net^
 ||yyxwdvaqngiqn.online^
 ||85132058.xyz^
+||t.police1.com^
 ||promos.camsoda.com^
 ||zvzmzrawlvwlo.top^
 ||d192g7g8iuw79c.cloudfront.net^
@@ -47289,7 +47291,6 @@ ubmcmm.baidustatic.com
 ||d2t72ftdissnrr.cloudfront.net^
 ||zaokko.com^
 ||asg.irontube.net^
-||yjrrwchaz.com^
 ||yxktbeyanyenj.website^
 ||noranglehow.com^
 ||d2ksh1ccat0a7e.cloudfront.net^
@@ -47630,7 +47631,6 @@ ubmcmm.baidustatic.com
 ||banners.cams.com^
 ||rockpoint.xhamster.desi^
 ||powe.asian-xxx-videos.com^
-||t.police1.com^
 ||vplayer.newseveryday.com^
 ||pacaka.conxxx.pro^
 ||adrotic.girlonthenet.com^
