@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-10-12 00:00:48
+! Last Modified: 2025-10-12 08:02:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -39550,6 +39550,7 @@ tei-c.org#@##msad
 ||kektds.com^$popup
 ||bannieres-a-gogo.com^$third-party
 ||98738797.xyz^$document,popup
+||surfmusic.de/anz
 ||actiondesk.com^$popup,third-party
 ||clean-1-clean.club^$popup
 ||charltonmedia.com^$third-party
@@ -41492,6 +41493,7 @@ tei-c.org#@##msad
 ||galaxypush.com^$popup
 ||riscati.com^$popup
 ||bluehost-cdn.com/media/partner/images/
+||stuff.co.nz/static/stuff-adfliction/
 ||easymp3mix.com/js/re-ads-zone.js
 ||clickmintads.site^$document
 ||adsquirrel.ai^$third-party
@@ -42767,6 +42769,7 @@ tei-c.org#@##msad
 ||globovision.com/js/ads-home.js
 ||adosia.com^$third-party
 ||cloudfront.net/transcode/storyTeller/$media,domain=amazon.ae|amazon.ca|amazon.cn|amazon.co.jp|amazon.co.uk|amazon.com|amazon.com.au|amazon.com.br|amazon.com.mx|amazon.com.tr|amazon.de|amazon.eg|amazon.es|amazon.fr|amazon.in|amazon.it|amazon.nl|amazon.pl|amazon.sa|amazon.se|amazon.sg
+||survivalblog.com/marketplace/
 ||eeco.xyz^$document
 ||shoopusahealth.com^$popup
 ||indianlinkexchange.com^$third-party
@@ -44677,6 +44680,7 @@ tei-c.org#@##msad
 ||positivehealth.com/img/original/BannerAvatar/
 ||pepperjamnetwork.com^$third-party
 ||nalraughaksie.net^$popup
+||survivalservers.com^$subdocument,domain=adfoc.us
 ||images.elenasmodels.com/Upload/$third-party
 ||stuff.co.nz/static/adnostic/
 ||bongacams11.com^$popup
@@ -44887,6 +44891,7 @@ tei-c.org#@##msad
 ||cloudfront.net/?dfcdd=
 ||wasqimet.net^$popup
 ||atpansagean.com^$popup
+||sundayobserver.lk/sites/default/files/pictures/COVID19-Flash-1_0.gif
 ||virtuagirlhd.com^$third-party
 ||parts.akibablog.net^$subdocument
 ||propertyofnews.com^$popup
@@ -45026,6 +45031,7 @@ minecraft-servers.gg##.adp-native-responsive
 cryptoslate.com##.hypelab-container
 dailykos.com##.ad_right_rail
 msn.com##.views-right-rail-top-display-ad
+cumlouder.com##.related-sites
 ||erowall.com/tf558550ef6e.js
 infoplease.com###block-ipleaderboardad
 realmadrid.com##.footer_rm_sponsors_container
@@ -45918,6 +45924,7 @@ superdeluxeedition.com##.widget-bg-image__deal-alert
 bing.com##a[href*="/aclick?ld="]
 partnerkin.com##.top_ab_box
 thingiverse.com##.item-card-container:has-text(/^Ad$/)
+bestjavporn.com,javdock.com,javhdporn.net##.related-native-banner
 cleaner.com##.zone-sky
 kenyans.co.ke##.ad-kenyans
 newyorkyimby.com##img[height="280"]
@@ -47434,7 +47441,6 @@ assamtribune.com###left_level_before_tags
 kompass.com##.prodListBanner
 nilechronicles.com##.bn-lg-sidebar
 thenationalherald.com##.leftside-add
-||surfmusic.de/anz
 brutal.io##.bannerBox
 sss.xxx##.fel-item
 aiscore.com##.justify-center.w100
@@ -50149,7 +50155,6 @@ mirrored.to##tbody > tr:has(> td[data-label="Host"] > img[src="https://www.mirro
 yahoo.com##.searchCenterBottomAds
 pornshare.biz##.banner_3
 pornshare.biz##.banner_2
-||stuff.co.nz/static/stuff-adfliction/
 bing.com##[id$="adsMvCarousel"]
 freebdsmxxx.org##.adv315
 ||enporn.org/system/theme/AnyPorn/js/popcode.min.js
@@ -51575,6 +51580,7 @@ shareus.io##.seperator-tag
 swimswam.com##.swimswam-acf
 extratv.com##.js-track-link
 cined.com###right-widget-b-alternative_links_widget-2
+cam4.com##.removeAds
 outsports.com##.min-h-\[100px\]:has(.adb-os-inarticle-block)
 bing.com##.b_spa_adblock
 comick.io##.pb-10.pt-2 > .text-xs.py-2
@@ -51886,7 +51892,6 @@ cooljugator.com##[data-fuse]
 ||zmovies.cc/e3cf74305b.php
 porn87.com##.ads_desktop
 doordash.com##.carousel-virtual-wrapper:has([href*="collection_type=sponsored_brand"])
-||survivalblog.com/marketplace/
 thehackernews.com##.okfix
 guides.gamepressure.com##.if-no-baner
 hentaiasmr.moe###bottom-tab
@@ -54162,6 +54167,7 @@ leiterreports.typepad.com###advertise_on_lr
 iobroker.net,iobroker.pro##.jss43
 bestbuy.com##.shop-dedicated-sponsored-carousel
 communitychickens.com,keepingbackyardbees.com##.jumbo-ad
+sexhd.pics##.relativebottom
 koimoi.com###inline_ad
 uwufufu.com##.min-h-\[253px\]
 fox10phoenix.com,fox13news.com,fox26houston.com,fox29.com,fox2detroit.com,fox32chicago.com,fox35orlando.com,fox4news.com,fox5atlanta.com,fox5dc.com,fox5ny.com,fox6now.com,fox7austin.com,fox9.com,foxbusiness.com,foxla.com,foxnews.com,ktvu.com,wogx.com##.vendor-unit
@@ -54447,7 +54453,6 @@ dailymail.co.uk,thisismoney.co.uk##.watermark
 mobiforge.com##a > img[alt="Ad"]
 mobafire.com##.vid-wrap
 sciencenews.org##.ad-block__mq-wrapper
-||survivalservers.com^$subdocument,domain=adfoc.us
 appleinsider.com##.push
 videocelebs.net##.recl
 flashscore.*##.section--nmb
@@ -54682,6 +54687,7 @@ pcgamingwiki.com##.upcoming-releases.home-card:first-child
 steamgifts.com##div.dont_block_me
 trademe.co.nz##tm-display-ad
 breakingbelizenews.com##.break-target
+pervclips.com,vikiporn.com##.remove-spots
 msn.com##a[aria-label="Booking.com"]
 gamelevate.com##[data-adpath]
 siasat.com##.awt_ad_code
@@ -54732,7 +54738,6 @@ scrabble-solver.com###skywideupper
 autosport.com##.ms-apb
 xxxdan.com,xxxdan3.com###bottom-line
 aniporn.com###in_v
-||sundayobserver.lk/sites/default/files/pictures/COVID19-Flash-1_0.gif
 steveharveyfm.com##.region-recommendation-right
 spambox.xyz##.ads-four
 uncrate.com##[href="https://un.cr/advertise"]
@@ -54908,7 +54913,6 @@ javfor.tv##.text-md-center
 namethatpornad.com,vxxx.com##a[href^="https://www.g2fame.com/"]
 pornpictureshq.com##.thumb__iframe
 @@||payload.cargocollective.com^$image,~third-party
-cumlouder.com##.related-sites
 ovacovid.com##div[class^="Banner-"]
 koreanstreamer.xyz##section.korea-widget
 erotichdworld.com##.slideContent
@@ -55354,7 +55358,6 @@ hentai-gamer.com##[src^="https://www.hentai-gamer.com/pics/"]
 @@||docs.woopt.com/wgact/$image,~third-party,xmlhttprequest
 xhamster.com##.yxd-jdsp-b
 xasiat.com##.top:has(> [data-zoneid])
-cam4.com##.removeAds
 @@||sanyonews.jp/files/image/ad/okachoku.jpg$~third-party
 lewdninja.com##.stargate
 javynow.com##.videos-ad__ad
@@ -55416,7 +55419,6 @@ imx.to##a[href^="https://camonster.com/"]
 4wank.com#?#.video-holder > center > :-abp-contains(/^Advertisement$/)
 pornhub.com#?#:-abp-properties(height: 300px; width: 315px;)
 @@||ipinfo.io/static/images/use-cases/adtech.jpg$image,~third-party
-sexhd.pics##.relativebottom
 darknessporn.com,familyporner.com,freepublicporn.com,pisshamster.com,punishworld.com,xanimu.com##div[id^="native-boxes"]
 hentaicovid.com##div[class^="banner-"]
 @@||s.w.org/wp-content/$stylesheet,domain=wordpress.org
@@ -55895,7 +55897,6 @@ missav.*,missav123.com,missav888.com##[x-show$="video_details'"] > div > .list-d
 hentairules.net##a[href^="http://www.gallery-dump.com"]
 @@||ads.freewheel.tv/|$media,domain=cnbc.com|fxnetworks.com|my.xfinity.com|nbc.com|nbcsports.com
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com|player.amperwave.net
-bestjavporn.com,javdock.com,javhdporn.net##.related-native-banner
 xhamster.com##.wio-pcam-thumb
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independent.co.uk
 hentai2read.com##[href^="https://camonster.com"]
@@ -55958,7 +55959,6 @@ avgle.com##img[src*=".php"]
 porndoe.com,redtube.com##video[autoplay][src*="data:" i]
 @@||codesandbox.io^$generichide
 pornhoarder.tv##.video-detail-bspace
-pervclips.com,vikiporn.com##.remove-spots
 xhamster.com##.wio-psp-b
 @@||bbc.gscontxt.net^$script,domain=bbc.com
 @@||accuweather.com/bundles/prebid.$script
