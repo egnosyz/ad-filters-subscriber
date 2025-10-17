@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-10-17 16:00:56
+! Last Modified: 2025-10-18 00:00:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3464,7 +3464,6 @@ advertisers.js|
 ||suffarilbf.com^
 ||hexingteeting.com^
 ||cuseccharm.com^
-||tubingacater.com^
 ||indriwhats.com^
 ||parazoamirks.com^
 ||doftighaiwuh.net^
@@ -5446,6 +5445,7 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||tjv250730ads.com^
 ||4kxczstxil.com^
@@ -13660,7 +13660,6 @@ ubmcmm.baidustatic.com
 ||ceremonysystemsfried.com^
 ||bayousabris.cyou^
 ||carbarnbonang.shop^
-||chioursorspolia.com^
 ||abantesstudded.cyou^
 ||cajondusun.click^
 ||affili.st^
@@ -22672,7 +22671,6 @@ ubmcmm.baidustatic.com
 ||coagruleny.net^
 ||drawx.xyz^
 ||iidpomfgxqpgx.online^
-||izechqbrmajqr.online^
 ||grene.site^
 ||dominieunpick.life^
 ||edktdzgduapfb.online^
@@ -22986,6 +22984,7 @@ ubmcmm.baidustatic.com
 ||frostdivinityrelevant.com^
 ||cliquedalis.click^
 ||ifmxhabbjpjrm.website^
+||chioursorspolia.com^
 ||corrupt-peak.com^
 ||friscobarchan.help^
 ||fynox.xyz^
@@ -32632,6 +32631,7 @@ ubmcmm.baidustatic.com
 ||pogghkrtow.net^
 ||kixhuzod.com^
 ||otofthesefa.org^
+||izechqbrmajqr.online^
 ||km-kryxqvt.site^
 ||pncloudfl.com^
 ||lungicko.net^
@@ -34482,7 +34482,6 @@ ubmcmm.baidustatic.com
 ||nqfwzphqxjbqo.store^
 ||peisetoolers.com^
 ||oduauledfalmc.online^
-||pswaplanat.digital^
 ||marbil24.co.za^
 ||meconinmarge.shop^
 ||meepwrite.com^
@@ -38916,7 +38915,6 @@ ubmcmm.baidustatic.com
 ||terfezkempas.com^
 ||variationsradio.com^
 ||skipmanbrasier.com^
-||whgugqkhydhg.net^
 ||stelarkickers.qpon^
 ||scaupsatropin.shop^
 ||sendszizania.qpon^
@@ -44495,6 +44493,7 @@ ubmcmm.baidustatic.com
 ||tdoqiajej.xyz^
 ||thump-night-stand.com^
 ||unfamiillardates.net^
+||pswaplanat.digital^
 ||reflexkashira.cfd^
 ||smashedplumepea.com^
 ||uqeukkgofxmr.com^
@@ -45972,7 +45971,6 @@ ubmcmm.baidustatic.com
 ||23.109.170.255^
 ||zzveirrwywhgc.store^
 ||wpnjs.com^
-||d3nvrqlo8rj1kw.cloudfront.net^
 ||zuizhongyj.com^
 ||syndicate.payloadz.com^
 ||d1l906mtvq85kd.cloudfront.net^
@@ -47842,6 +47840,7 @@ ubmcmm.baidustatic.com
 ||d2oxs0429n9gfd.cloudfront.net^
 ||wildxxxparties.com^
 ||zfvvgetsulfjm.site^
+||whgugqkhydhg.net^
 ||wvrqxorubkj.com^
 ||d2ob4whwpjvvpa.cloudfront.net^
 ||wtasvypxjqfro.com^
@@ -48720,6 +48719,7 @@ ubmcmm.baidustatic.com
 ||d3uvwdhukmp6v9.cloudfront.net^
 ||dwnm2295blvjq.cloudfront.net^
 ||rockpoint.xhamster42.desi^
+||d3nvrqlo8rj1kw.cloudfront.net^
 ||d3yl7tmbqe1mq.cloudfront.net^
 ||dzxr711a4yw31.cloudfront.net^
 ||ads.twdcgrid.com^
