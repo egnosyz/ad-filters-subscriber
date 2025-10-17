@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-10-17 08:02:21
+! Last Modified: 2025-10-17 16:00:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -12858,7 +12858,6 @@ _tm11_pmt_
 ||mat1.gtimg.com/2014/vikkydu/GA/haier
 /Runtime/Js/m_v_tuijian_
 ||iyf.tv/a/$xmlhttprequest
-||taozi.icu/asfile/m/js/guding.
 /js/jsstyle-$third-party
 ||51test.net/js_new/a/right_wx.js
 ||soaspx.com/images/iiszj.gif
@@ -16186,7 +16185,6 @@ baidu.com##.v-s-tuiguang-wrap
 smzdm.com##.beiwo
 lenovo.com.cn##.AdSite
 /cgi-bin/ad/*$~xmlhttprequest
-###adBanner1
 ###SidebarAd
 ###ad-large-header
 ###AD_Top
@@ -22541,6 +22539,7 @@ sohu.com##.lottery-box
 csdn.net##a[href="//gitbook.cn/new/gitchat/activity?utm_source=csdnblog1"]
 @@/adguard.$domain=llq.dml.ink
 lgn.yy.com##.m_left
+||taozi.icu/asfile/m/js/guding.
 dizhanw.com,jiangjunzy.com##div[style="background: #fff;padding:5px;"]
 3g.qq.com##li[id^="feed-omgad-"]
 maxthon.cn###shopping
@@ -25505,6 +25504,7 @@ maoken.com###siderAd01
 ##.ad160
 ##.adContainer1
 ###ad_layer
+###adBanner1
 ##.ad-728x90-wrapper
 ##.ad-row-viewport
 ###full_banner_ad
@@ -29955,7 +29955,6 @@ maoken.com###siderAd01
 ##.iframe-ad
 ##.ad-leaderboard-header
 ##.adrectwrapper
-##.js-ad-unit
 ###topadz
 ###div-ad-1x1
 ###mid_ad_div
@@ -34745,6 +34744,7 @@ soundandvision.com,stereophile.com#@##topbannerad
 ##.outbrainWidget
 ##.l-ad
 ##.sidebaradbox
+##.js-ad-unit
 docomo.ne.jp,hicbc.com#@#.ad-label
 ##.kiwi-ad-wrapper-300x250
 ##.sponsorBlock
@@ -50764,7 +50764,6 @@ trademe.co.nz##.tm-stripe__SL-card-container:has([class^="tm-sponsored-"])
 hltv.org##.mid-container
 ||freeadblockerbrowser.com^$popup
 ||omegadblocker.com^$popup
-modrinth.com##.normal-page__content [href*="bisecthosting.com/"] > img
 pipeflare.io##.section-promo-banner
 fanlesstech.com###HTML3
 bulinews.com##.bulinews-ad
@@ -55936,6 +55935,7 @@ natomanga.com##.fly-ads-chapter-page
 bing.com##div[aria-label$="ProductAds"]
 @@||smartadserver.com/genericpost$domain=filmweb.pl
 socialmediagirls.com##.jamLinkUnitsevenjunetwofour
+modrinth.com##.normal-page__content [href*="bisecthosting.com/"] > img
 escortbook.com###ebsponAxDS
 sexsbarrel.com,zingyporntube.com##.bns-place-ob
 gays-cruising.com##.m-row.h_100

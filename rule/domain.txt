@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-10-17 08:02:21
+! Last Modified: 2025-10-17 16:00:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3205,7 +3205,6 @@ iadctest.qwapi.com^
 ||cutoffclerks.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||lawzyscapoid.com^
 ||erodiumvodums.com^
@@ -6630,6 +6629,7 @@ iadctest.qwapi.com^
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||hodynx.top^
@@ -14258,7 +14258,6 @@ ubmcmm.baidustatic.com
 ||adgcufmqcuedr.online^
 ||adnimo.com^
 ||apologiesoccursdepressed.com^
-||chipleader.com^
 ||72hdgb5o.de^
 ||bramialitra.qpon^
 ||bh3.net^
@@ -15140,7 +15139,6 @@ ubmcmm.baidustatic.com
 ||ibeeckaidse.net^
 ||highmaidfhr.com^
 ||epacash.com^
-||izeetchothoo.com^
 ||gqrjyvgrlhmaa.space^
 ||giavvuwpx.com^
 ||imaginarymankindname.com^
@@ -24025,6 +24023,7 @@ ubmcmm.baidustatic.com
 ||grippingexpert.com^
 ||crakessurnoun.world^
 ||dunderaffiliates.com^
+||chipleader.com^
 ||finized.co^
 ||fjacrmtgm.com^
 ||cogaijaimt.net^
@@ -25148,6 +25147,7 @@ ubmcmm.baidustatic.com
 ||loinstaggerpamphlet.com^
 ||ooqtjsubfcppe.life^
 ||mangerolympicssnort.com^
+||izeetchothoo.com^
 ||pattedearnestly.com^
 ||nuolvunldkuuy.space^
 ||masbpi.com^
@@ -29351,7 +29351,6 @@ ubmcmm.baidustatic.com
 ||jrbbavbvqmjaq.top^
 ||njvhktxvqdrcj.xyz^
 ||ncetdrzpalozq.space^
-||pswlsefuaueke.space^
 ||outhowlexserts.shop^
 ||paxxfiss.com^
 ||kneescountdownenforcement.com^
@@ -38421,7 +38420,6 @@ ubmcmm.baidustatic.com
 ||vcpsvblj.com^
 ||vlcydcenrwmxl.store^
 ||vlnbnmlwzndjm.space^
-||whiboujaix.net^
 ||valuablelayoutgodless.com^
 ||tuiyvrfyy.com^
 ||sasinsetuid.com^
@@ -39513,6 +39511,7 @@ ubmcmm.baidustatic.com
 ||railroadunofficial.com^
 ||repaysdemerse.qpon^
 ||rscilnmkkfbl.com^
+||pswlsefuaueke.space^
 ||rwztaizsf.com^
 ||sweetromance.life^
 ||taskagetaka.help^
@@ -47235,7 +47234,6 @@ ubmcmm.baidustatic.com
 ||4547u5qms0m2um3rrum2wuo.xyz^
 ||d1jcj9gy98l90g.cloudfront.net^
 ||bl.wavecdn.de^
-||d3nz96k4xfpkvu.cloudfront.net^
 ||wmptcd.com^
 ||wpvepdrk.com^
 ||zvrokbqvqvjke.top^
@@ -47461,6 +47459,7 @@ ubmcmm.baidustatic.com
 ||wordfence.me^
 ||xylmdfsjjpwer.site^
 ||75264920.xyz^
+||whiboujaix.net^
 ||wwyomynzybgqn.top^
 ||d3lwdybbvxc4v9.cloudfront.net^
 ||224cc86d.xyz^
@@ -48692,6 +48691,7 @@ ubmcmm.baidustatic.com
 ||dxk5g04fo96r4.cloudfront.net^
 ||creative.141live.com^
 ||gpt.milftube.mobi^
+||d3nz96k4xfpkvu.cloudfront.net^
 ||dm7gsepi27zsx.cloudfront.net^
 ||ientent.stre4mplay.one^
 ||due5a6x777z0x.cloudfront.net^
