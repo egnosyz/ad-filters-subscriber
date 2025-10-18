@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-10-18 08:02:21
+! Last Modified: 2025-10-18 16:00:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10558,7 +10558,6 @@ $image,third-party,domain=lady1.top
 ||zhanqi.tv/api/static/v2.1/actives.lists/
 /80sad/*
 ||d67p.com/love/
-||waipian*.com/statics/recommend/
 ||78dm.net/acg_201*_1680
 _billboard_320x100.iframe.
 ||dodo8.com/template/*/images/g_js/
@@ -12858,7 +12857,6 @@ _tm11_pmt_
 ||mat1.gtimg.com/2014/vikkydu/GA/haier
 /Runtime/Js/m_v_tuijian_
 ||iyf.tv/a/$xmlhttprequest
-||taozi.icu/asfile/m/js/guding.
 /js/jsstyle-$third-party
 ||51test.net/js_new/a/right_wx.js
 ||soaspx.com/images/iiszj.gif
@@ -16186,7 +16184,6 @@ baidu.com##.v-s-tuiguang-wrap
 smzdm.com##.beiwo
 lenovo.com.cn##.AdSite
 /cgi-bin/ad/*$~xmlhttprequest
-###adBanner1
 ###SidebarAd
 ###ad-large-header
 ###AD_Top
@@ -16240,6 +16237,7 @@ _468x60/
 /video_ads.$script
 baidu.com,bdimg.com,tieba.com##.shield-agent-tb-feed
 rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
+||waipian*.com/statics/recommend/
 sou-yun.cn###ads_index_2
 ifeng.com##.js_url[href^="http://dol.deliver."]
 _468x60.
@@ -22541,6 +22539,7 @@ sohu.com##.lottery-box
 csdn.net##a[href="//gitbook.cn/new/gitchat/activity?utm_source=csdnblog1"]
 @@/adguard.$domain=llq.dml.ink
 lgn.yy.com##.m_left
+||taozi.icu/asfile/m/js/guding.
 dizhanw.com,jiangjunzy.com##div[style="background: #fff;padding:5px;"]
 3g.qq.com##li[id^="feed-omgad-"]
 maxthon.cn###shopping
@@ -23824,7 +23823,6 @@ ksbbs.com,kshot.com##div[id^="read_ad_"]
 _438x60_
 chongbuluo.com###add
 2345.com##.mainbg
-###adBadges
 sogou.com##.mobad
 coolinet.com##.section-banner
 baidu.com##.aside-inner > div[style*="height:"]
@@ -25505,6 +25503,7 @@ maoken.com###siderAd01
 ##.ad160
 ##.adContainer1
 ###ad_layer
+###adBanner1
 ##.ad-728x90-wrapper
 ##.ad-row-viewport
 ###full_banner_ad
@@ -28091,7 +28090,6 @@ maoken.com###siderAd01
 ###cubeAd
 ##.ad-overlay
 ##.headerAdSpacing
-##.js-ad-static
 ###floatingAdContainer
 ##.adTagTwo
 ##.adv-120x600
@@ -29955,7 +29953,6 @@ maoken.com###siderAd01
 ##.iframe-ad
 ##.ad-leaderboard-header
 ##.adrectwrapper
-##.js-ad-unit
 ###topadz
 ###div-ad-1x1
 ###mid_ad_div
@@ -33782,6 +33779,7 @@ maoken.com###siderAd01
 ##.ad-topper
 ##.ad-grey
 ##.bannerad
+###adBadges
 ###videoOverAd300
 ##.ad_160x600
 ##.adv-key
@@ -34745,6 +34743,7 @@ soundandvision.com,stereophile.com#@##topbannerad
 ##.outbrainWidget
 ##.l-ad
 ##.sidebaradbox
+##.js-ad-unit
 docomo.ne.jp,hicbc.com#@#.ad-label
 ##.kiwi-ad-wrapper-300x250
 ##.sponsorBlock
@@ -36895,6 +36894,7 @@ stjornartidindi.is#@#.adverttext
 ##.np-ad-border
 nicoad.nicovideo.jp#@#.ad-point
 ##.penci-google-adsense
+##.js-ad-static
 ##.video-ads-container
 ##.stock_ad
 ##.widget-dfp
@@ -50593,7 +50593,6 @@ hunker.com,livestrong.com##.component-article-section-jwplayer-wrapper
 bestbuy.com##.product-list-sponsored-wrapper-grid-view
 manomano.*##div[class]:has(> .c4iHiiE)
 asmag.com###banner_C
-etsy.com##ul[data-results-grid-container] li:has([id^="ad-listing-title-"])
 telegraphindia.com##.ttdadbox310
 ||naughtycdn.com/public/iframes/
 charlieintel.com###topunit
@@ -50764,7 +50763,6 @@ trademe.co.nz##.tm-stripe__SL-card-container:has([class^="tm-sponsored-"])
 hltv.org##.mid-container
 ||freeadblockerbrowser.com^$popup
 ||omegadblocker.com^$popup
-modrinth.com##.normal-page__content [href*="bisecthosting.com/"] > img
 pipeflare.io##.section-promo-banner
 fanlesstech.com###HTML3
 bulinews.com##.bulinews-ad
@@ -55705,6 +55703,7 @@ cubbyathome.com##.Post__inPostVideoAdDesktop
 hdtube.porn##.g-col-banners
 @@||lulustream.com^$popup,domain=luluvdo.com
 crazyporn.xxx##.adswarning
+etsy.com##ul[data-results-grid-container] li:has([id^="ad-listing-title-"])
 inxxx.com,theyarehuge.com##.desktopspot
 lewdspot.com##.top-sidebar
 socialmediagirls.com##a[href^="https://www.rabbitsreviews.com/"]
@@ -55936,6 +55935,7 @@ natomanga.com##.fly-ads-chapter-page
 bing.com##div[aria-label$="ProductAds"]
 @@||smartadserver.com/genericpost$domain=filmweb.pl
 socialmediagirls.com##.jamLinkUnitsevenjunetwofour
+modrinth.com##.normal-page__content [href*="bisecthosting.com/"] > img
 escortbook.com###ebsponAxDS
 sexsbarrel.com,zingyporntube.com##.bns-place-ob
 gays-cruising.com##.m-row.h_100
