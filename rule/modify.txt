@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-10-18 16:00:56
+! Last Modified: 2025-10-19 00:00:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10558,6 +10558,7 @@ $image,third-party,domain=lady1.top
 ||zhanqi.tv/api/static/v2.1/actives.lists/
 /80sad/*
 ||d67p.com/love/
+||waipian*.com/statics/recommend/
 ||78dm.net/acg_201*_1680
 _billboard_320x100.iframe.
 ||dodo8.com/template/*/images/g_js/
@@ -16237,7 +16238,6 @@ _468x60/
 /video_ads.$script
 baidu.com,bdimg.com,tieba.com##.shield-agent-tb-feed
 rvlev.com,t66y.com#?#.tpc_content:-abp-has(>b:nth-child(n+50)>span>a[onmouseover="this.style.background='#DEF5CD';"]:-abp-contains(91TV)) > :nth-child(-n+55)
-||waipian*.com/statics/recommend/
 sou-yun.cn###ads_index_2
 ifeng.com##.js_url[href^="http://dol.deliver."]
 _468x60.
@@ -23823,6 +23823,7 @@ ksbbs.com,kshot.com##div[id^="read_ad_"]
 _438x60_
 chongbuluo.com###add
 2345.com##.mainbg
+###adBadges
 sogou.com##.mobad
 coolinet.com##.section-banner
 baidu.com##.aside-inner > div[style*="height:"]
@@ -28090,6 +28091,7 @@ maoken.com###siderAd01
 ###cubeAd
 ##.ad-overlay
 ##.headerAdSpacing
+##.js-ad-static
 ###floatingAdContainer
 ##.adTagTwo
 ##.adv-120x600
@@ -33779,7 +33781,6 @@ maoken.com###siderAd01
 ##.ad-topper
 ##.ad-grey
 ##.bannerad
-###adBadges
 ###videoOverAd300
 ##.ad_160x600
 ##.adv-key
@@ -36894,7 +36895,6 @@ stjornartidindi.is#@#.adverttext
 ##.np-ad-border
 nicoad.nicovideo.jp#@#.ad-point
 ##.penci-google-adsense
-##.js-ad-static
 ##.video-ads-container
 ##.stock_ad
 ##.widget-dfp
@@ -50593,6 +50593,7 @@ hunker.com,livestrong.com##.component-article-section-jwplayer-wrapper
 bestbuy.com##.product-list-sponsored-wrapper-grid-view
 manomano.*##div[class]:has(> .c4iHiiE)
 asmag.com###banner_C
+etsy.com##ul[data-results-grid-container] li:has([id^="ad-listing-title-"])
 telegraphindia.com##.ttdadbox310
 ||naughtycdn.com/public/iframes/
 charlieintel.com###topunit
@@ -55703,7 +55704,6 @@ cubbyathome.com##.Post__inPostVideoAdDesktop
 hdtube.porn##.g-col-banners
 @@||lulustream.com^$popup,domain=luluvdo.com
 crazyporn.xxx##.adswarning
-etsy.com##ul[data-results-grid-container] li:has([id^="ad-listing-title-"])
 inxxx.com,theyarehuge.com##.desktopspot
 lewdspot.com##.top-sidebar
 socialmediagirls.com##a[href^="https://www.rabbitsreviews.com/"]
