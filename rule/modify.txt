@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-10-31 08:03:08
+! Last Modified: 2025-10-31 16:00:57
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -9211,7 +9211,6 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,mojezdravi.cz,
 =BAIDU_SSP_define&
 ||doko.moe^$domain=pantsu.cat
 ||juxia.com/jxtp/indexbg.jpg
-||yorkbbs.ca/crm/section/v1/get/list/open
 ||allyes.$third-party
 ||962.net/show/all.js
 ||ps886.us/js/*.js
@@ -17179,7 +17178,6 @@ iwan.baidu.com###j-ditu
 chaicp.com,qiuyi.cn##.Advertisement
 mx-fm.com,ts.21cn.com#@#.ad_img
 fsclzs.com###qvod
-###ad-medium-rectangle
 ||zhimg.com/80/v2-f4b209014eeea058dd5b43f085aaef02.
 fznews.com.cn##.kuang100_right
 ://adserving.
@@ -19698,6 +19696,7 @@ fuyang.net###portal_block_474
 /700_200.
 @@||oiihk.com^$generichide
 @@||bdimg.com/static/wapwenku/static/common/widget/share/share_
+||yorkbbs.ca/crm/section/v1/get/list/open
 life.tw###fbFixedAd
 toolfk.com###layui-layer100001
 @@||wenxuecity.com^$generichide
@@ -20058,7 +20057,6 @@ netfly.fun,netfly.tv,netflytv.xyz##[style^="display: flex;"]
 csgoob.com##.lg\:sticky.lg\:top-22 > .card-shadow:not(.py-4)
 /?zoneid=*&timeout=$popup
 viu.com##div[id^="info"]
-###ad-medium-lower
 baidu.com##.manual-spread
 @@/adx.$domain=tanx.com
 qq.com##.business-Article-QQ
@@ -26608,6 +26606,7 @@ maoken.com###siderAd01
 ##.ad_widget
 ###ad-rectangle2
 ###lightboxAd
+###ad-medium-rectangle
 ###ad-rectangle3
 ##.ad-bot
 ###googletextads
@@ -29251,7 +29250,6 @@ maoken.com###siderAd01
 ##.Sponsor-container
 ###comment_ad_zone
 ##.ads-instance
-##.iframe-ads
 ##.adTileWrap
 ##.ads-placeholder-wrapper
 ##.ad_bottom_space
@@ -29741,6 +29739,7 @@ maoken.com###siderAd01
 ###ads_center
 ##.banner468
 ###rail-ad-wrap
+###ad-medium-lower
 ##.RightTowerAd
 ##.ad_center_bottom
 ##.ads_outer
@@ -29825,7 +29824,6 @@ maoken.com###siderAd01
 ###leaderad
 ##.adbox-title
 ##.advert-sticky-wrapper
-##.iframe-ad
 ##.ad-leaderboard-header
 ###ad-wrapper-728x90
 ##.adrectwrapper
@@ -34228,6 +34226,7 @@ letroso.com#@#.ad-padding
 ##.post-adsense-bottom
 ##.lst_ads
 ##.l-bottom-ads
+##.iframe-ads
 ##.profile-ads-container
 forums.overclockers.ru#@#div[id^="yandex_ad"]
 ##.sponsorFooter
@@ -34634,6 +34633,7 @@ soundandvision.com,stereophile.com#@##topbannerad
 ##.sidebar-ads-block
 ##.zergnet-unit
 ##.outbrain-wrapper
+##.iframe-ad
 ##.top-ads-container
 ##.oi-header-ad
 ##.box-outbrain
@@ -42863,7 +42863,6 @@ tei-c.org#@##msad
 ||faspox.com^$third-party
 ||ogrepsougie.net^$popup
 ||bannersnack.com^$third-party,domain=~bannersnack.dev
-||pussy-pics.net^$third-party
 ||bbccn.org^$popup
 ||eavesofefinegoldf.info^$popup
 ||date4sex.pro^$popup
@@ -43107,7 +43106,6 @@ tei-c.org#@##msad
 ||adsrv4k.com^$third-party
 ||armedtidying.com^$popup
 ||92790388.xyz^$document,popup
-||ptwebcams.com^$third-party
 ||shopeasy.by^$popup
 ||backgroundrunway.com^$popup
 ||camduty.com^$third-party
@@ -43516,7 +43514,6 @@ autolist.com##.jsx-2866408628
 radiocity.in##.vertical-big-add
 globalgovernancenews.com##.dlopiqu
 numista.com###right_pub
-yardbarker.com##.yb-card-leaderboard
 leopathu.com###block-accuwebhostingsidebartop
 datareportal.com###fuse-sticky
 ||poedb.tw/image/torchlight/
@@ -47069,6 +47066,7 @@ frequence-radio.com###pub_listing_top
 emojiphrasebook.com##.adBottom
 classcentral.com##.cmpt-ad
 lightnovelcave.com##.vnad-in
+||pussy-pics.net^$third-party
 ubergizmo.com##.label_advertising_text
 ||trafficundercontrol.com^$third-party
 ||jsdelivr.net/gh/qxomer/reklam@master/reklam.js
@@ -51254,7 +51252,6 @@ starsinsider.com##.pub-container
 just-dice.com##.realcontent
 ||ertya.com^$popup
 thecompleteuniversityguide.co.uk##.bnr_out
-yardbarker.com##.yb-card-ad
 ||sat-universe.com/wos3.gif
 stuff.tv##.c-video-ad__container
 geeksforgeeks.org,vgleaks.com###text-16
@@ -51532,6 +51529,7 @@ pcgamesn.com,pockettactics.com##.inlinerail
 ytmp3.mobi###ba
 omniglot.com##.flex-container
 ||seeawhale.com^$third-party
+||ptwebcams.com^$third-party
 ||zkcdn.net/ados.js
 phonearena.com##.announcements
 proprivacy.com##.exit-popup.modal-background
@@ -51848,6 +51846,7 @@ apartmenttherapy.com,cubbyathome.com##.Post__inPostVideoAdMobile
 cumlouder.com##.banner-frame
 @@||banmancounselling.com/wp-content/themes/banman/
 @@||so-net.ne.jp/access/hikari/minico/ad/images/$~third-party
+yardbarker.com##.yb-card-leaderboard
 my.clevelandclinic.org##div[data-identity*="board-ad"]
 southernliving.com##.karma-sticky-rail
 redtube.com###live_models_row_wrap
@@ -55730,6 +55729,7 @@ msn.com##a[href^="https://disneyplus.bn5x.net/"]
 foodlion.com##[aria-label="Sponsored Ad"]
 yahoo.com###viewer-LREC2-iframe
 the-sun.com##[data-component="zergnet"]
+yardbarker.com##.yb-card-ad
 wbnq.com,wbwn.com,wjbc.com##a[href^="https://stjude.org/radio/"]
 hentaiff.com##div[id^="teaser"]
 @@||tiktok.com^$generichide
