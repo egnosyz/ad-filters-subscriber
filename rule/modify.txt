@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-11-04 08:02:21
+! Last Modified: 2025-11-04 16:00:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10019,6 +10019,7 @@ _float_fuo.js
 ||vansky.com/agdg/vans/adv
 ||taobao.com/go/$third-party,domain=~alimama.com|~alitrip.com|~tanx.com|~tmall.com
 /dy_66jjss/*
+||dangbei.net/2022/dbhezi.
 ||591hx.com/images/0000.jpg
 ||moegirl.org.cn/insight/MoegirlInsight.
 ##.xzbox-gh
@@ -10526,6 +10527,7 @@ $image,third-party,domain=lady1.top
 /mpc/*$domain=52xkdy.com|fydy8.com
 ||etest8.com/js/158/infojs/
 ||cnmo.com/oddjs/
+||netflavns1.com/assets/jquery/app0.
 ##.ec-ad
 ||gamersky.com/g/gamerskyflash.js
 ||zn46.com/images/*0x
@@ -16641,6 +16643,7 @@ eastday.com##.news-promote
 china.com##.baidu
 @@||95306.cn/public/images/ad/
 /jgcabd-detect-$script
+###ad-wrapper-sidebar-1
 firefoxchina.cn###theme-side-banner
 ebc.net.tw###lotteryfnc
 chinacar.com.cn##.advertising
@@ -20416,7 +20419,6 @@ boke112.com##a[href*=".tencent.com"]
 timedg.com##.topCrossAd
 /ntv.json?key=
 qzone.qq.com###appCanvasTaskMarket
-||dangbei.net/2022/dbhezi.
 gaoqingw.com##.search + .widget
 19lou.com##.zx-link
 iqiyi.com##.video-ad_left
@@ -20829,7 +20831,6 @@ hcbbs.com###frameXM5QbM img
 iqiyi.com###jingdongArea
 19lou.com##.ad-980x40
 kaifu.com##.news-t-adv
-||netflavns1.com/assets/jquery/app0.
 loldk.com###meizi_ad
 lbx777.com,lbx777.net##table[width="325"][height="280"]
 @@||yantuchina.com/gg/tmp/hong.gif
@@ -21338,6 +21339,7 @@ youmelive.com###b2-widget-html-2
 csdn.net###asideCustom36733263
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.game-head-game-info-wrapper
 52youpiao.com##div[style^="position:fixed; right:40px;"]
+###ad-wrapper-main-1
 olgame.tw##.nex_mid_ads
 jjhuashui.com##div[id^="jinsom-widget-slider-"]
 @@||livew.l.qq.com/livemsg?pf=H5&ad$domain=m.v.qq.com
@@ -25990,7 +25992,6 @@ maoken.com###siderAd01
 ##.ad-field
 ###inner-advert-row
 ##.adace-sponsors-box
-###ad-wrapper-sidebar-1
 ###adHome
 ###videoAd
 ##.adswidget
@@ -28694,6 +28695,7 @@ maoken.com###siderAd01
 ##.adcontainer_big
 ###adskyscraper
 ###advSkin
+##.isAdPage
 ###ad_Right
 ###ad_home
 ##.advt_single
@@ -29411,6 +29413,7 @@ maoken.com###siderAd01
 ###ads_belownav
 ##.adblock300250
 ###advertising-728x90
+##.isad_box
 ###bottomAdSenseDiv
 ##.ad_1deg5up
 ##.articleAd
@@ -31009,7 +31012,6 @@ maoken.com###siderAd01
 ###header_ad
 ###divAdMain
 ##.ad-type-flex-leaderboard
-###ad-wrapper-main-1
 ###adpositionbottom
 ##.adsforums
 ##.cableads
@@ -34382,7 +34384,6 @@ finvtech.com,herstage.com,sportynew.com,travel13.com#@##ads-wrapper
 ##.story-ad-right
 ##a[href^="https://explore-site.com/"]
 ##.right-side-ads
-##.isad_box
 ##.mid_ad
 ##.wikia-ad
 ##[href="//sexcams.plus/"]
@@ -37367,7 +37368,6 @@ heatware.com#@#.ads-image
 ##.scroll-track-ad
 ##.postbit-ad
 ##.pubexchange_module
-##.isAdPage
 ##.module-image-ad
 ##a[href^="https://fc.lc/ref/"]
 ##.module_single_ads
@@ -38591,6 +38591,7 @@ tei-c.org#@##msad
 ||rcdn-web.com^$popup
 ||54199287.xyz^$document,popup
 ||adbooth.com^$popup
+||static.tradetracker.net^$third-party
 ||streamsearchclub.com^$popup
 ||pornkings.com^$third-party
 ||meta4-group.com^$third-party
@@ -39806,6 +39807,7 @@ tei-c.org#@##msad
 ||dradvice.in^$popup
 ||webgains.com^$third-party
 ||rebrew-foofteen.com^$popup
+||static.sunmedia.tv/integrations/
 ||nasssmedia.com^$popup
 ||dagnar.com^$popup
 ||wecouldle.com^$popup
@@ -45091,7 +45093,6 @@ suffolknews.co.uk##.Advertisement
 f1gamesetup.com##.supp-header-banner
 ||hdpornphotos.com/images/728x180_
 biznews.com##.wp-image-1055350
-||static.tradetracker.net^$third-party
 informer.com##.block_ad1
 issuu.com##.grid-layout__ad-in-shelf
 godisageek.com###custom_html-4
@@ -46746,7 +46747,6 @@ allkeyshop.com##[href^="https://vaks.re/"]
 chess.com##.short-sidebar-ad-component
 ||hentaidude.xxx/wp-content/plugins/script-manager/
 ||porndude.link/porndudepass$popup,domain=theporndude.com
-||static.sunmedia.tv/integrations/
 agegeek.com,investing.com,pimpandhost.com###ad2
 orschlurch.net##.amazon-wrapper
 zerohedge.com##[class^="PromoButton"]
@@ -51897,6 +51897,7 @@ ip-address.org##.aduns
 secretchicago.com##.smn-new-gpt-ad
 ||mykocam.com/js/feeds.js
 last.fm##.recs-feed-item--ad
+facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##article[data-ft*="\"ei\":\""]
 ||geobanner.blacksexmatch.com^$third-party
 zerohedge.com##a[class^="endorsement"]
 sportsnet.ca##.Ads_card-wrapper__KyXLu
@@ -52223,6 +52224,7 @@ japantoday.com##.s10r
 ftvlive.com###sidebar-one-wrapper
 gearspace.com###Takeover
 ||pantyhoseposing.com/ed/
+linkedin.com##article[data-is-sponsored]
 ||adultasianporn.com/puty3s/
 mmafighting.com##.c-promo-breaker
 system-rescue.org###sponsors-left
@@ -55754,7 +55756,6 @@ japan-whores.com##.top-r-all
 yahoo.com###sda-top-center-iframe
 search.yahoo.com#?#div.mb-28:-abp-has(span:-abp-contains(Ads))
 pornmeka.com##.spot_wrapper
-facebook.com,facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion##article[data-ft*="\"ei\":\""]
 @@||v.fwmrm.net/ad/g/1?*mtv_desktop$xmlhttprequest
 teensforfree.net##.bst1
 trannygem.com##a[href^="https://landing.transangelsnetwork.com/"]
@@ -56066,7 +56067,6 @@ hqporner.com##.black_friday
 downforeveryoneorjustme.com#?#.relative.bg-white:has-text(PolyBuzz)
 seexh.com,valuexh.life,xhaccess.com,xhamster.com,xhamster.desi,xhamster2.com,xhamster3.com,xhamster42.desi,xhamsterporno.mx,xhbig.com,xhbranch5.com,xhchannel.com,xhdate.world,xhlease.world,xhofficial.com,xhspot.com,xhtotal.com,xhtree.com,xhwide2.com,xhwide5.com##a[href^="https://flirtify.com/"]
 amazon.*###sc-rec-bottom
-linkedin.com##article[data-is-sponsored]
 theyarehuge.com##.video-holder > .box
 itnewsonline.com##td[width="120"]
 drive.com.au##hr

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-11-04 08:02:21
+! Last Modified: 2025-11-04 16:00:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3295,6 +3295,7 @@ advertisers.js|
 ||cutoffclerks.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
+||afgodscarpe.com^
 ||hottedholster.com^
 ||lawzyscapoid.com^
 ||erodiumvodums.com^
@@ -3483,6 +3484,7 @@ advertisers.js|
 ||suffarilbf.com^
 ||hexingteeting.com^
 ||cuseccharm.com^
+||tubingacater.com^
 ||indriwhats.com^
 ||parazoamirks.com^
 ||doftighaiwuh.net^
@@ -5487,7 +5489,6 @@ advertisers.js|
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
-||tubingacater.com^
 ||adf.dahe.cn^
 ||mf6xyfh3c.com^
 ||tjv250730ads.com^
@@ -6759,7 +6760,6 @@ advertisers.js|
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||hodynx.top^
@@ -12124,6 +12124,7 @@ ubmcmm.baidustatic.com
 ||bantamsonefold.com^
 ||boukeewhocoa.net^
 ||ckdehawsbpulg.xyz^
+||cloudimagesa.com^
 ||afm01.com^
 ||cdn-adtech.com^
 ||05f3b6b187.com^
@@ -13259,6 +13260,7 @@ ubmcmm.baidustatic.com
 ||2377192920.com^
 ||chymiatipple.rest^
 ||89sa.com^
+||cloudfrale.com^
 ||9x4yujhb0.com^
 ||buikolered.com^
 ||chaipaglelr.net^
@@ -20575,7 +20577,6 @@ ubmcmm.baidustatic.com
 ||hkpjnieraypcn.site^
 ||honourrib.com^
 ||hovhsfmqaophr.com^
-||cloudimagesa.com^
 ||hubbabu2bb8anys09.com^
 ||fndvkouekeevn.online^
 ||furcaionist.click^
@@ -22248,7 +22249,6 @@ ubmcmm.baidustatic.com
 ||dsau5u.com^
 ||gqkrkcicjfzwi.website^
 ||hibawsvdvfsul.site^
-||cloudfrale.com^
 ||glaigaunsoroogh.com^
 ||htgclhssrgikf.buzz^
 ||efeyaukqwlyticafr.com^
@@ -22950,6 +22950,7 @@ ubmcmm.baidustatic.com
 ||enherappedo.cc^
 ||hdbcode.com^
 ||d1a0c6affa.com^
+||jdxnelgnhtfyq.space^
 ||coverdistilltile.com^
 ||dotsrv.com^
 ||inopportunelargestrumble.com^
@@ -23406,6 +23407,7 @@ ubmcmm.baidustatic.com
 ||helmethomicidal.com^
 ||folsksjofpuum.online^
 ||iwffukdtesgpu.online^
+||jdxxuvnrpdmit.space^
 ||coupstrangers.com^
 ||gfryovadjrrnc.online^
 ||daytimereductionactually.com^
@@ -27923,6 +27925,7 @@ ubmcmm.baidustatic.com
 ||knowpillardrug.com^
 ||njsxourgkanks.online^
 ||primarilyzapstinky.com^
+||pssyjxliwunax.website^
 ||leezoama.net^
 ||loptrrfnfnsnb.space^
 ||kusanming.qpon^
@@ -32623,6 +32626,7 @@ ubmcmm.baidustatic.com
 ||oevll.com^
 ||kfkewuaghmbfm.website^
 ||phovursopsed.net^
+||psszqijvawlgk.online^
 ||ounfpfsfoijxo.online^
 ||proteinfrivolousfertilised.com^
 ||nqn7la7.de^
@@ -32912,7 +32916,6 @@ ubmcmm.baidustatic.com
 ||mbubpaadqdhmlji.com^
 ||ppeiutpbqegcj.online^
 ||mignished-sility.com^
-||jdxnelgnhtfyq.space^
 ||painfullydeplore.com^
 ||liudomtz.com^
 ||lvbbdxvfisdnw.website^
@@ -33378,7 +33381,6 @@ ubmcmm.baidustatic.com
 ||misunderstandprodigalnovember.com^
 ||pcqze.tech^
 ||loajawun.com^
-||jdxxuvnrpdmit.space^
 ||pastieschechia.cyou^
 ||mshago.com^
 ||longtermcity.pro^
@@ -37965,10 +37967,10 @@ ubmcmm.baidustatic.com
 ||tritonenamban.click^
 ||qvrykgyestfdv.online^
 ||ukhuxahqxswax.store^
+||wallpapersfacts.com^
 ||uselessmigraine.com^
 ||ratedeaddisk.com^
 ||ruggingthynnid.life^
-||pssyjxliwunax.website^
 ||quentjammy.qpon^
 ||uhoyczjndgwrn.site^
 ||scapelpawls.cyou^
@@ -38050,6 +38052,7 @@ ubmcmm.baidustatic.com
 ||swavoo.top^
 ||vughstypo.life^
 ||tensiletaraph.com^
+||walruspractitioner.com^
 ||tdxsyuetu.com^
 ||quicklycrypts.digital^
 ||subjectivecubecaprice.com^
@@ -42736,7 +42739,6 @@ ubmcmm.baidustatic.com
 ||qfqdbkxmovpli.xyz^
 ||verwh.com^
 ||varnishoverprotective.com^
-||psszqijvawlgk.online^
 ||strtgic.com^
 ||shoorsoassep.net^
 ||tqbcvgkcizs.com^
@@ -47227,7 +47229,6 @@ ubmcmm.baidustatic.com
 ||wgxnxjujenmqp.space^
 ||woulukdliketob.com^
 ||xhpxlfigiuylm.store^
-||wallpapersfacts.com^
 ||xineday.com^
 ||zduegcarpuloe.site^
 ||1187531871.rsc.cdn77.org^
@@ -47298,7 +47299,6 @@ ubmcmm.baidustatic.com
 ||phgotof2.com^
 ||wauthauhou.net^
 ||zcgiq63jnbrnpw9r5b9mukkb6ck55iit43xfcr3.rest^
-||walruspractitioner.com^
 ||xhdooiqhqpinv.space^
 ||yqnqnvpunztoe.space^
 ||zazlluqbstvzk.website^
