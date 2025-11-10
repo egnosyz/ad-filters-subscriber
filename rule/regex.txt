@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-11-10 08:02:37
+! Last Modified: 2025-11-10 16:00:52
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -12,6 +12,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -46,7 +47,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -132,17 +132,14 @@ advertisers.js|
 ||ac*.pingguolv.com^
 ||at*.doubanio.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||admi2fib4exit^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||get-me-wow.
-||javascriptbasics^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||158.247.208.
 ||23.109.82.
 ||142.91.159.
-||cas.*.criteo.com^
-||allsportsflix.
 |167.206.10.148^
 ||23.109.87.
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||util-*.simply-hentai.com^
+||cas.*.criteo.com^
+||allsportsflix.
