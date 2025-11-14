@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-11-14 00:00:53
+! Last Modified: 2025-11-14 08:02:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3210,7 +3210,6 @@ iadctest.qwapi.com^
 ||cutoffclerks.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||lawzyscapoid.com^
 ||erodiumvodums.com^
@@ -3411,7 +3410,6 @@ iadctest.qwapi.com^
 ||suffarilbf.com^
 ||hexingteeting.com^
 ||cuseccharm.com^
-||tubingacater.com^
 ||indriwhats.com^
 ||parazoamirks.com^
 ||doftighaiwuh.net^
@@ -5106,7 +5104,6 @@ iadctest.qwapi.com^
 ||zxvklz.icu^
 ||fpfhtr.icu^
 ||bootscritp.com^
-||z.nowscore.com^
 ||0b4qu3nxa.com^
 ||ztdbfz.top^
 ||traukvan.com^
@@ -5454,6 +5451,7 @@ iadctest.qwapi.com^
 ||enwuamw.top^
 ||vgnyli.top^
 ||yqrsdfh.top^
+||tubingacater.com^
 ||adf.dahe.cn^
 ||mf6xyfh3c.com^
 ||tjv250730ads.com^
@@ -6756,6 +6754,7 @@ iadctest.qwapi.com^
 ||gkxqt.cn^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||hodynx.top^
@@ -8321,6 +8320,7 @@ ubmcmm.baidustatic.com
 ||richh.cn^
 ||lcd.aivote.com^
 ||bdasd.chdbook.cn^
+||z.nowscore.com^
 ||bun1.dayi.org.cn^
 ||static.ichehome.com^
 ||a1.cyyangqiguan.com^
@@ -11936,7 +11936,6 @@ ubmcmm.baidustatic.com
 ||bbqtxxkyqk.net^
 ||bincatracs.com^
 ||bookshelfcomplaint.com^
-||choopsuptoarty.net^
 ||bifilarwhammo.com^
 ||bhcifkfrtccdt.online^
 ||bovscuwjuupvr.online^
@@ -13917,7 +13916,6 @@ ubmcmm.baidustatic.com
 ||asleepcockpitborne.com^
 ||700f312054.com^
 ||ayintothefre.org^
-||choomsohidrie.net^
 ||browsecoherentunrefined.com^
 ||aissoustaunifuh.net^
 ||benoopto.com^
@@ -20244,6 +20242,7 @@ ubmcmm.baidustatic.com
 ||exporder-patuility.com^
 ||dcekmroqspsuq.online^
 ||csbhmxgelwqud.store^
+||choopsuptoarty.net^
 ||givingsol.com^
 ||gusvoxyroosho.site^
 ||coffledtalkee.help^
@@ -21540,7 +21539,6 @@ ubmcmm.baidustatic.com
 ||doubleadserve.com^
 ||hazicu.hothomefuck.com^
 ||ddowlrjvlmkcy.website^
-||inlwhyhdnpjxk.website^
 ||f18ddd0d1a.com^
 ||fisetindebye.cyou^
 ||grouchyrecover.com^
@@ -23445,6 +23443,7 @@ ubmcmm.baidustatic.com
 ||forepawsbarren.com^
 ||gubgdbkvmumnlk.com^
 ||himnnaskthi.com^
+||choomsohidrie.net^
 ||creatablegluesurvival.com^
 ||gkyju.space^
 ||feline-curve.pro^
@@ -23587,7 +23586,6 @@ ubmcmm.baidustatic.com
 ||ewyjmkgvvtoxy.space^
 ||hjjeipidgvpqhr.net^
 ||fprgsxjsykxem.website^
-||inmateimpossibility.com^
 ||darnobedienceupscale.com^
 ||ghszhdgsydcmt.site^
 ||exqbxfzcrslqg.store^
@@ -27878,7 +27876,6 @@ ubmcmm.baidustatic.com
 ||onwxtafepznze.com^
 ||jaaptellus.shop^
 ||massiveanalyticssys.net^
-||picturespushfulrookie.com^
 ||mmnxrlhhbacpng.com^
 ||mucheldecoyer.digital^
 ||outsertozonic.cfd^
@@ -31495,6 +31492,7 @@ ubmcmm.baidustatic.com
 ||koamistauty.net^
 ||knownconflict.com^
 ||lixoolroxunsee.com^
+||inlwhyhdnpjxk.website^
 ||mdusneoid.rest^
 ||nybkctzmldnye.space^
 ||newoctads.com^
@@ -33331,7 +33329,6 @@ ubmcmm.baidustatic.com
 ||jmxqqlgsrkkrl.online^
 ||pavingtelesis.rest^
 ||perjurysubbeau.cfd^
-||pictureseres.shop^
 ||nibbydowl.life^
 ||lirdawkin.com^
 ||oowavfddpvuzo.space^
@@ -33514,6 +33511,7 @@ ubmcmm.baidustatic.com
 ||leftcandle.com^
 ||matzothdiane.com^
 ||oferunfixes.cfd^
+||inmateimpossibility.com^
 ||jrolyrlabyqrz.top^
 ||mediapalmtree.com^
 ||inoussurdeen.net^
@@ -37887,6 +37885,7 @@ ubmcmm.baidustatic.com
 ||squallscaroler.world^
 ||sacdnssedge.com^
 ||spendharassingwarmly.com^
+||picturespushfulrookie.com^
 ||qqeadugfccgya.space^
 ||professionaltrafficmonitor.com^
 ||qzyiewbewqgaa.space^
@@ -38927,7 +38926,6 @@ ubmcmm.baidustatic.com
 ||sharedmediumshe.com^
 ||qfgzjprfvrabq.site^
 ||prre.ru^
-||untriedshe.com^
 ||soontow.com^
 ||preconysemipro.com^
 ||qknwitnyvxqtx.store^
@@ -43397,6 +43395,7 @@ ubmcmm.baidustatic.com
 ||shafiicly.rest^
 ||sosignamentswithde.org^
 ||synthesissourcegovernment.com^
+||pictureseres.shop^
 ||proposalkeptstaff.com^
 ||regulationstranger.com^
 ||uaupemachos.rest^
@@ -44196,7 +44195,6 @@ ubmcmm.baidustatic.com
 ||sparsivies.cfd^
 ||tihzzgtucmnqp.online^
 ||qvxrbcmwwtdudcm.net^
-||untriedpoetry.com^
 ||progenyaimless.com^
 ||rbtwo.bid^
 ||pttyteuarfsqa.site^
@@ -49211,6 +49209,7 @@ ubmcmm.baidustatic.com
 ||whomsudsikaxu.com^
 ||zapotezincky.com^
 ||ziyhd.fun^
+||untriedshe.com^
 ||wzplcddnvdodh.xyz^
 ||usainoad.net^
 ||yswkkrbsqlvscdh.com^
@@ -49613,6 +49612,7 @@ ubmcmm.baidustatic.com
 ||vyiqsohuuoziu.store^
 ||vid.me^
 ||cdn.viowrel.com^
+||untriedpoetry.com^
 ||vxkqazollahft.store^
 ||xtakfprqxykkt.store^
 ||uxtzpzxryhbvh.online^
