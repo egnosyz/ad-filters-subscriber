@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-11-20 08:02:14
+! Last Modified: 2025-11-20 16:00:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -13536,7 +13536,6 @@ _yad_jsonp_
 .vip/ads/
 ||haoqu99.com/d/haoqu/haoqu
 ||pniao99.com/statics/js/stat.js
-||yesky.com/s?z=
 ||downmn.com^$popup,third-party
 ||pengwei168.com/addons/321.gif
 /data/cache/myad-
@@ -18401,6 +18400,7 @@ cnplugins.com##.pushbox1
 beephone.com.tw##a[href^="http://www.beephone.com.tw/adlink.php?id="]
 secretmine.net##div[id^="secre-"]
 so.com##.res-mediav
+||yesky.com/s?z=
 html-js.com##div[style="margin:10px auto;width:1000px;"]
 91.com,hao123.com,site.baidu.com###midline
 ||pjcn.org^$third-party
@@ -22569,7 +22569,6 @@ bjcxqd.com##.box-vdgd
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
 @@||eslite.com^*/ad
 hao.360.cn###daily-hotword
-###ad-googleAdSense
 .moa0*ju.com/$script,xmlhttprequest,third-party
 cnr.cn###gtop00
 @@||freedidi.com^$generichide
@@ -28344,7 +28343,6 @@ maoken.com###siderAd01
 ###adblock-small
 ###adTopModule
 ##.Ad300
-##.home_adblock
 ##.MbanAd
 ##.ad260x60
 ##.ads_div
@@ -32386,6 +32384,7 @@ maoken.com###siderAd01
 ###adbox-inarticle
 ##._popIn_recommend_article_ad_reserved
 ###adslot3
+###ad-googleAdSense
 ###adslot2
 ###adslot1
 ##.fah-btn.nopop
@@ -37208,6 +37207,7 @@ aga-clinic-experience.jp#@##ad_top
 ##.top_adh
 herbanomic.com#@#[href^="https://www.herbanomic.com/"] > img
 ##.mainLeftAd
+##.home_adblock
 ##.push--ad
 guloggratis.dk#@#.ad-links
 ##.rightadd
@@ -44143,7 +44143,6 @@ tei-c.org#@##msad
 ||cashgzb.com^$popup
 ||private4.com^$third-party
 ||tgtmedia.com^$third-party
-||pcwdld.com/SGNg95BS08r9.js
 ||cam4.com^*&utm_source=$popup
 ||eurochannel.com/images/banners/
 ||shakingtacklingunpeeled.com^$popup
@@ -53307,7 +53306,6 @@ softonic.com##div[data-meta="placeholder-slot"]
 egmnow.com##.outbrain-wrapper
 heavy-r.com###closeable_widget
 asmag.com##.banner_box
-visitmama.com##.menu-item > a:not([href^="https://www.visitmama.com/"])
 nitrome.com###skyscraper_box
 ||thanks.viewfr.com/webroot/ads/adsterra/
 gamesradar.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
@@ -53752,6 +53750,7 @@ everythingrf.com##.stickyRHSAds
 theautopian.com##.code-block:has(.htlad-InContent)
 bikeroar.com##.lower-panel
 gameplay.tips##.ads_sticky
+||pcwdld.com/SGNg95BS08r9.js
 gpro.net##.boxy:has(#blockblockA)
 fxsforexsrbijaforum.com##.module_ahlaejaba
 imdb.com##[data-testid="media-sheet__attr-banner"]
@@ -55991,6 +55990,7 @@ myreadingmanga.info##[class^="top_p"]
 @@||promo.zendesk.com^$xmlhttprequest,domain=promo.com
 @@||yimg.com/av/gemini-ui/*/advertiser/$domain=gemini.yahoo.com
 @@||adv.gg^$popup
+visitmama.com##.menu-item > a:not([href^="https://www.visitmama.com/"])
 @@||disqus.com/embed/comments/$subdocument
 @@||npr.org/sponsorship/targeting/$~third-party,xmlhttprequest
 @@||trustprofile.com/banners/$image

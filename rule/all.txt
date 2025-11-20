@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2025-11-20 08:02:14
+! Last Modified: 2025-11-20 16:00:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -10365,7 +10365,6 @@ vzhuan.cn###box
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -15915,6 +15914,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,mojezdravi.cz,
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||hodynx.top^
@@ -21307,7 +21307,6 @@ _yad_jsonp_
 .vip/ads/
 ||haoqu99.com/d/haoqu/haoqu
 ||pniao99.com/statics/js/stat.js
-||yesky.com/s?z=
 ||downmn.com^$popup,third-party
 ||pengwei168.com/addons/321.gif
 /data/cache/myad-
@@ -26942,6 +26941,7 @@ cnplugins.com##.pushbox1
 beephone.com.tw##a[href^="http://www.beephone.com.tw/adlink.php?id="]
 secretmine.net##div[id^="secre-"]
 so.com##.res-mediav
+||yesky.com/s?z=
 html-js.com##div[style="margin:10px auto;width:1000px;"]
 91.com,hao123.com,site.baidu.com###midline
 ||pjcn.org^$third-party
@@ -31110,7 +31110,6 @@ bjcxqd.com##.box-vdgd
 3g.baidu.com,m.baidu.com,m5.baidu.com,www.baidu.com#?#div:-abp-has(>div[id$="_1"]+div[id$="_5"])
 @@||eslite.com^*/ad
 hao.360.cn###daily-hotword
-###ad-googleAdSense
 .moa0*ju.com/$script,xmlhttprequest,third-party
 cnr.cn###gtop00
 @@||freedidi.com^$generichide
@@ -36885,7 +36884,6 @@ maoken.com###siderAd01
 ###adblock-small
 ###adTopModule
 ##.Ad300
-##.home_adblock
 ##.MbanAd
 ##.ad260x60
 ##.ads_div
@@ -40927,6 +40925,7 @@ maoken.com###siderAd01
 ###adbox-inarticle
 ##._popIn_recommend_article_ad_reserved
 ###adslot3
+###ad-googleAdSense
 ###adslot2
 ###adslot1
 ##.fah-btn.nopop
@@ -42794,7 +42793,6 @@ maoken.com###siderAd01
 ||bell-gassdor.com^
 ||atamarvtcznxj.website^
 ||adnxs.net^
-||chiveraccede.com^
 ||bxglynwnlnrwa.website^
 ||9s4l9nik.de^
 ||bzoodfalqge.online^
@@ -52082,6 +52080,7 @@ aga-clinic-experience.jp#@##ad_top
 ##.top_adh
 herbanomic.com#@#[href^="https://www.herbanomic.com/"] > img
 ##.mainLeftAd
+##.home_adblock
 ##.push--ad
 guloggratis.dk#@#.ad-links
 ##.rightadd
@@ -52840,6 +52839,7 @@ tei-c.org#@##msad
 ||firm-twist.com^
 ||garuameshed.cyou^
 ||cudfmkelimocy.space^
+||chiveraccede.com^
 ||gigabitadex.com^
 ||goodbusinesspark.com^
 ||choseing.com^
@@ -62338,7 +62338,6 @@ tei-c.org#@##msad
 ||cswiqvbnqtqqr.website^
 ||earmuffpostnasalrisotto.com^
 ||eqpegdwlqzjct.online^
-||iwantuonly.com^
 ||ijhyugb.com^
 ||dwgzwrtecgver.space^
 ||hfqxrivbvubyz.store^
@@ -64587,7 +64586,6 @@ tei-c.org#@##msad
 ||profitablecpmrate.com^
 ||jygotubvpyguak.com^
 ||phoukraughie.net^
-||qmzikvkk.business^
 ||lrduojlvyzzta.website^
 ||major.dvanadva.ru^
 ||lairauque.com^
@@ -72326,6 +72324,7 @@ tei-c.org#@##msad
 ||pensildammer.com^
 ||jhkaqxqggetya.website^
 ||lmdebts.help^
+||iwantuonly.com^
 ||ixbfaxlyvbqfd.space^
 ||nurseryillnesssensation.com^
 ||jnbarehsnnbgg.online^
@@ -74701,6 +74700,7 @@ tei-c.org#@##msad
 ||shyplan.com^
 ||sensationtwigpresumptuous.com^
 ||rumblemeetinglank.com^
+||qmzikvkk.business^
 ||soavoosumautow.net^
 ||sotchoum.com^
 ||upoqtcynyaikm.space^
@@ -80115,7 +80115,6 @@ tei-c.org#@##msad
 ||sqdjorykqfqoc.icu^
 ||starchgarden.cfd^
 ||sovereignlooarm.com^
-||yjgrhzvtvkqen.tech^
 ||spectacularimmunity.com^
 ||remarkillustration.com^
 ||rocorhwbprzlu.space^
@@ -85414,6 +85413,7 @@ tei-c.org#@##msad
 ||ywlkeeedaayuf.space^
 ||d126kahie2ogx0.cloudfront.net^
 ||d15kuuu3jqrln7.cloudfront.net^
+||yjgrhzvtvkqen.tech^
 ||dk57sacpbi4by.cloudfront.net^
 ||203.195.121.224^
 ||yuuyuhpua.com^
@@ -91942,7 +91942,6 @@ tei-c.org#@##msad
 ||cashgzb.com^$popup
 ||private4.com^$third-party
 ||tgtmedia.com^$third-party
-||pcwdld.com/SGNg95BS08r9.js
 ||cam4.com^*&utm_source=$popup
 ||eurochannel.com/images/banners/
 ||shakingtacklingunpeeled.com^$popup
@@ -101238,7 +101237,6 @@ softonic.com##div[data-meta="placeholder-slot"]
 egmnow.com##.outbrain-wrapper
 heavy-r.com###closeable_widget
 asmag.com##.banner_box
-visitmama.com##.menu-item > a:not([href^="https://www.visitmama.com/"])
 nitrome.com###skyscraper_box
 ||thanks.viewfr.com/webroot/ads/adsterra/
 gamesradar.com,livescience.com,tomshardware.com,whathifi.com##.jwplayer__widthsetter
@@ -101683,6 +101681,7 @@ everythingrf.com##.stickyRHSAds
 theautopian.com##.code-block:has(.htlad-InContent)
 bikeroar.com##.lower-panel
 gameplay.tips##.ads_sticky
+||pcwdld.com/SGNg95BS08r9.js
 gpro.net##.boxy:has(#blockblockA)
 fxsforexsrbijaforum.com##.module_ahlaejaba
 imdb.com##[data-testid="media-sheet__attr-banner"]
@@ -103922,6 +103921,7 @@ myreadingmanga.info##[class^="top_p"]
 @@||promo.zendesk.com^$xmlhttprequest,domain=promo.com
 @@||yimg.com/av/gemini-ui/*/advertiser/$domain=gemini.yahoo.com
 @@||adv.gg^$popup
+visitmama.com##.menu-item > a:not([href^="https://www.visitmama.com/"])
 @@||disqus.com/embed/comments/$subdocument
 @@||npr.org/sponsorship/targeting/$~third-party,xmlhttprequest
 @@||trustprofile.com/banners/$image
