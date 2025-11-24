@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-11-24 00:00:53
+! Last Modified: 2025-11-24 08:02:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3261,7 +3261,6 @@ iadctest.qwapi.com^
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -6756,6 +6755,7 @@ iadctest.qwapi.com^
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||hodynx.top^
@@ -8511,7 +8511,6 @@ ubmcmm.baidustatic.com
 ||bell-gassdor.com^
 ||atamarvtcznxj.website^
 ||adnxs.net^
-||chiveraccede.com^
 ||bxglynwnlnrwa.website^
 ||9s4l9nik.de^
 ||bzoodfalqge.online^
@@ -14887,6 +14886,7 @@ ubmcmm.baidustatic.com
 ||firm-twist.com^
 ||garuameshed.cyou^
 ||cudfmkelimocy.space^
+||chiveraccede.com^
 ||gigabitadex.com^
 ||goodbusinesspark.com^
 ||choseing.com^
@@ -24385,7 +24385,6 @@ ubmcmm.baidustatic.com
 ||cswiqvbnqtqqr.website^
 ||earmuffpostnasalrisotto.com^
 ||eqpegdwlqzjct.online^
-||iwantuonly.com^
 ||ijhyugb.com^
 ||dwgzwrtecgver.space^
 ||hfqxrivbvubyz.store^
@@ -26630,7 +26629,6 @@ ubmcmm.baidustatic.com
 ||profitablecpmrate.com^
 ||jygotubvpyguak.com^
 ||phoukraughie.net^
-||qmzikvkk.business^
 ||lrduojlvyzzta.website^
 ||major.dvanadva.ru^
 ||lairauque.com^
@@ -34369,6 +34367,7 @@ ubmcmm.baidustatic.com
 ||pensildammer.com^
 ||jhkaqxqggetya.website^
 ||lmdebts.help^
+||iwantuonly.com^
 ||ixbfaxlyvbqfd.space^
 ||nurseryillnesssensation.com^
 ||jnbarehsnnbgg.online^
@@ -36744,6 +36743,7 @@ ubmcmm.baidustatic.com
 ||shyplan.com^
 ||sensationtwigpresumptuous.com^
 ||rumblemeetinglank.com^
+||qmzikvkk.business^
 ||soavoosumautow.net^
 ||sotchoum.com^
 ||upoqtcynyaikm.space^
@@ -42158,7 +42158,6 @@ ubmcmm.baidustatic.com
 ||sqdjorykqfqoc.icu^
 ||starchgarden.cfd^
 ||sovereignlooarm.com^
-||yjgrhzvtvkqen.tech^
 ||spectacularimmunity.com^
 ||remarkillustration.com^
 ||rocorhwbprzlu.space^
@@ -47457,6 +47456,7 @@ ubmcmm.baidustatic.com
 ||ywlkeeedaayuf.space^
 ||d126kahie2ogx0.cloudfront.net^
 ||d15kuuu3jqrln7.cloudfront.net^
+||yjgrhzvtvkqen.tech^
 ||dk57sacpbi4by.cloudfront.net^
 ||203.195.121.224^
 ||yuuyuhpua.com^
