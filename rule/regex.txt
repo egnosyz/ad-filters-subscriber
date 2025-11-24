@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-11-24 08:02:29
+! Last Modified: 2025-11-24 16:00:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -98,7 +98,6 @@ advertisers.js|
 ||same*.stockstar.com^
 ||impservice*.youdao.com^
 ||impservice*.yodao.com^
-||ya*.dwstatic.com^
 ||ax.*.ifeng.com^
 ||121.204.246.*.gif
 ||js*.abolezi.com^
@@ -123,6 +122,7 @@ advertisers.js|
 ||ac*.faxingchina.com^
 ||fpb1.chinacar.
 ||ac*.786ip.com^
+||ya*.dwstatic.com^
 ||d*.xinshipu.com^
 ||fpb*.51edu.com^
 ||qpb*.sohu.com^
