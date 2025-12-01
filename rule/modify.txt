@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-12-01 00:00:47
+! Last Modified: 2025-12-01 08:02:42
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10439,6 +10439,7 @@ $image,third-party,domain=lady1.top
 .com:12289/$script,third-party
 ||discuss.com.hk/oath/
 ||qqddc.com/homeSite/news/js/newsad.js
+||xiaobi*.com/layer/layer.js
 ||17house.com/zt/style/*_bottom_module.js
 /the_top$domain=28188.net
 ||cctime.com/UpLoadFile/201*.gif
@@ -20556,7 +20557,6 @@ esu.moe,esu.wiki##div[style*="position: relative; max-height: 400px;"]
 ##.vodads
 @@||jjkmn.com^$generichide
 so.com##.tg-wrap-async
-||xiaobi*.com/layer/layer.js
 line.me##.midAdModule-root
 /pop.go?ctrlid=$popup
 24kplus.com###custom_html-3
@@ -23797,6 +23797,7 @@ gamer.com.tw##.b-list_ad
 laixoo.com,v2rayssr.com##.git_banner
 /img/hgame/*_1280x
 ||999d.com^$third-party
+###ad-article-in
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.j_click_stats[href*="adn.baidu.com"]
 gucheng.com##.fixed_img
 mtrend.cn##.hongbaotips
@@ -25539,6 +25540,7 @@ maoken.com###siderAd01
 ##.ad-cen
 ###topbarads
 ##.ad-lead
+##.header-advertisement
 ##.affiliate-ad
 ##.advert120
 ##.crain-advertisement
@@ -33763,7 +33765,6 @@ maoken.com###siderAd01
 ##.adCopy
 ###yahooads
 ##.adv-outer
-###ad-article-in
 ##.ad-list-item
 ###ad-aside-1
 ###velsof_wheel_container
@@ -35165,7 +35166,6 @@ insomnia.gr,kingsinteriors.co.uk,w3e.kanazawa-it.ac.jp#@#.adlink
 ##.widget_ad_widget
 transparencyreport.google.com#@#.ad-icon
 genshinimpactcalculator.com#@#.adban
-##.header-advertisement
 ##.shortadvertisement
 so-net.ne.jp#@##ad-p3
 ##.top-item-ad
@@ -47648,6 +47648,7 @@ searchenginejournal.com###sej-pop-wrapper_v3
 variety.com##.vip-banner
 kissorg.net##.avm
 cafonline.com##.caf-o-sponsors-nav
+mytempsms.com##.content > .container[style]:has(> .adsbygoogle)
 salixos.org##.sponsors-container
 wjbc.com##a[href^="http://sweetdeals.com/bloomington/deals"]
 asianjournal.com###fancybox-wrap
@@ -55574,7 +55575,6 @@ abjav.com,aniporn.com##.left > section
 @@||manageengine.com/products/ad-manager/$~third-party
 69games.xxx###footer
 beeg.porn##[class^="bb_show_"]
-mytempsms.com##.content > .container[style]:has(> .adsbygoogle)
 teenpornvideo.fun##.full-ave
 msn.com##a[aria-label="AliExpress"]
 4pig.com##.banner_page_right
