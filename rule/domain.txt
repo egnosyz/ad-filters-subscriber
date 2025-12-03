@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-12-03 08:02:22
+! Last Modified: 2025-12-03 16:00:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3253,6 +3253,7 @@ iadctest.qwapi.com^
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
+||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -6852,7 +6853,6 @@ iadctest.qwapi.com^
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||zjklt4ei4.com^
@@ -14704,6 +14704,7 @@ ubmcmm.baidustatic.com
 ||baticalfelixstown.org^
 ||b42fb8d81e.com^
 ||c7f4d1276e.com^
+||capabletonight.com^
 ||beddingfetched.com^
 ||azilianmazy.click^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
@@ -24557,6 +24558,7 @@ ubmcmm.baidustatic.com
 ||cheatingagricultural.com^
 ||flossiegorcrow.com^
 ||dylovehehasnoconv.com^
+||hot4k.org^
 ||convitejowel.help^
 ||forthright-concern.pro^
 ||foryanmachan.com^
@@ -24698,7 +24700,6 @@ ubmcmm.baidustatic.com
 ||craftilypendantwhinny.com^
 ||cgsaxsvjvswcu.space^
 ||everywhererecorded.com^
-||capabletonight.com^
 ||crevicedepressingpumpkin.com^
 ||gmads.net^
 ||duetads.com^
@@ -33888,6 +33889,7 @@ ubmcmm.baidustatic.com
 ||padsabs.com^
 ||kashimtrichi.click^
 ||hotbmuwoxa.today^
+||patentjav128.fun^
 ||koocash.com^
 ||niaumxovmqpur.online^
 ||ignoreareoles.cfd^
@@ -34573,7 +34575,6 @@ ubmcmm.baidustatic.com
 ||jgqaainj.buzz^
 ||mmvideocdn.com^
 ||partelordy.world^
-||hot4k.org^
 ||movad.net^
 ||jutepolitei.cfd^
 ||khovdiminated.org^
@@ -36415,6 +36416,7 @@ ubmcmm.baidustatic.com
 ||tfwwxizsfbmvw.space^
 ||terrificlet.com^
 ||starry-galaxy.com^
+||unsettledbrazenqueue.com^
 ||thesisadornpathetic.com^
 ||pc2121.com^
 ||trackzd.com^
@@ -43882,7 +43884,6 @@ ubmcmm.baidustatic.com
 ||roorizaipostie.net^
 ||rbsifiqnyrhfd.space^
 ||tvlubnwmfqdee.store^
-||patentjav128.fun^
 ||syorrvelwqrqx.site^
 ||rhexissubdebs.top^
 ||seatedsaintinsist.com^
@@ -46413,7 +46414,6 @@ ubmcmm.baidustatic.com
 ||vrizead.com^
 ||wbidder2.com^
 ||zlmvejadianv.com^
-||unsettledbrazenqueue.com^
 ||zdzdybqfwheqo.online^
 ||vrfdcwhyaodng.store^
 ||zfgvoltwlszda.site^
