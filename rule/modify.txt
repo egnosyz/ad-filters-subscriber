@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-12-03 00:01:20
+! Last Modified: 2025-12-03 08:02:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -11639,7 +11639,6 @@ $script,third-party,websocket,domain=52codes.net
 ||58.com/show/ads?
 /data/attachment/ad/*
 ##.static-a2d
-||wanwan.sina.com.cn/third_party/
 ||sohu.com/interaction/get/
 ||7mmtv.tv/js/ad_js/
 ||people.com.cn/adv/
@@ -21498,6 +21497,7 @@ kaifu.com##.play_fmt
 114la.com###dlAD2
 /ads/click?$popup
 114la.com###dlAD1
+||wanwan.sina.com.cn/third_party/
 qq.com###fr_ad
 21ic.com###IC2008Ad
 @@||ad.3.cn/ads/mgets?$domain=jd.com
@@ -22313,7 +22313,6 @@ map.baidu.com##.damoce-search-item
 .php?adsid=
 /ad.php?zone$popup
 hoteastday.com##.sessionSub
-###SponsoredAds
 @@||tmall.com/go/*/banner.php
 ||yzpsb.net/1.js
 10jqka.com.cn##.wbanner
@@ -29516,7 +29515,6 @@ maoken.com###siderAd01
 ##.breakerAd
 ##.advance-ads
 ##.AdSenseLeft
-##.gridad
 ###spon_links
 ##.bank-rate-ad
 ##.c-adOmnibar
@@ -32083,6 +32081,7 @@ maoken.com###siderAd01
 ###adMedRect
 ##.custom_ad_responsive
 ###vertAd2
+###SponsoredAds
 ##.ad-prevent-jump
 ###leftAds
 ##.bigadtxt1
@@ -34407,6 +34406,7 @@ afterdawn.com,download.fi,edukas.fi#@##ad-top-banner-placeholder
 ##.top_ad_728
 ##.td-adspot-title
 ##.RC-AD-BOX-TOP
+##.gridad
 ##.page-header_ad
 fontspace.com,skyrimcommands.com#@#.container-ads
 ##a[href^="https://click.ggpickyaff.com/"]
@@ -40541,7 +40541,6 @@ tei-c.org#@##msad
 ||media-serving.com^$popup
 ||betpartners.it^$third-party
 ||linkboss.shop^$popup
-||updatecompletelyfreetheproduct.vip^$popup
 ||bet365affiliates.com^$third-party
 ||berapt-medii.com^$popup
 ||digitaldsp.com^$popup
@@ -44921,6 +44920,7 @@ malwarefox.com##.entry-content > .gb-container
 ourworldofenergy.com###sponsors_container
 hbr.org##.AdSlotZone_ad-container__eXYUj
 coincarp.com##.spo-btn
+||updatecompletelyfreetheproduct.vip^$popup
 thetrek.co##.post__in-content-ad
 ||imageweb.ws^$domain=tongabonga.com
 ||onlineporno.fun^$third-party
@@ -45379,7 +45379,6 @@ ubergizmo.com##.article_card_promoted
 resourcepack.net##.ab-rpnet-single-header
 ||javhub.net/av/js/cpp.js
 bo3.gg##.c-baner-custom
-coinedition.com##.tdi_59
 ||manga18fx.com/js/main-v001.js
 ||188.42.84.199^$popup
 scoop.co.nz###dfp-shadow
@@ -54369,6 +54368,7 @@ technical.city##div[style="padding-bottom: 20px"] > div[style="min-height: 250px
 brisbanetimes.com.au,smh.com.au,theage.com.au,watoday.com.au##[class] > [class]:has(> [data-testid="ad"])
 xmissy.nl##.noclick-small-bnr
 vinted.*##.slot-container--leaderboard
+coinedition.com##.tdi_59
 how2shout.com##.text-ads
 @@||d.socdm.com/adsv/*/tver_splive$xmlhttprequest,domain=imasdk.googleapis.com
 scmp.com##div[data-qa="GenericArticle-TopPicksAdSlot"]
