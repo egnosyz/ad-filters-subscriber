@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2025-12-18 08:02:39
+! Last Modified: 2025-12-18 16:00:54
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3261,6 +3261,7 @@ iadctest.qwapi.com^
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
+||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -6832,7 +6833,6 @@ iadctest.qwapi.com^
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||zjklt4ei4.com^
@@ -10700,6 +10700,7 @@ ubmcmm.baidustatic.com
 ||adsinstant.com^
 ||bardicjazzed.com^
 ||abstractdemonicsilence.com^
+||camisreed.com^
 ||awonderplanky.shop^
 ||bejwponulwdwx.online^
 ||bthythvdrdbud.space^
@@ -18233,7 +18234,6 @@ ubmcmm.baidustatic.com
 ||hboehzaifxnsn.website^
 ||ced8c68532.com^
 ||chubby-tap.com^
-||camisreed.com^
 ||crookdestinationjanuary.com^
 ||courtroomestablishedtrauma.com^
 ||ghurboizcruvn.online^
@@ -18244,6 +18244,7 @@ ubmcmm.baidustatic.com
 ||foldclankcelery.com^
 ||drtocjuhnpuyrgh.com^
 ||dzupgajxolrkb.website^
+||hilerant.site^
 ||dbgjsblkeulmq.online^
 ||cdn.optmn.cloud^
 ||dash58wl.com^
@@ -28315,7 +28316,6 @@ ubmcmm.baidustatic.com
 ||lfmkreaekafry.space^
 ||mcqmfeiuntlwk.space^
 ||isoualkcjushz.website^
-||hilerant.site^
 ||lmdljboquvute.space^
 ||missilemargin.com^
 ||klspkjyub-n.xyz^
@@ -34667,6 +34667,7 @@ ubmcmm.baidustatic.com
 ||khbgpgyoneegd.website^
 ||mjekpownyklmv.online^
 ||holidaysverbcloseness.com^
+||overprotectiverecreatebrush.com^
 ||opclck.com^
 ||lawgxwwkgxuho.space^
 ||nerangee.com^
@@ -42402,6 +42403,7 @@ ubmcmm.baidustatic.com
 ||roopoafooroopt.net^
 ||plumpercaxon.cyou^
 ||theavesuppage.shop^
+||uaivqzpqzehth.love^
 ||rqxnccgvmh.com^
 ||tonemedia.com^
 ||qozveo.com^
@@ -44657,7 +44659,6 @@ ubmcmm.baidustatic.com
 ||trivialturn.com^
 ||spiceoptimistic.com^
 ||prpops.com^
-||overprotectiverecreatebrush.com^
 ||pkiagqasgbgqx.online^
 ||rrbzvmklrzoqy.top^
 ||tabici.com^
@@ -47698,7 +47699,6 @@ ubmcmm.baidustatic.com
 ||yourebylined.help^
 ||zoagremo.net^
 ||188.42.84.160^
-||uaivqzpqzehth.love^
 ||welloff-royal.pro^
 ||60576949.xyz^
 ||xhrhamnlzddyk.space^
