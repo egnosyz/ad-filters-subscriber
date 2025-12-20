@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-12-20 00:01:07
+! Last Modified: 2025-12-20 08:02:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -13857,7 +13857,6 @@ _fioiwhfo_
 ||longzhu.com/i/api/playpage/recommendPop?
 ##.ya-normal-box-done
 ||91xporn.com/fans/
-||xiacaidd.com/xiacai/ad/
 /images/ta1234.js
 /yy_transv/js/cmp.js
 ##.banner-cctv-A2
@@ -21064,7 +21063,6 @@ ynet.com###ynetG_B1
 @@/site/ad/*$domain=islide.cc
 @@||hc360.com/ad/*.css
 ||ysxs8.vip/js/bd_top.js
-###ad-728
 /css/adsense.$stylesheet
 @@||google.fr/translate_$media,third-party,xmlhttprequest
 stoneip.info###text-57
@@ -23263,6 +23261,7 @@ boylov.xyz,boylove.cc,boyloves.fun##.owl-carousel
 @@||content.s8bbs.com/ad/bbs/*.jpg
 18comic.org,18comic.vip##a[href*="//"]:not([href*="comic."]) > img + [style]
 ###ad-300x250-b
+||xiacaidd.com/xiacai/ad/
 pconline.com.cn##.pop-huodong
 ##.downcode[style^="position:fixed;z-index:1000;top:200px;"]
 /advert.$~script,~xmlhttprequest,domain=~advert.ae|~advert.club|~advert.com.tr|~advert.ee|~advert.ge|~advert.io|~advert.media|~advert.org.pl|~motortrader.com.my
@@ -25348,7 +25347,6 @@ maoken.com###siderAd01
 ##.block__ads__ad
 ###ad_rail
 ##.bottomad
-##.header-ads-holder
 ###ad_main_leader
 ###floatingAds
 ###ad_wp_base
@@ -30696,6 +30694,7 @@ maoken.com###siderAd01
 ##.adsense-title
 ###adbannerright
 ###div-advert
+###ad-728
 ##.adbttm_right_300
 ##.custom-ad-area
 ##.blog-ad
@@ -35013,6 +35012,7 @@ leffatykki.com#@#.ad728x90
 ##a[href^="https://iqbroker.com/"][href*="?aff="]
 ##.pgevoke-topads
 ##.left_col_ad
+##.header-ads-holder
 ##.mos-ad
 ##.resultAd
 ##.side-advertising
@@ -40614,7 +40614,6 @@ tei-c.org#@##msad
 ||cautommityring.com^$document
 ||viikuhhs.com^$document
 ||hiend.xyz^$popup
-||qksrv.cc^$popup
 ||jeroud.com^$document
 ||banquetunarmedgrater.com^$popup
 ||mkjsqrpmxqdf.com^$popup
@@ -44717,6 +44716,7 @@ issuu.com##.grtzHH
 news12.com##.kBEazG
 ||hentaibaka.one^$script,third-party
 google.com##.GGQPGYLCD5
+||qksrv.cc^$popup
 pixabay.com##.external-media
 indianexpress.com##.osv-ad-class
 orteil.dashnet.org###smallSupport
@@ -45700,7 +45700,6 @@ tweaktown.com###DesktopTop
 mui.com##.Ad-root
 ||thegay.com^$csp=default-src 'self' *.ahcdn.com fonts.gstatic.com fonts.googleapis.com https://thegay.com https://tn.thegay.com 'unsafe-inline' 'unsafe-eval' data: blob:
 apkmb.com##.personalizadas
-2conv.com##.push-offer
 uwufufu.com##.min-h-\[300px\]
 imresizer.com##.ad-slot-1-fixed-ad
 bluesnews.com##.leaderboard-gutter
@@ -55414,6 +55413,7 @@ foxnews.com##.sticky-pre-header-inner
 youtube.com##.ytReelMetapanelViewModelHost > .ytReelMetapanelViewModelMetapanelItem > .ytShortsSuggestedActionViewModelStaticHost
 samsclub.com##.sc-sba-modules:has(.sc-specials-label)
 oppai.stream###home-url[placement]
+2conv.com##.push-offer
 venturebeat.com##.vb-ad-slot
 filecrypt.cc,filecrypt.co##[onclick^="var lj"]
 upornia.com,upornia.tube##.wcccswvsyvk
