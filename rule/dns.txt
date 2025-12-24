@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2025-12-24 16:00:49
+! Last Modified: 2025-12-25 00:00:47
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3333,7 +3333,6 @@ advertisers.js|
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -6963,6 +6962,7 @@ advertisers.js|
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||zjklt4ei4.com^
@@ -10672,7 +10672,6 @@ ubmcmm.baidustatic.com
 ||abedwest.com^
 ||anothercable.pro^
 ||antibot.me^
-||bugscrawled.com^
 ||adstreampro.com^
 ||3khbi6czbrbqqwmi.cfd^
 ||alsmhfttzoimv.site^
@@ -21385,6 +21384,7 @@ ubmcmm.baidustatic.com
 ||ekyimyfomkms.xyz^
 ||ghzigitdvmsbb.site^
 ||dossierscabbed.world^
+||bugscrawled.com^
 ||cqxfpeudfzhoe.website^
 ||excludegusteight.com^
 ||gcmrsvkxfiwcq.space^
@@ -22066,7 +22066,6 @@ ubmcmm.baidustatic.com
 ||ctm-media.com^
 ||dqudcdsbysm.com^
 ||contributionabdicatemoral.com^
-||gwblqdisk.com^
 ||elyandbegantoti.com^
 ||fufgipvvxayxh.site^
 ||eeberoasfqxwg.global^
@@ -26507,7 +26506,6 @@ ubmcmm.baidustatic.com
 ||iqqvsflwcyr.com^
 ||ljlkqcllihjiy.site^
 ||muggetroomily.shop^
-||o9lm3upovfoklzkfjt5o2ljv.cfd^
 ||kbex72oiu2ycl1c3.cfd^
 ||humble-gap.com^
 ||jingletluge.cyou^
@@ -32008,6 +32006,7 @@ ubmcmm.baidustatic.com
 ||mplayeranyd.info^
 ||llppkxnxmcnrd.online^
 ||lnjqctaltb.com^
+||gwblqdisk.com^
 ||kbopnpiyhomtd.space^
 ||nuojjvmmrriee.website^
 ||gygvcjaxkeqyv.space^
@@ -36499,6 +36498,7 @@ ubmcmm.baidustatic.com
 ||raptiqhvowpwv.store^
 ||ouarscaauwbkj.online^
 ||qylkhwawxhomr.site^
+||o9lm3upovfoklzkfjt5o2ljv.cfd^
 ||starry-galaxy.com^
 ||pc2121.com^
 ||sapbushorgeats.qpon^
@@ -37356,7 +37356,6 @@ ubmcmm.baidustatic.com
 ||pycykqha.com^
 ||syfsmblwp.net^
 ||rdtppfckuxzmo.website^
-||tappetshindig.rest^
 ||soliads.online^
 ||onestra.click^
 ||stringbuild.com^
@@ -46816,6 +46815,7 @@ ubmcmm.baidustatic.com
 ||vaujoathooroo.net^
 ||tzsxqxxjvzfeq.one^
 ||86124673.xyz^
+||tappetshindig.rest^
 ||willingdeath.com^
 ||tkz93b99ht7cymiqklfix.rest^
 ||torusesrubying.world^
