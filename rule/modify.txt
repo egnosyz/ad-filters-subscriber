@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-12-31 00:00:53
+! Last Modified: 2025-12-31 08:02:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -12149,7 +12149,6 @@ _popAds.
 ||dz19.net/addimg/
 /jsadv/*
 ||perlmaven.com/img/*0x2
-||vercel.app/ads/
 :88/999pc/
 .com/myjs/alljs.js
 ||spanking.wiki/morning-bread-
@@ -16686,7 +16685,6 @@ cnfol.com##.Ad310
 so.com##.e-buss
 @@?sid=ads$domain=126.com|mail.163.com
 -web-advert-$image
-###AdvFooter
 @@||assbbs.com^$generichide
 actoys.net##.p_new_ad
 /web_ads/*$image
@@ -21904,6 +21902,7 @@ feebee.com.tw###fsa-srp-top-container
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.banner-wrapper
 baixing.com##.refashion-listing-banner
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.content_top
+||vercel.app/ads/
 cn.bing.com##.b_bza_pole
 @@||yimg.com/ss/rapid-3.*.js$domain=hk.yahoo.com|tw.yahoo.com
 1111.baidu.com,bdimg.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.top_toutu_admarks + .tbui_slideshow_list
@@ -26057,6 +26056,7 @@ maoken.com###siderAd01
 ##.adsghori
 ###bottom-ad-banner
 ##.amAdvert
+###AdvFooter
 ##.TopRightRadvertisement
 ###ad-300-sidebar
 ###goad1
@@ -31869,7 +31869,6 @@ maoken.com###siderAd01
 ###AdvHeader
 ###ads-google
 ###adStrip
-##.googleAd
 ##.ad-manager-placeholder
 ##.adMPU
 ###footAd
@@ -36274,6 +36273,7 @@ cnn.com#@##outbrain_widget_0
 ##.group-item-ad
 ##.left_ad_container
 labartt.com#@#.advert-detail
+##.googleAd
 ##.magad
 ##.mpsponsor
 39.benesse.ne.jp,techeyesonline.com#@##side-ad
@@ -39738,7 +39738,6 @@ tei-c.org#@##msad
 ||adglare.net^$popup
 ||adverticum.net^$third-party
 ||neobux.com^$third-party
-||adkmbc.com^$popup
 ||pub-3d10bad2840341eaa1c7e39b09958b46.r2.dev^$third-party
 ||occasional-flow.com^$document
 ||mobile-10.com^$third-party
@@ -42867,7 +42866,6 @@ usnews.com##.ad-spacer__AdSpacer-sc-nwg9sv-0
 sansabanews.com###leader
 ||itw.me^$third-party
 oilcity.news##.above-footer-widgets
-myrealgames.com##.block_adv_mix_top2
 geekwire.com###engineering-centers-sidebar
 marketscreener.com###zppRight2
 ||fwmrm.net^$popup
@@ -45944,6 +45942,7 @@ carsauce.com##.ad-holder
 bollywoodshaadis.com##.art_ad_2
 ||hotstar.com^*/preroll?
 simkl.com##.SimklTVDetailEpisodeLinksItemHref
+||adkmbc.com^$popup
 ||noohapou.com^$popup
 ||vertoz.com^$popup
 ||raunooligais.net^$popup
@@ -51112,6 +51111,7 @@ fullporno.site,gay-streaming.com,gayvideo.me##.sgpb-popup-dialog-main-div-wrappe
 howtogeek.com##div[id^="purch_"]
 challonge.com##.cake-unit
 jav.gallery##[href^="https://jjgirls.com/sex/"]
+myrealgames.com##.block_adv_mix_top2
 cheezburger.com##.chz-ad-container
 torlock.com##table.hidden-xs
 thegearpage.net##.vsBB
