@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-01-06 16:01:05
+! Last Modified: 2026-01-07 00:00:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10533,6 +10533,7 @@ $image,third-party,domain=lady1.top
 /A-Tian/Tian-*-good.js
 /alljs/allhead.js
 ||52movieba.com/img/ad
+||staramuse.com/bmip/showg
 /banner468x60_live173.
 ||ftchinese.com/m/marketing/
 ||slit.cn/slimages/
@@ -15744,7 +15745,6 @@ crsky.com##.ml10.Gs_d
 @@||16668tu.com/css/ad.css
 ###toptb + div[align="center"]
 redircdn.com##.al
-||staramuse.com/bmip/showg
 0598yu.com##.v1100_ad
 soft.macx.cn#@##googlead
 @@||cnzz.com/q_stat.php$domain=qd.alibaba.com
@@ -22226,6 +22226,7 @@ jrj.com.cn##.piboxtwo
 iwan.baidu.com##.banner-container
 jrj.com.cn##.jrj-ad
 weiyun001.com##.bg-box > .slide-box
+/760x90_
 hualongxiang.com##.bbs_box_gg
 @@||mail.td^$generichide
 jdbbs.com##div[id^="archy_ad"]
@@ -24608,6 +24609,7 @@ _468x90_
 ##.box-bannerads-leaderboard-fallback
 ###ad-leaderboard
 ##.ad_imgae_150
+##.footad
 ###layerad
 ##.adv-leaderboard
 ##.adthrive-header-container
@@ -31980,7 +31982,6 @@ _800x80_
 ##.adRectangle-pos-small
 ###banner_content_ad
 ###bottomadsdiv
-/760x90_
 ###ad-discover
 ###adPlacer
 ##.ad-container-inner
@@ -34462,7 +34463,6 @@ newegg.com#@#.ad-click
 ##.header-ad-widget
 ##.sal-adv-gpt
 ##.tc_ad
-##.footad
 ##.reklama-vert
 ##a[href^="https://bodelen.com/"]
 ##.leaderboard-ad-unit
@@ -38921,6 +38921,7 @@ tei-c.org#@##msad
 ||adsco.re^$popup
 ||bestcleaner.online^$popup
 ||srvtrck.com^$document
+||eshkol.io^$popup
 ||adhitzads.com^$third-party
 ||shoofle.tv^$third-party
 ||adexchangetracker.com^$popup
@@ -45619,7 +45620,6 @@ newstarget.com###PromoTopFeatured
 agar.io###agar-io_970x90
 ||widget.faphouse.com^$third-party
 ||babesandstars.com/img/banners/
-||eshkol.io^$popup
 openspeedtest.com###rightArea
 ||vfgta.com^$third-party
 ||schoolasiagirls.net/ban/
@@ -45811,6 +45811,7 @@ ev-database.org##.adslot_detail2
 thefederal.com###left_level_2
 ||thumbzilla.com/_xa/ads
 ||dirproxy.com/helper-js
+upworthy.com##.freestar-in-content
 nationalrail.co.uk###ad-homepage-advert-a-grey-b-wrapper
 sneakernews.com##.adv-parent
 ||myprecisionads.com^$third-party
@@ -53497,7 +53498,6 @@ oneindia.com###taboola-mid-article-thumbnails
 warm98.com##a[href^="http://www.salvationarmycincinnati.org"]
 lgbtqnation.com##.index-bottom-ad
 fodors.com,thehulltruth.com##div[class^="ad-placeholder"]
-upworthy.com##.freestar-in-content
 callofwar.com##img[referrerpolicy]
 cricketireland.ie##.sponsor-strip
 sashares.co.za##a[data-wpel-link="external"]
