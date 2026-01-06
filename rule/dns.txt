@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-01-06 08:02:41
+! Last Modified: 2026-01-06 16:01:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3333,7 +3333,6 @@ advertisers.js|
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -7138,6 +7137,7 @@ advertisers.js|
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||zjklt4ei4.com^
@@ -12273,7 +12273,6 @@ ubmcmm.baidustatic.com
 ||bandoraclink.com^
 ||88cb0eb486.com^
 ||aomxqfcj.global^
-||bsfeuihxrczte.space^
 ||avads.live^
 ||aliformfikery.cfd^
 ||be880990f9.com^
@@ -19657,7 +19656,6 @@ ubmcmm.baidustatic.com
 ||burgledretreat.cyou^
 ||canesfederalnewspapers.com^
 ||equilibriumfestive.com^
-||hadute.xyz^
 ||gaupingeyewink.com^
 ||cauvousy.net^
 ||d2n5v45616cm6u.cloudfront.net^
@@ -22608,6 +22606,7 @@ ubmcmm.baidustatic.com
 ||dvpiogikqpyrj.net^
 ||forearmthrobjanuary.com^
 ||crocutasnarlysicks.cyou^
+||bsfeuihxrczte.space^
 ||ctflaxnbii.xyz^
 ||demolishlagoonopt.com^
 ||dfdgfruitie.xyz^
@@ -27604,7 +27603,6 @@ ubmcmm.baidustatic.com
 ||mp3pro.xyz^
 ||likeableindispensableassault.com^
 ||jqpaisehvpnvp.website^
-||ohfomiyhaok.com^
 ||movfull.com^
 ||itcleffaom.com^
 ||my-romanceharmony.com^
@@ -29629,6 +29627,7 @@ ubmcmm.baidustatic.com
 ||justonemorenews.com^
 ||launchbit.com^
 ||logwoodtairn.shop^
+||hadute.xyz^
 ||media-sapiens.com^
 ||indolentoutcome.com^
 ||jolhghbdjayis.website^
@@ -37661,6 +37660,7 @@ ubmcmm.baidustatic.com
 ||spumoniunites.qpon^
 ||quksyhnvkuhru.website^
 ||stabledkindler.com^
+||ohfomiyhaok.com^
 ||setupad.net^
 ||onahrpcvwuo.net^
 ||quillshut.com^
@@ -43733,7 +43733,6 @@ ubmcmm.baidustatic.com
 ||ringedtheory.pro^
 ||sparkstudios.com^
 ||qeidaxidcfj.xyz^
-||titershontous.qpon^
 ||paslsa.com^
 ||qpastswynfzcb.space^
 ||ryhkfuhxqbq8n27ix5wlwpm53n2jmt7.cfd^
@@ -51120,6 +51119,7 @@ ubmcmm.baidustatic.com
 ||xcajehjbvzigx.website^
 ||xubbublumamr.com^
 ||xlrm-tech.com^
+||titershontous.qpon^
 ||windowsvow.com^
 ||wonyugeqyvfob.online^
 ||xanucxoaxh.xyz^
