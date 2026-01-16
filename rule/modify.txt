@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-01-16 08:02:27
+! Last Modified: 2026-01-16 16:00:48
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -11276,7 +11276,6 @@ _dasiqq315.
 ||ahgame.com/js/new_ad.js
 ||23img.com^*/qomnyi.
 ||helloavgirls.com/public/hg/
-||udn.com/common/iframe/
 ###table1[width="812"][height="50"]
 ||cctv5.name/js/*foot.js
 ||tigtag.com/styles/phpcms/js/tigtag/ads.js
@@ -16215,7 +16214,6 @@ lgmi.com###openwindows0
 eweiqi.com##.guoqing
 sports.qq.com##a[href="http://teramont.svw-volkswagen.com/"]
 ||xbiqu5.com/12345678.
-###AdsBottomContainer
 ||xiaopi.com/api.php?op=get_p&
 cool3c.com##.gpt-new
 500.com###live_top_ad
@@ -21191,6 +21189,7 @@ chinabidding.cn###info_adv_1
 /ad300.jpg$image
 fang.com,soufun.com##.add1200
 sina.com.tw##div[style="height:156px;width:570px;margin:0px auto;display:block;"]
+||udn.com/common/iframe/
 icourse163.org#@#.sns-link
 78dm.net##div[class^="couple-"]
 chineseinla.com##.deal_discount
@@ -25552,6 +25551,7 @@ maoken.com###siderAd01
 ##.cc-advert
 ###adsRight
 ##.adchange
+###AdsBottomContainer
 ###adverts_post_content
 ##.ad-preloader-container
 ##.ads-right-min
@@ -29002,7 +29002,6 @@ maoken.com###siderAd01
 ###textsponsor
 ##.advertising728
 ##.ad-floating
-##.google-ads-container
 ##.ad-slot
 ##.ad300x250box2
 ##.desktop_only_ad
@@ -37928,6 +37927,7 @@ eva.vn#@##right_ads
 zdnet.com#@#.sponsoredItem
 ##.pageFooterAd
 ##.sticky_ads
+##.google-ads-container
 ##.middle_ad_responsive
 ##.mv_atf_ad_holder
 ##.lazyad
@@ -38910,7 +38910,6 @@ tei-c.org#@##msad
 ||olopruy.com^$document
 ||marfeel.com^$third-party
 ||membrana.media^$third-party
-||slopeaota.com^$third-party
 ||adinc.co.kr^$third-party
 ||ads.cc^$third-party
 ||simple-affiliate.com^$third-party
@@ -42706,6 +42705,7 @@ thedailybeast.com##.Cheat__top-ad
 ||numbertrck.com^$popup
 ||online-deal.click^$popup
 ||media-click.ru^$third-party
+||slopeaota.com^$third-party
 ||c21media.net/wp-content/plugins/sam-images/
 ||pornve.com/img/300x250g.gif
 ||oraubsoux.net^$popup
@@ -43469,7 +43469,6 @@ dailycaller.com###dailycaller_incontent_1
 ||libertystmedia.com^$popup
 ||orhassagvaqw.com^$popup
 ||green-search-engine.com^$popup
-consequence.net##.ad-min-height-600
 ||seo-overview.com^$popup
 ||terbit2.com^$popup
 ||slideff.com^$popup
@@ -51835,6 +51834,7 @@ dailyo.in##.adsWrp
 bleachmyeyes.com,kojka.com##.spot-box
 strangesounds.org##.wp-image-281312
 work.ink##[href^="https://www.buff.game/buff-download/"]
+consequence.net##.ad-min-height-600
 karryon.com.au##.ko-ads-wrapper
 parade.com##div[id^="ad-in_content"]
 985kissfm.net,bxr.com,catcountry951.com,power923.com,wncv.com,wskz.com##.widget_simpleimage
