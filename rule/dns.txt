@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-01-18 08:02:36
+! Last Modified: 2026-01-18 16:00:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -12,6 +12,7 @@
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -44,8 +45,10 @@ ntfsformac.cn
 mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
+g.163.com
 tanx.com
 dlads.cn
+wwads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -127,7 +130,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -250,7 +252,6 @@ advertisers.js|
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
-||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -1054,7 +1055,6 @@ advertisers.js|
 ||xiaoyang.mobi^
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
-||wwads.cn^
 ||114so.cn^
 ||se967.com^
 ||newrelic.com^
@@ -3334,6 +3334,7 @@ iadctest.qwapi.com^
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
+||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -7038,7 +7039,6 @@ iadctest.qwapi.com^
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||zjklt4ei4.com^
@@ -10533,6 +10533,7 @@ ubmcmm.baidustatic.com
 ||alibirasppoliteness.com^
 ||alatsbhblpwlp.website^
 ||aalsclem.cyou^
+||btrlvukwtlqyc.site^
 ||baptizespadeaccompanying.com^
 ||basinthug.com^
 ||bewreakaglossaberchta.cyou^
@@ -21213,7 +21214,6 @@ ubmcmm.baidustatic.com
 ||femininequarter.com^
 ||carreaucultist.cfd^
 ||dulillipupan.com^
-||btrlvukwtlqyc.site^
 ||cedinghavior.top^
 ||cgiaysvjnljyk.online^
 ||daringsupport.com^
@@ -22941,6 +22941,7 @@ ubmcmm.baidustatic.com
 ||dwightcontributor.com^
 ||enormousitem.pro^
 ||firsthandlake.com^
+||gsgvfcgzoygkr.site^
 ||calcifynyoro.cyou^
 ||commissionergentlemandiscreet.com^
 ||gbrfxodvmbioy.site^
@@ -30950,6 +30951,7 @@ ubmcmm.baidustatic.com
 ||koutobey.net^
 ||mybmrtrg.com^
 ||moviesflix4k.xyz^
+||nqsizzyicehpm.one^
 ||nervesweedefeat.com^
 ||lpyyzoetztnmv.one^
 ||gxiacapeptyos.club^
@@ -32888,7 +32890,6 @@ ubmcmm.baidustatic.com
 ||kvpjjewuoappu.store^
 ||leadzu.com^
 ||kindlestorsion.com^
-||gsgvfcgzoygkr.site^
 ||illustriousarrival.com^
 ||mzt27txt549nvnc.cfd^
 ||nbqbhvwc.net^
@@ -40972,7 +40973,6 @@ ubmcmm.baidustatic.com
 ||pekjhombxovne.online^
 ||pgrfpzlohsssh.online^
 ||qgwlaqyxtesvv.online^
-||nqsizzyicehpm.one^
 ||pupateskegler.click^
 ||pyecyiqatdboi.site^
 ||plouklutein.cfd^
@@ -44718,6 +44718,7 @@ ubmcmm.baidustatic.com
 ||pdkiqznelwvdj.site^
 ||piercing-suspect.pro^
 ||religionscammerbusinessmen.com^
+||suggestionsmadly.com^
 ||plrst.com^
 ||pqooztnzwrtbk.store^
 ||pvcnhlmuvgrcc.space^
@@ -52997,7 +52998,6 @@ ubmcmm.baidustatic.com
 ||vpipi.com^
 ||vwcwncsrsedyd.space^
 ||xvcwbxjzdecpi.store^
-||suggestionsmadly.com^
 ||technoshadows.com^
 ||third-growth.pro^
 ||uhpdsplo.com^
