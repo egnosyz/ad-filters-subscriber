@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2026-01-22 08:02:42
+! Last Modified: 2026-01-22 16:00:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -85,27 +85,6 @@ chemdraw.com.cn
 huishenghuiying.com.cn
 cm.jd.com
 logoshejishi.com
-! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
-||allyes.
-||icast.
-||gg.
-||union.
-||ad.
-||ads.
-||cnzz.
-||adsfile.
-||adserver.
-||adservice.
-||adpic.
-||sax.sina.
-||biz5.
-||adsense.
-||xmindchina.
-||ggg.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
 ||gushiwen.cn/getTicket.aspx^$xhr
@@ -1173,6 +1152,27 @@ baike.baidu.com##.squareAni.square.super-layer-promote
 */178acg/
 */adz.js|
 *.ppunion.
+! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
+||allyes.
+||icast.
+||gg.
+||union.
+||ad.
+||ads.
+||cnzz.
+||adsfile.
+||adserver.
+||adservice.
+||adpic.
+||sax.sina.
+||biz5.
+||adsense.
+||xmindchina.
+||ggg.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
 ||shouliang.52lvgucci.com^
 ||forad1.weimeicun.com^
@@ -4237,71 +4237,6 @@ iadctest.qwapi.com^
 ||stadig.ifeng.com^
 ||conf.hpplay.cn^
 ||bairenad.com^
-! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
-||adx.
-||adx-
-||adsfs.
-||adsdk.
-MRelateFeedAd
-||adsmind.
-||bigdata.
-||sell*.etlong.com^
-||smartads.
-||adshare.
-||dm-*.toutiao.com^
-||player.letvcdn.com*.swf|
-||d*.wanzhuang.com^
-||bj*.9669.cn^
-||adstats.
-||toujing*.top^
-||popup.*.js*
-||advert.
-||irs01.
-||advert-
-||adcolony.
-||advertising.
-||showad*
-||pagead.
-||djjca.
-||imageadv.
-||m-vali.cp31.ott.cibntv.net*.mp4
-||epochtimes^
-||ads*-normal-hl.zijieapi.com^
-||adapi.
-getAds|
-||adsfileretry.
-||cpro.
-||m7k4.com*.php?
-||adv.
-||adv-
-||appjiagu.
-||img.piaosugo.com*.jpg
-||adsmis.
-||sense-*.tapdb.net^
-||ping.*.sogou.com^
-||pc.min.js*
-||minero-proxy-*now.sh
-||pagead2.
-||p*-ad-sign.byteimg.com^
-||guangyaoli.
-||ading.
-||googleads.
-||umengacs.
-||ads-
-piao.js|
-oHead6205.appendChild( oScript6205);
-||ad-
-||vali-g1.cp31.ott.cibntv.net*.mp4
-||adxapi.
-||gg*.miguvideo.com^
-||adsence.
-||unityads.
-advertisers.js|
-||ap*.jj20.com^
-||yazhouyu.
-||advertise.
-||ap*.pl520.com^
-||tracker*.qcloud.com^
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
 ahgame.com,china.com.cn,dandanzan.com,netbardh.com,pangzi.ca,twoeggz.com###pop
 ||coolapk.com/v6/feed/detail?$replace=/include_goods//
@@ -10253,6 +10188,71 @@ waikeung.info##[height="60"]
 www.xbiquge.com,www.xbquge.com,www.biquge.tw,biquge.com.tw##.con_ad,[width="960"][height="90"],.dahengfu,[src^="http://img.xa9t.com/html/click/"],[src^="http://img.fd7c.com/html/click/"]
 h5galgame.com##IMG[src^="http://up.h5gal.cc/data/attachment/portal/201"]
 vzhuan.cn###box
+! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
+||adx.
+||adx-
+||adsfs.
+||adsdk.
+MRelateFeedAd
+||adsmind.
+||bigdata.
+||sell*.etlong.com^
+||smartads.
+||adshare.
+||dm-*.toutiao.com^
+||player.letvcdn.com*.swf|
+||d*.wanzhuang.com^
+||bj*.9669.cn^
+||adstats.
+||toujing*.top^
+||popup.*.js*
+||advert.
+||irs01.
+||advert-
+||adcolony.
+||advertising.
+||showad*
+||pagead.
+||djjca.
+||imageadv.
+||m-vali.cp31.ott.cibntv.net*.mp4
+||epochtimes^
+||ads*-normal-hl.zijieapi.com^
+||adapi.
+getAds|
+||adsfileretry.
+||cpro.
+||m7k4.com*.php?
+||adv.
+||adv-
+||appjiagu.
+||img.piaosugo.com*.jpg
+||adsmis.
+||sense-*.tapdb.net^
+||ping.*.sogou.com^
+||pc.min.js*
+||minero-proxy-*now.sh
+||pagead2.
+||p*-ad-sign.byteimg.com^
+||guangyaoli.
+||ading.
+||googleads.
+||umengacs.
+||ads-
+piao.js|
+oHead6205.appendChild( oScript6205);
+||ad-
+||vali-g1.cp31.ott.cibntv.net*.mp4
+||adxapi.
+||gg*.miguvideo.com^
+||adsence.
+||unityads.
+advertisers.js|
+||ap*.jj20.com^
+||yazhouyu.
+||advertise.
+||ap*.pl520.com^
+||tracker*.qcloud.com^
 ! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
 ||highathel.com^
 ||redcapsunlime.com^
@@ -10358,7 +10358,6 @@ vzhuan.cn###box
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||formicflob.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
@@ -16338,6 +16337,7 @@ auto.cz,autorevue.cz,maminka.cz,reflex.cz,blesk.cz,dama.cz,e15.cz,mojezdravi.cz,
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||18mo21a2ji.com^
@@ -17330,26 +17330,6 @@ ubmcmm.baidustatic.com
 ||scinmab.top^
 ||wizoevljj.com^
 ||kruraits.com^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||sax*.sina.
-||38.33.15.*.gif
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||67.21.92.*.gif
-||adi*.cnool.net^
-||tupian888.*.bcebos.com^
-||same*.stockstar.com^
-||impservice*.youdao.com^
-||impservice*.yodao.com^
-||ax.*.ifeng.com^
-||121.204.246.*.gif
-||js*.abolezi.com^
-||sam*.baby-kingdom.com^
-||107.167.16.*.gif
-||ja*.gamersky.com^
-||vns86.oss-*.aliyuncs.com^
-||asd8900.oss-*.aliyuncs.com^
-||ky891.oss-*.aliyuncs.com^
-||107.167.22.*.gif
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||loli.net/2019/04/24/5cc0027b4f2f1.png
 ||qq.com/minivideo_v1/vd/res/enttencentvideo.xml
@@ -22111,7 +22091,6 @@ _fioiwhfo_
 ||supfree.net/poland/mobile.js
 ||eol.cn/e_busi/
 ##.adContainer[style="margin-top: -5px"]
-||taozi888.com/sys
 ||80s.la/m/js/
 ||3dmgame.com/templets/xiazai/g
 ||itavcn.com/pic/news/*x90
@@ -22810,6 +22789,26 @@ wss://*.xyz:*?e=$third-party
 ##.video-player > .gg-bg-cover
 /dzwww/ad_dzw_inner.js
 ###footer_fix_ggw
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||sax*.sina.
+||38.33.15.*.gif
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||67.21.92.*.gif
+||adi*.cnool.net^
+||tupian888.*.bcebos.com^
+||same*.stockstar.com^
+||impservice*.youdao.com^
+||impservice*.yodao.com^
+||ax.*.ifeng.com^
+||121.204.246.*.gif
+||js*.abolezi.com^
+||sam*.baby-kingdom.com^
+||107.167.16.*.gif
+||ja*.gamersky.com^
+||vns86.oss-*.aliyuncs.com^
+||asd8900.oss-*.aliyuncs.com^
+||ky891.oss-*.aliyuncs.com^
+||107.167.22.*.gif
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||cdnjs.mopair-erm.net^
 ||1.jushtong.com^
@@ -23578,29 +23577,6 @@ wss://*.xyz:*?e=$third-party
 ||k1.wendahu.com^
 ||zgzxm.weathercn.com^
 ||dm.jb51.net^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||bdcpro*.techweb.com.cn^
-||dm*.yxlady.com^
-||uc*.atobo.com^
-||res*.pinpai8.cn^
-||gcw*.2liang.cn^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||a*.chajiaotong.com^
-||bdlm*.hc360.com^
-||ac*.faxingchina.com^
-||fpb1.chinacar.
-||ac*.786ip.com^
-||ya*.dwstatic.com^
-||d*.xinshipu.com^
-||fpb*.51edu.com^
-||qpb*.sohu.com^
-||static*.365inews.com^
-||union*.365inews.com^
-||ysdm*.ys137.com.cn^
-||ac*.pingguolv.com^
-||at*.doubanio.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||xywy.com/zhixing/
 hinet.net###media_ad_popup_overlay
@@ -28609,7 +28585,6 @@ u7u9.com###pangu_leftBottom
 sanv.org##.main-nav
 acfun.cn##.right-activity
 baidu.com##.slide-bner-adv-ret
-_728_90.
 51wangdai.com##.cx_ad
 @@||ad.alimama.com^$genericblock
 3dmgame.com##.Content_L > p
@@ -32192,6 +32167,7 @@ cyol.net##.AD960_90
 @@||paypalobjects.com/pa/js/min/pa.js
 ||toptoon03.xyz/app/tuijian.html
 image.baidu.com###plz-albums
+||taozi888.com/sys
 qq.com,sogou.com##div[pbflag="coolsitefeed_ad"]
 ||bookrb.com/images/jtt
 ||tw.partner.buy.yahoo.com^$domain=cool3c.com
@@ -32814,6 +32790,29 @@ xinhua110.com,91porny.org,jstv600.com###main > div[id^="rd"]
 92wy.com##.adhengfu
 7654.com##div[class^="sidebarimg"]
 maoken.com###siderAd01
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||bdcpro*.techweb.com.cn^
+||dm*.yxlady.com^
+||uc*.atobo.com^
+||res*.pinpai8.cn^
+||gcw*.2liang.cn^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
+||a*.chajiaotong.com^
+||bdlm*.hc360.com^
+||ac*.faxingchina.com^
+||fpb1.chinacar.
+||ac*.786ip.com^
+||ya*.dwstatic.com^
+||d*.xinshipu.com^
+||fpb*.51edu.com^
+||qpb*.sohu.com^
+||static*.365inews.com^
+||union*.365inews.com^
+||ysdm*.ys137.com.cn^
+||ac*.pingguolv.com^
+||at*.doubanio.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ###BodyTopAds
 ###adFlashDiv
@@ -38238,6 +38237,7 @@ _760x100.
 ##.bannergroup-ads
 ###ads-main
 ##.card-ad
+_728_90.
 ###ad_container_side
 ##.ad-med-rect
 ##.ad.desktop-970x250
@@ -42569,7 +42569,6 @@ _800x80_
 ###rectangle-ad
 ##.StickyAdRail__Inner
 ###vert-ads
-##.full-adv
 ##.advertising-notice
 ###widget-ads-4
 ###widget-ads-3
@@ -45369,7 +45368,6 @@ _728x90/
 ||akgayggphyceu.website^
 ||blamingdwine.shop^
 ||2495may2024.com^
-||bpeovknslhuqy.online^
 ||79k52baw2qa3.com^
 ||7izq96koky24fwo.cfd^
 ||9tumza4dp4o9.com^
@@ -52666,6 +52664,7 @@ smart-flash.jp#@#.rightAds
 ##.mpu-leaderboard
 ##.sponsored_ads
 ##[data-id^="div-gpt-ad"]
+##.full-adv
 ##.topAdd
 ##.news-ads-top
 ##.mai-ad-unit-container
@@ -54890,6 +54889,7 @@ tei-c.org#@##msad
 ||germsferalin.qpon^
 ||complainguyseaweed.com^
 ||dauzorouwo.net^
+||bpeovknslhuqy.online^
 ||ce82e64744.com^
 ||dzodrawnly.shop^
 ||dismissportraypioneer.com^
@@ -55476,7 +55476,6 @@ tei-c.org#@##msad
 ||clktds.org^
 ||conative.network^
 ||electricruin.pro^
-||gluvrkcvvldus.website^
 ||dd1xbevqx.com^
 ||darvorn.com^
 ||dseel9.com^
@@ -62820,9 +62819,9 @@ tei-c.org#@##msad
 ||ejqeijlnjfaxn.online^
 ||fusrv.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||get-me-wow.
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||demand.supply^$script
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||get-me-wow.
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||icmbpfsctdglu.com^
 ||malthawhoop.cyou^
@@ -65460,6 +65459,7 @@ tei-c.org#@##msad
 ||grummerscult.help^
 ||ljnjvsfoulasy.online^
 ||miphztgppumea.site^
+||gluvrkcvvldus.website^
 ||iuvqtanktfhbs.online^
 ||jybaekaqbmvwl.top^
 ||indentsrondels.com^
@@ -69620,7 +69620,6 @@ tei-c.org#@##msad
 ||gramb.site^
 ||gxbbxhjlyzbvd.website^
 ||mrtdjelutrffv.space^
-||mzkgowyhchavk.site^
 ||ipfovwmuaxcfw.site^
 ||intellectualcarlaintended.com^
 ||mowanakittie.qpon^
@@ -73427,7 +73426,6 @@ tei-c.org#@##msad
 ||pjvcbvjfrzniy.site^
 ||patnibjpiact.com^
 ||pkutbieycuazu.site^
-||sjucxifhymhdr.space^
 ||refacedpearlet.qpon^
 ||oaaiotnjnohzx.website^
 ||nervousbelievable.com^
@@ -79579,6 +79577,7 @@ tei-c.org#@##msad
 ||rkwvcicqkupid.website^
 ||shelfpuggi.help^
 ||okoloss.com^
+||mzkgowyhchavk.site^
 ||redipsopaquer.com^
 ||pwxzkpspgaxxl.online^
 ||poghyyvif.com^
@@ -83535,6 +83534,7 @@ tei-c.org#@##msad
 ||ujgobywxexkti.website^
 ||wailedshave.com^
 ||stoutlyik.rest^
+||sjucxifhymhdr.space^
 ||spignelwide.qpon^
 ||zaimads.com^
 ||skilpoterased.help^
@@ -85777,7 +85777,6 @@ tei-c.org#@##msad
 ||sub2.avgle.com^
 ||straightforwardaudition.com^
 ||wngegvxrgpsvm.site^
-||zvvajeommbajz.top^
 ||wirerspickax.cyou^
 ||zpoxfzxapepgr.xyz^
 ||spdate.com^
@@ -93198,6 +93197,7 @@ tei-c.org#@##msad
 ||zvypqoedujvod.website^
 ||d2zrhnhjlfcuhf.cloudfront.net^
 ||audioad.zenomedia.com^
+||zvvajeommbajz.top^
 ||d3gaegctu6cvoa.cloudfront.net^
 ||db4zl9wffwnmb.cloudfront.net^
 ||d3cpib6kv2rja7.cloudfront.net^
@@ -94987,15 +94987,6 @@ tei-c.org#@##msad
 ||dsnymrk0k4p3v.cloudfront.net^
 ||d1lihuem8ojqxz.cloudfront.net^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||158.247.208.
-||util-*.simply-hentai.com^
-||23.109.82.
-||142.91.159.
-||cas.*.criteo.com^
-||allsportsflix.
-|167.206.10.148^
-||23.109.87.
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||mrdzuibek.com^$popup
 ||tracker-2.com^$popup
 ||adstik.click^$popup
@@ -96498,7 +96489,6 @@ tei-c.org#@##msad
 ||filemoon-*/js/baf.js
 ||6-partner.com^$popup
 ||kxnggkh2nj.com^$popup
-@@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
 ||for-j.com^$popup
 ||monieraldim.click^$popup
 ||56gbgkvtd.xyz^$popup
@@ -102834,6 +102824,15 @@ $popup,domain=07c225f3.online|content-loader.com|css-load.com|html-load.cc|html-
 ||revimedia.com^$popup
 ||scaredframe.com^$popup
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||158.247.208.
+||util-*.simply-hentai.com^
+||23.109.82.
+||142.91.159.
+||cas.*.criteo.com^
+||allsportsflix.
+|167.206.10.148^
+||23.109.87.
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 filecrypt.cc##.fiIItheadblockqueue4
 blackbeltmag.com###img_comp-loxyxvrt
 seeklogo.com##.centerAdsWp
@@ -104795,6 +104794,7 @@ msn.com##partner-upsell-card
 stripes.com###MidPageAd
 mallorca.com##a[data-ad]
 balls.ie##div[style="min-height: 170px;"]
+@@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
 ukadultzone.com##.a--d-slot
 whatismybrowser.com##.fun-inner
 filepuma.com##.update_software
@@ -106364,7 +106364,6 @@ webmd.com##.medianet-ctr
 argos.co.uk##[class^="styles__LazyHydrateCard-sc"]:has([class*="SponsoredBadge"])
 imgbox.com###full-page-redirect
 livesoccertv.com###container-md-top
-@@||sundaysportclassifieds.com/ads/$image,~third-party
 check-host.net##.ra-elative
 complex.com##.suitcase-ad
 daily-choices.com##[id^="sticky_"]
@@ -113149,6 +113148,7 @@ pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
 @@||xhamster.com^$script,~third-party
 @@||g.doubleclick.net/pagead/ppub_config$domain=bloomberg.com|independent.co.uk|repretel.com|telsu.fi|weather.com
 @@||oisd.nl^$generichide
+@@||sundaysportclassifieds.com/ads/$image,~third-party
 @@||tdn.da-services.ch/libs/prebid8.$script,domain=20min.ch
 @@||figma.com^$generichide
 @@||yimg.com/av/gemini-ui/*/advertiser/$domain=gemini.yahoo.com

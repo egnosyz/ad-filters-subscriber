@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-01-22 08:02:43
+! Last Modified: 2026-01-22 16:00:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -13959,7 +13959,6 @@ _fioiwhfo_
 ||supfree.net/poland/mobile.js
 ||eol.cn/e_busi/
 ##.adContainer[style="margin-top: -5px"]
-||taozi888.com/sys
 ||80s.la/m/js/
 ||3dmgame.com/templets/xiazai/g
 ||itavcn.com/pic/news/*x90
@@ -19666,7 +19665,6 @@ u7u9.com###pangu_leftBottom
 sanv.org##.main-nav
 acfun.cn##.right-activity
 baidu.com##.slide-bner-adv-ret
-_728_90.
 51wangdai.com##.cx_ad
 @@||ad.alimama.com^$genericblock
 3dmgame.com##.Content_L > p
@@ -23249,6 +23247,7 @@ cyol.net##.AD960_90
 @@||paypalobjects.com/pa/js/min/pa.js
 ||toptoon03.xyz/app/tuijian.html
 image.baidu.com###plz-albums
+||taozi888.com/sys
 qq.com,sogou.com##div[pbflag="coolsitefeed_ad"]
 ||bookrb.com/images/jtt
 ||tw.partner.buy.yahoo.com^$domain=cool3c.com
@@ -29295,6 +29294,7 @@ _760x100.
 ##.bannergroup-ads
 ###ads-main
 ##.card-ad
+_728_90.
 ###ad_container_side
 ##.ad-med-rect
 ##.ad.desktop-970x250
@@ -33626,7 +33626,6 @@ _800x80_
 ###rectangle-ad
 ##.StickyAdRail__Inner
 ###vert-ads
-##.full-adv
 ##.advertising-notice
 ###widget-ads-4
 ###widget-ads-3
@@ -37798,6 +37797,7 @@ smart-flash.jp#@#.rightAds
 ##.mpu-leaderboard
 ##.sponsored_ads
 ##[data-id^="div-gpt-ad"]
+##.full-adv
 ##.topAdd
 ##.news-ads-top
 ##.mai-ad-unit-container
@@ -39456,7 +39456,6 @@ tei-c.org#@##msad
 ||filemoon-*/js/baf.js
 ||6-partner.com^$popup
 ||kxnggkh2nj.com^$popup
-@@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
 ||for-j.com^$popup
 ||monieraldim.click^$popup
 ||56gbgkvtd.xyz^$popup
@@ -47753,6 +47752,7 @@ msn.com##partner-upsell-card
 stripes.com###MidPageAd
 mallorca.com##a[data-ad]
 balls.ie##div[style="min-height: 170px;"]
+@@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
 ukadultzone.com##.a--d-slot
 whatismybrowser.com##.fun-inner
 filepuma.com##.update_software
@@ -49322,7 +49322,6 @@ webmd.com##.medianet-ctr
 argos.co.uk##[class^="styles__LazyHydrateCard-sc"]:has([class*="SponsoredBadge"])
 imgbox.com###full-page-redirect
 livesoccertv.com###container-md-top
-@@||sundaysportclassifieds.com/ads/$image,~third-party
 check-host.net##.ra-elative
 complex.com##.suitcase-ad
 daily-choices.com##[id^="sticky_"]
@@ -56107,6 +56106,7 @@ pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
 @@||xhamster.com^$script,~third-party
 @@||g.doubleclick.net/pagead/ppub_config$domain=bloomberg.com|independent.co.uk|repretel.com|telsu.fi|weather.com
 @@||oisd.nl^$generichide
+@@||sundaysportclassifieds.com/ads/$image,~third-party
 @@||tdn.da-services.ch/libs/prebid8.$script,domain=20min.ch
 @@||figma.com^$generichide
 @@||yimg.com/av/gemini-ui/*/advertiser/$domain=gemini.yahoo.com

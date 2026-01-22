@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-01-22 08:02:43
+! Last Modified: 2026-01-22 16:00:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3340,7 +3340,6 @@ advertisers.js|
 ||thiazinamus.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
-||afgodscarpe.com^
 ||formicflob.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
@@ -7142,6 +7141,7 @@ advertisers.js|
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||18mo21a2ji.com^
@@ -11498,7 +11498,6 @@ ubmcmm.baidustatic.com
 ||akgayggphyceu.website^
 ||blamingdwine.shop^
 ||2495may2024.com^
-||bpeovknslhuqy.online^
 ||79k52baw2qa3.com^
 ||7izq96koky24fwo.cfd^
 ||9tumza4dp4o9.com^
@@ -16941,6 +16940,7 @@ ubmcmm.baidustatic.com
 ||germsferalin.qpon^
 ||complainguyseaweed.com^
 ||dauzorouwo.net^
+||bpeovknslhuqy.online^
 ||ce82e64744.com^
 ||dzodrawnly.shop^
 ||dismissportraypioneer.com^
@@ -17527,7 +17527,6 @@ ubmcmm.baidustatic.com
 ||clktds.org^
 ||conative.network^
 ||electricruin.pro^
-||gluvrkcvvldus.website^
 ||dd1xbevqx.com^
 ||darvorn.com^
 ||dseel9.com^
@@ -27509,6 +27508,7 @@ ubmcmm.baidustatic.com
 ||grummerscult.help^
 ||ljnjvsfoulasy.online^
 ||miphztgppumea.site^
+||gluvrkcvvldus.website^
 ||iuvqtanktfhbs.online^
 ||jybaekaqbmvwl.top^
 ||indentsrondels.com^
@@ -31669,7 +31669,6 @@ ubmcmm.baidustatic.com
 ||gramb.site^
 ||gxbbxhjlyzbvd.website^
 ||mrtdjelutrffv.space^
-||mzkgowyhchavk.site^
 ||ipfovwmuaxcfw.site^
 ||intellectualcarlaintended.com^
 ||mowanakittie.qpon^
@@ -35476,7 +35475,6 @@ ubmcmm.baidustatic.com
 ||pjvcbvjfrzniy.site^
 ||patnibjpiact.com^
 ||pkutbieycuazu.site^
-||sjucxifhymhdr.space^
 ||refacedpearlet.qpon^
 ||oaaiotnjnohzx.website^
 ||nervousbelievable.com^
@@ -41628,6 +41626,7 @@ ubmcmm.baidustatic.com
 ||rkwvcicqkupid.website^
 ||shelfpuggi.help^
 ||okoloss.com^
+||mzkgowyhchavk.site^
 ||redipsopaquer.com^
 ||pwxzkpspgaxxl.online^
 ||poghyyvif.com^
@@ -45584,6 +45583,7 @@ ubmcmm.baidustatic.com
 ||ujgobywxexkti.website^
 ||wailedshave.com^
 ||stoutlyik.rest^
+||sjucxifhymhdr.space^
 ||spignelwide.qpon^
 ||zaimads.com^
 ||skilpoterased.help^
@@ -47826,7 +47826,6 @@ ubmcmm.baidustatic.com
 ||sub2.avgle.com^
 ||straightforwardaudition.com^
 ||wngegvxrgpsvm.site^
-||zvvajeommbajz.top^
 ||wirerspickax.cyou^
 ||zpoxfzxapepgr.xyz^
 ||spdate.com^
@@ -55247,6 +55246,7 @@ ubmcmm.baidustatic.com
 ||zvypqoedujvod.website^
 ||d2zrhnhjlfcuhf.cloudfront.net^
 ||audioad.zenomedia.com^
+||zvvajeommbajz.top^
 ||d3gaegctu6cvoa.cloudfront.net^
 ||db4zl9wffwnmb.cloudfront.net^
 ||d3cpib6kv2rja7.cloudfront.net^
