@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-01-27 08:02:38
+! Last Modified: 2026-01-27 16:00:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3207,6 +3207,7 @@ iadctest.qwapi.com^
 ||cayosunhairs.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
+||afgodscarpe.com^
 ||formicflob.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
@@ -7156,7 +7157,6 @@ iadctest.qwapi.com^
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||18mo21a2ji.com^
@@ -11571,6 +11571,7 @@ ubmcmm.baidustatic.com
 ||bepillalgesicnonary.cfd^
 ||asgclickpp.com^
 ||bestcontentfood.top^
+||boannre.com^
 ||ajscdn.com^
 ||82nuo2y239fb81pvq.cfd^
 ||540252a00b.com^
@@ -21908,7 +21909,6 @@ ubmcmm.baidustatic.com
 ||djuqmseuelmct.site^
 ||coxsnlangrddj.online^
 ||fjjdwjwtfnouy.website^
-||boannre.com^
 ||cpabeyond.com^
 ||cdnako.com^
 ||ceibohan.help^
@@ -22212,6 +22212,7 @@ ubmcmm.baidustatic.com
 ||dreary-hunt.com^
 ||cedareduchean.qpon^
 ||cinvetica.com^
+||gbwjalwofivbq.website^
 ||flower1266.fun^
 ||cakeoverdoagenda.com^
 ||fond-problem.pro^
@@ -28263,6 +28264,7 @@ ubmcmm.baidustatic.com
 ||isoualkcjushz.website^
 ||hilerant.site^
 ||lmdljboquvute.space^
+||missilemargin.com^
 ||klspkjyub-n.xyz^
 ||gsjhrwdfr.com^
 ||mindlesspop.pro^
@@ -32265,7 +32267,6 @@ ubmcmm.baidustatic.com
 ||hwntbehufghtb.online^
 ||gvoojrsr.com^
 ||hooptaik.net^
-||gbwjalwofivbq.website^
 ||italianceramal.cyou^
 ||jsmcrt.com^
 ||kffnjkvxbhyzl.vip^
@@ -38286,7 +38287,6 @@ ubmcmm.baidustatic.com
 ||murmursutta.shop^
 ||portentjonasfewer.com^
 ||odtiniztbwuyx.space^
-||missilemargin.com^
 ||misuseartsy.com^
 ||mommydignified.com^
 ||redrotou.net^
@@ -40561,6 +40561,7 @@ ubmcmm.baidustatic.com
 ||rgbkmubapsgza.space^
 ||obovksvquemtr.website^
 ||nzyppdoppxpwb.website^
+||rwqovmoezrvrv.top^
 ||poafeefoaji.net^
 ||misty-eyed.boats^
 ||obixlzxvxgcmf.site^
@@ -44850,6 +44851,7 @@ ubmcmm.baidustatic.com
 ||snugwednesday.com^
 ||twiselaveria.com^
 ||trk-epicurei.com^
+||xmbivntukfnxm.site^
 ||ticielongsuched.com^
 ||vhcauhhc.com^
 ||videoplaza.tv^
@@ -50734,7 +50736,6 @@ ubmcmm.baidustatic.com
 ||writeaffectionately.com^
 ||spyzvcviywdva.space^
 ||shodereaumur.qpon^
-||rwqovmoezrvrv.top^
 ||stouthran.shop^
 ||vmouptcdare.com^
 ||timersarcoid.qpon^
@@ -54825,7 +54826,6 @@ ubmcmm.baidustatic.com
 ||yhnledkewy.net^
 ||yslyulaumwaaoq.xyz^
 ||16972675.xyz^
-||xmbivntukfnxm.site^
 ||d2s9nyc35a225l.cloudfront.net^
 ||d2qhuw8qcxnldj.cloudfront.net^
 ||d3d9pt4go32tk8.cloudfront.net^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-01-27 08:02:38
+! Last Modified: 2026-01-27 16:00:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -12088,6 +12088,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ##.TqAdShow
 ||chengzijianzhan.cc^$subdocument,third-party
 ###adx_cggp
+||sohu.com/mdevp/*-advert/
 ||gaofen.com/source/plugin/gaofen_ad/
 ||abminbuy.com/789.
 ||1133.cc^$third-party
@@ -16614,6 +16615,7 @@ image.baidu.com###relEcom
 @@||cdn.optimizely.com/js/*.js$domain=kktv.me
 ouyaoxiazai.com##.qzhengfu
 dy2018.com,xiaopian.com##a[href*="/htmlcode/"]
+/700x100.
 1111.baidu.com,bdimg.com,live.baidu.com,tieba.baidu.com,tieba.com,xingqu.baidu.com##.mediago-ad-wrapper
 mydigit.cn##.txtMes
 wenku.baidu.com##.service-entry
@@ -21673,7 +21675,6 @@ stock87.com##div[id^="Javascript"]
 17qingsong.com##.detail-gads
 ||szonline.net/static/js/ads.js
 ant.design###geektime
-||sohu.com/mdevp/*-advert/
 58.com#?#TR[logr]:-abp-has(> .t > .mt-p-tit > .jingpin)
 lenovo.com.cn##.nav_ad2
 /advanced-ads-pro/modules/*$script
@@ -25948,7 +25949,6 @@ _336x120.
 ##.ad-block-bottom
 ##.c-sitenav-adslot
 ##.content_ad_728
-/700x100.
 ###banner-ad-container
 ##.ad_sponsor_fp
 ##.ad-units-single-header-wrapper
@@ -26769,6 +26769,7 @@ _700_100_
 ##.adarea-long
 ##.ad-adsense
 ###content_ad_container
+##.floatad
 ###ad-300-detail
 ###headeradsbox
 ##.advertText
@@ -36315,7 +36316,6 @@ spoilertv.com#@##adsensewide
 hifi-forsale.co.uk#@##centerads
 in.fo,moovitapp.com#@#.ads-banner
 jabank-tokushima.or.jp,joins.com,jtbc.co.kr#@#.ad_bottom
-##.floatad
 ##.inside_ad
 ##.sticky-top-ad-wrap
 ##[href^="https://ap.octopuspop.com/click/"] > img
@@ -39053,6 +39053,7 @@ tei-c.org#@##msad
 ||cpaoffers.network^$popup
 ||baitenthenaga.com^$popup
 ||fpukxcinlf.com^$popup
+||ggbetpromo.com^$popup
 ||servsserverz.com^$document
 ||dreamytabs.com^$popup
 ||datingtoday.top^$popup
@@ -45913,7 +45914,6 @@ sammobile.com##.adRoot-loop-ad
 thetimes.com##.styles__PromotedContentContainer-sc-1ul3b7n-3
 thefintechtimes.com##.penci-widget-sidebar
 inyourarea.co.uk##.style_advertisementMark_1Jki4
-||ggbetpromo.com^$popup
 rapidsave.com##.alert.col-md-offset-2
 thediplomat.com##.td-ad-container--labeled
 ||bigtitslust.com/lap70/s/s/suo.php
@@ -46191,6 +46191,7 @@ jambase.com##.sense
 ||youjizz.com/KWIKY*.mp4$rewrite=abp-resource:blank-mp4,domain=youjizz.com
 unionpedia.org##div[style^="margin-top: 15px; min-width: 300px"]
 theportugalnews.com##.ppp-banner
+msn.com##.bannerAdContainer-DS-EntryPoint1-1
 forums.somethingawful.com##.oma_pal
 libhunt.com##.flex.mt-5.boxed
 noon.com##.visibilitySensorWrapper:has(.adBannerModule)
@@ -55837,7 +55838,6 @@ socialmediagirls.com##a[href^="https://www.rabbitsreviews.com/"]
 @@||ads.atmosphere.copernicus.eu^$popup
 fapeza.com##.navbar-item-sky
 @@||xfreehd.com^$generichide
-msn.com##.bannerAdContainer-DS-EntryPoint1-1
 playporn.xxx,videosdemadurasx.com##.wrap-spot
 smutr.com##a[href^="https://smutr.com/?action=trace"]
 f95zone.to###topNotice
