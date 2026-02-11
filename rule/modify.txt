@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-02-11 09:10:16
+! Last Modified: 2026-02-11 16:33:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -11357,6 +11357,7 @@ $script,third-party,websocket,domain=52codes.net
 ||kxd56.com/tg.gif
 ||bkill.com/css/js/*top
 ||labuladong.github.io/algo/pictures/ad/
+||sunofbeaches.com/ast/assistant/ad-item/
 ||520click.com/ad.$domain=~video.520cc.cc|~surirt.com
 ||igao17.com/need/h5.js
 ||abcache.com/youlaohu/
@@ -18640,6 +18641,7 @@ jianshu.com##.self-flow-ad
 xclient.info###pop_business
 423down.com#?#.post-related > ul > li:-abp-has(> a[href^="http"]:not([href*="423down."]))
 18comic.org,18comic.vip,jm18c-jjd.club##.modal-backdrop
+_468x100_
 ||youtube.com/embed/wqLWTeNBEEQ?
 hao.360.cn###left-ria-fixed
 @@/wp-content/*/social_$domain=servercat.me
@@ -21137,7 +21139,6 @@ mvcat.com##.jsalert
 mgbbs.cn##td[width="960"][height="60"]
 baidu.com##.result-op[tpl="game-page-right-openservice"]
 zhicheng.com##.sf_1
-||sunofbeaches.com/ast/assistant/ad-item/
 downmsn.com###downShow_tellDownload
 3dmgame.com###index_bg_box
 @@||ads.cdn.tvb.com^*.key
@@ -28169,7 +28170,6 @@ _480_60.
 ##.adgmleaderboard
 ###VPNAdvert
 ##.adhesion-header
-_468x100_
 ##.adslot_4
 ##.adslot_3
 ##.adslot_2
@@ -28291,6 +28291,7 @@ _468x100_
 ##.ad160_l
 ###big_ad
 ##.content__ad
+##.fp-ad-rectangle
 ###adposition10
 ###floorAdWrapper
 ###top_advert
@@ -37534,7 +37535,6 @@ bibliaon.com#@#.top-banner-ad
 ##.itemAdvertise
 ##.top_ad_seperate
 ##.inline_ad_container
-##.fp-ad-rectangle
 ##.instream_ad
 ##.penci-promo-link
 ##.sponsoredBanners
@@ -47212,6 +47212,7 @@ dhakatribune.com###jw-popup
 the-express.com##.fr-container
 savefrom.net##.tz-quality-link
 nitrome.com###banner_description
+neonheightsservers.com##.well:has(ins.adsbygoogle)
 inquirer.com##.inno-ad__ad
 thestudentroom.co.uk##div[data-freestar-ad]
 stockinvest.us###IC_d_300x250_1
@@ -54371,7 +54372,6 @@ fiverr.com#?#.gig-card-layout:-abp-contains(Ad by)
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independent.co.uk
 tesco.com##[class^="styled__StyledLIProductItem"]:has([class^="styled__StyledOffers"])
 hentai2read.com##[href^="https://camonster.com"]
-neonheightsservers.com##.well:has(ins.adsbygoogle)
 digitaltrends.com##.b-connatix
 alibaba.com#?#.J-offer-wrapper:-abp-contains(Top sponsor listing)
 beemtube.com##.overspot
