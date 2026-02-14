@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-02-14 00:30:01
+! Last Modified: 2026-02-14 08:59:42
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3304,7 +3304,6 @@ advertisers.js|
 ||uttergleeks.com^
 ||indulinrayful.com^
 ||teawarecoinfer.com^
-||afgodscarpe.com^
 ||formicflob.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
@@ -7254,6 +7253,7 @@ advertisers.js|
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||18mo21a2ji.com^
@@ -10156,7 +10156,6 @@ ubmcmm.baidustatic.com
 ||begoniathule.cfd^
 ||afcntvlruzigd.online^
 ||adzmob.com^
-||bold-display.pro^
 ||attendedlickhorizontally.com^
 ||0214217ebc.com^
 ||achyaplenty.com^
@@ -15872,6 +15871,7 @@ ubmcmm.baidustatic.com
 ||coucalhidated.com^
 ||euripusrochet.help^
 ||dualweekend.pro^
+||bold-display.pro^
 ||craharice.com^
 ||echoizetx.shop^
 ||f39ehx8pgotjhl1iz5tltx6.cfd^
@@ -22119,7 +22119,6 @@ ubmcmm.baidustatic.com
 ||caublarlpwmsn.site^
 ||fut2739jozhcpuw621q8omrv5rkkfur.cfd^
 ||fotmrrwfgprar.fun^
-||gappyfinch.qpon^
 ||frequentlyvaried.com^
 ||delirious-year.com^
 ||evenimbauba.cfd^
@@ -25598,7 +25597,6 @@ ubmcmm.baidustatic.com
 ||kzagvdulumvgl.site^
 ||gpcrn.com^
 ||habirimodioli.com^
-||messy-brain.com^
 ||lalooyleepohe.store^
 ||laurusyike.help^
 ||hermichermicgenerationhers.com^
@@ -32148,6 +32146,7 @@ ubmcmm.baidustatic.com
 ||hunterheroiccompassion.com^
 ||gzooedejrrjog.website^
 ||lobospaeonia.qpon^
+||gappyfinch.qpon^
 ||laytroops.com^
 ||instrumenttactics.com^
 ||groptoxegri.com^
@@ -35635,6 +35634,7 @@ ubmcmm.baidustatic.com
 ||oneijnarbxrvk.space^
 ||nahuaesnecy.help^
 ||ploybite.com^
+||messy-brain.com^
 ||qaixhtzsjyipb.store^
 ||rechasejubus.cyou^
 ||ohfyntjrbcgik.space^
@@ -39217,7 +39217,6 @@ ubmcmm.baidustatic.com
 ||niyamafunster.help^
 ||phokukse.com^
 ||puqzqgdybydxs.space^
-||rotateme.ru^
 ||nweligduicngw.site^
 ||owzppkkbfzkmu.site^
 ||rnwcdacauihbr.space^
@@ -49357,6 +49356,7 @@ ubmcmm.baidustatic.com
 ||tqoneyyivw.club^
 ||wideeyedchampion.com^
 ||virtuallypractice.com^
+||rotateme.ru^
 ||spurdogpints.cyou^
 ||urolufmvxphsvra.com^
 ||spurtvastsummer.com^
@@ -49718,7 +49718,6 @@ ubmcmm.baidustatic.com
 ||sumpooloor.net^
 ||stagepopkek.com^
 ||vianoivernom.com^
-||wqdjesmnsgecq.site^
 ||vffncubbivrcm.website^
 ||tcdwm.com^
 ||whoatsootchard.net^
@@ -58129,7 +58128,6 @@ ubmcmm.baidustatic.com
 ||zvigdaebhmjdv.site^
 ||ylitzzadjmfrk.space^
 ||adblockeromega.com^
-||d2kldhyijnaccr.cloudfront.net^
 ||yldmgrimg.net^
 ||89407765.xyz^
 ||xvolfkpkkzput.site^
@@ -58518,6 +58516,7 @@ ubmcmm.baidustatic.com
 ||zumsivonaiss.net^
 ||d1az618or4kzj8.cloudfront.net^
 ||d1sytkg9v37f5q.cloudfront.net^
+||wqdjesmnsgecq.site^
 ||wrqywyffqfpnf.online^
 ||yawningcontact.pro^
 ||zaxpujarb.com^
@@ -59084,6 +59083,7 @@ ubmcmm.baidustatic.com
 ||dfwp6qatulz0p.cloudfront.net^
 ||d4bt5tknhzghh.cloudfront.net^
 ||dkm6b5q0h53z4.cloudfront.net^
+||d2kldhyijnaccr.cloudfront.net^
 ||rest.sexypornvideo.net^
 ||dw9uc6c6b8nwx.cloudfront.net^
 ||d35nmq1qnoxdb9.cloudfront.net^
