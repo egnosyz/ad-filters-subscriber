@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2026-02-23 16:33:40
+! Last Modified: 2026-02-24 00:39:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -10320,7 +10320,6 @@ vzhuan.cn###box
 ||zygousgauby.com^
 ||uttergleeks.com^
 ||indulinrayful.com^
-||afgodscarpe.com^
 ||formicflob.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
@@ -16580,6 +16579,7 @@ dood.*,doods.*,doodstream.*,dooodster.*,dooood.*,streamsb.net#$#abort-on-propert
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||18mo21a2ji.com^
@@ -20639,7 +20639,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||igamepark.biz/ads_output.php
 ||qpic.cn/qqgameedu/0/cfc175896f5b4d6a9ff115b3096dcebe_
 ||s.yimg.com^*/flash_general_$domain=~tw.yahoo.com
-||sinaimg.cn/finance/qihuofarm/
 ||cpnn.com.cn/cpnn2015g/neiyegg.gif
 ~allthingsopen.org##a[href*=".com?aff="]
 ||211600.com/data/attachment/portal/
@@ -26366,6 +26365,7 @@ cool-de.com###fwin_popadv_cover
 @@||bytegoofy.com/ad/$domain=jinritemai.com
 taobao.com#?#.item-ad
 baidu.com##.container:has( > .bottom-section > .item_voice_room[data-yysid])
+||sinaimg.cn/finance/qihuofarm/
 ||taobao.com^$popup,domain=dlkoo.cc
 ||soduso.com/js/4
 ssyy.ee##.container > a[target="_blank"] > img
@@ -28202,7 +28202,6 @@ codeleading.com##div[id*="ads"]
 /aff/images/*$image
 itjsb.com##.info_ad
 wap.zol.com.cn###waitrep
-/300-250-
 yahoo.com###StreamMidCenter2Ad-0
 rising.cn##.lvmama
 @@||money18.on.cc/js/ad/liveinfo_page/
@@ -37113,7 +37112,6 @@ _150x700_
 ##.adTile
 ###skinTopAd
 ##.article-footer__ad
-##.f-item-ad
 ###adbutton
 ##.adv_468_60
 ###ad-chips
@@ -37743,6 +37741,7 @@ _300x600_
 ##.adver_cont_below
 ##.articleEmbeddedAdBox
 ###sideBarAd
+/300-250-
 ###SponsoredLinks
 ##.ad_inline_wrapper
 /300-250.
@@ -47296,7 +47295,6 @@ _728x90/
 ||betr-for-tod.com^
 ||barnaclecocoonjest.com^
 ||beginnerfurglow.com^
-||bingiesourangsterk.cfd^
 ||archipelagosaidpre.com^
 ||153c349024.com^
 ||begonaoidausek.com^
@@ -52276,6 +52274,7 @@ advancedrenamer.com,androidrepublic.org,anonymousemail.me,apkmirror.com,cdromanc
 ##.searchad
 ##.towerad
 ##.inf-onclickvideo-adbox
+##.f-item-ad
 ##.taboola-bottom-adunit
 ##.top_ad1
 ##a[href^="https://random-affiliate.atimaze.com/"]
@@ -56765,6 +56764,7 @@ tei-c.org#@##msad
 ||dalliedjapaneesarpo.cyou^
 ||destroyedspear.com^
 ||brieftrouble.com^
+||bingiesourangsterk.cfd^
 ||eqnpqrodsmaxw.space^
 ||carvesenemas.cfd^
 ||bvxacqxdimmpmeg.com^
@@ -58548,7 +58548,6 @@ tei-c.org#@##msad
 ||braunaalbert.help^
 ||enbzcgwahnemk.site^
 ||eaeiacjiwsufg.site^
-||flfahkpekwzfb.site^
 ||bxneqgyypepzl.website^
 ||cookeryshed.com^
 ||evil-candle.pro^
@@ -68517,6 +68516,7 @@ tei-c.org#@##msad
 ||git55share.autos^
 ||gzybuvohk.com^
 ||floweryminimum.pro^
+||flfahkpekwzfb.site^
 ||jovialprudy.cyou^
 ||harayapaunchy.qpon^
 ||jruxovzfddwox.site^
@@ -70035,7 +70035,6 @@ tei-c.org#@##msad
 ||geologycontentillegally.com^
 ||hocevqttpeekw.store^
 ||jvzsgtjkewhfu.website^
-||lfwbvrlzqwevp.online^
 ||grottofugal.cfd^
 ||he7ll.com^
 ||lethalserth.shop^
@@ -75604,7 +75603,6 @@ tei-c.org#@##msad
 ||pertauthentic.com^
 ||phabaustoost.net^
 ||ofgxwyvlechxd.site^
-||puwuczvlsundk.site^
 ||profitabledestination.com^
 ||lobiinfair.cfd^
 ||nzxqdmladgibx.website^
@@ -79997,6 +79995,7 @@ tei-c.org#@##msad
 ||psiwauckiks.net^
 ||mxglfjjyjkir.xyz^
 ||ntlysearchingfora.com^
+||lfwbvrlzqwevp.online^
 ||public1266.fun^
 ||mtobvhdbhhnpt.website^
 ||odgmxwepbbfwe.online^
@@ -85658,6 +85657,7 @@ tei-c.org#@##msad
 ||sanctaedurance.cyou^
 ||svxsadbrobogk.website^
 ||saltanthankies.help^
+||puwuczvlsundk.site^
 ||tpcserve.com^
 ||tgtlxnigajqxna.com^
 ||turtupeshou.net^
@@ -90453,7 +90453,6 @@ tei-c.org#@##msad
 ||sciathpaaldraws.qpon^
 ||sndzrfmkqawfk.online^
 ||reclinetunepollen.com^
-||unciatoi.com^
 ||sbndcrqwcfkvg.store^
 ||shockdefined.com^
 ||tbavixmkrnspx.space^
@@ -98308,6 +98307,7 @@ tei-c.org#@##msad
 ||whbjtvsrexgif.store^
 ||unlashchaule.qpon^
 ||veneeringanguishwhipped.com^
+||unciatoi.com^
 ||vfuwgpavyebin.space^
 ||whatresissy.cyou^
 ||xoqod.sbs^
@@ -101826,7 +101826,6 @@ tei-c.org#@##msad
 ||click.quk.com^$popup
 ||adx1.com^$document
 ||bidverdrs.com^$popup
-||egretswamper.com^$popup
 ||ad-nex.com^$third-party
 ||headerbidding.ai^$third-party
 ||camliveshow.xyz^$popup
@@ -104738,7 +104737,6 @@ dailyo.in##.adWrapp
 apkmody.mobi##.body-fixed-footer
 bundesliga.com###footer-partnerlogo
 newatlas.com##.Page-aside
-businessnow.mt,igamingcapital.mt,maltaceos.mt,whoswho.mt##.footer__second
 ||rgstatic.net/javascript/delivery-manager/delivery-impl.$domain=researchgate.net
 thingiverse.com##.AdBanner__adBanner--GpB5d
 moneycontrol.com##.add-spot
@@ -112143,6 +112141,7 @@ receive-sms.cc##.content-adsense
 ||hotxpromo.com^$popup
 ||ninancukankin.org^$popup
 ||invol.co^$popup
+||egretswamper.com^$popup
 ||autoembed.cc/assets/player2/*/vast.js
 ||eclipseadblock.info^$popup
 backpacker.com,cleaneatingmag.com,climbing.com,outsideonline.com,oxygenmag.com,skimag.com,trailrunnermag.com,triathlete.com,vegetariantimes.com,womensrunning.com,yogajournal.com##.c-thinbanner
@@ -113027,6 +113026,7 @@ gotporn.com##.image-group-vertical
 jav321.com##.row > .col-md-12 > ul
 @@||redventures.io/lib/dist/prod/bidbarrel-$script,domain=cnet.com|zdnet.com
 readanybook.com##.timing-ads-timer
+businessnow.mt,igamingcapital.mt,maltaceos.mt,whoswho.mt##.footer__second
 www.google.*##div[data-crl="true"][data-id^="CarouselPLA-"]
 cumlouder.com##[class^="sm"]
 ryuugames.com,yaoimangaonline.com##[href^="https://l.erodatalabs.com/s/"] > img
