@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-03-02 00:13:23
+! Last Modified: 2026-03-02 09:00:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3216,7 +3216,6 @@ iadctest.qwapi.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
 ||indulinrayful.com^
-||afgodscarpe.com^
 ||formicflob.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
@@ -7240,6 +7239,7 @@ iadctest.qwapi.com^
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
 ||18mo21a2ji.com^
@@ -13425,7 +13425,6 @@ ubmcmm.baidustatic.com
 ||betr-for-tod.com^
 ||barnaclecocoonjest.com^
 ||beginnerfurglow.com^
-||bingiesourangsterk.cfd^
 ||archipelagosaidpre.com^
 ||153c349024.com^
 ||begonaoidausek.com^
@@ -18641,6 +18640,7 @@ ubmcmm.baidustatic.com
 ||dalliedjapaneesarpo.cyou^
 ||destroyedspear.com^
 ||brieftrouble.com^
+||bingiesourangsterk.cfd^
 ||eqnpqrodsmaxw.space^
 ||carvesenemas.cfd^
 ||bvxacqxdimmpmeg.com^
@@ -20424,7 +20424,6 @@ ubmcmm.baidustatic.com
 ||braunaalbert.help^
 ||enbzcgwahnemk.site^
 ||eaeiacjiwsufg.site^
-||flfahkpekwzfb.site^
 ||bxneqgyypepzl.website^
 ||cookeryshed.com^
 ||evil-candle.pro^
@@ -30391,6 +30390,7 @@ ubmcmm.baidustatic.com
 ||git55share.autos^
 ||gzybuvohk.com^
 ||floweryminimum.pro^
+||flfahkpekwzfb.site^
 ||jovialprudy.cyou^
 ||harayapaunchy.qpon^
 ||jruxovzfddwox.site^
@@ -31909,7 +31909,6 @@ ubmcmm.baidustatic.com
 ||geologycontentillegally.com^
 ||hocevqttpeekw.store^
 ||jvzsgtjkewhfu.website^
-||lfwbvrlzqwevp.online^
 ||grottofugal.cfd^
 ||he7ll.com^
 ||lethalserth.shop^
@@ -37476,7 +37475,6 @@ ubmcmm.baidustatic.com
 ||pertauthentic.com^
 ||phabaustoost.net^
 ||ofgxwyvlechxd.site^
-||puwuczvlsundk.site^
 ||profitabledestination.com^
 ||lobiinfair.cfd^
 ||nzxqdmladgibx.website^
@@ -41869,6 +41867,7 @@ ubmcmm.baidustatic.com
 ||psiwauckiks.net^
 ||mxglfjjyjkir.xyz^
 ||ntlysearchingfora.com^
+||lfwbvrlzqwevp.online^
 ||public1266.fun^
 ||mtobvhdbhhnpt.website^
 ||odgmxwepbbfwe.online^
@@ -47530,6 +47529,7 @@ ubmcmm.baidustatic.com
 ||sanctaedurance.cyou^
 ||svxsadbrobogk.website^
 ||saltanthankies.help^
+||puwuczvlsundk.site^
 ||tpcserve.com^
 ||tgtlxnigajqxna.com^
 ||turtupeshou.net^
@@ -52325,7 +52325,6 @@ ubmcmm.baidustatic.com
 ||sciathpaaldraws.qpon^
 ||sndzrfmkqawfk.online^
 ||reclinetunepollen.com^
-||unciatoi.com^
 ||sbndcrqwcfkvg.store^
 ||shockdefined.com^
 ||tbavixmkrnspx.space^
@@ -60180,6 +60179,7 @@ ubmcmm.baidustatic.com
 ||whbjtvsrexgif.store^
 ||unlashchaule.qpon^
 ||veneeringanguishwhipped.com^
+||unciatoi.com^
 ||vfuwgpavyebin.space^
 ||whatresissy.cyou^
 ||xoqod.sbs^
