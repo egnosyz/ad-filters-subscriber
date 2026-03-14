@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-03-14 08:59:10
+! Last Modified: 2026-03-14 16:20:37
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10693,7 +10693,6 @@ _billboard_320x100.iframe.
 ||gtimg.com/adxcdn/
 ||hanzify.*/Main/Template/Images/chinabank.gif
 ||ifengimg.com/mappa/
-||sinaimg.cn/large/0076zeZ4gy1gw0if4mgwoj30tj03ptbj.jpg
 ||ettoday.net/events/ad-tab/
 ||imgtp.com/2024/03/17/LXqznsUs.
 /fshow.php?id=$script,third-party
@@ -16489,7 +16488,6 @@ kuai8.com##.Ad1
 ||tianshui.com.cn/datugg/
 jingyanlib.com##.adToastWin
 @@||tmall.com/add?
-/300x150_
 acfun.cn###bd_ad1
 .com/4/js/$third-party
 @@||qq.com/web201602/js/ad.js
@@ -20447,6 +20445,7 @@ qidian.com###topGameOp
 ||gumgo.cn^$third-party
 mydown.com##.fc_anqDown
 lahoo.ca##.right_multi_banner
+||sinaimg.cn/large/0076zeZ4gy1gw0if4mgwoj30tj03ptbj.jpg
 @@||icantw.com/platform/cover_ad/cover_ad.js
 bilibili.com##.activity-slider[style="width: 1220px;"]
 .com/script/frustration.js$third-party
@@ -25825,6 +25824,7 @@ _160x350.
 ###adfactor-label
 ##.ad--droite_middle
 ##.ad_200
+/300x150_
 ###textAdsTop
 ##.ad-728x90_forum
 ###ad_holder
@@ -33355,7 +33355,6 @@ _438x60_
 ##.ad-inline-article
 ###advertOverlay
 ##.adriverBanner
-##.fbs-ad--ntv-home-wrapper
 ##.ad728x90btf
 ###adblock4
 ###adblock1
@@ -37721,6 +37720,7 @@ play.google.com#@#div[aria-label="Ads"]
 ##.taboola-sidebar
 ##.g-ad-fix
 ##.sponsored_links
+##.fbs-ad--ntv-home-wrapper
 ##.footeradspace
 ##.view-advertorials
 ##.section-ad2
@@ -40186,7 +40186,6 @@ tei-c.org#@##msad
 ||sxlflt.com^$document
 ||hbwrapper.com^$third-party
 ||audrte.com^$popup
-||hammerhewer.top^$popup
 ||dradvice.in^$popup
 ||adnami.io^$third-party
 ||concord.systems^$popup
@@ -43923,6 +43922,7 @@ slideshare.net###between-recs-ad-2-container
 ||zryydi.com^$popup
 ||lp247p.com^$popup
 favouriteus.uk###adop_bfd
+||hammerhewer.top^$popup
 ||pitysuffix.com^$popup
 carcomplaints.com,dolldivine.com,entrepreneur.com,interglot.com,news18.com,pricespy.co.nz,sourcedigit.com,telegraphindia.com##.adbox
 ||hentaidude.xxx/wp-content/plugins/script-manager/
@@ -46729,7 +46729,6 @@ this.org##.Wrap-leaderboard
 agma.io###advertDialog1
 ||top-performance.best^$popup
 ||thisgengaming.com/Scripts/widget2.aspx
-times.co.zm##.header-pub
 simkl.com##.blockplacecente
 moneycontrol.com##.advbannerWrap
 ||media-amazon.com/images/S/sash/$domain=imdb.com
@@ -54113,6 +54112,7 @@ lazada.co.id,lazada.co.th,lazada.com.my,lazada.com.ph,lazada.sg,lazada.vn##.pdp-
 hentaiprn.com###block-27
 naturalblaze.com##.spot_between_posts
 letsgodigital.org##.product__wrapper
+times.co.zm##.header-pub
 breakingdefense.com##.pre-footer-menu
 coingape.com,dailyboulder.com,townflex.com##.quads-location
 animeporngif.com##.block-vda
