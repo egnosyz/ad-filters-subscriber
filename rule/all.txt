@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2026-03-15 16:23:23
+! Last Modified: 2026-03-16 00:17:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -10310,6 +10310,7 @@ vzhuan.cn###box
 ||cutoffclerks.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
+||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -16532,7 +16533,6 @@ dood.*,doods.*,doodstream.*,dooodster.*,dooood.*,streamsb.net#$#abort-on-propert
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||nahg4lhbr.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
@@ -19048,6 +19048,7 @@ _billboard_320x100.iframe.
 ||gtimg.com/adxcdn/
 ||hanzify.*/Main/Template/Images/chinabank.gif
 ||ifengimg.com/mappa/
+||sinaimg.cn/large/0076zeZ4gy1gw0if4mgwoj30tj03ptbj.jpg
 ||ettoday.net/events/ad-tab/
 ||imgtp.com/2024/03/17/LXqznsUs.
 /fshow.php?id=$script,third-party
@@ -25647,6 +25648,7 @@ kuai8.com##.Ad1
 ||tianshui.com.cn/datugg/
 jingyanlib.com##.adToastWin
 @@||tmall.com/add?
+/300x150_
 acfun.cn###bd_ad1
 .com/4/js/$third-party
 @@||qq.com/web201602/js/ad.js
@@ -29604,7 +29606,6 @@ qidian.com###topGameOp
 ||gumgo.cn^$third-party
 mydown.com##.fc_anqDown
 lahoo.ca##.right_multi_banner
-||sinaimg.cn/large/0076zeZ4gy1gw0if4mgwoj30tj03ptbj.jpg
 @@||icantw.com/platform/cover_ad/cover_ad.js
 bilibili.com##.activity-slider[style="width: 1220px;"]
 .com/script/frustration.js$third-party
@@ -34983,7 +34984,6 @@ _160x350.
 ###adfactor-label
 ##.ad--droite_middle
 ##.ad_200
-/300x150_
 ###textAdsTop
 ##.ad-728x90_forum
 ###ad_holder
@@ -42514,6 +42514,7 @@ _438x60_
 ##.ad-inline-article
 ###advertOverlay
 ##.adriverBanner
+##.fbs-ad--ntv-home-wrapper
 ##.ad728x90btf
 ###adblock4
 ###adblock1
@@ -47179,6 +47180,7 @@ _728x90/
 ||berryhillfarmgwent.com^
 ||adbull.com^
 ||bepchrzncipst.space^
+||bkgzynoggdslv.website^
 ||asklfnmoqwe.xyz^
 ||adwx6vcj.com^
 ||bg4nxu2u5t.com^
@@ -52628,7 +52630,6 @@ play.google.com#@#div[aria-label="Ads"]
 ##.taboola-sidebar
 ##.g-ad-fix
 ##.sponsored_links
-##.fbs-ad--ntv-home-wrapper
 ##.footeradspace
 ##.view-advertorials
 ##.section-ad2
@@ -53882,6 +53883,7 @@ tei-c.org#@##msad
 ||cnyaeyytsibjj.space^
 ||corgefeoffee.help^
 ||ernementseconom.org^
+||fobmaras.cfd^
 ||errandsfloes.help^
 ||carryglanced.com^
 ||damagedplough.com^
@@ -56627,7 +56629,6 @@ tei-c.org#@##msad
 ||emanentungodly.qpon^
 ||clockangrilypotter.com^
 ||cnqsocfzpdfkp.space^
-||bkgzynoggdslv.website^
 ||clkrev.com^
 ||fauyntrhfdiwq.website^
 ||cfoevzalcgvcc.space^
@@ -63840,7 +63841,6 @@ tei-c.org#@##msad
 ||jcxkehjcdvziy.club^
 ||jyvddjlkimool.website^
 ||fseqznhllvwky.online^
-||fobmaras.cfd^
 ||itxbyjztilkas.site^
 ||go.errpgrt.com^
 ||hankynecessarily.com^
@@ -67196,6 +67196,7 @@ tei-c.org#@##msad
 ||jufmgsnsjjcpk.site^
 ||jganqtdsam.net^
 ||jkc0idkv.xyz^
+||linseysbelgard.qpon^
 ||hmqzpbdwkohvk.space^
 ||juywkhbpmswmq.website^
 ||herbmuzzier.help^
@@ -77279,7 +77280,6 @@ tei-c.org#@##msad
 ||nskyfqigltino.space^
 ||ofinmuqmydevc.space^
 ||pjtlsfmqzytrh.website^
-||linseysbelgard.qpon^
 ||nitridslah.com^
 ||prepgjudges.help^
 ||ljhocruh.net^
@@ -77576,6 +77576,7 @@ tei-c.org#@##msad
 ||nababroadbirch.com^
 ||prisspongid.qpon^
 ||oktranhfyfa.com^
+||qdvdesuqdanwc.store^
 ||pfuxksjzeccih.top^
 ||pkcetizzgsxtv.online^
 ||lppgwovqwhwpc.store^
@@ -87621,7 +87622,6 @@ tei-c.org#@##msad
 ||tcmcpbjvotuaa.space^
 ||trc85.com^
 ||shakingtacklingunpeeled.com^
-||qdvdesuqdanwc.store^
 ||swanempower.com^
 ||rescuermargie.com^
 ||ucgfvdrdbqajh.club^
@@ -88137,6 +88137,7 @@ tei-c.org#@##msad
 ||rnb4bxd0.xyz^
 ||shedimlobbish.com^
 ||qleszbwkiuztc.site^
+||uohygjhhmwcco.site^
 ||uleqasforsalesre.com^
 ||search4sports.com^
 ||stroneavalent.cyou^
@@ -96451,7 +96452,6 @@ tei-c.org#@##msad
 ||veritrol.com^
 ||wxyzjutyofbjm.space^
 ||yasmakshereby.qpon^
-||uohygjhhmwcco.site^
 ||yrhxicouoe.com^
 ||wryabmekmukxp.site^
 ||zijqohihvozks.space^
@@ -101910,6 +101910,7 @@ tei-c.org#@##msad
 ||sxlflt.com^$document
 ||hbwrapper.com^$third-party
 ||audrte.com^$popup
+||hammerhewer.top^$popup
 ||dradvice.in^$popup
 ||adnami.io^$third-party
 ||concord.systems^$popup
@@ -107350,7 +107351,6 @@ slideshare.net###between-recs-ad-2-container
 ||zryydi.com^$popup
 ||lp247p.com^$popup
 favouriteus.uk###adop_bfd
-||hammerhewer.top^$popup
 ||pitysuffix.com^$popup
 carcomplaints.com,dolldivine.com,entrepreneur.com,interglot.com,news18.com,pricespy.co.nz,sourcedigit.com,telegraphindia.com##.adbox
 ||hentaidude.xxx/wp-content/plugins/script-manager/
@@ -110157,6 +110157,7 @@ this.org##.Wrap-leaderboard
 agma.io###advertDialog1
 ||top-performance.best^$popup
 ||thisgengaming.com/Scripts/widget2.aspx
+times.co.zm##.header-pub
 simkl.com##.blockplacecente
 moneycontrol.com##.advbannerWrap
 ||media-amazon.com/images/S/sash/$domain=imdb.com
@@ -117540,7 +117541,6 @@ lazada.co.id,lazada.co.th,lazada.com.my,lazada.com.ph,lazada.sg,lazada.vn##.pdp-
 hentaiprn.com###block-27
 naturalblaze.com##.spot_between_posts
 letsgodigital.org##.product__wrapper
-times.co.zm##.header-pub
 breakingdefense.com##.pre-footer-menu
 coingape.com,dailyboulder.com,townflex.com##.quads-location
 animeporngif.com##.block-vda

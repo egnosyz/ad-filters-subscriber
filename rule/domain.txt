@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-03-15 16:23:23
+! Last Modified: 2026-03-16 00:17:27
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3206,6 +3206,7 @@ iadctest.qwapi.com^
 ||cutoffclerks.com^
 ||zygousgauby.com^
 ||uttergleeks.com^
+||afgodscarpe.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
 ||lawzyscapoid.com^
@@ -7188,7 +7189,6 @@ iadctest.qwapi.com^
 ||o9qdqbu6nu.com^
 ||5d7k30pv1u.com^
 ||teeniaole.com^
-||afgodscarpe.com^
 ||nahg4lhbr.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
@@ -13297,6 +13297,7 @@ ubmcmm.baidustatic.com
 ||berryhillfarmgwent.com^
 ||adbull.com^
 ||bepchrzncipst.space^
+||bkgzynoggdslv.website^
 ||asklfnmoqwe.xyz^
 ||adwx6vcj.com^
 ||bg4nxu2u5t.com^
@@ -15746,6 +15747,7 @@ ubmcmm.baidustatic.com
 ||cnyaeyytsibjj.space^
 ||corgefeoffee.help^
 ||ernementseconom.org^
+||fobmaras.cfd^
 ||errandsfloes.help^
 ||carryglanced.com^
 ||damagedplough.com^
@@ -18491,7 +18493,6 @@ ubmcmm.baidustatic.com
 ||emanentungodly.qpon^
 ||clockangrilypotter.com^
 ||cnqsocfzpdfkp.space^
-||bkgzynoggdslv.website^
 ||clkrev.com^
 ||fauyntrhfdiwq.website^
 ||cfoevzalcgvcc.space^
@@ -25702,7 +25703,6 @@ ubmcmm.baidustatic.com
 ||jcxkehjcdvziy.club^
 ||jyvddjlkimool.website^
 ||fseqznhllvwky.online^
-||fobmaras.cfd^
 ||itxbyjztilkas.site^
 ||go.errpgrt.com^
 ||hankynecessarily.com^
@@ -29058,6 +29058,7 @@ ubmcmm.baidustatic.com
 ||jufmgsnsjjcpk.site^
 ||jganqtdsam.net^
 ||jkc0idkv.xyz^
+||linseysbelgard.qpon^
 ||hmqzpbdwkohvk.space^
 ||juywkhbpmswmq.website^
 ||herbmuzzier.help^
@@ -39139,7 +39140,6 @@ ubmcmm.baidustatic.com
 ||nskyfqigltino.space^
 ||ofinmuqmydevc.space^
 ||pjtlsfmqzytrh.website^
-||linseysbelgard.qpon^
 ||nitridslah.com^
 ||prepgjudges.help^
 ||ljhocruh.net^
@@ -39436,6 +39436,7 @@ ubmcmm.baidustatic.com
 ||nababroadbirch.com^
 ||prisspongid.qpon^
 ||oktranhfyfa.com^
+||qdvdesuqdanwc.store^
 ||pfuxksjzeccih.top^
 ||pkcetizzgsxtv.online^
 ||lppgwovqwhwpc.store^
@@ -49481,7 +49482,6 @@ ubmcmm.baidustatic.com
 ||tcmcpbjvotuaa.space^
 ||trc85.com^
 ||shakingtacklingunpeeled.com^
-||qdvdesuqdanwc.store^
 ||swanempower.com^
 ||rescuermargie.com^
 ||ucgfvdrdbqajh.club^
@@ -49997,6 +49997,7 @@ ubmcmm.baidustatic.com
 ||rnb4bxd0.xyz^
 ||shedimlobbish.com^
 ||qleszbwkiuztc.site^
+||uohygjhhmwcco.site^
 ||uleqasforsalesre.com^
 ||search4sports.com^
 ||stroneavalent.cyou^
@@ -58311,7 +58312,6 @@ ubmcmm.baidustatic.com
 ||veritrol.com^
 ||wxyzjutyofbjm.space^
 ||yasmakshereby.qpon^
-||uohygjhhmwcco.site^
 ||yrhxicouoe.com^
 ||wryabmekmukxp.site^
 ||zijqohihvozks.space^
