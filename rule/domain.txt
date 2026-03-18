@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-03-18 16:33:34
+! Last Modified: 2026-03-19 00:45:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3219,7 +3219,6 @@ iadctest.qwapi.com^
 ||uttergleeks.com^
 ||degreeeruptionpredator.com^
 ||boringegotistical.com^
-||afgodscarpe.com^
 ||jinneenunnify.com^
 ||hottedholster.com^
 ||couloirmatrass.com^
@@ -6801,7 +6800,6 @@ iadctest.qwapi.com^
 ||position66.top^
 ||goi08161kh.com^
 ||pic.fengniao.com^
-||same.chinadaily.com.cn^
 ||9vviyje1s.top^
 ||ofkccsp35i.com^
 ||i5q1t8vj9.com^
@@ -7311,6 +7309,7 @@ iadctest.qwapi.com^
 ||5d7k30pv1u.com^
 ||mediocre38.com^
 ||teeniaole.com^
+||afgodscarpe.com^
 ||nahg4lhbr.com^
 ||nfxonb.icu^
 ||hur05130kns.com^
@@ -8902,6 +8901,7 @@ ubmcmm.baidustatic.com
 ||share.gzdsw.com^
 ||enews10.yxlady.net^
 ||fpb1.jsq886.com^
+||same.chinadaily.com.cn^
 ||a.baidinet.com^
 ||bdjiaoben.wmxa.cn^
 @@||app-advertise.zhihuishu.com^
@@ -13043,7 +13043,6 @@ ubmcmm.baidustatic.com
 ||ataiyalteise.cyou^
 ||animosegoupen.cyou^
 ||bearinggulp.com^
-||bgehfrnsjywgb.space^
 ||accoladeadulterysubqueries.com^
 ||ads-blocker.app^
 ||aspcabuster.cyou^
@@ -20872,7 +20871,6 @@ ubmcmm.baidustatic.com
 ||bxwvsumjgtvmg.space^
 ||eekekseecke.net^
 ||cthubqevokfwi.site^
-||ffmtqdoefkj.com^
 ||clixwells.com^
 ||etauzbpdwghlu.website^
 ||cagaieedrohdv.site^
@@ -23197,6 +23195,7 @@ ubmcmm.baidustatic.com
 ||ciuoqhntqxrjv.site^
 ||bghxhsfhrfqhr.website^
 ||fasooxoaqkudd.site^
+||bgehfrnsjywgb.space^
 ||dpysiblnkqbrq.space^
 ||dotburlily.qpon^
 ||exhausted-highlight.pro^
@@ -30897,6 +30896,7 @@ ubmcmm.baidustatic.com
 ||itpsfqhnjlkwl.space^
 ||himtothesieg.org^
 ||icolwfjtjlgvp.website^
+||ffmtqdoefkj.com^
 ||iwqgwgcbrwukf.site^
 ||hertouchingthew.com^
 ||hnrgmc.com^
@@ -31598,7 +31598,6 @@ ubmcmm.baidustatic.com
 ||hcgmfnkfgptog.space^
 ||hbemvqegcgskk.website^
 ||kelflcqtjdqsg.space^
-||kxjxjuoyfawwf.website^
 ||jewbushquam.qpon^
 ||kfepvkrlgggrqb.com^
 ||khlrruhndz.com^
@@ -40498,7 +40497,6 @@ ubmcmm.baidustatic.com
 ||onerousgathering.com^
 ||oakbustrp.com^
 ||listmenace.com^
-||pqkpmqrzrrjrb.vip^
 ||pasbstbovc.com^
 ||ovenaccording.com^
 ||maltyboweryperky.cyou^
@@ -41531,6 +41529,7 @@ ubmcmm.baidustatic.com
 ||p2yn.com^
 ||pooveheptinelote.cfd^
 ||phypvucarjpoo.site^
+||kxjxjuoyfawwf.website^
 ||moderatedead.com^
 ||phloemstribal.cfd^
 ||linear-policy.com^
@@ -47367,7 +47366,6 @@ ubmcmm.baidustatic.com
 ||rjnluyxbedoxl.space^
 ||rdtrck2.com^
 ||spaniardinformationbookworm.com^
-||trakit20.com^
 ||rshmauyblkmymau.net^
 ||pr6oqpvrwtei48e33.cfd^
 ||rqpiicwkhvmhv.site^
@@ -50513,6 +50511,7 @@ ubmcmm.baidustatic.com
 ||stripwedding.com^
 ||pqzplntcvsxvm.store^
 ||teltlowlier.com^
+||pqkpmqrzrrjrb.vip^
 ||strangarcheus.help^
 ||romanceswoman-romance.com^
 ||tiverthrob.qpon^
@@ -56951,6 +56950,7 @@ ubmcmm.baidustatic.com
 ||widestcarter.qpon^
 ||yirublylsjlks.online^
 ||ykdqqskuziadx.site^
+||trakit20.com^
 ||ueujvfjkukeqf.website^
 ||usuyfyxftqtsn.online^
 ||vsnujrdowwhev.site^
