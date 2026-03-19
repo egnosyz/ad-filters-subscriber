@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-03-19 00:45:56
+! Last Modified: 2026-03-19 09:05:12
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -18798,6 +18798,7 @@ jdbbs.com###portal_block_2826
 baidu.com##.qb-other-answer-wmad
 28hse.com###floating_left_div
 159i.com#?#:-abp-has(> img[src*="gif"])
+/jquery.peelback.$script
 cool-de.com##.bustopads
 @@/ad/images/*$domain=37-express.com|vnnox.com
 163.com###suning-bottom-banner
@@ -25794,6 +25795,7 @@ _160x350.
 ###globalLeftNavAd
 ##.ad-page-setting
 ###r89-desktop-top-ad
+##.dlSponsoredLinks
 ##.adSpace950x90
 ###rightadhome
 ##.advertBanner
@@ -28341,7 +28343,6 @@ _300x600_
 ##.PostAdvertisementBeforePost
 ##.ad-adSense
 ##.ad-widgets
-/jquery.peelback.$script
 ###AdServer
 ##.ads-two
 ###FooterAd
@@ -35538,7 +35539,6 @@ kmsv.jp#@#.adtitle
 panarmenian.net#@#.ad_body
 ##.google_adsense1
 ###taboola_wrapper
-##.dlSponsoredLinks
 ##a[href^="https://ausoafab.net/"]
 ##.gnt_tbr.gnt_tb
 ##.rs_ad_top
@@ -38697,6 +38697,7 @@ tei-c.org#@##msad
 ||croea.com^$third-party
 ||admobe.com^$document
 ||mixadvert.com^$third-party
+||sba.about.co.kr^$third-party
 ||harmo-woe.com^$document
 ||bemobtrcks.com^$document
 ||adteractive.com^$third-party
@@ -42377,7 +42378,6 @@ arenaev.com###subHeader
 ||keenmagwife.live^$popup
 ||eastrk-dn.com^$popup
 ||officetablntry.org^$popup
-||sba.about.co.kr^$third-party
 ||bakjaqa.net^$popup
 ||scootloor.com^$third-party
 ||augurersoilure.space^$popup
@@ -46649,6 +46649,7 @@ filext.com###b1c
 ||directdexchange.com^$popup
 ||spklmis.com^$popup
 news18.com##.NAT_add
+manualslib.com##.abp_adv_s-title
 ||karoon.xyz^$popup
 ||oldies.name/oldn/
 ||usepanda.com^$third-party
@@ -55297,7 +55298,6 @@ waterworld.com##.blueconic-recommendations
 ip-address.org##.aduns2
 img2go.com##.advertising-leaderboard
 outsideonline.com##.prestitial-ad
-manualslib.com##.abp_adv_s-title
 costco.com##article[id][class]:has(img[alt*="Sponsored"])
 giveawayoftheday.com##.center_ab
 www.google.*##.OcdnDb + .PbZDve
