@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-03-24 08:58:32
+! Last Modified: 2026-03-24 16:36:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -35782,6 +35782,8 @@ tei-c.org#@##msad
 ##.sideAdLeft
 ##.popup-box-ads
 ##.xmlad
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||demand.supply^$script
 ! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
 horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="/bimbu?"]
 bigfuck.tv,leslez.com#$#hide-if-matches-xpath './/a[contains(@href,"wolf-327b.com") or contains(@href,"trustpielote.com")]/parent::div[1]'
@@ -37942,8 +37944,6 @@ olx.com.br#$#hide-if-matches-xpath './/span[.="DESTAQUE"]/ancestor::section[1]/p
 @@||usercentrics.eu^$script,subdocument,xmlhttprequest,domain=kombi.de|idealo.at
 ahaonline.czinfo.cz,onetv.cz##.rollWrapper
 dood.*,doods.*,doodstream.*,dooodster.*,dooood.*,streamsb.net#$#abort-on-property-read DoodPop; abort-on-property-write adb; override-property-read cRAds trueFunc; abort-on-property-write xRds; abort-on-property-write xPoPAdS
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||demand.supply^$script
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||r8bz.com^$document
 ||partner-ads.com^$third-party
@@ -40156,7 +40156,6 @@ dood.*,doods.*,doodstream.*,dooodster.*,dooood.*,streamsb.net#$#abort-on-propert
 ||nwwrtbbit.com^$document
 ||assoc-amazon.it^$third-party
 ||berendcarols.shop^$popup
-||clkpback3.com^$popup
 ||synccora.com^$document
 ||mazefoam.com^$document
 ||etology.com^$third-party
@@ -41356,7 +41355,6 @@ coinedition.com###ce-custom-ads
 ||ad.mail.ru/static/admanhtml/
 ||turboviplay.com/ads_gala.js
 centurylink.net###sc_home_header_banner
-slidehunter.com##.custom-ad-text
 ||onclasrv.com^$popup
 ||frivol-ads.com^$third-party
 ||twinrdsrv.com^$popup
@@ -44275,6 +44273,7 @@ bo3.gg##.c-benner1-custom
 ||dailylook.com/modules/header/top_ads.jsp
 ||thisvid.com/enblk/
 weloma.art###poly
+||clkpback3.com^$popup
 ||avfay.com^$third-party
 ||storage.googleapis.com/global-attribution/global_attribution.js
 technologynetworks.com##.adverts_footer_scrolling_advert
@@ -49572,6 +49571,7 @@ gamewatcher.com##.top-banners-wrapper
 @@||nflcdn.com/static/site/$script,domain=nfl.com
 waifu2x.net##[style="width: 90%;height:120px"]
 anfieldwatch.co.uk##.prem-gifts
+slidehunter.com##.custom-ad-text
 tasfia-tarbia.org##.media-links
 sundayworld.co.za##.placeholderPlug
 adultgamesworld.com##a[href^="https://joystick.tv/t/?t="]
