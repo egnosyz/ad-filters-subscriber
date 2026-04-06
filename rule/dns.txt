@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-04-06 00:21:40
+! Last Modified: 2026-04-06 09:13:37
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -24,8 +24,10 @@ ntfsformac.cn
 mfp.deliver.ifeng.com
 mindmanager.cc
 pdfexpert.cc
+g.163.com
 tanx.com
 dlads.cn
+wwads.cn
 u-x.jd.com
 @@||acs.m.taobao.com
 coreldrawchina.com
@@ -93,6 +95,7 @@ logoshejishi.com
 ||cnzz.
 ||adsfile.
 ||adserver.
+||adservice.
 ||adpic.
 ||sax.sina.
 ||biz5.
@@ -184,7 +187,6 @@ logoshejishi.com
 ||xunleiii.com^
 ||unionli.com^
 ||uniregistry.com^
-||g.163.com^
 ||m.biqugezw.com^
 ||mobads-logs.baidu.com^
 ||track.ktplay.com^
@@ -988,7 +990,6 @@ logoshejishi.com
 ||xiaoyang.mobi^
 ||app-analytics-cn.huami.com^
 ||wcdzw.com^
-||wwads.cn^
 ||114so.cn^
 ||se967.com^
 ||newrelic.com^
@@ -3193,7 +3194,6 @@ MRelateFeedAd
 ||adcolony.
 ||advertising.
 ||showad*
-||adservice.
 ||pagead.
 ||djjca.
 ||imageadv.
@@ -3509,7 +3509,6 @@ advertisers.js|
 ||neterbarit.com^
 ||dinusoronoko.com^
 ||togaefaffy.com^
-||profitablecpmratenetwork.com^
 ||d33f51dyacx7bd.cloudfront.net^
 ||topiccaroler.com^
 ||epidemictuna.com^
@@ -7183,6 +7182,7 @@ advertisers.js|
 ||uuso05080qhs.xyz^
 ||m69tvg6wqd.com^
 ||pflwta.top^
+||profitablecpmratenetwork.com^
 ||spongeds.com^
 ||rivullvwg.com^
 ||bsizoia.com^
@@ -10421,7 +10421,6 @@ ubmcmm.baidustatic.com
 ||askewrefusaltrashy.com^
 ||adehhurslxxmh.space^
 ||ads4trk.com^
-||captureukdmyatyten.org^
 ||bssoyxhfjzcgz.space^
 ||adkernel.com^
 ||186494d0e1.com^
@@ -19441,7 +19440,6 @@ ubmcmm.baidustatic.com
 ||froglegturio.qpon^
 ||cpwzalunlyyph.site^
 ||fieldtinypirate.com^
-||fzaatqzkent.com^
 ||d2ship.com^
 ||delightful-chest.pro^
 ||drpvqbzfwafbv.site^
@@ -20730,6 +20728,7 @@ ubmcmm.baidustatic.com
 ||eleuinprovent.shop^
 ||ddllppbdwkvol.site^
 ||flaky-wear.pro^
+||captureukdmyatyten.org^
 ||eygzbrwnapgql.space^
 ||cuzthelilfut.in^
 ||fuqemedzceklr.online^
@@ -26282,7 +26281,6 @@ ubmcmm.baidustatic.com
 ||heroptionssideway.com^
 ||gffoycbmmfptr.space^
 ||hurtfulcell.com^
-||lifetimeflaginterrogate.com^
 ||glaushoaftee.net^
 ||jrwbwckkpjjud.website^
 ||goyc9xomeukqlwvgc27ro2yhp5tg.cyou^
@@ -29401,6 +29399,7 @@ ubmcmm.baidustatic.com
 ||hq6vcivuykjjih.cfd^
 ||gzgejhwjeoufd.store^
 ||ilokanorfs.cfd^
+||fzaatqzkent.com^
 ||kkvkefbspmsiu.website^
 ||jqmwcfrmhzmqd.online^
 ||jyvkwqjremmly.top^
@@ -36064,7 +36063,6 @@ ubmcmm.baidustatic.com
 ||mewardboaedontripal.cyou^
 ||njszkroovzocc.site^
 ||myztaimlepqtz.site^
-||prmtracking3.com^
 ||mireerenow.qpon^
 ||pc20160301.com^
 ||pavinskabaka.cyou^
@@ -36267,6 +36265,7 @@ ubmcmm.baidustatic.com
 ||lucidaesignman.cyou^
 ||oorgaithaigast.net^
 ||oyjdfcmxrudoo.space^
+||lifetimeflaginterrogate.com^
 ||mindedenhance.com^
 ||mmpawfnqgufnl.online^
 ||orzukuzorpxvp.online^
@@ -46121,6 +46120,7 @@ ubmcmm.baidustatic.com
 ||storeyderived.com^
 ||sblhp.com^
 ||spuppeh.net^
+||prmtracking3.com^
 ||raverabeggehalm.cyou^
 ||seoyoperseduc.org^
 ||sarsarsdegerms.cfd^
@@ -51889,7 +51889,6 @@ ubmcmm.baidustatic.com
 ||qmiupoghvjldr.online^
 ||rhhvkmwlxeyst.store^
 ||rzvcdclxehmnd.global^
-||tobaccosturgeon.com^
 ||spreedquinetnasiei.cyou^
 ||s1cta.com^
 ||sliestcutbankdalaga.qpon^
@@ -61526,6 +61525,7 @@ ubmcmm.baidustatic.com
 ||wjghanngbilui.space^
 ||waistcoatreferchemistry.com^
 ||wasgvfoivfaop.store^
+||tobaccosturgeon.com^
 ||wbbooupkjgwox.site^
 ||ttonyfiiyajkh.space^
 ||vcnulcbadmyobhe.com^
