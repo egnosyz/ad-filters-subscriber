@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-05-04 08:15:06
+! Last Modified: 2026-05-04 16:45:08
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -133,13 +133,14 @@ advertisers.js|
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||get-me-wow.
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||increase*-rev.static-cloudflare.workers.dev^
+||increase*rev.static-cloudflare.workers.dev^
+||increase-rev*.static-cloudflare.workers.dev^
 ||158.247.208.
+||util-*.simply-hentai.com^
 ||23.109.82.
 ||142.91.159.
-|167.206.10.148^
-||23.109.87.
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||increase-rev*.static-cloudflare.workers.dev^
-||util-*.simply-hentai.com^
 ||cas.*.criteo.com^
 ||allsportsflix.
+|167.206.10.148^
+||23.109.87.
