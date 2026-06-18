@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-06-18 17:24:14
+! Last Modified: 2026-06-19 00:57:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -34419,7 +34419,6 @@ ubmcmm.baidustatic.com
 ||taffykhirka.com^
 ||troutshyp.com^
 ||iridialachkan.com^
-||osrcabkto.in
 ||clairesopilia.shop^
 ||tuckedshowing.com^
 ||cutoffclerks.com^
@@ -34619,7 +34618,6 @@ ubmcmm.baidustatic.com
 ||tontineepulis.com^
 ||betainehoolee.com^
 ||kueunpick.com^
-||quasheenunhood.com^
 ||seepedenticed.com^
 ||boxgridwavelengthsolutions.com^
 ||qs251.com^
@@ -35230,6 +35228,7 @@ ubmcmm.baidustatic.com
 ||osseaprouder.com^
 ||punishutrubi.com^
 ||ostracasozzly.shop^
+||osrcabkto.in^
 ||pvcubbshnlzys.space^
 ||solemnlyreflectionextinct.com^
 ||seebait.com^
@@ -37054,6 +37053,7 @@ ubmcmm.baidustatic.com
 ||opoxv.com^
 ||spiritdeserted.com^
 ||sportradarserving.com^
+||quasheenunhood.com^
 ||sludgerambonmaleic.cfd^
 ||npikafhu.in^
 ||sillinessshoplifting.com^
@@ -38732,7 +38732,6 @@ ubmcmm.baidustatic.com
 ||resideplanned.com^
 ||qktctwihtr.com^
 ||nkixkadz.in^
-||stwwdyowpkzof.website^
 ||pohgrfoogvfvl.store^
 ||r6h2ww744xk62t7.cfd^
 ||riffingamuyong.cfd^
@@ -44744,7 +44743,6 @@ ubmcmm.baidustatic.com
 ||poolcoolukprese.org^
 ||qquhzi4f3.com^
 ||snorkelzutugil.com^
-||stxmumxjxbeud.store^
 ||pagrmqxj.com^
 ||odeoqmrr.com^
 ||prudent-function.pro^
@@ -48405,6 +48403,7 @@ ubmcmm.baidustatic.com
 ||yusgoonbncwiu.site^
 ||suplexderipia.qpon^
 ||tpmedia-reactads.com^
+||stwwdyowpkzof.website^
 ||umhkzidngrmor.website^
 ||xfvslsqqtyeeb.store^
 ||zfctrack.net^
@@ -53821,6 +53820,7 @@ ubmcmm.baidustatic.com
 ||turfitecansful.com^
 ||zymominmorkin.com^
 ||syoedxrarbvdq.space^
+||stxmumxjxbeud.store^
 ||weptseasickrhythm.com^
 ||tripletmiasevery.qpon^
 ||tvkfxtoydfqtf.online^

@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-06-18 17:24:14
+! Last Modified: 2026-06-19 00:57:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -38349,7 +38349,6 @@ dood.*,doods.*,doodstream.*,dooodster.*,dooood.*,streamsb.net#$#abort-on-propert
 ||utm-campaign.com^$document
 ||adnuntius.com^$third-party
 ||shoppinglifestyle.biz^$document
-||appnext.com^$third-party
 ||betteradsystem.com^$document
 ||adimpact.com^$third-party
 ||adnmore.co.kr^$third-party
@@ -39302,7 +39301,6 @@ dood.*,doods.*,doodstream.*,dooodster.*,dooood.*,streamsb.net#$#abort-on-propert
 ||adscout.io^$third-party
 ||pretrackings.com^$document
 ||adireland.com^$third-party
-||apprupt.com^$third-party
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||mrdzuibek.com^$popup
 ||tracker-2.com^$popup
@@ -39313,6 +39311,7 @@ animetrilogy.com###floatcenter
 independent.co.uk,the-independent.com###top-banner-wrapper
 allbusiness.com##.ad--tag
 ||ruedux.com/code/script/
+||appnext.com^$third-party
 ||snacklink.co/js/web-script.js
 ||expatexchange.com/banner/
 semafor.com##._adDivider_1qocf_29
@@ -41474,7 +41473,6 @@ semiconductor-today.com###Header-Standard-Middle-Evatec
 drivevideo.xyz###overlays
 gunsamerica.com###slidebox
 pocketgamer.com###mobile-background
-apponic.com##.ad-container-atf
 ||radioreference.com/i/p4/tp/smPortalBanner.gif
 ||735pwa.com^$popup
 afar.com##.Page-header-hat
@@ -46259,7 +46257,6 @@ rediff.com###world_top
 ||restions-planted.com^$popup
 ||betshucklean.com^$popup
 ||quickwittedfeedback.pro^$popup
-apponic.com##.ad-container-compact
 ||futbol24.com/kscms_asyncspc.php
 forbes.com###featured-partners
 hometheaterreview.com###headerhorizontalad
@@ -47289,6 +47286,7 @@ calendar.austinchronicle.com##.AirMedRectComboInlineResults4responsive
 ||locopar.com^$popup
 thenationalherald.com###zone361943461
 fanlesstech.com###footer-1
+||apprupt.com^$third-party
 ||datatechone.com^$popup
 ||revimedia.com^$popup
 ||scaredframe.com^$popup
@@ -49800,6 +49798,7 @@ beincrypto.com##[class^="TopAdBanner-"]
 babepedia.com##.left_side > .sidebar_block > a
 ancient-origins.net##.content_add_block
 sainsburys.co.uk#?#section[class="ln-o-section ln-u-hard-bottom ln-u-margin-top*2"]:has-text(Sponsored) + section[class="ln-o-section ln-u-hard-bottom ln-u-margin-top*2"]
+apponic.com##.ad-container-atf
 radiotoday.co.uk##.pnvqryahwk-container
 campbellrivermirror.com,magnoliastatelive.com##.one_by_one_group
 fux.com,pornerbros.com,porntube.com,tubedupe.com##.sponsored
@@ -55224,6 +55223,7 @@ tennis.com##.tc-video-player-iframe
 @@||adfurikun.jp/adfurikun/images/$~third-party
 nordstrom.com#?#ul[style^="padding: 0px; position: relative;"] > li[class]:has-text(Sponsored)
 digitimes.com##.square-ad
+apponic.com##.ad-container-compact
 thestudentroom.co.uk##.custom-jucdap
 nextdoor.com##.nas-container
 pornhub.com,youporn.com###pb_template
