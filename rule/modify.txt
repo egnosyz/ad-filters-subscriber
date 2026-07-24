@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-07-24 08:16:49
+! Last Modified: 2026-07-24 16:47:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -35750,6 +35750,8 @@ tei-c.org#@##msad
 ##.sideAdLeft
 ##.popup-box-ads
 ##.xmlad
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||demand.supply^$script
 ! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
 horoskopy.cz,kupi.cz,novinky.cz,sport.cz,super.cz##a[href*="/bimbu?"]
 bigfuck.tv,leslez.com#$#hide-if-matches-xpath './/a[contains(@href,"wolf-327b.com") or contains(@href,"trustpielote.com")]/parent::div[1]'
@@ -38615,8 +38617,6 @@ olx.com.br#$#hide-if-matches-xpath './/span[.="DESTAQUE"]/ancestor::section[1]/p
 ||html-load.com^$script,domain=hk01.com
 dood.*,doods.*,doodstream.*,dooodster.*,dooood.*,streamsb.net#$#abort-on-property-read DoodPop; abort-on-property-write adb; override-property-read cRAds trueFunc; abort-on-property-write xRds; abort-on-property-write xPoPAdS
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||demand.supply^$script
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||mrdzuibek.com^$popup
 ||tracker-2.com^$popup
 ||adstik.click^$popup
@@ -41115,7 +41115,6 @@ agegeek.com,investing.com,pimpandhost.com###ad2
 ||554koaylwga7.top^$popup
 ||gtbdhr.com^$popup
 ||horonstogly.com^$document
-nitrome.com###banner_box
 ||yourlust.com/assets/script.js
 ||remembergirl.com^$popup
 ||mordoops.com^$popup
@@ -41186,7 +41185,6 @@ findmysoft.com###as_336
 ||agedbitch.com/gds/
 ||mysexgames.com/plop.js
 ||debaucky.com^$popup
-10minutemail.com,nitrome.com###banner_ad
 ||abadit5rckb.com^$popup
 ||vpn-offers.org^$popup
 ||filexan.com^$third-party
@@ -43421,7 +43419,6 @@ unn.ua###ads-sidebar
 ||sleazyneasy.com/jsb/
 ||plchldr.co^$third-party
 ||mpgh.net/idsx2/
-asmag.com###banner_C2
 ||pubdirecte.com^$third-party
 ||thscore.fun/mn/
 ||sterra.web.id/stera4/
@@ -43786,7 +43783,6 @@ slashdot.org###announcement
 ||receive-sms-online.info/img/banner_
 ||siteground.com/static/affiliate/$third-party
 ||knowunity.com/ads/
-asmag.com###banner_C
 ||adport.io^$popup
 ||naughtycdn.com/public/iframes/
 ||viiyxefb.com^$popup
@@ -46612,7 +46608,6 @@ decisiondeskhq.com##.publirAds
 hentaidude.xxx##.ai_widget
 haveibeenpwned.com##.actionsBar:has(.why1Password)
 realmadrid.com##.head_sponsors
-redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com##:-abp-properties(data:)
 deliveroo.*#?#a[role="button"]:has(p:has-text(Sponsored))
 coinpedia.org,elhayat-life.com##.stream-title
 exportfromnigeria.info##[src^="https://storage2.proboards.com/"]
@@ -49446,6 +49441,7 @@ sslshopper.com###promo-outer
 reverso.net##.rcacontent
 politico.com###pol-01-wrap
 blix.gg##a[href^="https://partnerbcgame.com/"]
+nitrome.com###banner_box
 indiatoday.in##.shopping__widget
 tesco.com##[class^="styled__StyledLIProductItem"]:has([class^="styled__StyledOffers"])
 dhakatribune.com###jw-popup
@@ -49552,6 +49548,7 @@ dollargeneral.com##.dgsponsoredcarousel
 itsatechworld.com##.topd
 flaticon.com##.bn-space-gads
 axn-asia.com,onetvasia.com##.pane-dart-dart-tag-300x250-rectangle
+10minutemail.com,nitrome.com###banner_ad
 dailysocial.id###home-ads
 chewy.com##[data-carousel-id="plp_sponsored_brand"]
 livpost.co.uk#?#.kg-cta-link-accent:has-text(SPONSORED)
@@ -51042,7 +51039,6 @@ websitedown.info##.lftleft
 olympics.com##[data-cy="adv-container"]
 gosunoob.com##.vntsvideocontainer
 planeandpilotmag.com##.plane-article-above-headline
-redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com##:-abp-properties(base64)
 ericpetersautos.com,upfivedown.com###block-6
 cumlouder.com##.banner-frame
 india.com##.top-ads-expend
@@ -52637,6 +52633,7 @@ complex.com##.lg\:top-\[var\(--sticky-top\)\]
 howstuffworks.com###inline-video-wrap
 aliexpress.com,aliexpress.us##div[class*="search-item-card-wrapper-"]:has(span[class^="multi--ad-"])
 geekchamp.com##div[class^="rk-"]
+asmag.com###banner_C2
 astrolis.com###in-house-ad-daily
 nysun.com##.mr-\[-50vw\]
 thelibertydaily.com##[href^="https://mypatriotsupply.com/"]
@@ -53110,6 +53107,7 @@ bestlifeonline.com,eatthis.com,wolfsgamingblog.com##.inline
 news24.com##.featured-category
 bestbuy.com##.product-list-sponsored-wrapper-grid-view
 manomano.*##div[class]:has(> .c4iHiiE)
+asmag.com###banner_C
 leroymerlin.*##div[data-st-name="sponsored"]
 etsy.com##ul[data-results-grid-container] li:has([id^="ad-listing-title-"])
 telegraphindia.com##.ttdadbox310
@@ -53221,7 +53219,6 @@ tempest.com##.search-result-item--ad
 aliexpress.com#?##card-list > .search-item-card-wrapper-gallery:has(a.search-card-item[href*="&aem_p4p_detail="] div[class*="cards--image--"] > div[class*="multi--ax--"]:has-text(/^(?:AD|An[uú]ncio|광고|広告)$/)):has(+ .search-item-card-wrapper-gallery a.search-card-item:not([href*="&aem_p4p_detail="]))
 flyingjizz.com##.sidebar-banner
 amazon.*##div[id^="typ-recommendations-stripe-"]:has(div[data-is-sponsored-label-active="true"])
-redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com##:-abp-properties(*data:image*)
 downforeveryoneorjustme.com,useragents.me##a[rel="sponsored"]
 youjizz.com###englishPr
 fxempire.com##[height="398"]
@@ -54502,7 +54499,6 @@ target.com##[data-module-type="GlobalRecommendedProducts"]:has(> [data-test*="sp
 sexyandfunny.com###best-friends
 nltimes.nl##div[class^="r89-"]
 nofilmschool.com##[class^="rblad-nfs_content"]
-4wank.com#?#.video-holder > center > :has-text(/^Advertisement$/)
 moviemistakes.com##.tower
 hdzog.com,hdzog.tube,senzuri.tube##.underplayer-review
 wsj.com##.e1ewmsuz20:has(> .uds-ad-container)
@@ -56047,6 +56043,7 @@ hdpornpics.net#?#.money:has(.century:has-text(ADS))
 @@||widget.playoncenter.com/webservice/geo$xmlhttprequest,domain=hipertextual.com
 @@||point.rakuten.co.jp/img/crossuse/top_ad/$~third-party
 @@||amazon.com.tr^$generichide
+redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com##:-abp-properties(base64)
 @@||yieldlove.com/v2/yieldlove.js$script,domain=whatismyip.com
 @@||vk.com/ads?$popup,domain=vk.com
 @@||banmancounselling.com/wp-content/themes/banman/
@@ -56374,6 +56371,7 @@ okxxx1.com#?#.bn-title:has-text(Advertising)
 @@||kanalfrederikshavn.dk^*/jquery.openx.js?
 @@||riverside.fm^$generichide
 @@||pub.doubleverify.com/dvtag/$script,domain=bbc.com|time.com
+redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com##:-abp-properties(data:)
 @@||wordpress.org/stats/plugin/$domain=wordpress.org
 @@||przegladpiaseczynski.pl/wp-content/plugins/wppas/$~third-party
 @@||stats.g.doubleclick.net/dc.js$script,domain=chintaistyle.jp|gyutoro.com
@@ -56609,6 +56607,7 @@ hitomi.la##.top-content > div[class]:not([class*="-"]) {min-height:40px !importa
 @@||faculty.uml.edu^$image,stylesheet
 @@||jokerly.com/Okidak/adSelectorDirect.htm?id=$document,subdocument
 @@||pagead2.googlesyndication.com/pagead/managed/js/*/show_ads_impl$script,domain=battlecats-db.com|game.anymanager.io|games.wkb.jp|sudokugame.org|ycp.synk-casualgames.com
+redtube.com,tube8.com,tube8.es,tube8.fr,xvideos.com,youjizz.com,youporn.com##:-abp-properties(*data:image*)
 @@||ads.freewheel.tv/|$media,domain=cnbc.com|fxnetworks.com|my.xfinity.com|nbc.com|nbcsports.com
 @@||live.streamtheworld.com/partnerIds$domain=iheart.com|player.amperwave.net
 @@||pub.pixels.ai/wrap-independent-no-prebid-lib.js$script,domain=independent.co.uk
@@ -56639,6 +56638,7 @@ gamcore.com###preloader_2
 @@||cloudflare.com^*/videojs-contrib-ads.js$domain=wtk.pl|zeam.com
 @@||googletagservices.com/tag/js/gpt.js$domain=allestoringen.be|allestoringen.nl|downdetector.ae|downdetector.ca|downdetector.cl|downdetector.co.nz|downdetector.co.uk|downdetector.co.za|downdetector.com|downdetector.com.ar|downdetector.com.au|downdetector.com.br|downdetector.com.co|downdetector.cz|downdetector.dk|downdetector.ec|downdetector.es|downdetector.fi|downdetector.fr|downdetector.gr|downdetector.hk|downdetector.hr|downdetector.hu|downdetector.id|downdetector.ie|downdetector.in|downdetector.it|downdetector.jp|downdetector.mx|downdetector.my|downdetector.no|downdetector.pe|downdetector.ph|downdetector.pk|downdetector.pl|downdetector.pt|downdetector.ro|downdetector.ru|downdetector.se|downdetector.sg|downdetector.sk|downdetector.tw|downdetector.web.tr|xn--allestrungen-9ib.at|xn--allestrungen-9ib.ch|xn--allestrungen-9ib.de
 @@||megaxh.com^$script,~third-party
+4wank.com#?#.video-holder > center > :has-text(/^Advertisement$/)
 @@||ads.x.com^$popup
 @@||discoveryplus.com^$generichide
 @@||smartadserver.com/genericpost$domain=filmweb.pl
