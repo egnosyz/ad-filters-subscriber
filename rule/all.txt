@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2026-07-30 08:17:37
+! Last Modified: 2026-07-30 16:50:56
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -13652,6 +13652,7 @@ dood.*,doods.*,doodstream.*,dooodster.*,dooood.*,streamsb.net#$#abort-on-propert
 ||gatheringtypes.com^
 ||mondejudgers.shop^
 ||omnibuswaist.com^
+||jigool.org^
 ||4444zeply.com^
 ||exonerrotter.com^
 ||zunyiteeleidin.com^
@@ -15636,6 +15637,7 @@ _dasiqq315.
 ||chinaz.com/section/
 ||haokan5.com/js/haokanjs/playa
 ||baofeng.com/images/yiqi
+||porn87.com/static/stream_ads/
 ||aqlife.com/data/attachment/portal/
 ||58cdn.com.cn/ds/tgbrand/*.js
 ##.gpt_ads_box
@@ -22238,7 +22240,6 @@ wss://*.xyz:*?e=$third-party
 ||53h7rxip9.com^
 ||ywakoc.icu^
 ||yur09160og.com^
-||jigool.org^
 ||ksaef6idy.com^
 ||ftqn9wedv.com^
 ||product28.top^
@@ -30188,7 +30189,6 @@ ssnn.net###float_picr
 easylife.tw,ez3c.tw,softwarebrother.com##.popup_bottom_block
 psahz.com#@#.ad_960
 /bsa-pro-scripteo/frontend/js/script.js$script
-||porn87.com/static/stream_ads/
 ||tzfdc.com/Images/09/flv/flv_index.js
 sm.cn###download-uc-v2
 -ad.jpg.pagespeed.$image
@@ -31950,6 +31950,7 @@ hao123.com##.navrecommend-top
 nfmovies.com##[onclick^="openurl()"]
 chysg.com##img[width="232"][height="90"]
 58avgo.com##.BillingLeft
+/wp-content/plugins/bookingcom-text2links/*
 @@||dlkoo.cc/down/*/*.htm$popup
 vpser.net##.ab_cpb
 ||yg006.com/attachment/xjdb.jpg
@@ -35497,6 +35498,7 @@ _468x60-
 ##.ad-mpu-placeholder
 ##.ad-cat
 ##.ad_rect
+##.custom-advert-banner
 _468x60_
 ###afc-container
 ###ad250
@@ -42503,7 +42505,6 @@ _480x60_
 ##.adspace-top
 ##.c-header__ad
 ###google_ad_3
-/wp-content/plugins/bookingcom-text2links/*
 ###google_ad_1
 ###google_ad_2
 ###before-footer-ad
@@ -45392,7 +45393,6 @@ ascii.jp#@#.adrect
 ##.results-ads
 ##.pm-ad-unit
 ##.tadm_ad_unit
-##.custom-advert-banner
 ##.showAd
 ##.sponsor-text
 ##a[href^="https://tracking.avapartner.com/"]
@@ -53061,6 +53061,7 @@ tei-c.org#@##msad
 ||5ac36d146b.com^
 ||6settings.net^
 ||766411a9ee.com^
+||bhobmdtjc.com^
 ||6b7hrpu64xtun2ci.cfd^
 ||adgcufmqcuedr.online^
 ||adnimo.com^
@@ -62129,6 +62130,7 @@ tei-c.org#@##msad
 ||cowbanekorec.cfd^
 ||bred4tula.com^
 ||eszdvidrksqop.site^
+||frgmpqsctzels.site^
 ||bxnqrscxckqbk.space^
 ||djgdmnyuokahc.site^
 ||c1904584f2.com^
@@ -63175,7 +63177,6 @@ tei-c.org#@##msad
 ||brtirluihryud.website^
 ||enwombssighing.com^
 ||dzyzqfbonirbd.online^
-||bhobmdtjc.com^
 ||fightingleatherconspicuous.com^
 ||dunderaffiliates.com^
 ||caliphaefauld.cfd^
@@ -65568,6 +65569,7 @@ tei-c.org#@##msad
 ||kjidqqdsliqyh.site^
 ||ibhbnlpvtdkny.space^
 ||kvassupgazed.qpon^
+||mellodur.net^
 ||he34rm8256g72prijmq.cfd^
 ||gridmalope.qpon^
 ||hoyavizorsstied.cfd^
@@ -72093,7 +72095,6 @@ tei-c.org#@##msad
 ||lidwftqjlltvm.com^
 ||mcppsh.com^
 ||kennelspedlar.cfd^
-||frgmpqsctzels.site^
 ||hptysnhexzndy.website^
 ||jdvzwpsfnjphs.com^
 ||lpnotaeyoemsl.website^
@@ -75530,7 +75531,6 @@ tei-c.org#@##msad
 ||qkaseqnncjkvr.space^
 ||primedirect.net^
 ||nanhesitationhireling.com^
-||mellodur.net^
 ||omgt4.com^
 ||plrjs.org^
 ||rsaltsjt.com^
@@ -82329,6 +82329,7 @@ tei-c.org#@##msad
 ||rbkdjzbflecky.space^
 ||ragan-qdr.com^
 ||nfqinqyvpswjys.com^
+||ruwjqicmqamdb.website^
 ||parsonauthorizationwisdom.com^
 ||pertinent-yard.pro^
 ||mossersbalaorepry.qpon^
@@ -92364,7 +92365,6 @@ tei-c.org#@##msad
 ||straitrootbaron.com^
 ||suentpenning.cfd^
 ||scavelbuntine.life^
-||ruwjqicmqamdb.website^
 ||vcabwutmtprqr.site^
 ||unhumaniracund.qpon^
 ||uizhndydahcum.online^
@@ -92489,6 +92489,7 @@ tei-c.org#@##msad
 ||vwvrdsumagxkk.online^
 ||tilearoma.com^
 ||usauncebogtrot.cfd^
+||wzeocharram.com^
 ||vy9fwpl1.xyz^
 ||suvloxmlkfier.online^
 ||vlxhvoidlnrjf.space^
@@ -100533,6 +100534,7 @@ tei-c.org#@##msad
 ||ynlodkuuacugx.site^
 ||yucvgdirvufyw.space^
 ||xpjelhadgvkhc.space^
+||wecvhi.ekftei2weudt.info^
 ||zoologicalmafia.com^
 ||xxesbfjw.com^
 ||zfxckpiaypnrm.online^
@@ -102619,7 +102621,6 @@ tei-c.org#@##msad
 ||d1rguclfwp7nc8.cloudfront.net^
 ||yieldads.com^
 ||zwkfzyjtadeuz.space^
-||wzeocharram.com^
 ||foldyahoolestorderly.com^
 ||newtabextension.com^
 ||d1p3zboe6tz3yy.cloudfront.net^
@@ -107898,6 +107899,7 @@ kaotic.com##.block-toplist
 nationalmemo.com##.content_nm_placeholder
 npr.org##.ad-config
 cnet.com##.stickySkyboxSpacing
+gearjunkie.com##.video-jwplayer
 politico.com##.styles_container__zuzL0
 tokyvideo.com##.fan--related-videos.fan
 greatandhra.com##._201223_
@@ -113829,7 +113831,6 @@ pricespy.co.nz,pricespy.co.uk##.pjra-w-\[970px\]
 ||rockpoint.xhamster42.desi^
 ||ads.twdcgrid.com^
 ||qovua60gue.tubewolf.com^
-||wecvhi.ekftei2weudt.info^
 ||bettingads.365scores.com^
 ||bordeaux.futurecdn.net^
 ||dsp.aparat.com^
@@ -115679,7 +115680,6 @@ qz.com##div[class^="sc-"]:has(> div[class="ad-unit"])
 fapnado.xxx##.pause-ad-pullup
 eboblack.com,teenxy.com##.out_lnk
 sexvid.xxx##.player-cs
-gearjunkie.com##.video-jwplayer
 javedit.com##.sidebar_widget
 xbooru.com,xxxymovies.com###smb
 @@||pubads.g.doubleclick.net/ondemand/hls/$domain=history.com
