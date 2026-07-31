@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-07-31 08:19:30
+! Last Modified: 2026-07-31 16:57:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||allyes.
@@ -3766,7 +3766,6 @@ iadctest.qwapi.com^
 ||gatheringtypes.com^
 ||mondejudgers.shop^
 ||omnibuswaist.com^
-||jigool.org^
 ||4444zeply.com^
 ||exonerrotter.com^
 ||zunyiteeleidin.com^
@@ -7384,6 +7383,7 @@ iadctest.qwapi.com^
 ||53h7rxip9.com^
 ||ywakoc.icu^
 ||yur09160og.com^
+||jigool.org^
 ||ksaef6idy.com^
 ||ftqn9wedv.com^
 ||product28.top^
@@ -14448,7 +14448,6 @@ ubmcmm.baidustatic.com
 ||5ac36d146b.com^
 ||6settings.net^
 ||766411a9ee.com^
-||bhobmdtjc.com^
 ||6b7hrpu64xtun2ci.cfd^
 ||adgcufmqcuedr.online^
 ||adnimo.com^
@@ -23515,7 +23514,6 @@ ubmcmm.baidustatic.com
 ||cowbanekorec.cfd^
 ||bred4tula.com^
 ||eszdvidrksqop.site^
-||frgmpqsctzels.site^
 ||bxnqrscxckqbk.space^
 ||djgdmnyuokahc.site^
 ||c1904584f2.com^
@@ -24562,6 +24560,7 @@ ubmcmm.baidustatic.com
 ||brtirluihryud.website^
 ||enwombssighing.com^
 ||dzyzqfbonirbd.online^
+||bhobmdtjc.com^
 ||fightingleatherconspicuous.com^
 ||dunderaffiliates.com^
 ||caliphaefauld.cfd^
@@ -26954,7 +26953,6 @@ ubmcmm.baidustatic.com
 ||kjidqqdsliqyh.site^
 ||ibhbnlpvtdkny.space^
 ||kvassupgazed.qpon^
-||mellodur.net^
 ||he34rm8256g72prijmq.cfd^
 ||gridmalope.qpon^
 ||hoyavizorsstied.cfd^
@@ -33480,6 +33478,7 @@ ubmcmm.baidustatic.com
 ||lidwftqjlltvm.com^
 ||mcppsh.com^
 ||kennelspedlar.cfd^
+||frgmpqsctzels.site^
 ||hptysnhexzndy.website^
 ||jdvzwpsfnjphs.com^
 ||lpnotaeyoemsl.website^
@@ -36916,6 +36915,7 @@ ubmcmm.baidustatic.com
 ||qkaseqnncjkvr.space^
 ||primedirect.net^
 ||nanhesitationhireling.com^
+||mellodur.net^
 ||omgt4.com^
 ||plrjs.org^
 ||rsaltsjt.com^
@@ -43714,7 +43714,6 @@ ubmcmm.baidustatic.com
 ||rbkdjzbflecky.space^
 ||ragan-qdr.com^
 ||nfqinqyvpswjys.com^
-||ruwjqicmqamdb.website^
 ||parsonauthorizationwisdom.com^
 ||pertinent-yard.pro^
 ||mossersbalaorepry.qpon^
@@ -53750,6 +53749,7 @@ ubmcmm.baidustatic.com
 ||straitrootbaron.com^
 ||suentpenning.cfd^
 ||scavelbuntine.life^
+||ruwjqicmqamdb.website^
 ||vcabwutmtprqr.site^
 ||unhumaniracund.qpon^
 ||uizhndydahcum.online^
@@ -53874,7 +53874,6 @@ ubmcmm.baidustatic.com
 ||vwvrdsumagxkk.online^
 ||tilearoma.com^
 ||usauncebogtrot.cfd^
-||wzeocharram.com^
 ||vy9fwpl1.xyz^
 ||suvloxmlkfier.online^
 ||vlxhvoidlnrjf.space^
@@ -56289,7 +56288,6 @@ ubmcmm.baidustatic.com
 ||ynlodkuuacugx.site^
 ||yucvgdirvufyw.space^
 ||xpjelhadgvkhc.space^
-||wecvhi.ekftei2weudt.info^
 ||zoologicalmafia.com^
 ||xxesbfjw.com^
 ||zfxckpiaypnrm.online^
@@ -58376,6 +58374,7 @@ ubmcmm.baidustatic.com
 ||d1rguclfwp7nc8.cloudfront.net^
 ||yieldads.com^
 ||zwkfzyjtadeuz.space^
+||wzeocharram.com^
 ||foldyahoolestorderly.com^
 ||newtabextension.com^
 ||d1p3zboe6tz3yy.cloudfront.net^
@@ -59795,6 +59794,7 @@ ubmcmm.baidustatic.com
 ||rockpoint.xhamster42.desi^
 ||ads.twdcgrid.com^
 ||qovua60gue.tubewolf.com^
+||wecvhi.ekftei2weudt.info^
 ||bettingads.365scores.com^
 ||bordeaux.futurecdn.net^
 ||dsp.aparat.com^
