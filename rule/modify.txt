@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-08-02 00:17:31
+! Last Modified: 2026-08-02 08:18:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -11536,7 +11536,6 @@ _dasiqq315.
 ||chinaz.com/section/
 ||haokan5.com/js/haokanjs/playa
 ||baofeng.com/images/yiqi
-||porn87.com/static/stream_ads/
 ||aqlife.com/data/attachment/portal/
 ||58cdn.com.cn/ds/tgbrand/*.js
 ##.gpt_ads_box
@@ -21046,6 +21045,7 @@ ssnn.net###float_picr
 easylife.tw,ez3c.tw,softwarebrother.com##.popup_bottom_block
 psahz.com#@#.ad_960
 /bsa-pro-scripteo/frontend/js/script.js$script
+||porn87.com/static/stream_ads/
 ||tzfdc.com/Images/09/flv/flv_index.js
 sm.cn###download-uc-v2
 -ad.jpg.pagespeed.$image
@@ -22807,7 +22807,6 @@ hao123.com##.navrecommend-top
 nfmovies.com##[onclick^="openurl()"]
 chysg.com##img[width="232"][height="90"]
 58avgo.com##.BillingLeft
-/wp-content/plugins/bookingcom-text2links/*
 @@||dlkoo.cc/down/*/*.htm$popup
 vpser.net##.ab_cpb
 ||yg006.com/attachment/xjdb.jpg
@@ -25565,7 +25564,6 @@ _468x60-
 ##.ad-mpu-placeholder
 ##.ad-cat
 ##.ad_rect
-##.custom-advert-banner
 _468x60_
 ###afc-container
 ###ad250
@@ -32572,6 +32570,7 @@ _480x60_
 ##.adspace-top
 ##.c-header__ad
 ###google_ad_3
+/wp-content/plugins/bookingcom-text2links/*
 ###google_ad_1
 ###google_ad_2
 ###before-footer-ad
@@ -35460,6 +35459,7 @@ ascii.jp#@#.adrect
 ##.results-ads
 ##.pm-ad-unit
 ##.tadm_ad_unit
+##.custom-advert-banner
 ##.showAd
 ##.sponsor-text
 ##a[href^="https://tracking.avapartner.com/"]
@@ -48145,7 +48145,6 @@ kaotic.com##.block-toplist
 nationalmemo.com##.content_nm_placeholder
 npr.org##.ad-config
 cnet.com##.stickySkyboxSpacing
-gearjunkie.com##.video-jwplayer
 politico.com##.styles_container__zuzL0
 tokyvideo.com##.fan--related-videos.fan
 greatandhra.com##._201223_
@@ -55715,6 +55714,7 @@ qz.com##div[class^="sc-"]:has(> div[class="ad-unit"])
 fapnado.xxx##.pause-ad-pullup
 eboblack.com,teenxy.com##.out_lnk
 sexvid.xxx##.player-cs
+gearjunkie.com##.video-jwplayer
 javedit.com##.sidebar_widget
 xbooru.com,xxxymovies.com###smb
 @@||pubads.g.doubleclick.net/ondemand/hls/$domain=history.com
