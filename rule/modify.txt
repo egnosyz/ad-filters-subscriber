@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-08-11 16:40:57
+! Last Modified: 2026-08-12 00:42:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10487,6 +10487,7 @@ wss://*.xyz:*?x=$third-party
 ||alicdn.com/img/ibank/*_1794478205.
 ||baidu.com/buy/ad/home
 ||d1net.com/index.php?m=poster&
+||panpan.org/js/google
 ##a[href^="http://ad.moemoe."]
 ##.top_box > #foot
 ||iqilu.com/static_files/zones/
@@ -19912,7 +19913,6 @@ baidu.com##.manual-spread
 qq.com##.business-Article-QQ
 kdslife.com##.header-swiper
 foodmate.net,ting89.com##.ad7
-||panpan.org/js/google
 @@||redian.news^$generichide
 @@||cntv.cn^*_ad.js
 85lou.com###topwarning_7ree
@@ -23681,6 +23681,7 @@ brtn.cn,btime.com##.business-item
 toolfk.com##a[href*=".xiuxiandou.com/"]
 elecinfo.com##div[class$="-advert"]
 ||banzhu*.com/js/html
+/show-ad.js$script
 ||videowood.me/assets/js/popup.js
 ca168.com,cs.com.cn,qiannao.com,qinbing.cn,sonimei.cn###rightDiv
 ||hupu*.com/js/html$~third-party,script
@@ -31035,6 +31036,7 @@ _468x60b.
 ##.ad-box2
 ##.adarea
 ##.ad-box1
+##.container_publicidad
 ##.adsOverPrimary
 ##.ads_wrap
 ###reklama_big
@@ -33612,7 +33614,6 @@ _438x60_
 ##.ads-sticky
 /dGhlZnJlZWJpZWd1eS5jb20.js$third-party
 ###wg_ads
-/show-ad.js$script
 ###first-ads
 ###adv_Skin
 /tardisrocinante/surgeonv2.js$script
@@ -35987,7 +35988,6 @@ flightaware.com#@#.sticky-footer-ad
 ##.outbrain-wrapper-outer
 ##.sponsorad
 ##.showcaseAd
-##.container_publicidad
 ##.text-ad-top
 ##.dfp-banner-slot
 wfmz.com#@#.tnt-dmp-reactive
@@ -41264,6 +41264,7 @@ tei-c.org#@##msad
 ||dope.autos^$popup
 ||omegaadblock.net^$popup
 ||instantbannercreator.com^$third-party
+||stopads-now.com^$popup
 ||adlegend.com^$third-party
 ||kingtrck1.com^$popup
 ||coldflownews.com^$popup
@@ -44108,6 +44109,7 @@ romsfun.com###ad-unit-3
 kongregate.com##.bg-gray-800.mx-4.p-1
 ||pornpoppy.com/jss/external_pop.js
 dmarge.com##.dx-ad-wrapper
+infoq.com##.qcon_banner
 stripes.com###MidPageAd
 ||filemoon-*/js/baf.js
 @@||thegay.com/assets//jwplayer-*/jwplayer.core.controls.html5.js|$domain=thegay.com
@@ -49420,7 +49422,6 @@ worldscreen.com##.embdad
 looperman.com,sailingmagazine.net###header-top
 808fubo808.com##.gg-cat-bnner
 lokmattimes.com##.inarticleAd
-||stopads-now.com^$popup
 ||lottoelite.com/banners/
 ||wowroms.com/images/iptvsmarters.app.jpg
 abcya.com##.a-leader
@@ -53171,7 +53172,6 @@ njav.com###ad300250
 yahoo.com##.searchCenterTopAds
 @@||site-banner.hange.jp/adshow?$domain=animallabo.hange.jp
 alibaba.com##.list-card:has([data-role="ad-area"])
-infoq.com##.qcon_banner
 twitter.com,x.com##div[data-testid="eventHero"]:has(path[d$="10H8.996V8h7v7z"])
 msn.com##partner-upsell-card
 damplips.com##.after-video-content

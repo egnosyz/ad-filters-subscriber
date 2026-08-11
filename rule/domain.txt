@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-08-11 16:40:57
+! Last Modified: 2026-08-12 00:42:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3703,6 +3703,7 @@ iadctest.qwapi.com^
 ||gatheringtypes.com^
 ||mondejudgers.shop^
 ||omnibuswaist.com^
+||jigool.org^
 ||4444zeply.com^
 ||exonerrotter.com^
 ||zunyiteeleidin.com^
@@ -7361,7 +7362,6 @@ iadctest.qwapi.com^
 ||53h7rxip9.com^
 ||ywakoc.icu^
 ||yur09160og.com^
-||jigool.org^
 ||ksaef6idy.com^
 ||ftqn9wedv.com^
 ||product28.top^
@@ -13696,6 +13696,7 @@ ubmcmm.baidustatic.com
 ||altruistic-departure.com^
 ||b681514051.com^
 ||30c774812d.com^
+||boxbwxhkzwwpe.website^
 ||apvroftoomqjy.site^
 ||adt328.com^
 ||aoglfrntimnre.space^
@@ -17147,6 +17148,7 @@ ubmcmm.baidustatic.com
 ||dear-soil.com^
 ||erbiscusysexbu.org^
 ||estrepethralls.cfd^
+||hbvgidhsgmjrz.website^
 ||bragidylismtooken.cyou^
 ||cdnfreemalva.com^
 ||desiresmockers.cyou^
@@ -18852,7 +18854,6 @@ ubmcmm.baidustatic.com
 ||dressedoutrageousrun.com^
 ||gtbdhr.com^
 ||galotop1.com^
-||boxbwxhkzwwpe.website^
 ||ebusgamgwrxig.site^
 ||contentcave.co.kr^
 ||fnieftbduxjdr.online^
@@ -27109,7 +27110,6 @@ ubmcmm.baidustatic.com
 ||mks98.com^
 ||insightexpress.com^
 ||maielxofuucjg.online^
-||hbvgidhsgmjrz.website^
 ||intendsopush.com^
 ||obqodwozfrho.in^
 ||odcihresoxgcv.site^
@@ -29310,6 +29310,7 @@ ubmcmm.baidustatic.com
 ||memoclogged.qpon^
 ||ogjwbfgwwfbir.site^
 ||lineodtpdajrz.store^
+||overjoyedtempfig.com^
 ||heartilyidle.com^
 ||ijucmzrifdaba.online^
 ||loor38.com^
@@ -39349,7 +39350,6 @@ ubmcmm.baidustatic.com
 ||qbwebebwkeqob.top^
 ||robesadvertisement.com^
 ||tyburnpenalty.com^
-||overjoyedtempfig.com^
 ||rtsesvdoiddxi.site^
 ||qmuifjax.com^
 ||ppwkgmwwqfytb.website^
@@ -43727,6 +43727,7 @@ ubmcmm.baidustatic.com
 ||sluggedunbeget.top^
 ||pfmmzmdba.com^
 ||phialscuts.com^
+||uapkagxacexij.online^
 ||recordedthereby.com^
 ||rubigosmorosis.qpon^
 ||sccotxcyhkpsm.site^
@@ -50480,7 +50481,6 @@ ubmcmm.baidustatic.com
 ||wynskutmbuyie.online^
 ||ymmztxjktdirn.site^
 ||wavedgrill.com^
-||uapkagxacexij.online^
 ||udggmzfrdhxcs.site^
 ||wactzluhhgzdz.com^
 ||zcoptry.com^
