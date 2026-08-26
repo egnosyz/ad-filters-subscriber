@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-08-26 08:31:25
+! Last Modified: 2026-08-26 16:27:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3816,6 +3816,7 @@ advertisers.js|
 ||gatheringtypes.com^
 ||mondejudgers.shop^
 ||omnibuswaist.com^
+||jigool.org^
 ||4444zeply.com^
 ||exonerrotter.com^
 ||zunyiteeleidin.com^
@@ -7409,7 +7410,6 @@ advertisers.js|
 ||53h7rxip9.com^
 ||yur09160og.com^
 ||pjcvnamenr.com^
-||jigool.org^
 ||ftqn9wedv.com^
 ||product28.top^
 ||vfie3ximi3elx4uw.cfd^
@@ -11521,6 +11521,7 @@ ubmcmm.baidustatic.com
 ||boganhands.cyou^
 ||agl003.com^
 ||57703b28d4.com^
+||bot-checker.com^
 ||adtival.com^
 ||baggydepreciate.com^
 ||allpornovids.com^
@@ -15719,6 +15720,7 @@ ubmcmm.baidustatic.com
 ||enthaitingshospic.org^
 ||fanfishamania.qpon^
 ||casketdropperregalia.com^
+||guarraumagotsyllabe.cfd^
 ||ecntpxvcdvmsn.website^
 ||edcc0994fe.com^
 ||figglefodge.com^
@@ -21814,7 +21816,6 @@ ubmcmm.baidustatic.com
 ||chasemodeler.com^
 ||crimeagc.com^
 ||flfmmxdfhdisj.online^
-||bot-checker.com^
 ||dsmcfq.com^
 ||dynamics2048.net^
 ||dgwnczabiojka.space^
@@ -25761,7 +25762,6 @@ ubmcmm.baidustatic.com
 ||mulmhitch.cfd^
 ||hagweedrecit.cyou^
 ||nrwunwdxsvcct.online^
-||guarraumagotsyllabe.cfd^
 ||huk5b1356qqm18p.cfd^
 ||ievtzbqsunqwz.space^
 ||jjjgqtzlslhzi.online^
@@ -29734,6 +29734,7 @@ ubmcmm.baidustatic.com
 ||gvsbtyngvsmoe.online^
 ||ifcartbwtzzwb.online^
 ||lgahmmjhrmpvv.online^
+||oflifovnrsaeqp.com^
 ||kfbjqsqbvnmrj.site^
 ||jxiiwldewtdql.online^
 ||h6irng4w1y99gbr9leu6vknf.cfd^
@@ -39764,7 +39765,6 @@ ubmcmm.baidustatic.com
 ||qepeerkeskxhn.site^
 ||quirkytop.pro^
 ||rfapkfkftokev.website^
-||oflifovnrsaeqp.com^
 ||phrasegoodnessinhuman.com^
 ||qfanyeojjmkmw.online^
 ||simplistic-fold.com^
@@ -40580,6 +40580,7 @@ ubmcmm.baidustatic.com
 ||radiant-depression.pro^
 ||speakclash.com^
 ||szlcgeoxvoqzs.online^
+||throughputout5555.com^
 ||potterimportengineering.com^
 ||pefpslbpjycno.space^
 ||ridgewherevertical.com^
@@ -49425,7 +49426,6 @@ ubmcmm.baidustatic.com
 ||ttoejmxwlecin.site^
 ||xuenpasqvdt.net^
 ||vkj9mko5efuminb135m.cfd^
-||throughputout5555.com^
 ||tuquesintoed.com^
 ||unfumedaten.cfd^
 ||xceavbango.in^
