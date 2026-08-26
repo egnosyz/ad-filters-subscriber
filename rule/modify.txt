@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-08-26 00:21:26
+! Last Modified: 2026-08-26 08:31:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -11784,7 +11784,6 @@ _dasiqq315.
 /addon/assets/common/gg.js
 ||gamecps.com^$third-party
 ||ali213.net^*/promotion/
-||putonghua520.com/skins/10ym/3jin.gif
 ##a[href^="javascript:gl012"]
 ||astrill.com/bnrs/
 ||28kys.com/92kviptupian/
@@ -21306,6 +21305,7 @@ gezila.com##.tishi + dl
 @@||adnxs.com/ast/static/$domain=outlook.live.com
 cpnn.com.cn###myimg
 live.bilibili.com##.container-wrapper[style="height:180px;min-width:1280px"]
+||putonghua520.com/skins/10ym/3jin.gif
 @@||qiyipic.com/common/fix/pub_images/
 sosg.net###postlist + .cc
 pc6.com##.Advbox
@@ -21732,7 +21732,6 @@ moxing.net##a[marked][href*=".taobao.com"]
 @@||zstatic.net^$script,domain=niuyankan.top
 www.sina.com.cn###SI_EDU_AD
 blog.csdn.net###article_content > link + a
-://affiliates2.$third-party
 @@||bdimg.com/advert/js/advert.js$domain=music.baidu.com
 ##a[href^="/dasp.php?a="]
 ||ysxs8.vip/js/play_db.js
@@ -27432,7 +27431,6 @@ _700_100_
 ###longAdSpace
 ##.adv_300_top
 ##.blocked-ads
-##.desktop-ad
 ##.am_ads
 ###left-ad-col
 ###ados1
@@ -31354,6 +31352,7 @@ _468x60b.
 ##.ads_square
 ##.blog_ad
 ###adHolder4
+://affiliates2.$third-party
 ###adHolder3
 ###adHolder2
 /dist/adsPrebid.js$script
@@ -37135,6 +37134,7 @@ atea.com,ateadirect.com,knowyourmobile.com,nlk.org.np#@#.logo-ad
 ##.mt_ad
 ##.skyAdvert
 ##.mod-sponsored-links
+##.desktop-ad
 ##.top-ad-area
 ##.sbAdUnitContainer
 ##.l-adsense
@@ -40242,7 +40242,6 @@ tei-c.org#@##msad
 ||aagm.link^$popup
 ||foflf.com^$document
 ||catchtheclick.com^$popup
-||cpalabtracking.com^$popup
 ||pubdirecte.com^$third-party
 ||zwaar.org^$third-party
 ||bemobtrk.com^$popup
@@ -48039,7 +48038,6 @@ asiaone.com##.ao-ads
 ||orgyxxxhub.com/js/wcwov.js
 ||youtube.com/embed/C-iDzdvIg1Y$domain=biznews.com
 dailystar.co.uk##.commercial-box-style
-cornish-times.co.uk,farnhamherald.com,iomtoday.co.im##.ggzoWi
 fitbook-magazine.com,myhomebook-magazine.com,petbook-magazine.com,techbook-magazine.com,travelbook-magazine.com###superbanner
 ||leapretrieval.com^$popup
 lordz.io###crossPromotion
@@ -48597,6 +48595,7 @@ wiki.gg###wikigg-sl-footer
 ||kaplay.com^$third-party
 ||gpt.mail.yahoo.net/sandbox$subdocument,domain=mail.yahoo.com
 prydwen.gg###pw-footer-ad-1
+||cpalabtracking.com^$popup
 ||xgogi.com^$third-party
 newser.com##.TaboolaP1P2
 ||pixel-vault.com/image/$third-party
@@ -55747,6 +55746,7 @@ vortexscans.org##img[alt*="Advertisement"]
 qz.com##.k3mqd
 tftcentral.co.uk##.tftce-adlabel
 crikey.com.au##.wp-block-pm-ad-placeholder-block
+cornish-times.co.uk,farnhamherald.com,iomtoday.co.im##.ggzoWi
 apkmirror.com##.google-ad-leaderboard
 videosection.com##.video-item--adv
 news18.com##div[style*="min-height: 250px"]
