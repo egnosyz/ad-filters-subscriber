@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-09-04 02:56:36
+! Last Modified: 2026-09-04 09:37:01
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -14425,6 +14425,7 @@ _fioiwhfo_
 ||520z-2.com/uploadfile/sucai/
 ||chinaz.com/images/210x175.jpg
 ||5imx.com/image/image/
+||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 ||cssqt.com/a/images/right
 ||lahoo.ca/slider
 ||iocoder.cn/alert/js/alert.js
@@ -21312,6 +21313,7 @@ hexun.com###tonglan_1 + .layout
 .html?clicktag=
 91.com,hao123.com##.cn_banner
 download.csdn.net##.ad_area_1
+/top-ad.$~xmlhttprequest
 greenxiazai.com##.downbtn > a:last-child
 niotv.com##.epg_ad3
 bcbay.com,creaders.net##.syzx
@@ -23640,7 +23642,6 @@ yufile.com##.lo_box
 so.com##.busi-article
 imydl.com##a[href*=".wuluoyun.com/aff/"]
 /ads/banners/*$image
-||pgdt.gtimg.cn/gdt/$domain=info.3g.qq.com
 164580.com##table[width="950"] > tbody > tr > td[width="105"]
 gxeea.cn##.m-wrap-school
 @@||chaintv.xyz/homestatic/js/adjs.js
@@ -30888,7 +30889,6 @@ _128x600.
 ###advertborder
 ###divAds
 ##.adsTopBanner
-/top-ad.$~xmlhttprequest
 ##.ad160b
 ##.adb-top
 ##.ad-970-90
@@ -32930,6 +32930,7 @@ _480x60_
 ###td_adunit2
 ##.adsarea
 ###adhesionUnit
+##.content_advert
 ###ad-container-leaderboard
 ###ad-ear
 ##.columnAd
@@ -37683,7 +37684,6 @@ iwakuni-fudosan.jp#@#.ad__item
 ##div[id*="ScriptRoot"]
 ##.d3-c-adblock
 ##.ng-ad-banner
-##.content_advert
 ##.shr-ads-container
 ##.right-sponser-ad
 ##.meta-ad
@@ -39324,6 +39324,7 @@ tei-c.org#@##msad
 ||easyinline.com^$third-party
 ||a-static.com^$third-party
 ||audio.ad^$third-party
+||grvmedia.com^$third-party
 ||mnaspm.com^$document
 ||xadsmart.com^$document
 ||easyadsapp.com^$third-party
@@ -44378,7 +44379,6 @@ politico.eu##.ad__mobile
 ||statsmobi.com^$popup
 ||wintrck.com^$popup
 fixya.com###footerBanner
-||grvmedia.com^$third-party
 ||ganja.com^$popup,third-party
 ||gayforfans.com^*.php|$script
 ||edonhisdhi.com^$popup
@@ -46945,6 +46945,7 @@ whatismyipaddress.com###whatismyipaddress_728x90_Desktop_ATF
 ||vprtrfc.com^$popup
 ||locooler-ageneral.com^$popup
 ||158.247.208.$popup
+toocool2betrue.com,videogameschronicle.com##.adwrapper
 ||path-2-happiness.com/*/select_adv
 xdaforums.com###xdaforums_right_2
 ||gamecopyworld.com/*.php?
@@ -55767,7 +55768,6 @@ pornicom.com##.pre-ad
 @@||doda.jp/cmn_web/img/brand/ad/ad_text_
 triangletribune.com##.fba_links
 geo.tv,jozifm.co.za,runt-of-the-web.com,thewest.com.au,topgear.com.ph##.mrec
-toocool2betrue.com,videogameschronicle.com##.adwrapper
 koreaherald.com##.mythiell-mid-container
 msn.com##div.footer:has(> a.ad-slug)
 flashscore.*##.section__prematchOdds

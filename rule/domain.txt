@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-09-04 02:56:36
+! Last Modified: 2026-09-04 09:37:01
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3737,6 +3737,7 @@ iadctest.qwapi.com^
 ||gatheringtypes.com^
 ||mondejudgers.shop^
 ||omnibuswaist.com^
+||jigool.org^
 ||4444zeply.com^
 ||exonerrotter.com^
 ||zunyiteeleidin.com^
@@ -7378,7 +7379,6 @@ iadctest.qwapi.com^
 ||53h7rxip9.com^
 ||yur09160og.com^
 ||pjcvnamenr.com^
-||jigool.org^
 ||ftqn9wedv.com^
 ||product28.top^
 ||vfie3ximi3elx4uw.cfd^
@@ -11673,6 +11673,7 @@ ubmcmm.baidustatic.com
 ||beigyagilely.cyou^
 ||31b0f03f5b.com^
 ||asgadsts.cc^
+||bmnwmfvjmltrl.space^
 ||adtrieval.com^
 ||believableordinarygentlemen.com^
 ||b2f5a87e42.com^
@@ -16981,7 +16982,6 @@ ubmcmm.baidustatic.com
 ||fortunateambiguous.com^
 ||chabadokor.com^
 ||fyqvlsvraskhk.online^
-||bmnwmfvjmltrl.space^
 ||brailedharpulaearworm.cyou^
 ||byrlingnonfluxdid.cyou^
 ||earnestnessadamantpal.com^
@@ -21669,6 +21669,7 @@ ubmcmm.baidustatic.com
 ||glum-homework.pro^
 ||enwawvap.com^
 ||givviictvunqi.online^
+||glymqvvctmdkx.site^
 ||contractexcitedly.com^
 ||f921e4caa3.com^
 ||fnlpncdfxwphb.site^
@@ -31659,7 +31660,6 @@ ubmcmm.baidustatic.com
 ||njbcmfscfqe.com^
 ||iqyhvzvpshtva.online^
 ||kfjwapsftuxtw.online^
-||glymqvvctmdkx.site^
 ||mbuxtemzhbxnt.space^
 ||liflneszneaak.site^
 ||mingiercolugo.cyou^
@@ -31899,6 +31899,7 @@ ubmcmm.baidustatic.com
 ||irhzhtcyxozti.online^
 ||miayarus.com^
 ||hkjwazawuwxiy.online^
+||nnkkwfcnwkzud.space^
 ||jainapedicle.cyou^
 ||khrkiqbylwyoo.online^
 ||lotychanner.life^
@@ -41889,7 +41890,6 @@ ubmcmm.baidustatic.com
 ||pbknxnruccskn.online^
 ||sdkl.info^
 ||sharp-action.com^
-||nnkkwfcnwkzud.space^
 ||structure420.net^
 ||recordingbush.com^
 ||rwohxheuqhmqy.site^
@@ -44664,6 +44664,7 @@ ubmcmm.baidustatic.com
 ||quarreljaggedloathe.com^
 ||rateantidotecandle.com^
 ||ryminos.com^
+||subsistpocosen.cyou^
 ||responsad1.space^
 ||processorsinlake.net^
 ||rfuglkuve.com^
@@ -53565,7 +53566,6 @@ ubmcmm.baidustatic.com
 ||vw7y3vtbiqhtnll4w.cfd^
 ||varussighty.cyou^
 ||znqvozidirqnh.site^
-||subsistpocosen.cyou^
 ||thokishbahoo.cyou^
 ||yxcxheuw.net^
 ||vtsufsdkrzthc.space^
