@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-09-19 20:05:48
+! Last Modified: 2026-09-20 02:15:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -39233,7 +39233,6 @@ olx.com.br#$#hide-if-matches-xpath './/span[.="DESTAQUE"]/ancestor::section[1]/p
 ||adknowledge.com^$third-party
 ||mbjrkm2.com^$document
 ||stake.mba/?c=$document
-||adm.shinobi.jp^$third-party
 ||consultflow.click^$document
 ||grfpr.com^$document
 ||mosved.com^$document
@@ -39301,7 +39300,6 @@ olx.com.br#$#hide-if-matches-xpath './/span[.="DESTAQUE"]/ancestor::section[1]/p
 ||k3on.com^$document
 ||topnewsgo.com^$document
 ||navigatingnautical.xyz^$document
-||adman.gr^$third-party
 ||masterreviews.org^$document
 ||adjector.com^$third-party
 ||oversolosisor.com^$document
@@ -39336,7 +39334,6 @@ olx.com.br#$#hide-if-matches-xpath './/span[.="DESTAQUE"]/ancestor::section[1]/p
 ||viralvideoclip.info^$document
 ||click-for-preview.com^$document
 ||ad4989.co.kr^$third-party
-||adlux.com^$third-party
 ||yoursecurity-suggestion.com^$document
 ||adgage.es^$third-party
 ||adjuggler.com^$third-party
@@ -40746,7 +40743,6 @@ fool.com###articles-top
 games.washingtonpost.com##.HomeCategory__ads___aFdrmx_3
 ||prwave.info^$popup
 ||era67hfo92w.com^$popup
-krebsonsecurity.com##.a-statement
 ||fwpub1.com^$domain=ndtv.com|ndtv.in
 ||jizzberry.com/65
 ||readme.ru/informer/
@@ -42307,6 +42303,7 @@ alternet.org###leaderboard-placeholder
 ||love-banner.com^$third-party
 ||filemoon.*/js/skrrt.js
 ||groovinads.com^$third-party
+||adm.shinobi.jp^$third-party
 ||trafficbroker.com^$popup
 thegearpage.net##.VSHomepageView
 ||cpxdeliv.com^$popup
@@ -44844,6 +44841,7 @@ noon.com##.PdpRecommendations-module-scss-module__e4nPqG__recosWrapper
 ||psaussasta.net^$popup
 ||welcomeneat.pro^$popup
 ||beead.net^$third-party
+||adman.gr^$third-party
 ||mndsrv.com^$popup
 miniwebtool.com###contain300-1
 miniwebtool.com###contain300-2
@@ -44940,7 +44938,6 @@ listennotes.com###ln_side_banner
 ||redtube.com/_xa/ads
 ||torrentfreak.com/wp-content/banners/
 ||rootzaffiliates.com^$popup
-tellymix.co.uk##.a-text
 ||benefit-ads.com^$third-party
 ||lolithon.nl/affiliates/
 ||hetlmedia.com/1025.js
@@ -46926,6 +46923,7 @@ newatlas.com###native_index_desktop
 ||9l3s3fnhl.com^$popup
 ||click.alibaba.com^$subdocument,third-party
 ||eyauknalyticafra.info^$popup
+||adlux.com^$third-party
 foodsforbetterhealth.com###text-46
 ||adnium.com^$popup,third-party
 ||vulkan-bt.com^$popup
@@ -47289,7 +47287,6 @@ usmagazine.com###nativeAdMosaicBreakingNews
 ||myjollyrudder.com^$popup
 digitalfoundry.net,gamertweak.com,nintendoeverything.com###nn_mpu2
 ||noagentfees.com^$subdocument,domain=independent.com.mt
-androidtrends.com,aviationa2z.com,buffalorising.com,cryptoreporter.info,sportsorca.com,streamsgeek.com,tecadmin.net,techcentral.co.za,techrushi.com,trendstorys.com,vedantbhoomi.com##.a-wrap
 ||directadvert.ru^$third-party
 ||adomik.com^$third-party
 ||borneobulletin.com.bn/wp-content/banners/
@@ -48951,6 +48948,7 @@ theonion.com##.theonion-frame-ad-large
 hbr.org##.partner-center
 trueachievements.com##.dyn-lb
 yahoo.com##[data-wf-beacons]
+krebsonsecurity.com##.a-statement
 @@||abt.s3.yandex.net/expjs/latest/exp.js$script,domain=some.porn
 gocomics.com##.amu-ad-leaderboard-atf
 notateslaapp.com##.mod-sponsors
@@ -54071,6 +54069,7 @@ manageditmag.co.uk##.manag-widget
 sexlikereal.com##.js-m-goto
 muchohentai.com##[style="width:100%;height:250px;"]
 tripadvisor.com#?#[data-test="SL_list_item"]:has-text(Sponsored)
+tellymix.co.uk##.a-text
 youtube.com##.ytd-two-column-browse-results-renderer > ytd-rich-grid-renderer > #masthead-ad.ytd-rich-grid-renderer
 @@||notebooklm.google.com^$generichide
 @@||apkmirror.com^$generichide
@@ -56759,6 +56758,7 @@ massfans.cc,massrips.cc###banner4
 coincheckup.com##.lg\:h-\[90px\]
 hqpornstream.com##.lds-hourglass
 mansurfer.com##a[href*="/out/"]
+androidtrends.com,aviationa2z.com,buffalorising.com,cryptoreporter.info,sportsorca.com,streamsgeek.com,tecadmin.net,techcentral.co.za,techrushi.com,trendstorys.com,vedantbhoomi.com##.a-wrap
 theoldie.co.uk##.placeholder-wrapper
 sportskeeda.com##.sk-promotional-banner
 news.sky.com##[data-format="leaderboard"]
