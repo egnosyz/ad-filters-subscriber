@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-10-13 23:20:31
+! Last Modified: 2026-10-14 04:51:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -13113,6 +13113,7 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ##.afc_popup
 ||1fxs.com^$third-party
 /js/bdgg/*
+||shulihua.net/js/topcen.js
 /guangg/*
 ||codesocang.com/js/a.js
 ||adm.cnzz.net^$third-party
@@ -13824,6 +13825,7 @@ wss://*/api/wss/GetNotReadCount$third-party
 ||gtimg.com/ent/final2009/dp_tebu_logo.png
 ||grtimed.com/material/*_960x110_
 ||ifengimg.com/a/*/yemei
+||shulihua.net/js/gzlishigoogle.js
 ||2345.com/pic/2345video.png
 /templets/js/yala.js
 ||qpic.cn/wwpic/471270_J6SyU3sDRNuKUnZ_1680798399/0
@@ -17795,7 +17797,6 @@ firefoxchina.cn##.theme-adv + .bottom
 wandhi.com##a[style="display: inline-block;position: relative"]
 @@||l.qq.com/lview?$domain=888.sports.qq.com
 ||xkyn.com/imgs/js/xx.js
-||shulihua.net/js/topcen.js
 cnqiang.com,jxedt.com,sohu.com##.ad640
 ##a[href^="/api/hop/"] > img[src*=".xyz/m/"]
 bcbay.com##table[id] + table[style="margin:3px auto;"]
@@ -18477,7 +18478,6 @@ mgtv.com##.c-95060-top
 ||thisav.com/index.js
 ##a[href^="http://yunbofangbt."]
 esu.moe,esu.wiki###siteNotice
-||shulihua.net/js/gzlishigoogle.js
 gter.net##.bottom
 doii.cc##.w-\[200px\].fixed
 ltaaa.com##.txtads
@@ -19096,6 +19096,7 @@ kxdw.com###downloadTop
 qq.com,yxad.com##.l_qq_com
 ||touimg.com/u/20200306/12094716.gif
 my0511.com###renmenzwad
+###Banner728x90
 2345.com###leftSideBar
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 pconline.com.cn##.m-JCZ-scrollBlock
@@ -24368,6 +24369,7 @@ moonbbs.com##.dm-header-ad
 ||2345.com/guess/v1/adList
 2345.com##.lian-meng-box
 baidu.com#?#.container:-abp-has(>.bottom-section>.item_voice_room[data-yysid])
+###BannerAd
 qq.com##.sider_ad
 ||zhenben.cc/2000/
 yixingjia.com###wp > table[width="960"]
@@ -25514,6 +25516,7 @@ maoken.com###siderAd01
 ###gameads
 ##.google_admanager
 ##.adsense160x600
+##.gpt-mpu-banner
 ##.first-leaderbord-adv
 ##.ad-small-1
 ##.gallery-ad-counter
@@ -25629,6 +25632,7 @@ maoken.com###siderAd01
 ###adsense_r_side_sticky_container
 ###pageRightAd
 ##.banner728-ad
+##.gpt-sticky-sidebar
 ##.dfp-ads-embedded
 ###ad-div-leaderboard
 ###adbackground
@@ -28597,7 +28601,6 @@ maoken.com###siderAd01
 ###adcontainer5
 ##._SummaryPageSidebarStickyAdView
 ##.ad_background
-###Banner728x90
 ###adSection
 ##.adsbnr
 ###adcontainer2
@@ -34347,7 +34350,6 @@ maoken.com###siderAd01
 ###bottommpuAdvert
 ###footer-ad-col
 ###ad-halfpage
-###BannerAd
 ###adv-Middle
 ##.adindex
 ###rightSideAdvert
@@ -35279,7 +35281,6 @@ oogiri-chaya.com#@#.adsText
 cw.com.tw#@#.adActive
 ogiharadevelopment.net#@#.ad-hint
 ##.sponsored-ads
-##.gpt-mpu-banner
 ##.page-advertisement
 ##.slideshow-ad-wrapper
 ##.textAds
@@ -35371,7 +35372,6 @@ hdfcbank.com#@#.adLink
 thespruce.com#@#.mntl-leaderboard-spacer
 ##.island_ad
 ewybory.eu#@##adv-text
-##.gpt-sticky-sidebar
 ##.right_adskin
 verizonwireless.com#@#.contentAds
 ##.ion-ad
@@ -38960,6 +38960,7 @@ tei-c.org#@##msad
 ||bestcleaner.online^$document
 ||mediahell.world^$document
 ||adtelligent.com^$document
+||ad-adapex.io^$third-party
 ||cm65.com^$document
 ||paid.outbrain.com^$document
 ||exxtended-access.com^$document
@@ -38998,6 +38999,7 @@ tei-c.org#@##msad
 ||5wzgtq8dpk.com^$document
 ||roots.baby^$document
 ||mgid.com^$document
+||ad-arrow.com^$third-party
 ||popcash.net^$document
 ||exclkplat.com^$document
 ||123date.me^$third-party
@@ -39956,7 +39958,6 @@ nhl.com##.-mrec
 ||seedtag.com^$third-party
 ||trkings.com^$popup
 ||benoopto.com^$popup
-||ad-adapex.io^$third-party
 ||coincarp.com/script/position_name.js
 seafoodsource.com###Ad1-300x250
 ||cloudfront.net/css/*.min.js$script,third-party
@@ -40682,6 +40683,7 @@ cityandstateny.com###atlas-module
 ||offersuperhub.com^$popup
 ||reebr.com^$popup
 ultrabookreview.com###zzifhome2
+planningportal.co.uk##.HeaderAdArea__HeaderAdContainer-sc-1lqw6d0-0
 ||aoneroom.com/wefeed-h5-bff/ad/$xmlhttprequest
 canberratimes.com.au,examiner.com.au,theland.com.au,whoscored.com###billboard-container
 satisfactory-calculator.com###DynamicWidth-Slot-2
@@ -41447,7 +41449,6 @@ musescore.com###ad_cs_12219747_728_90
 ||bobabillydirect.org^$popup
 ||go2affise.com^$popup
 ||missav.com/pop?$popup
-||ad-arrow.com^$third-party
 radiosurvivor.com,thewashingtonstandard.com,vgleaks.com###text-13
 ||yieldkit.com^$third-party
 ||admost.com^$third-party
@@ -46324,6 +46325,7 @@ thefinancialexpress.com.bd###innerAds
 ||wvdme.com^$popup
 ||adclickbyte.com^$popup
 forums.anandtech.com,forums.pcgamer.com,forums.tomsguide.com,forums.tomshardware.com###footer_leaderboard
+metservice.com##.Header
 ||overcrowdsillyturret.com^$popup
 ||nativeone.pl^$third-party
 ||iframe.adultfriendfinder.com^$third-party
@@ -49062,7 +49064,6 @@ ians.in##.add-inner
 greekcitytimes.com##.greek-2after-post
 twitch.tv##.video-player--stream-display-ad_lower-third {height:100% !important;}
 livejournal.com##[style$="width: 300px;"]
-planningportal.co.uk##.HeaderAdArea__HeaderAdContainer-sc-1lqw6d0-0
 netflixjunkie.com##.es-ad-space-container
 dailywire.com##.all-page-banner
 etfexpress.com##img[width="970"][height="250"]
@@ -55979,7 +55980,6 @@ farmersjournal.ie##.gadvertisementheader
 abovethelaw.com##.sidebar-sponsored
 startup.ch##.smallbanner
 @@://127.0.0.1$generichide
-metservice.com##.Header
 quora.com##.q-sticky[style*="box-sizing: border-box; position: sticky;"]:has(.qu-flexDirection--column[style*="min-height:"] > .dom_annotate_google_ad)
 flipline.com##.box_grey
 tvfanatic.com##.feed_holder

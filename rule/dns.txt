@@ -1,28 +1,7 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-10-13 23:20:31
+! Last Modified: 2026-10-14 04:51:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
-! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
-||allyes.
-||icast.
-||gg.
-||union.
-||ad.
-||ads.
-||cnzz.
-||adsfile.
-||adserver.
-||adservice.
-||adpic.
-||sax.sina.
-||biz5.
-||adsense.
-||xmindchina.
-||ggg.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
 yihuifu.cn
@@ -106,71 +85,27 @@ chemdraw.com.cn
 huishenghuiying.com.cn
 cm.jd.com
 logoshejishi.com
-! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
-||adx.
-||adx-
-||adsfs.
-||adsdk.
-MRelateFeedAd
-||adsmind.
-||bigdata.
-||sell*.etlong.com^
-||smartads.
-||adshare.
-||dm-*.toutiao.com^
-||player.letvcdn.com*.swf|
-||d*.wanzhuang.com^
-||bj*.9669.cn^
-||adstats.
-||toujing*.top^
-||popup.*.js*
-||advert.
-||irs01.
-||advert-
-||adcolony.
-||advertising.
-||showad*
-||pagead.
-||djjca.
-||imageadv.
-||m-vali.cp31.ott.cibntv.net*.mp4
-||epochtimes^
-||ads*-normal-hl.zijieapi.com^
-||adapi.
-getAds|
-||adsfileretry.
-||cpro.
-||m7k4.com*.php?
-||adv.
-||adv-
-||appjiagu.
-||img.piaosugo.com*.jpg
-||adsmis.
-||sense-*.tapdb.net^
-||ping.*.sogou.com^
-||pc.min.js*
-||minero-proxy-*now.sh
-||pagead2.
-||p*-ad-sign.byteimg.com^
-||guangyaoli.
-||ading.
-||googleads.
-||umengacs.
-||ads-
-piao.js|
-oHead6205.appendChild( oScript6205);
-||ad-
-||vali-g1.cp31.ott.cibntv.net*.mp4
-||adxapi.
-||gg*.miguvideo.com^
-||adsence.
-||unityads.
-advertisers.js|
-||ap*.jj20.com^
-||yazhouyu.
-||advertise.
-||ap*.pl520.com^
-||tracker*.qcloud.com^
+! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
+||allyes.
+||icast.
+||gg.
+||union.
+||ad.
+||ads.
+||cnzz.
+||adsfile.
+||adserver.
+||adservice.
+||adpic.
+||sax.sina.
+||biz5.
+||adsense.
+||xmindchina.
+||ggg.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
 ||shouliang.52lvgucci.com^
 ||forad1.weimeicun.com^
@@ -3235,8 +3170,71 @@ iadctest.qwapi.com^
 ||stadig.ifeng.com^
 ||conf.hpplay.cn^
 ||bairenad.com^
-! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
-CV-4923
+! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
+||adx.
+||adx-
+||adsfs.
+||adsdk.
+MRelateFeedAd
+||adsmind.
+||bigdata.
+||sell*.etlong.com^
+||smartads.
+||adshare.
+||dm-*.toutiao.com^
+||player.letvcdn.com*.swf|
+||d*.wanzhuang.com^
+||bj*.9669.cn^
+||adstats.
+||toujing*.top^
+||popup.*.js*
+||advert.
+||irs01.
+||advert-
+||adcolony.
+||advertising.
+||showad*
+||pagead.
+||djjca.
+||imageadv.
+||m-vali.cp31.ott.cibntv.net*.mp4
+||epochtimes^
+||ads*-normal-hl.zijieapi.com^
+||adapi.
+getAds|
+||adsfileretry.
+||cpro.
+||m7k4.com*.php?
+||adv.
+||adv-
+||appjiagu.
+||img.piaosugo.com*.jpg
+||adsmis.
+||sense-*.tapdb.net^
+||ping.*.sogou.com^
+||pc.min.js*
+||minero-proxy-*now.sh
+||pagead2.
+||p*-ad-sign.byteimg.com^
+||guangyaoli.
+||ading.
+||googleads.
+||umengacs.
+||ads-
+piao.js|
+oHead6205.appendChild( oScript6205);
+||ad-
+||vali-g1.cp31.ott.cibntv.net*.mp4
+||adxapi.
+||gg*.miguvideo.com^
+||adsence.
+||unityads.
+advertisers.js|
+||ap*.jj20.com^
+||yazhouyu.
+||advertise.
+||ap*.pl520.com^
+||tracker*.qcloud.com^
 ! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
 ||visageagar.com^
 ||corralsspatio.shop^
@@ -3333,6 +3331,7 @@ CV-4923
 ||nosefelt.com^
 ||worthsloner.com^
 ||instarooliths.com^
+||gummy-debt.com^
 ||stgnvt25.cfd^
 ||fancierregula.com^
 ||balanicextreat.com^
@@ -3963,6 +3962,7 @@ CV-4923
 ||gatheringtypes.com^
 ||omnibuswaist.com^
 ||casherscamize.com^
+||jigool.org^
 ||4444zeply.com^
 ||exonerrotter.com^
 ||myagkotela.link^
@@ -4395,17 +4395,8 @@ CV-4923
 ||imbutidi.com^
 ||squeasyfantoms.com^
 ||laymanesprit.com^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||sax*.sina.
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
-||same*.stockstar.com^
-||ax.*.ifeng.com^
-||impservice*.youdao.com^
-||js*.abolezi.com^
-||sam*.baby-kingdom.com^
-||impservice*.yodao.com^
-||ja*.gamersky.com^
+! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
+CV-4923
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||a2pfs5k90i.com^
 ||graduate59.com^
@@ -5834,7 +5825,6 @@ CV-4923
 ||shxubwa.xyz^
 ||ggai12201cp.com^
 ||egvnfpnb31.com^
-||gummy-debt.com^
 ||bugs01140ko.com^
 ||gdqu.cn^
 ||d9zx24n0d.com^
@@ -7718,7 +7708,6 @@ CV-4923
 ||53h7rxip9.com^
 ||yur09160og.com^
 ||pjcvnamenr.com^
-||jigool.org^
 ||ftqn9wedv.com^
 ||product28.top^
 ||vfie3ximi3elx4uw.cfd^
@@ -9499,27 +9488,16 @@ ubmcmm.baidustatic.com
 ||anode67.top^
 ||wizoevljj.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||bdcpro*.techweb.com.cn^
-||dm*.yxlady.com^
-||uc*.atobo.com^
-||res*.pinpai8.cn^
-||gcw*.2liang.cn^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||a*.chajiaotong.com^
-||bdlm*.hc360.com^
-||ac*.faxingchina.com^
-||fpb1.chinacar.
-||ac*.786ip.com^
-||ya*.dwstatic.com^
-||d*.xinshipu.com^
-||fpb*.51edu.com^
-||qpb*.sohu.com^
-||static*.365inews.com^
-||union*.365inews.com^
-||ysdm*.ys137.com.cn^
-||at*.doubanio.com^
+||sax*.sina.
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
+||same*.stockstar.com^
+||ax.*.ifeng.com^
+||impservice*.youdao.com^
+||js*.abolezi.com^
+||sam*.baby-kingdom.com^
+||impservice*.yodao.com^
+||ja*.gamersky.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||cc.8181zx.com^
 ||gybyxsy1588.com^
@@ -10293,6 +10271,28 @@ ubmcmm.baidustatic.com
 ||bdu.focus.cn^
 ||k1.wendahu.com^
 ||dm.jb51.net^
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||bdcpro*.techweb.com.cn^
+||dm*.yxlady.com^
+||uc*.atobo.com^
+||res*.pinpai8.cn^
+||gcw*.2liang.cn^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
+||a*.chajiaotong.com^
+||bdlm*.hc360.com^
+||ac*.faxingchina.com^
+||fpb1.chinacar.
+||ac*.786ip.com^
+||ya*.dwstatic.com^
+||d*.xinshipu.com^
+||fpb*.51edu.com^
+||qpb*.sohu.com^
+||static*.365inews.com^
+||union*.365inews.com^
+||ysdm*.ys137.com.cn^
+||at*.doubanio.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||ambroty.xyz^
 ||bigszjbmsvnl.com^
@@ -11661,6 +11661,7 @@ ubmcmm.baidustatic.com
 ||asxxyqkhauntp.site^
 ||7g4uqcgwv7hqpejhj.cfd^
 ||balunkalends.com^
+||btecvxxnfqaio.site^
 ||aarems.org^
 ||bronca.site^
 ||aixyiapiclvui.space^
@@ -15556,6 +15557,7 @@ ubmcmm.baidustatic.com
 ||2830022a41.com^
 ||ballsyemprise.cyou^
 ||ahdoiwnqxqwhe.online^
+||btebrojzaow.in^
 ||6eba825f3a.com^
 ||amianthveilingsanit.qpon^
 ||bmcdn2.com^
@@ -16424,8 +16426,6 @@ ubmcmm.baidustatic.com
 ||628f84ca27.com^
 ||brainlyads.com^
 ||akqjcbryyxfzo.website^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||get-me-wow.
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||ethnicchristmassocks.com^
 ||dalestretching.com^
@@ -17368,6 +17368,7 @@ ubmcmm.baidustatic.com
 ||dxppedjnfsiwn.online^
 ||cranberryclearingexplode.com^
 ||gpfihqkvbcifz.space^
+||grundyjanner.cfd^
 ||cravedfeasted.qpon^
 ||dshbju.com^
 ||ezgbwivfmqbgl.website^
@@ -20002,6 +20003,7 @@ ubmcmm.baidustatic.com
 ||eywfrgacrxglz.online^
 ||evenerphases.qpon^
 ||cwxgfwukjfath.space^
+||grumpyprotection.pro^
 ||gfbxsoxbywqvp.store^
 ||dbjgerjoxzdmq.space^
 ||druej.com^
@@ -22491,7 +22493,6 @@ ubmcmm.baidustatic.com
 ||coolestinstead.com^
 ||geoaddicted.net^
 ||cookieless-data.com^
-||btecvxxnfqaio.site^
 ||buckoneendoral.cyou^
 ||coinunspedkartel.cyou^
 ||enfoldsbares.qpon^
@@ -25761,7 +25762,6 @@ ubmcmm.baidustatic.com
 ||ctogcnmaxzfao.online^
 ||cavernsinaite.com^
 ||clicktrixredirects.com^
-||btebrojzaow.in^
 ||byjvbtok.com^
 ||eytrijnihxqnx.online^
 ||chief-border.com^
@@ -26426,6 +26426,8 @@ ubmcmm.baidustatic.com
 ||crevicedepressingpumpkin.com^
 ||gmads.net^
 ||durezzakobieddaic.qpon^
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||get-me-wow.
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||jgixqmqacjzkk.site^
 ||kkurochwxfrwn.site^
@@ -27354,7 +27356,6 @@ ubmcmm.baidustatic.com
 ||kypwvjoni.com^
 ||igozxvjvaehwt.site^
 ||mcjdvsvjsnpdb.online^
-||grundyjanner.cfd^
 ||heartilyfootindebted.com^
 ||kdtphnanqpvso.space^
 ||mulchimbiber.com^
@@ -27716,6 +27717,7 @@ ubmcmm.baidustatic.com
 ||nonereeling.cyou^
 ||ml314.com^
 ||muggedregent.com^
+||notebookdryersolution.com^
 ||hsrkdkrxjtaeq.website^
 ||jaleeazymous.cfd^
 ||javmg.com^
@@ -29974,7 +29976,6 @@ ubmcmm.baidustatic.com
 ||hunkhideliability.com^
 ||morularkubera.com^
 ||jiwevkrbopz.com^
-||grumpyprotection.pro^
 ||jtzrhflqbnbal.website^
 ||hraayzvvjlead.site^
 ||illiciteatable.com^
@@ -34822,6 +34823,7 @@ ubmcmm.baidustatic.com
 ||impression-sync.xyz^
 ||hldkhuflnbahs.space^
 ||menrdrxjpdvky.space^
+||notebookballet.com^
 ||kxcpsknpsodie.space^
 ||hvfilosbqpzdf.online^
 ||htukmobukvkdi.website^
@@ -37648,7 +37650,6 @@ ubmcmm.baidustatic.com
 ||sierrakonradreorganize.com^
 ||olzbnpdywxtrm.online^
 ||rzrhpduwthrxl.space^
-||notebookdryersolution.com^
 ||statelygriefs.cyou^
 ||retapedamidase.com^
 ||pretryhispid.shop^
@@ -38933,6 +38934,7 @@ ubmcmm.baidustatic.com
 ||spiritualslower.com^
 ||seekticketunfit.com^
 ||sdzpwraktbkcf.website^
+||stuntermazefulceder.qpon^
 ||ruthlesssomeoneabattoir.com^
 ||stoastenore.qpon^
 ||popjanuary.shop^
@@ -44882,7 +44884,6 @@ ubmcmm.baidustatic.com
 ||qnlbktsubwtnf.space^
 ||reamingduomitopos.cyou^
 ||otcgjfkmkwwcu.site^
-||notebookballet.com^
 ||ozlhjzqupdyuu.site^
 ||preoccupyray.com^
 ||nylgisxwvgxdp.site^
@@ -46057,6 +46058,7 @@ ubmcmm.baidustatic.com
 ||parsimoniousinvincible.net^
 ||playedsophomore.com^
 ||stortla.com^
+||stupashiodon.com^
 ||servedbyadbutler.com^
 ||ominousplant.com^
 ||pqnnvegqkyadt.space^
@@ -48776,7 +48778,6 @@ ubmcmm.baidustatic.com
 ||wlsowfouhbjxf.space^
 ||yujzxbsiqbzwh.site^
 ||vcjakapovikso.site^
-||stuntermazefulceder.qpon^
 ||vestintend.com^
 ||sweetenochone.cyou^
 ||uffubjqcdy.com^
@@ -55461,7 +55462,6 @@ ubmcmm.baidustatic.com
 ||vxetjbsjganly.site^
 ||vtabnalp.net^
 ||wholedisagree.com^
-||stupashiodon.com^
 ||unchidarrau.qpon^
 ||uelqzzolsqiva.site^
 ||wandgigful.cfd^
@@ -55834,15 +55834,6 @@ ubmcmm.baidustatic.com
 ||zpfdalzphoumr.online^
 ||vlvsmfjibrzie.space^
 ||ycuixpwkugaot.space^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||158.247.208.
-||util-*.simply-hentai.com^
-||23.109.82.
-||142.91.159.
-||cas.*.criteo.com^
-||allsportsflix.
-|167.206.10.148^
-||23.109.87.
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||d2zbpgxs57sg1k.cloudfront.net^
 ||d415l8qlhk6u6.cloudfront.net^
@@ -57824,3 +57815,12 @@ ubmcmm.baidustatic.com
 ||d12e9f83wyj0ww.cloudfront.net^
 ||dsnymrk0k4p3v.cloudfront.net^
 ||d1lihuem8ojqxz.cloudfront.net^
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||158.247.208.
+||util-*.simply-hentai.com^
+||23.109.82.
+||142.91.159.
+||cas.*.criteo.com^
+||allsportsflix.
+|167.206.10.148^
+||23.109.87.

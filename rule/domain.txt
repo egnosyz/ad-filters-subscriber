@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-10-13 23:20:31
+! Last Modified: 2026-10-14 04:51:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3245,6 +3245,7 @@ iadctest.qwapi.com^
 ||nosefelt.com^
 ||worthsloner.com^
 ||instarooliths.com^
+||gummy-debt.com^
 ||stgnvt25.cfd^
 ||fancierregula.com^
 ||balanicextreat.com^
@@ -3875,6 +3876,7 @@ iadctest.qwapi.com^
 ||gatheringtypes.com^
 ||omnibuswaist.com^
 ||casherscamize.com^
+||jigool.org^
 ||4444zeply.com^
 ||exonerrotter.com^
 ||myagkotela.link^
@@ -5735,7 +5737,6 @@ iadctest.qwapi.com^
 ||shxubwa.xyz^
 ||ggai12201cp.com^
 ||egvnfpnb31.com^
-||gummy-debt.com^
 ||bugs01140ko.com^
 ||gdqu.cn^
 ||d9zx24n0d.com^
@@ -7619,7 +7620,6 @@ iadctest.qwapi.com^
 ||53h7rxip9.com^
 ||yur09160og.com^
 ||pjcvnamenr.com^
-||jigool.org^
 ||ftqn9wedv.com^
 ||product28.top^
 ||vfie3ximi3elx4uw.cfd^
@@ -11540,6 +11540,7 @@ ubmcmm.baidustatic.com
 ||asxxyqkhauntp.site^
 ||7g4uqcgwv7hqpejhj.cfd^
 ||balunkalends.com^
+||btecvxxnfqaio.site^
 ||aarems.org^
 ||bronca.site^
 ||aixyiapiclvui.space^
@@ -15435,6 +15436,7 @@ ubmcmm.baidustatic.com
 ||2830022a41.com^
 ||ballsyemprise.cyou^
 ||ahdoiwnqxqwhe.online^
+||btebrojzaow.in^
 ||6eba825f3a.com^
 ||amianthveilingsanit.qpon^
 ||bmcdn2.com^
@@ -17245,6 +17247,7 @@ ubmcmm.baidustatic.com
 ||dxppedjnfsiwn.online^
 ||cranberryclearingexplode.com^
 ||gpfihqkvbcifz.space^
+||grundyjanner.cfd^
 ||cravedfeasted.qpon^
 ||dshbju.com^
 ||ezgbwivfmqbgl.website^
@@ -19879,6 +19882,7 @@ ubmcmm.baidustatic.com
 ||eywfrgacrxglz.online^
 ||evenerphases.qpon^
 ||cwxgfwukjfath.space^
+||grumpyprotection.pro^
 ||gfbxsoxbywqvp.store^
 ||dbjgerjoxzdmq.space^
 ||druej.com^
@@ -22368,7 +22372,6 @@ ubmcmm.baidustatic.com
 ||coolestinstead.com^
 ||geoaddicted.net^
 ||cookieless-data.com^
-||btecvxxnfqaio.site^
 ||buckoneendoral.cyou^
 ||coinunspedkartel.cyou^
 ||enfoldsbares.qpon^
@@ -25638,7 +25641,6 @@ ubmcmm.baidustatic.com
 ||ctogcnmaxzfao.online^
 ||cavernsinaite.com^
 ||clicktrixredirects.com^
-||btebrojzaow.in^
 ||byjvbtok.com^
 ||eytrijnihxqnx.online^
 ||chief-border.com^
@@ -27231,7 +27233,6 @@ ubmcmm.baidustatic.com
 ||kypwvjoni.com^
 ||igozxvjvaehwt.site^
 ||mcjdvsvjsnpdb.online^
-||grundyjanner.cfd^
 ||heartilyfootindebted.com^
 ||kdtphnanqpvso.space^
 ||mulchimbiber.com^
@@ -27593,6 +27594,7 @@ ubmcmm.baidustatic.com
 ||nonereeling.cyou^
 ||ml314.com^
 ||muggedregent.com^
+||notebookdryersolution.com^
 ||hsrkdkrxjtaeq.website^
 ||jaleeazymous.cfd^
 ||javmg.com^
@@ -29851,7 +29853,6 @@ ubmcmm.baidustatic.com
 ||hunkhideliability.com^
 ||morularkubera.com^
 ||jiwevkrbopz.com^
-||grumpyprotection.pro^
 ||jtzrhflqbnbal.website^
 ||hraayzvvjlead.site^
 ||illiciteatable.com^
@@ -34699,6 +34700,7 @@ ubmcmm.baidustatic.com
 ||impression-sync.xyz^
 ||hldkhuflnbahs.space^
 ||menrdrxjpdvky.space^
+||notebookballet.com^
 ||kxcpsknpsodie.space^
 ||hvfilosbqpzdf.online^
 ||htukmobukvkdi.website^
@@ -37525,7 +37527,6 @@ ubmcmm.baidustatic.com
 ||sierrakonradreorganize.com^
 ||olzbnpdywxtrm.online^
 ||rzrhpduwthrxl.space^
-||notebookdryersolution.com^
 ||statelygriefs.cyou^
 ||retapedamidase.com^
 ||pretryhispid.shop^
@@ -38810,6 +38811,7 @@ ubmcmm.baidustatic.com
 ||spiritualslower.com^
 ||seekticketunfit.com^
 ||sdzpwraktbkcf.website^
+||stuntermazefulceder.qpon^
 ||ruthlesssomeoneabattoir.com^
 ||stoastenore.qpon^
 ||popjanuary.shop^
@@ -44759,7 +44761,6 @@ ubmcmm.baidustatic.com
 ||qnlbktsubwtnf.space^
 ||reamingduomitopos.cyou^
 ||otcgjfkmkwwcu.site^
-||notebookballet.com^
 ||ozlhjzqupdyuu.site^
 ||preoccupyray.com^
 ||nylgisxwvgxdp.site^
@@ -45934,6 +45935,7 @@ ubmcmm.baidustatic.com
 ||parsimoniousinvincible.net^
 ||playedsophomore.com^
 ||stortla.com^
+||stupashiodon.com^
 ||servedbyadbutler.com^
 ||ominousplant.com^
 ||pqnnvegqkyadt.space^
@@ -48653,7 +48655,6 @@ ubmcmm.baidustatic.com
 ||wlsowfouhbjxf.space^
 ||yujzxbsiqbzwh.site^
 ||vcjakapovikso.site^
-||stuntermazefulceder.qpon^
 ||vestintend.com^
 ||sweetenochone.cyou^
 ||uffubjqcdy.com^
@@ -55338,7 +55339,6 @@ ubmcmm.baidustatic.com
 ||vxetjbsjganly.site^
 ||vtabnalp.net^
 ||wholedisagree.com^
-||stupashiodon.com^
 ||unchidarrau.qpon^
 ||uelqzzolsqiva.site^
 ||wandgigful.cfd^
