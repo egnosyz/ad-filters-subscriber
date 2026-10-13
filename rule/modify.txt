@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-10-13 12:08:57
+! Last Modified: 2026-10-13 23:20:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -10902,7 +10902,6 @@ wss://*.xyz:*?x=$third-party
 ||17173cdn.com/a/lib/vda/seed.js
 ||bootcss.com/assets/js/and
 /upload/vod/2018-08-05/201808051533458526.png
-||shulihua.net/js/yegonggao.js
 ||bolecdn.com/button/txt.js
 ###ad-SNSSplashAd
 ||wit.qq.com^$third-party
@@ -11155,7 +11154,6 @@ _float_fuo.js
 ||bmp.ovh/imgs/2020/09/3e4e11ecc19c4bd6.png
 ||lwlwlw.com/ggzx/
 ||henghost.com^$third-party
-||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
 ##.video-holder > a[target="_blank"] > img[src*=".360buyimg.com"]
 ||373nn.com/java/
 ||7x7n.com/static/pic/*.jpg
@@ -12178,7 +12176,6 @@ $script,third-party,domain=xunleisou.info|xunleisou.life|xiaoyakankan.com|52movi
 ##a[href*=".6666ai.top"]
 ||vlion.cn^$third-party
 ||jia.com/js/common/article_home_adv.js
-||sina.cn/interface/*_game_wap_home_mid_list_in.
 /index.php/Statistics/ads_show?
 ||ruten.com.tw/js/gads_
 ##.top-gg
@@ -13116,7 +13113,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ##.afc_popup
 ||1fxs.com^$third-party
 /js/bdgg/*
-||shulihua.net/js/topcen.js
 /guangg/*
 ||codesocang.com/js/a.js
 ||adm.cnzz.net^$third-party
@@ -13135,7 +13131,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ##._cggp
 ||180.96.27.85^*.htm
 ||fast8.cc/skin/default/images/630652.png
-||sihbb.com/yang/
 ##.TqAdShow
 ||chengzijianzhan.cc^$subdocument,third-party
 ###adx_cggp
@@ -13220,7 +13215,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||pierrebotton.com/global/
 /adinfo?
 ||qq.com/vfpage/visual_focus_page.
-||sina.cn/cm/sinaads_
 ||360.cn/int/getadurls?
 /acmsd/*$script
 ||by4d.com/dh/
@@ -13482,7 +13476,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||hao123img.com/static/common/js/cpc_
 ||jinhua.com.cn/ad_pic/
 ||cndzys.com/huanlian/
-||sina.cn/check?
 /PushSystem/attached/image/*
 /js/guanggao_gg.js
 ||gome.com.cn/flight?
@@ -13831,7 +13824,6 @@ wss://*/api/wss/GetNotReadCount$third-party
 ||gtimg.com/ent/final2009/dp_tebu_logo.png
 ||grtimed.com/material/*_960x110_
 ||ifengimg.com/a/*/yemei
-||shulihua.net/js/gzlishigoogle.js
 ||2345.com/pic/2345video.png
 /templets/js/yala.js
 ||qpic.cn/wwpic/471270_J6SyU3sDRNuKUnZ_1680798399/0
@@ -15559,7 +15551,6 @@ laoliublog.cn,ruyo.net,winandmac.com,zhujiceping.com,zouaw.com##.widget_custom_h
 @@||noahedu.com/advertising/
 4c.cn##div[id^="mid_ad"]
 ||tv2box.com/img_1g/
-###BannerAdvert
 mydrivers.com##div[style="margin: auto;width: 580px;padding: 10px 0;"]
 baidu.com##.adLog
 firefoxchina.cn##.module-banner
@@ -15814,7 +15805,6 @@ hxnews.com##.banner-90
 ||w010w.com.cn^$subdocument
 16888.com##.cardataclass
 @@/adjs_pic_$domain=168gamer.net|slit.cn
-###BigboxAdUnit
 chajia123.com##.foot_dybox
 qiyeku.com###gg2_box
 @@||ccb.com^*^ad
@@ -17001,6 +16991,7 @@ github.com##a[href^="https://openwrite.cn/"]
 /full-page-script.js$script
 firefoxchina.cn##.side-promote
 @@||sinaimg.cn/ad/adimage/50x50_
+||sina.cn/interface/*_game_wap_home_mid_list_in.
 nfmovies.com#@##adright
 _350x100.
 anquan.org##.pub_side_ad
@@ -17804,6 +17795,7 @@ firefoxchina.cn##.theme-adv + .bottom
 wandhi.com##a[style="display: inline-block;position: relative"]
 @@||l.qq.com/lview?$domain=888.sports.qq.com
 ||xkyn.com/imgs/js/xx.js
+||shulihua.net/js/topcen.js
 cnqiang.com,jxedt.com,sohu.com##.ad640
 ##a[href^="/api/hop/"] > img[src*=".xyz/m/"]
 bcbay.com##table[id] + table[style="margin:3px auto;"]
@@ -17923,6 +17915,7 @@ cnpingpang.com###new-flash
 /ad.php?tag=$popup
 ||xchina.*/scripts/modal/modal.js
 moxing.net##.pic_txt_list
+||sina.cn/cm/sinaads_
 boo.tw##.blockUI
 chinatimes.com##.l_ad
 sgamer.com##.plc > div > a[href*=".vgcool.com"]
@@ -18161,6 +18154,7 @@ caibaojian.com##a[onclick*="aly"]
 qq.com###ay-tips-close + h2
 ctwant.com##.l-ad__wrapper
 @@||bytedance.com/ttwid/union/register/
+||sina.cn/check?
 hexun.com###hexunCouplet01
 qixingquan.com##div[style="float:right;margin-bottom:6px;"]
 jbtalks.cc,jbtalks.com##.jbt-ad-region
@@ -18483,6 +18477,7 @@ mgtv.com##.c-95060-top
 ||thisav.com/index.js
 ##a[href^="http://yunbofangbt."]
 esu.moe,esu.wiki###siteNotice
+||shulihua.net/js/gzlishigoogle.js
 gter.net##.bottom
 doii.cc##.w-\[200px\].fixed
 ltaaa.com##.txtads
@@ -19101,7 +19096,6 @@ kxdw.com###downloadTop
 qq.com,yxad.com##.l_qq_com
 ||touimg.com/u/20200306/12094716.gif
 my0511.com###renmenzwad
-###Banner728x90
 2345.com###leftSideBar
 @@||costco.com.tw/jsps/website/zh/images/location/AD
 pconline.com.cn##.m-JCZ-scrollBlock
@@ -19470,7 +19464,6 @@ xiaoz.me###mygg
 sogou.com#?#div[class^="right-feedback"]:-abp-has(>.list-step-title:-abp-contains(网游))
 rising.cn###viphui
 /ad728.png$image
-###BodyAd
 ruanyifeng.com###gd1
 ||site-bk.oss-cn-shenzhen.aliyuncs.com/img/aliyun/
 bjhockey.org###homeVideoModal
@@ -19927,7 +19920,6 @@ gucheng.com##a[href*=".liaogu.com"]
 axios-js.com##.recommand
 eepw.com.cn###logoSearchNews + .marb10
 @@||gtimg.com/adplugin/js/adplayer.js
-###BigBoxAd
 /nativeads-v2.js$script
 /banner/html/zone?zid=
 ting89.com,tingshuge.com##.banner688_1
@@ -20364,6 +20356,7 @@ iplark.com##div[class^="banner"]
 /ntfc.php?$script
 cnblogs.com##.c_ad_block
 ditu.so.com##a[class^="index-bcItem"]
+||shulihua.net/js/yegonggao.js
 ||smqzj.com/seo.js
 tigtag.com##.custom-box02
 ||pl520.com^$third-party
@@ -20581,6 +20574,7 @@ cnyes.com#?#.content-main > div:-abp-has(>div[id^="div-gpt-ad"])
 lysq.com##div[id^="followDiv_"]
 58.com#?#.zzinfo:-abp-has(.zhiding_icon)
 1688.com##.sm-offer-item[p4p*=".1688."]
+||shuowan.com/Public/shuo/20160119/569dafddd13be.jpg
 ://www.*.com/*/-1/327/$script,subdocument,third-party,xmlhttprequest
 baidu.com##.img-adv-swap1
 _120_600_
@@ -20754,7 +20748,6 @@ ipv6.baidu.com,www.baidu.com,www1.baidu.com,xueshu.baidu.com###content_right > t
 /script/ippg.js$third-party
 g-mh.org,godamh.com##.adshow
 @@||dlkoo.cc/down/Copyright.js
-###BannerAds
 start.firefoxchina.cn##.mod-delay-resource
 so.com##div[id^="mohe-biu_360"] > .g-card
 @@||soufunimg.com/count/uvbforpc.js
@@ -22474,6 +22467,7 @@ jirou.com###guanggao
 mamibuy.com.tw##.content-ad-spa
 baidu.com##.bd-aside-ad
 stock87.com##div[id^="Javascript"]
+||sihbb.com/yang/
 17qingsong.com##.detail-gads
 ||szonline.net/static/js/ads.js
 ant.design###geektime
@@ -23834,7 +23828,6 @@ acgdoge.net,acglala.cc,chinalawedu.com,douyu.com,gmgard.com,hggard.com,iqiyi.com
 ||totheglory.im/pic/fangtuo.jpg
 fx168.com##.zixun_ad
 ||100669.com^$third-party
-###BannerAdvertisement
 tools.2345.com##._hb-box + .mod
 sina.com.cn##.clearAd
 ||ydstatic.com/dsp_website/
@@ -24375,7 +24368,6 @@ moonbbs.com##.dm-header-ad
 ||2345.com/guess/v1/adList
 2345.com##.lian-meng-box
 baidu.com#?#.container:-abp-has(>.bottom-section>.item_voice_room[data-yysid])
-###BannerAd
 qq.com##.sider_ad
 ||zhenben.cc/2000/
 yixingjia.com###wp > table[width="960"]
@@ -24772,6 +24764,7 @@ maoken.com###siderAd01
 ##.adside-box-index
 ###article_ad_container
 ###advert-display
+###BannerAdvert
 ##.ad_blk
 ###adsContainer
 ##.bottom-ad-desktop
@@ -25054,6 +25047,7 @@ maoken.com###siderAd01
 ###ad-300x250-sidebar
 ###ad-leadertop
 ###boxAdvert
+###BigboxAdUnit
 ###right_ad_1
 ###right_ad_2
 ###col-right-ad
@@ -25493,7 +25487,6 @@ maoken.com###siderAd01
 ###textad3
 ##.adsboxBtn
 ##.advn_zone
-##.gptslot
 ##.PcSideBarAd
 ##.banner-300x600
 ##.adSKY
@@ -25521,7 +25514,6 @@ maoken.com###siderAd01
 ###gameads
 ##.google_admanager
 ##.adsense160x600
-##.gpt-mpu-banner
 ##.first-leaderbord-adv
 ##.ad-small-1
 ##.gallery-ad-counter
@@ -25637,7 +25629,6 @@ maoken.com###siderAd01
 ###adsense_r_side_sticky_container
 ###pageRightAd
 ##.banner728-ad
-##.gpt-sticky-sidebar
 ##.dfp-ads-embedded
 ###ad-div-leaderboard
 ###adbackground
@@ -28220,7 +28211,6 @@ maoken.com###siderAd01
 ##.dfp_ad_content_top
 ###ad_bg
 ##.adslist
-##.gpt.top-slot
 ##.adContainerSide
 ##.ad-small
 ##.ads_top
@@ -28607,6 +28597,7 @@ maoken.com###siderAd01
 ###adcontainer5
 ##._SummaryPageSidebarStickyAdView
 ##.ad_background
+###Banner728x90
 ###adSection
 ##.adsbnr
 ###adcontainer2
@@ -29010,6 +29001,7 @@ maoken.com###siderAd01
 ##.ad_leader_plus_top
 ##.advert_300x250
 ###ad-300x250_mobile
+###BodyAd
 ##.adHolderStory
 ###rightAd
 ###gallery-sidebar-advert
@@ -29558,6 +29550,7 @@ maoken.com###siderAd01
 ##.firstAd-container
 ##.ad-size-leaderboard
 ##.display-advertisement
+###BigBoxAd
 ###textsponsor
 ##.advertising728
 ##.ad-floating
@@ -30280,7 +30273,6 @@ maoken.com###siderAd01
 ##.div-insticator-ad
 ##.adv-border
 ##.ad-masthead-1
-##.gptSlot__sticky-footer
 ##.ads-skin
 ##.box-footer-ad
 ##.before-header-ad
@@ -30433,6 +30425,7 @@ maoken.com###siderAd01
 ###ft-ads
 ##.adMessage
 ##.AdBody:not(body)
+###BannerAds
 ###section_ad
 ##.Article-advert
 ##.ad-container-inthread
@@ -30814,7 +30807,6 @@ maoken.com###siderAd01
 ##.Ad_container
 ##.ad--sticky
 ##.adblade-container
-##.gradientAd
 ##.ad-halfpage
 ##.ad_in_article
 ##.ad-article-wrapper
@@ -31802,7 +31794,6 @@ maoken.com###siderAd01
 ###adHolder3
 ###adHolder2
 ###BottomRightAdWrapper
-##.gptSlot-outerContainer
 ##.ad-permalink
 ###ad_footer1
 ##.ads-rectangle
@@ -32262,7 +32253,6 @@ maoken.com###siderAd01
 ##.advertisement_mobile
 ##.desktop-article-top-ad
 ###rightAd_rdr
-##.gptSlot
 ##.dart-ad-title
 ##.adv-top-page
 ##.gallery-ad-overlay
@@ -33763,6 +33753,7 @@ maoken.com###siderAd01
 ###SidebarAdContainer
 ###adspot
 ##.ads-300x600
+###BannerAdvertisement
 ##.ad_top_3
 ##.adwordsHeader
 ###adv-scrollable
@@ -34356,6 +34347,7 @@ maoken.com###siderAd01
 ###bottommpuAdvert
 ###footer-ad-col
 ###ad-halfpage
+###BannerAd
 ###adv-Middle
 ##.adindex
 ###rightSideAdvert
@@ -35138,6 +35130,7 @@ pramborsfm.com#@#.top-ads
 ##.submenu_ad
 ##.lead-ad
 davidsilverspares.co.uk#@#.greyAd
+##.gptSlot__sticky-footer
 ##.js-sidebar-ads
 ##.mini-ad
 ##a[href^="https://a.candyai.love/"]
@@ -35263,6 +35256,7 @@ huffpost.com#@#.connatix-wrapper
 ##.slideAd
 sinisterdesign.net#@#[href^="https://secure.bmtmicro.com/servlets/"]
 ##.pushDownAd
+##.gptslot
 ##.rectangle-ad
 ##.sponsored_box
 ##.mpuAdSlot
@@ -35285,6 +35279,7 @@ oogiri-chaya.com#@#.adsText
 cw.com.tw#@#.adActive
 ogiharadevelopment.net#@#.ad-hint
 ##.sponsored-ads
+##.gpt-mpu-banner
 ##.page-advertisement
 ##.slideshow-ad-wrapper
 ##.textAds
@@ -35376,6 +35371,7 @@ hdfcbank.com#@#.adLink
 thespruce.com#@#.mntl-leaderboard-spacer
 ##.island_ad
 ewybory.eu#@##adv-text
+##.gpt-sticky-sidebar
 ##.right_adskin
 verizonwireless.com#@#.contentAds
 ##.ion-ad
@@ -35562,6 +35558,7 @@ flat-ads.com,lastpass.com#@#.ad-img
 ##.n1ad-center-300
 dailymail.co.uk,namesecure.com#@#.adHolder
 renso-ruigo.com#@##header-ad
+##.gradientAd
 ##div[id^="rc-widget-"]
 gov.uk,videosalon.jp#@#.ad-widget
 ##.str-top-ad
@@ -36343,6 +36340,7 @@ miuithemers.com#@##ads-left
 ##.small_ad_bg
 ##.pages__ad
 ##.sidebox_ad
+##.gptSlot-outerContainer
 suntory.co.jp#@##page_ad
 ##.header-adbanner
 ##.ympb_target
@@ -36668,6 +36666,7 @@ iwakuni-fudosan.jp,k24tv.co.ke#@#.top-ad
 ##a[href^="https://s.zlink3.com/"]
 ##.vs-advert-300x250
 ##.headline-ads
+##.gptSlot
 ##.nav-ad
 ##.OUTBRAIN
 ##.leaderboard.advert
@@ -37372,6 +37371,7 @@ austurfrett.is,boards.4chan.org,boards.4channel.org#@#.middlead
 amtrak.com#@#.ads-border
 ##.pix_adzone
 iwakuni-fudosan.jp#@#.ad__item
+##.gpt.top-slot
 ##.sponsors-module
 ##.textLinkAd
 ##.serviceAd
@@ -38522,7 +38522,6 @@ tei-c.org#@##msad
 ||mainadcenter.com^$document
 ||schedulerationally.com^$document
 ||frequentjam.com^$document
-||ad-mixr.com^$third-party
 ||tatrck.com^$document
 ||bucksmein.com^$document
 ||cashgzb.com^$document
@@ -38704,7 +38703,6 @@ tei-c.org#@##msad
 ||ak-is2.net^$document
 ||broadlyjukeboxunrevised.com^$document
 ||ntesgsght.com^$document
-||ad-tech.ru^$third-party
 ||n91hg.com^$document
 ||wbidder3.com^$document
 ||s3g6.com^$document
@@ -38741,7 +38739,6 @@ tei-c.org#@##msad
 ||omg10.com^$document
 ||stake.com/*&clickId=$document
 ||betmenaff.com^$document
-||ad-nex.com^$third-party
 ||izeeto.com^$document
 ||awecrptjmp.com^$document
 ||aboutads.quantcast.com^$third-party
@@ -38963,7 +38960,6 @@ tei-c.org#@##msad
 ||bestcleaner.online^$document
 ||mediahell.world^$document
 ||adtelligent.com^$document
-||ad-adapex.io^$third-party
 ||cm65.com^$document
 ||paid.outbrain.com^$document
 ||exxtended-access.com^$document
@@ -38973,7 +38969,6 @@ tei-c.org#@##msad
 ||pushub.net^$document
 ||vmmcdn.com^$document
 ||landerhq.com^$document
-||ad.plus^$third-party
 ||coticoffee.com^$document
 ||appslime.com^$document
 ||excellingvista.com^$document
@@ -39003,7 +38998,6 @@ tei-c.org#@##msad
 ||5wzgtq8dpk.com^$document
 ||roots.baby^$document
 ||mgid.com^$document
-||ad-arrow.com^$third-party
 ||popcash.net^$document
 ||exclkplat.com^$document
 ||123date.me^$third-party
@@ -39016,7 +39010,6 @@ tei-c.org#@##msad
 ||nxt-psh.com^$document
 ||activedancer.com^$third-party
 ||gkrtmc.com^$document
-||ad.style^$third-party
 ||animeloundry.com^$document
 ||hfr67jhqrw8.com^$document
 ||ojrq.net^$document
@@ -39122,6 +39115,7 @@ croxyproxy.rocks###croxyExtraZapper
 ||tube8.*/_xa/ads
 ||yeesshh.com^$popup
 prepostseo.com###after_button_ad_desktop
+||ad-mixr.com^$third-party
 ||mps.nbcuni.com/fetch/ext/
 ||ghostnewz.com^$popup
 purediablo.com###leader-desktop
@@ -39322,7 +39316,6 @@ deckstats.net###header_right_big
 timesofmalta.com###inscroll-banner
 ||tlavideo.com/affiliates/$third-party
 ||difice-milton.com^$popup
-sporcle.com##.IMGgi
 ||qwikln.com^$popup
 ||ocmhood.com^$popup
 forbes.com###cta-builder
@@ -39963,6 +39956,7 @@ nhl.com##.-mrec
 ||seedtag.com^$third-party
 ||trkings.com^$popup
 ||benoopto.com^$popup
+||ad-adapex.io^$third-party
 ||coincarp.com/script/position_name.js
 seafoodsource.com###Ad1-300x250
 ||cloudfront.net/css/*.min.js$script,third-party
@@ -40081,7 +40075,6 @@ fool.com###articles-top
 ||daftporn.com/out.php?$popup
 ||sexplaycam.com^$third-party
 ||cdnintech.com/web/frontend/www/assets/*/js/adsLoader.js
-games.washingtonpost.com##.HomeCategory__ads___aFdrmx_3
 ||prwave.info^$popup
 ||era67hfo92w.com^$popup
 ||fwpub1.com^$domain=ndtv.com|ndtv.in
@@ -40283,6 +40276,7 @@ vueuse.org###bb-banner
 @@||thegay.com/upd/*/static/js/*.js|$domain=thegay.com
 ||click.quk.com^$popup
 ||www-idm.com/wp-content/uploads/2022/02/bitcoin.png
+||ad-nex.com^$third-party
 ||llpgpro.com^$popup
 vscode.one###flamelab-convo-widget
 ||ndcomemunica.com^$popup
@@ -40688,7 +40682,6 @@ cityandstateny.com###atlas-module
 ||offersuperhub.com^$popup
 ||reebr.com^$popup
 ultrabookreview.com###zzifhome2
-planningportal.co.uk##.HeaderAdArea__HeaderAdContainer-sc-1lqw6d0-0
 ||aoneroom.com/wefeed-h5-bff/ad/$xmlhttprequest
 canberratimes.com.au,examiner.com.au,theland.com.au,whoscored.com###billboard-container
 satisfactory-calculator.com###DynamicWidth-Slot-2
@@ -41454,6 +41447,7 @@ musescore.com###ad_cs_12219747_728_90
 ||bobabillydirect.org^$popup
 ||go2affise.com^$popup
 ||missav.com/pop?$popup
+||ad-arrow.com^$third-party
 radiosurvivor.com,thewashingtonstandard.com,vgleaks.com###text-13
 ||yieldkit.com^$third-party
 ||admost.com^$third-party
@@ -41905,7 +41899,6 @@ lordz.io###lordz-io_300x250
 ||sonobi.com^$third-party
 ||yahoo.com/sdarla/
 ||omguk.com/i/
-semiconductor-today.com##.Horiba-banner
 ||etxt.biz/data/rotations/
 titantv.com###GridPlayer
 ||streamateaccess.com^$third-party
@@ -43512,7 +43505,6 @@ phpbb.com###page-footer > h3
 europeangaming.eu###mvp-leader-wrap > a[href^="https://www.softswiss.com/"]
 ||chicks4date.com^$popup
 gamepur.com###top-sticky-sidebar-wrapper
-artsy.net##.IITnS
 ||bildirim.eu^$third-party
 ||cheerpantyhose.com/cds/
 atptour.com###footerPartners
@@ -45762,6 +45754,7 @@ apkmody.mobi###custom-container
 ||innovid.com/media/encoded/*.mp4$rewrite=abp-resource:blank-mp4,domain=ktla.com
 gamespot.com###block-72
 ||springserve.com^$~media,third-party
+||ad-tech.ru^$third-party
 ||netgames.io/js/page-ads.js
 ||rmaticalacm.info^$popup
 ||hqpornstream.com/pub/
@@ -46021,6 +46014,7 @@ binaries4all.com###payserver
 ||18teensex.tv/player/html.php$subdocument
 ||onlyalad.net^$third-party
 shareinvestor.com###sic_superBannerAdTop
+||ad.style^$third-party
 ||meherdewogoud.com^$popup
 ||intopicmedia.com^$third-party
 rediff.com###world_top
@@ -46330,7 +46324,6 @@ thefinancialexpress.com.bd###innerAds
 ||wvdme.com^$popup
 ||adclickbyte.com^$popup
 forums.anandtech.com,forums.pcgamer.com,forums.tomsguide.com,forums.tomshardware.com###footer_leaderboard
-metservice.com##.Header
 ||overcrowdsillyturret.com^$popup
 ||nativeone.pl^$third-party
 ||iframe.adultfriendfinder.com^$third-party
@@ -46785,7 +46778,6 @@ mediamass.net###google
 ||manga18fx.com/tkmo2023/
 ||contentexchange.me/widget/$third-party
 soapcalc.net###SidebarLeft
-mope.io##.Home__home-ad-wrapper
 ||asgclickpp.com^$popup
 food52.com###jw_iframe
 cined.com###right-widget-top-ads_widget-23
@@ -46912,7 +46904,6 @@ thewashingtonstandard.com###text-9
 ||affiliategroove.com^$third-party
 ||autotrader.co.za/partners/
 ||fireflyengagement.com^$third-party
-news.bloomberglaw.com##.HeaderAdSpot_height_1B2M2
 allrecipes.com###mm-ads-leaderboard-spacer_1-0
 point2homes.com###smartAsset
 ||novitrk7.com^$popup
@@ -47006,6 +46997,7 @@ bluejaysnation.com,canucksarmy.com,dailyfaceoff.com,flamesnation.ca,oilersnation
 ||172.255.6.139^$popup
 standard.co.uk###polarArticleWrapper
 ||theepsie.com^$popup
+||ad.plus^$third-party
 ekathimerini.com###nx-stick-help
 ||news.mydramalist.com/js/cocobid.js
 ||playbuzz.com/embed/$script,third-party
@@ -47405,6 +47397,7 @@ trueamateurporn.org##.ad-row-x
 livescores.biz##.odds-market
 titantv.com##.gpAdBox
 @@||thetvdb.com/banners/$image,domain=tvtime.com
+sporcle.com##.IMGgi
 meijer.com##.sponsoredproducts
 rabble.ca##.grey-cta-block
 watchmygf.me##.publicity
@@ -48314,6 +48307,7 @@ nexusmods.com##.agroup
 nettv4u.com##.desk_only
 theonion.com##.theonion-frame-ad-large
 hbr.org##.partner-center
+games.washingtonpost.com##.HomeCategory__ads___aFdrmx_3
 trueachievements.com##.dyn-lb
 yahoo.com##[data-wf-beacons]
 krebsonsecurity.com##.a-statement
@@ -49068,6 +49062,7 @@ ians.in##.add-inner
 greekcitytimes.com##.greek-2after-post
 twitch.tv##.video-player--stream-display-ad_lower-third {height:100% !important;}
 livejournal.com##[style$="width: 300px;"]
+planningportal.co.uk##.HeaderAdArea__HeaderAdContainer-sc-1lqw6d0-0
 netflixjunkie.com##.es-ad-space-container
 dailywire.com##.all-page-banner
 etfexpress.com##img[width="970"][height="250"]
@@ -50590,6 +50585,7 @@ geotastic.net##.ad-970x250
 tomsguide.com##.hawk-root
 tech.hindustantimes.com##.m-to-add
 fodors.com##.video-inline
+semiconductor-today.com##.Horiba-banner
 linkedin.com##iframe[componentkey$="_ad"]
 thisismoney.co.uk##ad-slot
 slashdot.org#?#.fhitem-story.fhitem:has-text(Sponsored Content)
@@ -52594,6 +52590,7 @@ socialblade.com##[class*="container/ads"]
 giphy.com##div[class^="ads_"]
 golfdigest.com##.adSlot
 msn.com##.display-ad-container
+artsy.net##.IITnS
 checkfelix.com,kayak.*,swoodoo.com##.ev1_-results-list > div > div > div > div.G-5c[role="tab"][tabindex="0"] > .yuAt-pres-rounded
 pornhd.com##.footer-zone
 becleverwithyourcash.com##.sidebar-ad-section
@@ -55982,6 +55979,7 @@ farmersjournal.ie##.gadvertisementheader
 abovethelaw.com##.sidebar-sponsored
 startup.ch##.smallbanner
 @@://127.0.0.1$generichide
+metservice.com##.Header
 quora.com##.q-sticky[style*="box-sizing: border-box; position: sticky;"]:has(.qu-flexDirection--column[style*="min-height:"] > .dom_annotate_google_ad)
 flipline.com##.box_grey
 tvfanatic.com##.feed_holder
@@ -56499,6 +56497,7 @@ buzzfeed.com##.js-bfa-impression
 xgroovy.com##.headP
 hancinema.net##[class^="wmls_"]
 cryptoslate.com##.top-sticky
+mope.io##.Home__home-ad-wrapper
 dailykos.com##.ad_leaderboard__container
 news.yahoo.com###sda-mid-right-iframe
 hentaihaven.xxx##.vrav_a_pc
@@ -56654,6 +56653,7 @@ pakobserver.net##.tdi_124
 bing.com##div[aria-label$="ProductAds"]
 dailyvoice.com##.b-banner
 thetoyinsider.com##.header-drop-zone
+news.bloomberglaw.com##.HeaderAdSpot_height_1B2M2
 niagarafallsreview.ca,stcatharinesstandard.ca,therecord.com,thespec.com,thestar.com,wellandtribune.ca##.article-pe-video-wrapper
 numuki.com##.top-banner-responsive-wrapper
 sexseeimage.com##.order-1
