@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2026-10-30 22:38:18
+! Last Modified: 2026-10-31 04:13:59
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 ||com/adimg
@@ -13942,7 +13942,6 @@ _tm11_pmt_
 ||5184.com/container/html/news_view_gg
 ||auto-online.com.tw/vendor_data/
 ||63ys.com/ggg/
-||yzpsb.net/1.js
 ||cdn.haokongbu1.com^*.js
 ||prettyvirgin.com/images/banners/
 /xiwang/dfumeiti.js
@@ -22810,7 +22809,6 @@ qinbing.cn##.day
 36dm.club,36dm.com,acgsou.com##img[width="250"][height="250"]
 googleads.g.doubleclick.net###mys-wrapper
 /beardeddragon/drake.js$script
-###ad_rect
 kanju.ai##.movie-player-info-ad-grid
 jinse.com##.js-spread__main
 daniao.org,geekpark.net,speedtest.cn##.sponsor
@@ -23296,6 +23294,7 @@ map.baidu.com##.damoce-search-item
 hoteastday.com##.sessionSub
 ###SponsoredAds
 @@||tmall.com/go/*/banner.php
+||yzpsb.net/1.js
 10jqka.com.cn##.wbanner
 qzwb.com##.qzw_live_img
 /ftt2/js.php$script
@@ -30559,7 +30558,6 @@ maoken.com###siderAd01
 ##.advertisement-footer
 ##.BigBoxAd
 ##.horizontal_ads
-##.module__ad-wide
 ###adwidget-6
 ###adwidget-5
 ##.ad-468x60
@@ -32585,6 +32583,7 @@ maoken.com###siderAd01
 ##.adspot468x60
 ##.adunit-googleadmanager
 ###home_mpu
+###ad_rect
 ###ad_sidebar_1
 ##.adsense-ads
 ##.mobileAppAd
@@ -35699,6 +35698,7 @@ amtrak.com#@#.ads-block
 ##.movable-ad
 ##.sponsorStrip
 spoilertv.com#@##adsensewide
+##.module__ad-wide
 ##.square-sponsorship
 rupors.com#@#.advertSlider
 ##.priad-1
@@ -40112,7 +40112,6 @@ modelhorseblab.com#@#.ad_global_header
 ||blendfencingprune.com^$popup
 ||dailyc24.com^$popup
 ||tjwsg.com^$popup
-||babepedia.com/iStripper/
 ||georealcdn.com/exo/
 ||23.109.170.228^$popup
 ||thesafersearch.com^$popup
@@ -47741,6 +47740,7 @@ hltv.org##csmoney-skins-widget
 chicago.suntimes.com,mangasect.com,manhuaplus.com##.OUTBRAIN
 unb.com.bd##img[style^="width:700px; height:70px;"]
 ar15.com##.minis
+||babepedia.com/iStripper/
 macrotrends.net###subLeaderboardTag
 golflink.com##.desktop-top-fixed-ad
 usnews.com##.ad-spacer__AdSpacer-sc-nwg9sv-0
@@ -53840,7 +53840,6 @@ getcomics.org##.gjqry
 wikifeet.com##[href="https://www.feetfix.com"]
 wtop.com##.post--sponsored
 salon.com#?#.title:has-text(Advertisement)
-ebony8.com,lesbian8.com,maturetubehere.com###player_add
 greatist.com##aside
 donegaldaily.com##.inpage_banner
 downloads.codefi.re###spo
@@ -55998,6 +55997,7 @@ hqpornstream.com##.spot-block
 @@||doubleclick.net/ddm/$image,domain=aetv.com|fyi.tv|history.com|mylifetime.com
 @@||g.doubleclick.net/gampad/live/ads?*tver.$xmlhttprequest,domain=imasdk.googleapis.com
 xhamster.com##.wio-p
+ebony8.com,lesbian8.com,maturetubehere.com###player_add
 @@||google.com/recaptcha/$csp,subdocument
 androidadult.com##.adswait
 javhub.net##[href^="https://r.trwl1.com/"]
