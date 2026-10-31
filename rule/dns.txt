@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-10-31 04:13:59
+! Last Modified: 2026-10-31 10:56:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -3664,6 +3664,7 @@ advertisers.js|
 ||consortsitters.com^
 ||weznkotoko.com^
 ||eartabunseely.com^
+||hweianpqxl.icu^
 ||slimgather.com^
 ||todditehexarch.com^
 ||deckedpreeze.com^
@@ -6170,7 +6171,6 @@ CV-4923
 ||l4otxc.com^
 ||zjkt6ew4cp.com^
 ||xo2ra1fu7.com^
-||hweianpqxl.icu^
 ||tpvqrzryebtfhu.com^
 ||thuk8hg48.com^
 ||ainb12261zh.com^
@@ -10546,6 +10546,7 @@ ubmcmm.baidustatic.com
 ||cash4members.com^
 ||cablishgenial.com^
 ||auqiggoxbmdpa.online^
+||coolserving.com^
 ||aqlwabon.in^
 ||10dc04504e.com^
 ||chasmsrecite.cyou^
@@ -17733,7 +17734,6 @@ ubmcmm.baidustatic.com
 ||epxniaadddb.com^
 ||cyrola.net^
 ||dmcyifgevdszu.online^
-||coolserving.com^
 ||crossescystin.cyou^
 ||hubbingdjuka.qpon^
 ||edubhsffaoqcw.site^
@@ -23041,6 +23041,7 @@ ubmcmm.baidustatic.com
 ||hskdsrrhfeyqp.website^
 ||dsqxrp.com^
 ||fntkjylnahujh.space^
+||joananthemy.com^
 ||dahracppb.com^
 ||jmryuvgxhiars.site^
 ||huzzahfor.com^
@@ -33103,7 +33104,6 @@ ubmcmm.baidustatic.com
 ||licfmjuqoatiz.website^
 ||kassuternes.qpon^
 ||lscsexsnjacwr.site^
-||joananthemy.com^
 ||medium-while.com^
 ||nglmedia.com^
 ||predictivdisplay.com^
@@ -37065,6 +37065,7 @@ ubmcmm.baidustatic.com
 ||limcqpzfaknvd.site^
 ||pdwohozrzypdc.site^
 ||jpgfychjclfxh.site^
+||rcqeeybtrarwv.online^
 ||rapid-marketing.pro^
 ||mlpstxhfndbzv.site^
 ||lophmxguhglrt.space^
@@ -41239,6 +41240,7 @@ ubmcmm.baidustatic.com
 ||umlwjozzjdveq.website^
 ||tkgkobgpcislx.store^
 ||tptzdsroorcea.space^
+||yagjugaevqdek.space^
 ||vindictivemopenthrone.com^
 ||ruvtuzju.in^
 ||tilljoyfully.com^
@@ -47049,7 +47051,6 @@ ubmcmm.baidustatic.com
 ||ruthclovepuberty.com^
 ||scarabresearch.com^
 ||sunmediaads.com^
-||rcqeeybtrarwv.online^
 ||spokcqqaprhzj.site^
 ||saveterracehangnail.com^
 ||tuysldlbgygf.com^
@@ -49946,7 +49947,6 @@ ubmcmm.baidustatic.com
 ||ztmmjpwjmmmyo.space^
 ||d2r2yqcp8sshc6.cloudfront.net^
 ||dkre4lyk6a9bt.cloudfront.net^
-||yagjugaevqdek.space^
 ||youlouk.com^
 ||znlmhgpgcjxmr.site^
 ||cdn.throatbulge.com^
