@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: domain.txt
-! Last Modified: 2026-11-04 23:49:15
+! Last Modified: 2026-11-05 05:35:23
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -15953,6 +15953,7 @@ ubmcmm.baidustatic.com
 ||405kk.com^
 ||guyersludibry.cfd^
 ||increepbordure.com^
+||dudgeonideo.com^
 ||fermataintima.com^
 ||rupeesetnas.qpon^
 ||timbrelawsone.com^
@@ -24674,7 +24675,6 @@ ubmcmm.baidustatic.com
 ||hurtsbehalf.com^
 ||ifcscyvopxxbl.space^
 ||e224c6cedf.com^
-||dudgeonideo.com^
 ||fafmxyvqpegzw.site^
 ||geckad.com^
 ||hdnthowwkeibx.online^
@@ -26548,6 +26548,7 @@ ubmcmm.baidustatic.com
 ||dcvssaited.com^
 ||geodator.com^
 ||girls-romancehaven.com^
+||insultcall.com^
 ||e3ba2130e2.com^
 ||epjlfziryrpkg.site^
 ||hcicftfkflmxa.site^
@@ -31200,6 +31201,7 @@ ubmcmm.baidustatic.com
 ||numberium.com^
 ||mzprtajs.com^
 ||iztleyodels.shop^
+||priggedemim.com^
 ||iwsvytqwfxljp.site^
 ||meuteuvre.cfd^
 ||nppcvydbsljye.site^
@@ -36596,7 +36598,6 @@ ubmcmm.baidustatic.com
 ||lluebjiimznuz.site^
 ||ltbzdstsmjiop.space^
 ||physicallylee.com^
-||insultcall.com^
 ||knzympordzwua.website^
 ||pollpublicly.com^
 ||jnps3tlw.xyz^
@@ -41236,7 +41237,6 @@ ubmcmm.baidustatic.com
 ||prplad.com^
 ||revealingplacingpopped.com^
 ||universityshocksooner.com^
-||priggedemim.com^
 ||rcvriqufiwtct.site^
 ||spineporousposter.com^
 ||qetsjadxfjtzq.online^
@@ -46499,6 +46499,7 @@ ubmcmm.baidustatic.com
 ||vodobyve.pro^
 ||rqjziglrehnil.website^
 ||smglvclyfsfbt.website^
+||vyaxpakflzzvt.space^
 ||qrdeojhkzcnux.online^
 ||trackstracker.com^
 ||stallsobservance.com^
@@ -51314,7 +51315,6 @@ ubmcmm.baidustatic.com
 ||ycabzuutwyjqh.online^
 ||wekeahzucvmgn.website^
 ||zutwucwehchzl.site^
-||vyaxpakflzzvt.space^
 ||xdmanage.com^
 ||yduxbkmeboovj.website^
 ||vzafeclhxfuym.website^
@@ -51794,6 +51794,7 @@ ubmcmm.baidustatic.com
 ||yectwxcyecvqb.site^
 ||wayanatomyunavailable.com^
 ||zeroglamour.com^
+||d1lihuem8ojqxz.cloudfront.net^
 ||ycuixpwkugaot.space^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||d2zbpgxs57sg1k.cloudfront.net^
@@ -53101,4 +53102,3 @@ ubmcmm.baidustatic.com
 ||ad.l2b.co.za^
 ||da6zbf1armlme.cloudfront.net^
 ||rtb-1.jizzberry.com^
-||d1lihuem8ojqxz.cloudfront.net^

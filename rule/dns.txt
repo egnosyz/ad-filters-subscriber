@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-11-04 23:49:15
+! Last Modified: 2026-11-05 05:35:23
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
@@ -16071,6 +16071,7 @@ ubmcmm.baidustatic.com
 ||405kk.com^
 ||guyersludibry.cfd^
 ||increepbordure.com^
+||dudgeonideo.com^
 ||fermataintima.com^
 ||rupeesetnas.qpon^
 ||timbrelawsone.com^
@@ -24794,7 +24795,6 @@ CV-4923
 ||hurtsbehalf.com^
 ||ifcscyvopxxbl.space^
 ||e224c6cedf.com^
-||dudgeonideo.com^
 ||fafmxyvqpegzw.site^
 ||geckad.com^
 ||hdnthowwkeibx.online^
@@ -26668,6 +26668,7 @@ CV-4923
 ||dcvssaited.com^
 ||geodator.com^
 ||girls-romancehaven.com^
+||insultcall.com^
 ||e3ba2130e2.com^
 ||epjlfziryrpkg.site^
 ||hcicftfkflmxa.site^
@@ -31322,6 +31323,7 @@ CV-4923
 ||numberium.com^
 ||mzprtajs.com^
 ||iztleyodels.shop^
+||priggedemim.com^
 ||iwsvytqwfxljp.site^
 ||meuteuvre.cfd^
 ||nppcvydbsljye.site^
@@ -36718,7 +36720,6 @@ CV-4923
 ||lluebjiimznuz.site^
 ||ltbzdstsmjiop.space^
 ||physicallylee.com^
-||insultcall.com^
 ||knzympordzwua.website^
 ||pollpublicly.com^
 ||jnps3tlw.xyz^
@@ -41358,7 +41359,6 @@ CV-4923
 ||prplad.com^
 ||revealingplacingpopped.com^
 ||universityshocksooner.com^
-||priggedemim.com^
 ||rcvriqufiwtct.site^
 ||spineporousposter.com^
 ||qetsjadxfjtzq.online^
@@ -46621,6 +46621,7 @@ CV-4923
 ||vodobyve.pro^
 ||rqjziglrehnil.website^
 ||smglvclyfsfbt.website^
+||vyaxpakflzzvt.space^
 ||qrdeojhkzcnux.online^
 ||trackstracker.com^
 ||stallsobservance.com^
@@ -51436,7 +51437,6 @@ CV-4923
 ||ycabzuutwyjqh.online^
 ||wekeahzucvmgn.website^
 ||zutwucwehchzl.site^
-||vyaxpakflzzvt.space^
 ||xdmanage.com^
 ||yduxbkmeboovj.website^
 ||vzafeclhxfuym.website^
@@ -51916,6 +51916,7 @@ CV-4923
 ||yectwxcyecvqb.site^
 ||wayanatomyunavailable.com^
 ||zeroglamour.com^
+||d1lihuem8ojqxz.cloudfront.net^
 ||ycuixpwkugaot.space^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||158.247.208.
@@ -53231,6 +53232,5 @@ CV-4923
 ||ad.l2b.co.za^
 ||da6zbf1armlme.cloudfront.net^
 ||rtb-1.jizzberry.com^
-||d1lihuem8ojqxz.cloudfront.net^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||util-*.simply-hentai.com^
