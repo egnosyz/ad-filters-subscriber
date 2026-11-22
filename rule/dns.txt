@@ -1,7 +1,28 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2026-11-22 11:43:45
+! Last Modified: 2026-11-22 23:44:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
+||allyes.
+||icast.
+||gg.
+||union.
+||ad.
+||ads.
+||cnzz.
+||adsfile.
+||adserver.
+||adservice.
+||adpic.
+||sax.sina.
+||biz5.
+||adsense.
+||xmindchina.
+||ggg.
+||admaster.
+||googleadservices.
+||saxs.sina.
+||adsame.
 ! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
 doubleclick.net
 yihuifu.cn
@@ -85,27 +106,71 @@ chemdraw.com.cn
 huishenghuiying.com.cn
 cm.jd.com
 logoshejishi.com
-! 👇This Part Merge from: 乘风 (https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt)
-||allyes.
-||icast.
-||gg.
-||union.
-||ad.
-||ads.
-||cnzz.
-||adsfile.
-||adserver.
-||adservice.
-||adpic.
-||sax.sina.
-||biz5.
-||adsense.
-||xmindchina.
-||ggg.
-||admaster.
-||googleadservices.
-||saxs.sina.
-||adsame.
+! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
+||adx.
+||adx-
+||adsfs.
+||adsdk.
+MRelateFeedAd
+||adsmind.
+||bigdata.
+||sell*.etlong.com^
+||smartads.
+||adshare.
+||dm-*.toutiao.com^
+||player.letvcdn.com*.swf|
+||d*.wanzhuang.com^
+||bj*.9669.cn^
+||adstats.
+||toujing*.top^
+||popup.*.js*
+||advert.
+||irs01.
+||advert-
+||adcolony.
+||advertising.
+||showad*
+||pagead.
+||djjca.
+||imageadv.
+||m-vali.cp31.ott.cibntv.net*.mp4
+||epochtimes^
+||ads*-normal-hl.zijieapi.com^
+||adapi.
+getAds|
+||adsfileretry.
+||cpro.
+||m7k4.com*.php?
+||adv.
+||adv-
+||appjiagu.
+||img.piaosugo.com*.jpg
+||adsmis.
+||sense-*.tapdb.net^
+||ping.*.sogou.com^
+||pc.min.js*
+||minero-proxy-*now.sh
+||pagead2.
+||p*-ad-sign.byteimg.com^
+||guangyaoli.
+||ading.
+||googleads.
+||umengacs.
+||ads-
+piao.js|
+oHead6205.appendChild( oScript6205);
+||ad-
+||vali-g1.cp31.ott.cibntv.net*.mp4
+||adxapi.
+||gg*.miguvideo.com^
+||adsence.
+||unityads.
+advertisers.js|
+||ap*.jj20.com^
+||yazhouyu.
+||advertise.
+||ap*.pl520.com^
+||tracker*.qcloud.com^
 ! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
 ||shouliang.52lvgucci.com^
 ||forad1.weimeicun.com^
@@ -3170,71 +3235,8 @@ iadctest.qwapi.com^
 ||stadig.ifeng.com^
 ||conf.hpplay.cn^
 ||bairenad.com^
-! 👇This Part Merge from: ADgk (https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt)
-||adx.
-||adx-
-||adsfs.
-||adsdk.
-MRelateFeedAd
-||adsmind.
-||bigdata.
-||sell*.etlong.com^
-||smartads.
-||adshare.
-||dm-*.toutiao.com^
-||player.letvcdn.com*.swf|
-||d*.wanzhuang.com^
-||bj*.9669.cn^
-||adstats.
-||toujing*.top^
-||popup.*.js*
-||advert.
-||irs01.
-||advert-
-||adcolony.
-||advertising.
-||showad*
-||pagead.
-||djjca.
-||imageadv.
-||m-vali.cp31.ott.cibntv.net*.mp4
-||epochtimes^
-||ads*-normal-hl.zijieapi.com^
-||adapi.
-getAds|
-||adsfileretry.
-||cpro.
-||m7k4.com*.php?
-||adv.
-||adv-
-||appjiagu.
-||img.piaosugo.com*.jpg
-||adsmis.
-||sense-*.tapdb.net^
-||ping.*.sogou.com^
-||pc.min.js*
-||minero-proxy-*now.sh
-||pagead2.
-||p*-ad-sign.byteimg.com^
-||guangyaoli.
-||ading.
-||googleads.
-||umengacs.
-||ads-
-piao.js|
-oHead6205.appendChild( oScript6205);
-||ad-
-||vali-g1.cp31.ott.cibntv.net*.mp4
-||adxapi.
-||gg*.miguvideo.com^
-||adsence.
-||unityads.
-advertisers.js|
-||ap*.jj20.com^
-||yazhouyu.
-||advertise.
-||ap*.pl520.com^
-||tracker*.qcloud.com^
+! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
+CV-4923
 ! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
 ||visageagar.com^
 ||corralsspatio.shop^
@@ -3361,7 +3363,6 @@ advertisers.js|
 ||nosefelt.com^
 ||duhrawhide.com^
 ||instarooliths.com^
-||gummy-debt.com^
 ||stgnvt25.cfd^
 ||couponbright.com^
 ||fancierregula.com^
@@ -3755,7 +3756,6 @@ advertisers.js|
 ||weznkotoko.com^
 ||amidsince.com^
 ||eartabunseely.com^
-||hweianpqxl.icu^
 ||slimgather.com^
 ||deckedpreeze.com^
 ||fclksuxbae.icu^
@@ -3856,7 +3856,6 @@ advertisers.js|
 ||540creative.net^
 ||cranchdotal.com^
 ||plumbicwooler.com^
-||xwafyzovqu.icu^
 ||cowpencinclis.com^
 ||townistchechia.com^
 ||amenpitau.com^
@@ -3916,7 +3915,6 @@ advertisers.js|
 ||uncrookcurry.com^
 ||ad-shield.cc^
 ||acarusglowing.com^
-||hweiopvvxd.icu^
 ||suprion.ru^
 ||yawnfulharpa.com^
 ||annussleys.com^
@@ -4159,7 +4157,6 @@ advertisers.js|
 ||summasaprobe.com^
 ||omnibuswaist.com^
 ||casherscamize.com^
-||jigool.org^
 ||4444zeply.com^
 ||exonerrotter.com^
 ||myagkotela.link^
@@ -4190,7 +4187,6 @@ advertisers.js|
 ||suddenlyany.com^
 ||grecingcloners.com^
 ||parrbetire.com^
-||tqbjevhkgw.icu^
 ||boohooonly.com^
 ||loader.motscroises.fr^
 ||distinguishanatotal.com^
@@ -4416,7 +4412,6 @@ advertisers.js|
 ||newtsbowk.com^
 ||justspoisure.com^
 ||virgosclavis.com^
-||jwxggyivum.icu^
 ||indusacta.com^
 ||studyingiodineproposal.com^
 ||horsiergrassed.com^
@@ -4505,7 +4500,6 @@ advertisers.js|
 ||outdrawcrayons.com^
 ||suerreguiler.cfd^
 ||baredagin.com^
-||infamouscomer.com^
 ||muggurssalited.com^
 ||emergehewhall.qpon^
 ||expertminus.com^
@@ -4606,7 +4600,6 @@ advertisers.js|
 ||loader.woxikon.es^
 ||maltedsanxious.com^
 ||asloader.merkur.de^
-||massivesalad.com^
 ||loader.woxikon.co^
 ||hilllilac.com^
 ||indurecarone.com^
@@ -4703,8 +4696,16 @@ advertisers.js|
 ||bouncyarrow.me^
 ||zowiedead.com^
 ||laymanesprit.com^
-! 👇This Part Merge from: anti-cv (https://easylist-downloads.adblockplus.org/v3/full/abp-filters-anti-cv.txt)
-CV-4923
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||sax*.sina.
+||zhizhizhizhi.oss-*.aliyuncs.com^
+||adi*.cnool.net^
+||same*.stockstar.com^
+||ax.*.ifeng.com^
+||impservice*.youdao.com^
+||sam*.baby-kingdom.com^
+||impservice*.yodao.com^
+||ja*.gamersky.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||a2pfs5k90i.com^
 ||graduate59.com^
@@ -5747,6 +5748,7 @@ CV-4923
 ||mtjaiko.com^
 ||btm9uso7t.com^
 ||vid12070hl.com^
+||jwxggyivum.icu^
 ||tggrurcutf.com^
 ||u6421d8aqt.com^
 ||m3v8x28jut.com^
@@ -5832,6 +5834,7 @@ CV-4923
 ||zfdfs1tpyd.com^
 ||qbyngdjq8g.com^
 ||s2dln6sdu.com^
+||infamouscomer.com^
 ||ny2oqsu7et.com^
 ||ads.yeeyi.com^
 ||hpflxxdwnbvpda.com^
@@ -6129,6 +6132,7 @@ CV-4923
 ||ggai12201cp.com^
 ||shxubwa.xyz^
 ||egvnfpnb31.com^
+||gummy-debt.com^
 ||bugs01140ko.com^
 ||gdqu.cn^
 ||d9zx24n0d.com^
@@ -6474,6 +6478,7 @@ CV-4923
 ||l4otxc.com^
 ||zjkt6ew4cp.com^
 ||xo2ra1fu7.com^
+||hweianpqxl.icu^
 ||tpvqrzryebtfhu.com^
 ||thuk8hg48.com^
 ||ainb12261zh.com^
@@ -6548,6 +6553,7 @@ CV-4923
 ||1hkhec0jk0.com^
 ||ajjo5hsvlp.com^
 ||ta7tfk0o2h.com^
+||xwafyzovqu.icu^
 ||symptom39.com^
 ||hacksaw37.com^
 ||annulment10.top^
@@ -6611,6 +6617,7 @@ CV-4923
 ||velocity30.com^
 ||elwd3duunc.com^
 ||zj5mqsb06x.com^
+||hweiopvvxd.icu^
 ||zh4qnnf63.com^
 ||adv-sv-show.focus.cn^
 ||inception27.com^
@@ -6843,6 +6850,7 @@ CV-4923
 ||xj63rov3m.com^
 ||3wzq2yxde.com^
 ||0e7mnbmbb.com^
+||tqbjevhkgw.icu^
 ||yuhn5w31n.com^
 ||1phyxws373.com^
 ||lp340p7czf.com^
@@ -7994,7 +8002,6 @@ CV-4923
 ||ainb12301zh.com^
 ||awcecrod.com^
 ||zdh10251lo.com^
-||wuliao.epro.sogou.com^
 ||sausage34.com^
 ||bugs01210ko.com^
 ||burette34.com^
@@ -8024,6 +8031,7 @@ CV-4923
 ||9fum.ifeng.com^
 ||gsk802061hh.com^
 ||og2ebeuxa.com^
+||jigool.org^
 ||pjcvnamenr.com^
 ||ftqn9wedv.com^
 ||product28.top^
@@ -8423,6 +8431,7 @@ CV-4923
 ||d3h02f4xol.com^
 ||9kos5nsw7.com^
 ||m4dynuge4.com^
+||massivesalad.com^
 ||reversible68.com^
 ||sx2sg2t5sd.com^
 ||akcuqkr.com^
@@ -9803,15 +9812,26 @@ ubmcmm.baidustatic.com
 ||8feichai.com^
 ||wizoevljj.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||sax*.sina.
-||zhizhizhizhi.oss-*.aliyuncs.com^
-||adi*.cnool.net^
-||same*.stockstar.com^
-||ax.*.ifeng.com^
-||impservice*.youdao.com^
-||sam*.baby-kingdom.com^
-||impservice*.yodao.com^
-||ja*.gamersky.com^
+||bdcpro*.techweb.com.cn^
+||dm*.yxlady.com^
+||uc*.atobo.com^
+||res*.pinpai8.cn^
+||gcw*.2liang.cn^
+||d*.ruiwen.com^
+||fanpingbi*.gaokao.com^
+||dn*.ixinwei.com^
+||a*.chajiaotong.com^
+||bdlm*.hc360.com^
+||ac*.faxingchina.com^
+||fpb1.chinacar.
+||ac*.786ip.com^
+||ya*.dwstatic.com^
+||d*.xinshipu.com^
+||qpb*.sohu.com^
+||static*.365inews.com^
+||union*.365inews.com^
+||ysdm*.ys137.com.cn^
+||at*.doubanio.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||cdnjs.mopair-erm.net^
 ||1.jushtong.com^
@@ -9972,6 +9992,7 @@ ubmcmm.baidustatic.com
 ||hapic1.zhuangxiu22.com^
 ||bd-china-1.appmobile.cn^
 ||bdjj.makepolo.net^
+||wuliao.epro.sogou.com^
 ||zx.docin.com^
 ||dmm.aizhan.com^
 ||o.027eat.com^
@@ -10545,27 +10566,6 @@ ubmcmm.baidustatic.com
 ||zgzxm.weathercn.com^
 ||dm.jb51.net^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||bdcpro*.techweb.com.cn^
-||dm*.yxlady.com^
-||uc*.atobo.com^
-||res*.pinpai8.cn^
-||gcw*.2liang.cn^
-||d*.ruiwen.com^
-||fanpingbi*.gaokao.com^
-||dn*.ixinwei.com^
-||a*.chajiaotong.com^
-||bdlm*.hc360.com^
-||ac*.faxingchina.com^
-||fpb1.chinacar.
-||ac*.786ip.com^
-||ya*.dwstatic.com^
-||d*.xinshipu.com^
-||qpb*.sohu.com^
-||static*.365inews.com^
-||union*.365inews.com^
-||ysdm*.ys137.com.cn^
-||at*.doubanio.com^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||ambroty.xyz^
 ||bigszjbmsvnl.com^
 ||adversaldisplay.com^
@@ -11074,7 +11074,6 @@ ubmcmm.baidustatic.com
 ||clearrobin.com^
 ||56ad42c3a8.com^
 ||banefulpunkas.com^
-||clubdombyssus.qpon^
 ||canyonconsultation.com^
 ||amazonrehedge.cyou^
 ||cdwmtt.com^
@@ -11673,7 +11672,6 @@ ubmcmm.baidustatic.com
 ||642596c296.com^
 ||baggy-water.com^
 ||303ag0nc7.de^
-||clumsybuttonbristle.com^
 ||aqatudxyzqtij.site^
 ||aldazincackled.shop^
 ||aqoifpujbbptd.space^
@@ -12468,7 +12466,6 @@ ubmcmm.baidustatic.com
 ||ahgmivwzpjuxz.site^
 ||aivwuxzgcygjq.site^
 ||bf1144fdfa.com^
-||cluckedzion.com^
 ||1nhe7v14t7ovqgr.cfd^
 ||atledandiekakis.cfd^
 ||1nqrqa.de^
@@ -12655,7 +12652,6 @@ ubmcmm.baidustatic.com
 ||bkxnutagaejor.online^
 ||291hkcido.de^
 ||awozdcvzjgbnh.online^
-||clueingmolochs.cfd^
 ||88a5ce7125.com^
 ||bkelikozpal.in^
 ||chagnougroalry.net^
@@ -13001,7 +12997,6 @@ ubmcmm.baidustatic.com
 ||aquwqzuahdxjm.site^
 ||bemoanhidlins.com^
 ||abiencerheas.com^
-||clueostensiblebureaucracy.com^
 ||bklihaatruags.website^
 ||bnrs.it^
 ||agfasjfhveoqf.online^
@@ -13375,7 +13370,6 @@ ubmcmm.baidustatic.com
 ||adzilla1.name^
 ||axvjfzbwezssw.site^
 ||bcxauquczqgci.site^
-||clugblieteuus.site^
 ||bhkpngxrdqwdp.site^
 ||accumulatecarefullysuction.com^
 ||autismspassers.cyou^
@@ -13996,7 +13990,6 @@ ubmcmm.baidustatic.com
 ||bookmsg.com^
 ||628f84ca27.com^
 ||brainlyads.com^
-||clungfellow.com^
 ||agerseyre.com^
 ||cldlr.com^
 ||auztzwjhpjwwm.site^
@@ -14279,7 +14272,6 @@ ubmcmm.baidustatic.com
 ||agort.xyz^
 ||arleneevite.com^
 ||cdnapi.net^
-||clunkyentirelinked.com^
 ||bestadload.com^
 ||7ce48c6052.com^
 ||cliquesteria.net^
@@ -17041,7 +17033,6 @@ ubmcmm.baidustatic.com
 ||azjqiqacpgz.in^
 ||adbwublzlyxvg.online^
 ||7lyonline.com^
-||clumperrucksey.life^
 ||camptwined.com^
 ||brittlesturdyunlovable.com^
 ||bnpuybapfktzr.online^
@@ -17421,6 +17412,8 @@ ubmcmm.baidustatic.com
 ||adapthopperpriest.com^
 ||beddingfetched.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||get-me-wow.
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||ethnicchristmassocks.com^
 ||htttkhcaclhsg.space^
 ||elerscxhgclau.site^
@@ -17796,7 +17789,6 @@ ubmcmm.baidustatic.com
 ||errors.house^
 ||gbjvzvvvnpfhc.site^
 ||eaetyfdjguduu.site^
-||inswepttillaea.cyou^
 ||ferntravelleddeduct.com^
 ||gaolageakali.cyou^
 ||elarekcrmtoed.online^
@@ -18189,6 +18181,7 @@ ubmcmm.baidustatic.com
 ||constantlyauthoritativegradually.com^
 ||dskatbcpbesgn.online^
 ||heleric.com^
+||clubdombyssus.qpon^
 ||galaxypush.com^
 ||diiurvdpkowra.site^
 ||imwwdjmnfcans.space^
@@ -19087,6 +19080,7 @@ ubmcmm.baidustatic.com
 ||crudenessfinishersacred.com^
 ||dentop.xyz^
 ||daqsvmdrgchu.com^
+||clumsybuttonbristle.com^
 ||humble-gap.com^
 ||cvzysdsrgupor.website^
 ||hyoswaxrtfvq.com^
@@ -19383,7 +19377,6 @@ ubmcmm.baidustatic.com
 ||hedgeabruptunlucky.com^
 ||cursorpreach.com^
 ||gwrsyyrghwnuo.space^
-||intelligenceretarget.com^
 ||dandlerguaninsanita.cfd^
 ||immaskmorabit.com^
 ||groupian.io^
@@ -20278,6 +20271,7 @@ ubmcmm.baidustatic.com
 ||departharpglove.com^
 ||ekfqaxxwnmqdb.website^
 ||dryperception.com^
+||cluckedzion.com^
 ||highcpmrevenuegate.com^
 ||inconsequentialsir.com^
 ||exxtended-access.com^
@@ -20510,6 +20504,7 @@ ubmcmm.baidustatic.com
 ||dszkfk.com^
 ||elatinerudesttryptic.cfd^
 ||decimalmasculineawe.com^
+||clueingmolochs.cfd^
 ||cqrvwq.com^
 ||gcedzxjqncgacv.com^
 ||gensonal.com^
@@ -21022,6 +21017,7 @@ ubmcmm.baidustatic.com
 ||haulcurvedpink.com^
 ||deputizepacifistwipe.com^
 ||ihqrcecwdfjjw.online^
+||clueostensiblebureaucracy.com^
 ||egaqgnwwapaqi.site^
 ||ezvijslewvvhu.store^
 ||futureads.io^
@@ -21529,6 +21525,7 @@ ubmcmm.baidustatic.com
 ||gklzfjohwrrvd.website^
 ||icubeswire.co^
 ||indulgencemolly.com^
+||clugblieteuus.site^
 ||exciting-meetcasual.com^
 ||humbleoven.pro^
 ||exptlgooney.com^
@@ -21931,7 +21928,6 @@ ubmcmm.baidustatic.com
 ||harmlesstranquilizer.com^
 ||hxjhfqrolubqs.space^
 ||hxlaealramyuy.site^
-||intellibanners.com^
 ||dratetillage.com^
 ||gjaetiklkqycy.online^
 ||cvqpuusbccduh.online^
@@ -22149,7 +22145,6 @@ ubmcmm.baidustatic.com
 ||eigzldopocmhs.online^
 ||culturetoolers.com^
 ||dudleyrevolutioninconsistent.com^
-||intellectualhide.com^
 ||gnzwwetudmvrd.space^
 ||ctheibgpttmxu.site^
 ||fbqmtmrjoxkfam.com^
@@ -22316,7 +22311,6 @@ ubmcmm.baidustatic.com
 ||drizzleplanet.com^
 ||grimlycask.com^
 ||espebwvbducri.space^
-||inswellbathes.com^
 ||hrsihnizgxjet.site^
 ||dsucpnsfxip.com^
 ||hoamingurus.cfd^
@@ -22371,6 +22365,7 @@ ubmcmm.baidustatic.com
 ||eqfarzroinvyy.space^
 ||garconleak.com^
 ||hcueoizkcchvy.com^
+||clungfellow.com^
 ||extinguishbethpasta.com^
 ||ekzyqldtqnnth.online^
 ||foxydoored.rest^
@@ -22743,6 +22738,7 @@ ubmcmm.baidustatic.com
 ||f872a92355.com^
 ||ewhbhpsapnlhz.site^
 ||gccdigaixnjow.site^
+||clunkyentirelinked.com^
 ||ghxjliswdiiax.space^
 ||imuyzqvydxswd.online^
 ||htigdigmhtbtq.site^
@@ -24175,7 +24171,6 @@ ubmcmm.baidustatic.com
 ||fuck-ads.vercel.app^
 ||ehdmskoumgzcv.online^
 ||hpslzsfai.com^
-||intellectualcarlaintended.com^
 ||ext-offer.com^
 ||crentexgate.com^
 ||hapqrakgdpnvg.online^
@@ -24407,7 +24402,6 @@ ubmcmm.baidustatic.com
 ||eticqqlihrwil.space^
 ||doorknockset.com^
 ||goaffmy.com^
-||insuranceobscure.com^
 ||fervorszymomin.com^
 ||ibirzxqcljqxw.site^
 ||discourageabjure.com^
@@ -25237,7 +25231,6 @@ ubmcmm.baidustatic.com
 ||cuzvahnulo.in^
 ||funoriskimo.cfd^
 ||homyacetize.com^
-||intelligenceadx.com^
 ||darkandlight.ru^
 ||dedicateimaginesoil.com^
 ||f19062be44.com^
@@ -26876,6 +26869,7 @@ ubmcmm.baidustatic.com
 ||crimsonserene.com^
 ||hoanxhazxowrv.site^
 ||iahnnpirzmphe.space^
+||clumperrucksey.life^
 ||curlsseizuregolan.com^
 ||dsfdzo.com^
 ||inadmissibleeyewitness.com^
@@ -26987,7 +26981,6 @@ ubmcmm.baidustatic.com
 ||dcvssaited.com^
 ||geodator.com^
 ||girls-romancehaven.com^
-||insultcall.com^
 ||e3ba2130e2.com^
 ||epjlfziryrpkg.site^
 ||heypreceding.com^
@@ -27421,8 +27414,6 @@ ubmcmm.baidustatic.com
 ||hollow-population.pro^
 ||hwpvqkwhlq.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||get-me-wow.
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||oofuyuofwnfex.site^
 ||kolackyrunrighagein.cyou^
 ||jgixqmqacjzkk.site^
@@ -27831,6 +27822,7 @@ ubmcmm.baidustatic.com
 ||oxrqbdaslqcek.space^
 ||omatri.info^
 ||kalganscope.com^
+||inswepttillaea.cyou^
 ||kubhwcmzzzmde.site^
 ||oqtdwteacikkzz.com^
 ||jdjridlvxwydy.site^
@@ -27892,7 +27884,6 @@ ubmcmm.baidustatic.com
 ||irriplaceableirriplaceablecompletioninheritance.com^
 ||kdlzhlzdielmy.site^
 ||kiwanisburials.qpon^
-||prhykyumvljjx.space^
 ||knucqgzjrzyxs.online^
 ||onvaitflpgiog.online^
 ||neatpiano.com^
@@ -29221,7 +29212,6 @@ ubmcmm.baidustatic.com
 ||interruptwhining.com^
 ||kopeukasrsiha.com^
 ||lksda.com^
-||pridingspaes.com^
 ||iuxrssmctvyft.space^
 ||nuchalebritelieger.qpon^
 ||kwjlveezlcgac.online^
@@ -29382,6 +29372,7 @@ ubmcmm.baidustatic.com
 ||kindleunfocusedunpaired.com^
 ||magsrv.com^
 ||pdvacde.com^
+||intelligenceretarget.com^
 ||mzlaaqztldbif.site^
 ||leadnote.me^
 ||ljjinnxdcknpy.online^
@@ -31941,6 +31932,7 @@ ubmcmm.baidustatic.com
 ||maonhrxyewyjr.com^
 ||mhmrksbozygwo.online^
 ||pjgydqynrpxh.com^
+||intellibanners.com^
 ||kempeyesome.com^
 ||jsmentry.com^
 ||nrjfaxyohfuvl.online^
@@ -32152,6 +32144,7 @@ ubmcmm.baidustatic.com
 ||pithyfigures.cyou^
 ||lakbheagdf.com^
 ||osgxzapi.in^
+||intellectualhide.com^
 ||mhvgzqdmtecnc.site^
 ||llaaeuwepty.com^
 ||pagolnhssj.com^
@@ -32323,6 +32316,7 @@ ubmcmm.baidustatic.com
 ||oainternetservices.com^
 ||ornafmlkuo.in^
 ||ketosesboltel.cfd^
+||inswellbathes.com^
 ||kkqtgjscgcpxz.com^
 ||ktimmewz.com^
 ||pahtfi.tech^
@@ -32586,7 +32580,6 @@ ubmcmm.baidustatic.com
 ||poetizesuaver.cfd^
 ||milseyratfink.qpon^
 ||obrqupzkarrdx.site^
-||pricklyassociation.com^
 ||outspangynic.com^
 ||kpqlrfyy.xyz^
 ||oblbafahuvebz.online^
@@ -33890,7 +33883,6 @@ ubmcmm.baidustatic.com
 ||pattyponderstuffy.com^
 ||kblitsylodivj.site^
 ||klyekatyvobsz.space^
-||priceynight.com^
 ||ktniifnh.com^
 ||llivctuazexrg.site^
 ||nutritioussilver.com^
@@ -34256,6 +34248,7 @@ ubmcmm.baidustatic.com
 ||myijptgjyj.com^
 ||mrtdjelutrffv.space^
 ||ipfovwmuaxcfw.site^
+||intellectualcarlaintended.com^
 ||iymwonglfflqj.space^
 ||pocfhggunmrpo.online^
 ||mesnagebobble.com^
@@ -34441,7 +34434,6 @@ ubmcmm.baidustatic.com
 ||olcrdqatcewmf.online^
 ||masqueradepatheticburden.com^
 ||ocmufsnhvypis.com^
-||prgvexaammwrj.online^
 ||jdufgkfwdygge.site^
 ||morningstraws.com^
 ||keyassumption.com^
@@ -34470,6 +34462,7 @@ ubmcmm.baidustatic.com
 ||looiewokselding.cfd^
 ||jedrgrklutyni.site^
 ||jl63v3fp1.com^
+||insuranceobscure.com^
 ||mopuscabin.qpon^
 ||jvhhjiikwjrpx.site^
 ||lakenebulareentry.com^
@@ -34648,7 +34641,6 @@ ubmcmm.baidustatic.com
 ||ngbixvopoqccq.website^
 ||nizamunstarlamano.cyou^
 ||oucouksirt.com^
-||priapicunbased.cyou^
 ||jihaxrndufelb.online^
 ||kivatweest.qpon^
 ||lthglhksymoun.online^
@@ -35234,6 +35226,7 @@ ubmcmm.baidustatic.com
 ||jwjtbna.com^
 ||nremovzosoxzu.online^
 ||phqcjlykoydpg.space^
+||intelligenceadx.com^
 ||iuqtmoblgqkgq.site^
 ||ogffa.net^
 ||oralismyelloch.com^
@@ -35294,7 +35287,6 @@ ubmcmm.baidustatic.com
 ||odulfytvuuibr.space^
 ||oeqwtcfk.com^
 ||obese-pin.com^
-||pridehickintimidating.com^
 ||omontdcqvjplm.online^
 ||jeflakrlrdysq.website^
 ||phialedamende.com^
@@ -36008,7 +36000,6 @@ ubmcmm.baidustatic.com
 ||overseastellsotherwise.com^
 ||omkbfnbbxccim.space^
 ||pgkmbmnndmwwo.online^
-||prickly-tradition.com^
 ||postalmapquell.com^
 ||kcnlbswxseble.online^
 ||ocdncyzrategi.space^
@@ -36619,7 +36610,6 @@ ubmcmm.baidustatic.com
 ||pigeonsresourcefulretired.com^
 ||irolzwiwjrlkm.site^
 ||palmyap.com^
-||prholuhyzkeea.site^
 ||jjjtbiggzzucf.online^
 ||mng-ads.com^
 ||mhiiafknctopm.site^
@@ -37015,6 +37005,7 @@ ubmcmm.baidustatic.com
 ||lluebjiimznuz.site^
 ||ltbzdstsmjiop.space^
 ||physicallylee.com^
+||insultcall.com^
 ||knzympordzwua.website^
 ||pollpublicly.com^
 ||ismyagiosdiodont.cyou^
@@ -37867,6 +37858,7 @@ ubmcmm.baidustatic.com
 ||uxhcxaomrnyqc.space^
 ||surrogateicybeagle.com^
 ||rovenskyward.com^
+||prhykyumvljjx.space^
 ||savttuegxztst.site^
 ||routeme.one^
 ||resentmentsadflew.com^
@@ -39221,6 +39213,7 @@ ubmcmm.baidustatic.com
 ||validcounter.com^
 ||q8ntfhfngm.com^
 ||stonysuingtartness.com^
+||pridingspaes.com^
 ||protrafficinspector.com^
 ||thronesisiac.cyou^
 ||unrulymedia.com^
@@ -40305,7 +40298,6 @@ ubmcmm.baidustatic.com
 ||valueclickmedia.com^
 ||unmossybitte.cyou^
 ||slavingaint.com^
-||waescyne.com^
 ||quksyhnvkuhru.website^
 ||stabledkindler.com^
 ||snapbagoarial.com^
@@ -41664,7 +41656,6 @@ ubmcmm.baidustatic.com
 ||sbydvwdgsfoqj.site^
 ||seethisinaction.com^
 ||thanksgivingcarpetspark.com^
-||waffingmythism.cyou^
 ||qqpwojgbqkvus.online^
 ||vdlvry.com^
 ||singlespray.pro^
@@ -41962,7 +41953,6 @@ ubmcmm.baidustatic.com
 ||traxltbwvenps.website^
 ||rkgzpyhholgnl.online^
 ||vjxqxsatxeaiv.site^
-||waeshana.com^
 ||rdcdzuzowsxnq.website^
 ||swiftlypairs.com^
 ||trashdisguisedextension.com^
@@ -42631,6 +42621,7 @@ ubmcmm.baidustatic.com
 ||rnb4bxd0.xyz^
 ||shedimlobbish.com^
 ||upbeatmeadow.com^
+||pricklyassociation.com^
 ||skirlsravager.com^
 ||qtnsjtkniokp.com^
 ||rgybahkdsqnsz.website^
@@ -43234,7 +43225,6 @@ ubmcmm.baidustatic.com
 ||shipsmotorw.xyz^
 ||spherepsoai.com^
 ||ttbm.com^
-||waexhoxdqigad.space^
 ||uncgeisllkmtn.website^
 ||spajgnyzbreeu.space^
 ||rashlyblowfly.com^
@@ -43887,6 +43877,7 @@ ubmcmm.baidustatic.com
 ||snhgshztmhr.com^
 ||tychon.bid^
 ||tajfgxiduzgby.site^
+||priceynight.com^
 ||scorchads.com^
 ||traditionblindness.com^
 ||tyxlrwhvkpmbz.space^
@@ -44093,7 +44084,6 @@ ubmcmm.baidustatic.com
 ||snubmailing.com^
 ||slate-assets.click^
 ||soillilac.com^
-||wagatihobble.click^
 ||ssjxkddegyvoo.site^
 ||qqfzedopftitm.website^
 ||tjkcibklcapsx.space^
@@ -44439,6 +44429,7 @@ ubmcmm.baidustatic.com
 ||qvjexxoliwpbk.site^
 ||shipmentdoorwaydecade.com^
 ||soleescapeprojects.com^
+||prgvexaammwrj.online^
 ||rzuitwlxozftj.website^
 ||rcjzipeazsuly.website^
 ||psaqzhkc.xyz^
@@ -44545,7 +44536,6 @@ ubmcmm.baidustatic.com
 ||pzlsmpdqmlowi.site^
 ||vpnonly.site^
 ||ttihclkpugctw.website^
-||wagerjoint.com^
 ||these-organization.pro^
 ||uolmtihdbvbjf.website^
 ||runtrafficcliks.com^
@@ -44631,6 +44621,7 @@ ubmcmm.baidustatic.com
 ||vopddrdsxkeff.space^
 ||scornwhile.com^
 ||vikablavflhe.com^
+||priapicunbased.cyou^
 ||pzyoijuqnkyol.site^
 ||shbnnjesjisqi.site^
 ||ribandsgantsl.cfd^
@@ -45321,6 +45312,7 @@ ubmcmm.baidustatic.com
 ||skbkubknjdecc.online^
 ||strangeremerged.com^
 ||uubjijfgcxule.site^
+||pridehickintimidating.com^
 ||tinsus.com^
 ||ramismguarabu.qpon^
 ||renovatepaperworkunion.com^
@@ -45983,6 +45975,7 @@ ubmcmm.baidustatic.com
 ||voselskqvlkxy.online^
 ||qknovjhjudmjd.space^
 ||regulationstranger.com^
+||prickly-tradition.com^
 ||redirect-path1.com^
 ||sovbqlhzoajtw.site^
 ||qsicrqoimhnzn.online^
@@ -46039,7 +46032,6 @@ ubmcmm.baidustatic.com
 ||vslnphbyuqbkz.site^
 ||uunelfvhqvtbe.website^
 ||vprtrfc.com^
-||wagenerastiancanters.cfd^
 ||straightenframe.com^
 ||seniorointmentseminar.com^
 ||topnewsgo.com^
@@ -46574,6 +46566,7 @@ ubmcmm.baidustatic.com
 ||turbulentoriginally.com^
 ||qbupzairypjtf.online^
 ||quanta-wave.com^
+||prholuhyzkeea.site^
 ||prksism.com^
 ||vpbjuracackcm.online^
 ||professionalflatly.com^
@@ -46824,7 +46817,6 @@ ubmcmm.baidustatic.com
 ||riprlpruktwdz.space^
 ||vnhjw2obvx3t13i624q28.cfd^
 ||undhertouchingth.org^
-||wafmedia6.com^
 ||temporalsewingsphere.com^
 ||taginova.xyz^
 ||rabiseater.cfd^
@@ -47054,7 +47046,6 @@ ubmcmm.baidustatic.com
 ||upyuxrgoeiwcn.site^
 ||voluminous-mine.com^
 ||shaledpyrexicchayote.cyou^
-||wafturebollard.com^
 ||toiletpaper.life^
 ||tiedexceed.com^
 ||spoedlyyhexxr.online^
@@ -47427,6 +47418,14 @@ ubmcmm.baidustatic.com
 ||rdrtrk.com^
 ||vlvsmfjibrzie.space^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
+||158.247.208.
+||23.109.82.
+||142.91.159.
+||cas.*.criteo.com^
+||allsportsflix.
+|167.206.10.148^
+||23.109.87.
+! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||wlgpiowclziox.space^
 ||wyvcioftcidpi.space^
 ||zqtxkjtaghrji.space^
@@ -47664,7 +47663,6 @@ ubmcmm.baidustatic.com
 ||ynwsxvtfm.com^
 ||z1yfwvm7hcjguz.cfd^
 ||xequdtvtefuzy.space^
-||d2cq71i60vld65.cloudfront.net^
 ||xemblluoltkpu.site^
 ||xsthwvgygulfk.space^
 ||cdn.rgrd.xyz^
@@ -47683,7 +47681,6 @@ ubmcmm.baidustatic.com
 ||yexhsrfcrukeg.online^
 ||d140sbu1b1m3h0.cloudfront.net^
 ||yudrrrrerqovu.site^
-||d2cmh8xu3ncrj2.cloudfront.net^
 ||wasntlocutor.cyou^
 ||yjjvzmruicyav.online^
 ||wcgbxouvm.com^
@@ -47835,7 +47832,6 @@ ubmcmm.baidustatic.com
 ||ywjvjschozjzq.online^
 ||d18ql5xgy7gz3p.cloudfront.net^
 ||xiapuhdhbdsmd.online^
-||d2dxy39sqorbhv.cloudfront.net^
 ||ylih6ftygq7.com^
 ||popmog.com^
 ||d1t1fxgxazche8.cloudfront.net^
@@ -48060,7 +48056,6 @@ ubmcmm.baidustatic.com
 ||zoaisgughwyvm.space^
 ||zsoizzlzhfsas.online^
 ||wlyzvscpimkxvl.com^
-||d2cgumzzqhgmdu.cloudfront.net^
 ||d21f25e9uvddd7.cloudfront.net^
 ||xegbbxuomwdgk.online^
 ||ztsfxujjez.com^
@@ -48220,6 +48215,7 @@ ubmcmm.baidustatic.com
 ||wishesantennarightfully.com^
 ||xkrihxceguhfe.site^
 ||d1aukpqf83rqhe.cloudfront.net^
+||waexhoxdqigad.space^
 ||xvgsvqvwscsrg.site^
 ||zicwghowpuhbj.website^
 ||wearisomejudge.com^
@@ -48880,7 +48876,6 @@ ubmcmm.baidustatic.com
 ||xuqvwjogpdglk.site^
 ||weepylack.com^
 ||xnfjictwvrnuz.site^
-||d2d6cf2do9znht.cloudfront.net^
 ||wghoubdaxpsik.site^
 ||webbedtrash.com^
 ||welllitratio.com^
@@ -49071,13 +49066,13 @@ ubmcmm.baidustatic.com
 ||xivtiwrjgqrpo.website^
 ||zmyvawmwezr.com^
 ||zztcrnayqaj.com^
+||wagatihobble.click^
 ||zitternborghi.com^
 ||yfsnorpbhiejq.website^
 ||xmqyjruq.com^
 ||zi8ivy4b0c7l.com^
 ||waveletiricize.cfd^
 ||xorxfgokyiygg.online^
-||d2d8qsxiai9qwj.cloudfront.net^
 ||waqool.com^
 ||zmxindivhhizc.space^
 ||zgnxnixkxhcik.website^
@@ -49468,6 +49463,7 @@ ubmcmm.baidustatic.com
 ||wasgiwiththinleld.org^
 ||yypmhepqhbnmc.site^
 ||zcexuriph.com^
+||wagerjoint.com^
 ||zjownvjdhfqub.site^
 ||ziekvasufucub.website^
 ||zcumbriaxpjbl.site^
@@ -49652,7 +49648,6 @@ ubmcmm.baidustatic.com
 ||yogbucxeeigvs.space^
 ||wmtchliztxcvp.website^
 ||minutemedia-prebid.com^
-||d2dkurdav21mkk.cloudfront.net^
 ||wdgqhgmczfdrb.website^
 ||x537q86k6828fc4mvbltc.cfd^
 ||xepaijcfgvzje.online^
@@ -50134,6 +50129,7 @@ ubmcmm.baidustatic.com
 ||ysaqjvicsvkqv.website^
 ||zemmndpahyhjy.site^
 ||zhstiwrhnhycs.online^
+||waescyne.com^
 ||adquire.us.cdn-world.net^
 ||wtyhyzvsxlpeb.space^
 ||winningplunder.com^
@@ -50213,7 +50209,6 @@ ubmcmm.baidustatic.com
 ||zmjlrxckuqcpe.online^
 ||btr.domywife.com^
 ||xtvbzaajgzyro.website^
-||d2cqjjokdc31wb.cloudfront.net^
 ||smartads.statsperform.com^
 ||wauqomhjliawq.store^
 ||zvcnbkarazeft.website^
@@ -50249,7 +50244,6 @@ ubmcmm.baidustatic.com
 ||ziipgrpkhbigq.space^
 ||wywfstialeyeb.online^
 ||23.109.248.29^
-||d2db10c4rkv9vb.cloudfront.net^
 ||woozilyotalgictheir.cyou^
 ||witwayabide.com^
 ||23.109.87.123^
@@ -50812,6 +50806,7 @@ ubmcmm.baidustatic.com
 ||ymmobi.com^
 ||d1tttug1538qv1.cloudfront.net^
 ||woodynotioncredibility.com^
+||wagenerastiancanters.cfd^
 ||ymixhrbjlqyxt.space^
 ||yhyumuoyahocw.website^
 ||d236v5t33fsfwk.cloudfront.net^
@@ -51431,6 +51426,7 @@ ubmcmm.baidustatic.com
 ||ads.kelkoo.com^
 ||yvipfjvniaonh.space^
 ||wingsshaggy.com^
+||waffingmythism.cyou^
 ||ytyeogriluczo.site^
 ||yackbbyyktcgj.site^
 ||y1zoxngxp.com^
@@ -51657,6 +51653,7 @@ ubmcmm.baidustatic.com
 ||wncvwcgedgtjs.site^
 ||zddipepgvdwfp.online^
 ||samsungacr.com^
+||wafmedia6.com^
 ||xlxba.com^
 ||1529462937.rsc.cdn77.org^
 ||wbidder4.com^
@@ -51713,6 +51710,7 @@ ubmcmm.baidustatic.com
 ||wstjxlyxtekzi.site^
 ||wrannyundrawn.com^
 ||warinesapful.cfd^
+||waeshana.com^
 ||webpushcloud.info^
 ||wbidr.com^
 ||zyjcuzdaazwcj.website^
@@ -51862,6 +51860,7 @@ ubmcmm.baidustatic.com
 ||zkchvbcxzwpmx.online^
 ||wlkepqncdnsfo.space^
 ||woubiuimiskgj.site^
+||wafturebollard.com^
 ||zenoviagroup.com^
 ||d1rczqt4tdkw1g.cloudfront.net^
 ||x2tsa.com^
@@ -52233,13 +52232,7 @@ ubmcmm.baidustatic.com
 ||d1lihuem8ojqxz.cloudfront.net^
 ||ycuixpwkugaot.space^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||158.247.208.
-||23.109.82.
-||142.91.159.
-||cas.*.criteo.com^
-||allsportsflix.
-|167.206.10.148^
-||23.109.87.
+||util-*.simply-hentai.com^
 ! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
 ||d2zbpgxs57sg1k.cloudfront.net^
 ||d3og8t183i1vbg.cloudfront.net^
@@ -52421,6 +52414,7 @@ ubmcmm.baidustatic.com
 ||d3mqyj199tigh.cloudfront.net^
 ||d2gc6r1h15ux9j.cloudfront.net^
 ||qa.hdclips.fun^
+||d2cq71i60vld65.cloudfront.net^
 ||d8dkar87wogoy.cloudfront.net^
 ||dne6rbzy5csnc.cloudfront.net^
 ||d3otiqb4j0158.cloudfront.net^
@@ -52434,6 +52428,7 @@ ubmcmm.baidustatic.com
 ||ad.ymcdn.org^
 ||d2uhnetoehh304.cloudfront.net^
 ||d2eq4x4u2q3fwc.cloudfront.net^
+||d2cmh8xu3ncrj2.cloudfront.net^
 ||dwd11wtouhmea.cloudfront.net^
 ||d2wpx0eqgykz4q.cloudfront.net^
 ||d38itq6vdv6gr9.cloudfront.net^
@@ -52445,6 +52440,7 @@ ubmcmm.baidustatic.com
 ||banners.adultfriendfinder.com^
 ||d390icj1ta4x0p.cloudfront.net^
 ||d3rlh0lneatqqc.cloudfront.net^
+||d2d6cf2do9znht.cloudfront.net^
 ||dea9webxhb7gu.cloudfront.net^
 ||fom.xxxdottube.com^
 ||d3qygewatvuv28.cloudfront.net^
@@ -52570,6 +52566,7 @@ ubmcmm.baidustatic.com
 ||shieldload.neoseeker.com^
 ||dl4d3y1ajyv3q.cloudfront.net^
 ||port7.xhamster.com^
+||d2dxy39sqorbhv.cloudfront.net^
 ||www.kiki18.com^
 ||x.xxxbp.tv^
 ||ca.fapnow.xxx^
@@ -52592,6 +52589,7 @@ ubmcmm.baidustatic.com
 ||d2nin2iqst0txp.cloudfront.net^
 ||ga.xxxhd.icu^
 ||brick.xhamster.com^
+||d2cqjjokdc31wb.cloudfront.net^
 ||d2ho1n52p59mwv.cloudfront.net^
 ||drf8e429z5jzt.cloudfront.net^
 ||dby7kx9z9yzse.cloudfront.net^
@@ -52604,6 +52602,7 @@ ubmcmm.baidustatic.com
 ||d8dcj5iif1uz.cloudfront.net^
 ||db4zl9wffwnmb.cloudfront.net^
 ||d3cpib6kv2rja7.cloudfront.net^
+||d2d8qsxiai9qwj.cloudfront.net^
 ||dgaf2ncy4dtan.cloudfront.net^
 ||desgao1zt7irn.cloudfront.net^
 ||d3j9574la231rm.cloudfront.net^
@@ -52627,6 +52626,7 @@ ubmcmm.baidustatic.com
 ||duy1ol4n1csnp.cloudfront.net^
 ||d2nz8k4xyoudsx.cloudfront.net^
 ||d3t3z4teexdk2r.cloudfront.net^
+||d2db10c4rkv9vb.cloudfront.net^
 ||d3sdfpysdncs72.cloudfront.net^
 ||d31o2k8hutiibd.cloudfront.net^
 ||d32kwu6pkckni5.cloudfront.net^
@@ -52755,6 +52755,7 @@ ubmcmm.baidustatic.com
 ||prebid-server.newsbreak.com^
 ||deliver.ptgncdn.com^
 ||d2jycu2xjxmle1.cloudfront.net^
+||d2cgumzzqhgmdu.cloudfront.net^
 ||d2y1lr6nqzfgkq.cloudfront.net^
 ||d4eqyxjqusvjj.cloudfront.net^
 ||duqamtr9ifv5t.cloudfront.net^
@@ -53141,6 +53142,7 @@ ubmcmm.baidustatic.com
 ||ar.fapnow.xxx^
 ||creative.strpjmp.com^
 ||d2pdbggfzjbhzh.cloudfront.net^
+||d2dkurdav21mkk.cloudfront.net^
 ||powe.asian-xxx-videos.com^
 ||d2uy8iq3fi50kh.cloudfront.net^
 ||d325d2mtoblkfq.cloudfront.net^
@@ -53312,5 +53314,3 @@ ubmcmm.baidustatic.com
 ||ad.l2b.co.za^
 ||da6zbf1armlme.cloudfront.net^
 ||rtb-1.jizzberry.com^
-! 👇This Part Merge from: easylistchina+easylist (https://easylist-downloads.adblockplus.org/v3/full/easylistchina+easylist.txt)
-||util-*.simply-hentai.com^
